@@ -1,0 +1,1435 @@
+[{
+    "subject": "BIOL0000",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INDUCCION",
+    "capacity": 40,
+    "enrolled": 45,
+    "available": -5,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "SD",
+            "number": "807"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 20371
+}, {
+    "subject": "BIOL1300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA DE ORGANISMOS-TEO",
+    "capacity": 110,
+    "enrolled": 121,
+    "available": -11,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "O",
+            "number": "102"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MOLINA ESCOBAR JORGE ALBERTO"],
+    "crn": 13204
+}, {
+    "subject": "BIOL1300",
+    "section": 2,
+    "credits": 3.0,
+    "title": "BIOLOGIA DE ORGANISMOS-TEO",
+    "capacity": 80,
+    "enrolled": 55,
+    "available": 25,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "615"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+    }, {
+        "days": ["M", "J"],
+        "room": {
+            "building": "ML",
+            "number": "604"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GONZALEZ ROSAS CAMILA"],
+    "crn": 19081
+}, {
+    "subject": "BIOL1300C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA DE ORGANISMOS",
+    "capacity": 70,
+    "enrolled": 74,
+    "available": -4,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "SD",
+            "number": "806"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 13209
+}, {
+    "subject": "BIOL1300C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA DE ORGANISMOS",
+    "capacity": 70,
+    "enrolled": 62,
+    "available": 8,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "R",
+            "number": "113"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": [""],
+    "crn": 12596
+}, {
+    "subject": "BIOL1300C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA DE ORGANISMOS",
+    "capacity": 70,
+    "enrolled": 40,
+    "available": 30,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": [""],
+    "crn": 12597
+}, {
+    "subject": "BIOL1301",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 32,
+    "enrolled": 23,
+    "available": 9,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 10415
+}, {
+    "subject": "BIOL1301",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "J",
+            "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 10159
+}, {
+    "subject": "BIOL1301",
+    "section": 3,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 24,
+    "enrolled": 20,
+    "available": 4,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "J",
+            "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 10516
+}, {
+    "subject": "BIOL1301",
+    "section": 4,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 10732
+}, {
+    "subject": "BIOL1301",
+    "section": 5,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 11060
+}, {
+    "subject": "BIOL1301",
+    "section": 6,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "J",
+            "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 11937
+}, {
+    "subject": "BIOL1301",
+    "section": 7,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE ORGANISMOS-LAB",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 14784
+}, {
+    "subject": "BIOL1303",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MONOGRAFIA ESTUD. AMBIENTALES",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["CABALLERO GAITAN SUSANA JOSEFINA"],
+    "crn": 13559
+}, {
+    "subject": "BIOL1312",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA PARA PSICOLOGIA-TEO",
+    "capacity": 100,
+    "enrolled": 88,
+    "available": 12,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "210"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["MOLINA ESCOBAR JORGE ALBERTO"],
+    "crn": 10416
+}, {
+    "subject": "BIOL1313",
+    "section": 1,
+    "credits": 0.0,
+    "title": "BIOLOGIA PARA PSICOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 10417
+}, {
+    "subject": "BIOL1313",
+    "section": 2,
+    "credits": 0.0,
+    "title": "BIOLOGIA PARA PSICOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 11936
+}, {
+    "subject": "BIOL1313",
+    "section": 3,
+    "credits": 0.0,
+    "title": "BIOLOGIA PARA PSICOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 11283
+}, {
+    "subject": "BIOL1313",
+    "section": 4,
+    "credits": 0.0,
+    "title": "BIOLOGIA PARA PSICOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 13003
+}, {
+    "subject": "BIOL1324A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIODIVERSIDAD CONSERVA DESARR",
+    "capacity": 95,
+    "enrolled": 100,
+    "available": -5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANCHEZ MUÑOZ JUAN ARMANDO"],
+    "crn": 13561
+}, {
+    "subject": "BIOL1326A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EVOLUCION: EL ORIGEN DE LAS E.",
+    "capacity": 77,
+    "enrolled": 75,
+    "available": 2,
+    "schedules": [{
+        "days": ["M", "I"],
+        "room": {
+            "building": "ML",
+            "number": "606"
+        },
+        "initHour": "1230",
+        "finalHour": "1350"
+    }],
+    "instructors": ["LINK OSPINA ANDRES", "CADENA ORDONEZ CARLOS DANIEL"],
+    "crn": 12241
+}, {
+    "subject": "BIOL1327",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 83,
+    "available": -3,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["LASSO DE PAULIS ELOISA"],
+    "crn": 11297
+}, {
+    "subject": "BIOL1327",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 80,
+    "available": 0,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "SD",
+            "number": "806"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["STEVENSON PABLO"],
+    "crn": 11367
+}, {
+    "subject": "BIOL1327",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 80,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I", "V"],
+        "room": {
+            "building": "ML",
+            "number": "604"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+    }],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 11368
+}, {
+    "subject": "BIOL1327",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 71,
+    "available": 9,
+    "schedules": [{
+        "days": ["L", "I", "V"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1150"
+    }],
+    "instructors": ["CABALLERO GAITAN SUSANA JOSEFINA"],
+    "crn": 11369
+}, {
+    "subject": "BIOL1327",
+    "section": 6,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 70,
+    "available": 10,
+    "schedules": [{
+        "days": ["L", "I", "V"],
+        "room": {
+            "building": "SD",
+            "number": "804"
+        },
+        "initHour": "1400",
+        "finalHour": "1450"
+    }],
+    "instructors": ["RIET SAPRIZA FEDERICO GERMAN"],
+    "crn": 11370
+}, {
+    "subject": "BIOL1327",
+    "section": 7,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 70,
+    "enrolled": 57,
+    "available": 13,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "607"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "R",
+            "number": "113"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["LINK OSPINA ANDRES"],
+    "crn": 13007
+}, {
+    "subject": "BIOL1327",
+    "section": 8,
+    "credits": 3.0,
+    "title": "ECOLOGIA: PRINCIPIOS Y APLICA.",
+    "capacity": 80,
+    "enrolled": 68,
+    "available": 12,
+    "schedules": [{
+        "days": ["M", "I"],
+        "room": {
+            "building": "SD",
+            "number": "802"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["GUARNIZO CARLOS"],
+    "crn": 13694
+}, {
+    "subject": "BIOL1327C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "LL",
+            "number": "304"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 12457
+}, {
+    "subject": "BIOL1327C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 16,
+    "available": 34,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "LL",
+            "number": "301"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 12599
+}, {
+    "subject": "BIOL1327C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 55,
+    "enrolled": 56,
+    "available": -1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "O",
+            "number": "301"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 12600
+}, {
+    "subject": "BIOL1327C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 52,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "B",
+            "number": "203"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 12601
+}, {
+    "subject": "BIOL1327C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 52,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "LL",
+            "number": "302"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 12602
+}, {
+    "subject": "BIOL1327C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 41,
+    "available": 9,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "LL",
+            "number": "303"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 12603
+}, {
+    "subject": "BIOL1327C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 48,
+    "available": 2,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "B",
+            "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 12604
+}, {
+    "subject": "BIOL1327C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "O",
+            "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": [""],
+    "crn": 12605
+}, {
+    "subject": "BIOL1327C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "LL",
+            "number": "303"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": [""],
+    "crn": 12606
+}, {
+    "subject": "BIOL1327C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 52,
+    "available": -2,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "O",
+            "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": [""],
+    "crn": 12607
+}, {
+    "subject": "BIOL1327C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL ECOLOGIA: PRINC Y APLICA",
+    "capacity": 50,
+    "enrolled": 41,
+    "available": 9,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "O",
+            "number": "304"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 13308
+}, {
+    "subject": "BIOL1328B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "IMP. REGIONAL CAMBIO AMB. GLO",
+    "capacity": 77,
+    "enrolled": 78,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "SD",
+            "number": "801"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GONZALEZ ARANGO CATALINA"],
+    "crn": 12242
+}, {
+    "subject": "BIOL1329A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AZUL PROFUNDO:CRONICAS DEL MAR",
+    "capacity": 77,
+    "enrolled": 74,
+    "available": 3,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "0900",
+        "finalHour": "1020"
+    }],
+    "instructors": ["CABALLERO GAITAN SUSANA JOSEFINA", "REALPE REBOLLEDO EMILIO"],
+    "crn": 20427
+}, {
+    "subject": "BIOL1330B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSECTOS Y EL HOMBRE",
+    "capacity": 67,
+    "enrolled": 44,
+    "available": 23,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Q",
+            "number": "405"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+    }, {
+        "days": ["L", "M"],
+        "room": {
+            "building": "ML",
+            "number": "615"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MOLINA ESCOBAR JORGE ALBERTO"],
+    "crn": 20436
+}, {
+    "subject": "BIOL2200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GENETICA-TEO",
+    "capacity": 60,
+    "enrolled": 59,
+    "available": 1,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "204"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["LATTIG CLAUDIA"],
+    "crn": 10398
+}, {
+    "subject": "BIOL2201",
+    "section": 1,
+    "credits": 1.0,
+    "title": "GENETICA-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "J",
+            "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 10162
+}, {
+    "subject": "BIOL2201",
+    "section": 2,
+    "credits": 1.0,
+    "title": "GENETICA-LAB",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 12191
+}, {
+    "subject": "BIOL2302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVERTEBRADOS-TEO",
+    "capacity": 50,
+    "enrolled": 43,
+    "available": 7,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "401"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 12080
+}, {
+    "subject": "BIOL2303",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INVERTEBRADOS-LAB",
+    "capacity": 24,
+    "enrolled": 11,
+    "available": 13,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": [""],
+    "crn": 12081
+}, {
+    "subject": "BIOL2303",
+    "section": 2,
+    "credits": 1.0,
+    "title": "INVERTEBRADOS-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 13334
+}, {
+    "subject": "BIOL2308",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ECOLOGIA-TEO",
+    "capacity": 50,
+    "enrolled": 34,
+    "available": 16,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "401"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["STEVENSON PABLO"],
+    "crn": 10163
+}, {
+    "subject": "BIOL2309",
+    "section": 1,
+    "credits": 1.0,
+    "title": "ECOLOGIA-LAB",
+    "capacity": 25,
+    "enrolled": 16,
+    "available": 9,
+    "schedules": [{
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "108A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": [""],
+    "crn": 10164
+}, {
+    "subject": "BIOL2309",
+    "section": 2,
+    "credits": 1.0,
+    "title": "ECOLOGIA-LAB",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [{
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "108A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 10165
+}, {
+    "subject": "BIOL2310",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VERTEBRADOS TEO",
+    "capacity": 90,
+    "enrolled": 82,
+    "available": 8,
+    "schedules": [{
+        "days": ["M", "I", "J"],
+        "room": {
+            "building": "O",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+    }],
+    "instructors": ["CADENA ORDONEZ CARLOS DANIEL"],
+    "crn": 20437
+}, {
+    "subject": "BIOL2311",
+    "section": 1,
+    "credits": 1.0,
+    "title": "VERTEBRADOS LAB",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 20438
+}, {
+    "subject": "BIOL2311",
+    "section": 2,
+    "credits": 1.0,
+    "title": "VERTEBRADOS LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "J",
+            "number": "104"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+    }],
+    "instructors": [""],
+    "crn": 20440
+}, {
+    "subject": "BIOL2311",
+    "section": 3,
+    "credits": 1.0,
+    "title": "VERTEBRADOS LAB",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [{
+        "days": ["S"],
+        "room": {
+            "building": "J",
+            "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": [""],
+    "crn": 20442
+}, {
+    "subject": "BIOL2311",
+    "section": 4,
+    "credits": 1.0,
+    "title": "VERTEBRADOS LAB",
+    "capacity": 32,
+    "enrolled": 28,
+    "available": 4,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 20443
+}, {
+    "subject": "BIOL3200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GENETICA EVOLUTIVA-TEO",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "O",
+            "number": "303"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["CRAWFORD ANDREW"],
+    "crn": 20444
+}, {
+    "subject": "BIOL3201",
+    "section": 1,
+    "credits": 1.0,
+    "title": "GENETICA EVOLUTIVA-LAB",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 20445
+}, {
+    "subject": "BIOL3302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISIOLOGIA VEGETAL-TEO",
+    "capacity": 60,
+    "enrolled": 65,
+    "available": -5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["LASSO DE PAULIS ELOISA"],
+    "crn": 20446
+}, {
+    "subject": "BIOL3303",
+    "section": 1,
+    "credits": 1.0,
+    "title": "FISIOLOGIA VEGETAL-LAB",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "J",
+            "number": "105"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": [""],
+    "crn": 20447
+}, {
+    "subject": "BIOL3303",
+    "section": 2,
+    "credits": 1.0,
+    "title": "FISIOLOGIA VEGETAL-LAB",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": [""],
+    "crn": 20448
+}, {
+    "subject": "BIOL3308",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOL.MAMIFEROS ACUATICOS",
+    "capacity": 50,
+    "enrolled": 20,
+    "available": 30,
+    "schedules": [{
+        "days": ["L", "I", "V"],
+        "room": {
+            "building": "LL",
+            "number": "303"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+    }],
+    "instructors": ["CABALLERO GAITAN SUSANA JOSEFINA"],
+    "crn": 20452
+}, {
+    "subject": "BIOL3309",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOL.MAMIFEROS ACUATICOS LAB",
+    "capacity": 25,
+    "enrolled": 12,
+    "available": 13,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 20453
+}, {
+    "subject": "BIOL3309",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOL.MAMIFEROS ACUATICOS LAB",
+    "capacity": 25,
+    "enrolled": 9,
+    "available": 16,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "J",
+            "number": "106"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": [""],
+    "crn": 20454
+}, {
+    "subject": "BIOL3320",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENTOMOLOGIA-TEO",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "S1",
+            "number": "001"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 20459
+}, {
+    "subject": "BIOL3321",
+    "section": 1,
+    "credits": 1.0,
+    "title": "ENTOMOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "J",
+            "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": [""],
+    "crn": 20460
+}, {
+    "subject": "BIOL3324",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA DE LA CONSERVACION",
+    "capacity": 60,
+    "enrolled": 53,
+    "available": 7,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "O",
+            "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["CABALLERO GAITAN SUSANA JOSEFINA", "STEVENSON PABLO"],
+    "crn": 20461
+}, {
+    "subject": "BIOL3325",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE CONSERVACION-LABOR",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+    }],
+    "instructors": [""],
+    "crn": 20463
+}, {
+    "subject": "BIOL3325",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE CONSERVACION-LABOR",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": [""],
+    "crn": 20464
+}, {
+    "subject": "BIOL3906",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INSCRIPCION PROYECTO DE GRADO",
+    "capacity": 20,
+    "enrolled": 25,
+    "available": -5,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 11190
+}, {
+    "subject": "BIOL3907",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRABAJO GRADO, MONOGR, PRAC.GR",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 12244
+}, {
+    "subject": "BIOL3908",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION PROYECTO GRADO",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 11940
+}, {
+    "subject": "BIOL3909",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO GRADO, MONOG.PRAT.GRAD",
+    "capacity": 20,
+    "enrolled": 3,
+    "available": 17,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 12082
+}, {
+    "subject": "BIOL3911",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DE GRADO",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 11525
+}, {
+    "subject": "BIOL3912",
+    "section": 1,
+    "credits": 2.0,
+    "title": "COLECCIONES BIOLOGICAS",
+    "capacity": 50,
+    "enrolled": 20,
+    "available": 30,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+    }],
+    "instructors": ["CUERVO MAYA ANDRES MAURICIO"],
+    "crn": 11526
+}, {
+    "subject": "BIOL3930",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO INVESTIGACION L.D.",
+    "capacity": 20,
+    "enrolled": 0,
+    "available": 20,
+    "schedules": [],
+    "instructors": ["GONZALEZ ROSAS CAMILA", "RIET SAPRIZA FEDERICO GERMAN"],
+    "crn": 21136
+}, {
+    "subject": "BIOL3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 11527
+}, {
+    "subject": "BIOL3995",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROFUNDIZACION INVESTIGACION",
+    "capacity": 20,
+    "enrolled": 0,
+    "available": 20,
+    "schedules": [],
+    "instructors": ["REALPE REBOLLEDO EMILIO"],
+    "crn": 13692
+}]

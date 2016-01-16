@@ -1,0 +1,107 @@
+[{
+    "subject": "SICO5103",
+    "section": 1,
+    "credits": 0.0,
+    "title": "AUDITORIA INTEGRAL SISTEMICA",
+    "capacity": 60,
+    "enrolled": 0,
+    "available": 60,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "509"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["ZARAMA URDANETA ROBERTO"],
+    "crn": 20255
+}, {
+    "subject": "SICO5310",
+    "section": 1,
+    "credits": 1.5,
+    "title": "GERENCIA DEL RIESGO",
+    "capacity": 60,
+    "enrolled": 15,
+    "available": 45,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "ML",
+            "number": "509"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["OLARTE PINZON JUAN PABLO"],
+    "crn": 19746
+}, {
+    "subject": "SICO5403",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTROL FINANCIERO",
+    "capacity": 60,
+    "enrolled": 14,
+    "available": 46,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "509"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["VILLARREAL NAVARRO JULIO"],
+    "crn": 19747
+}, {
+    "subject": "SICO5501",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PROYECTO DE GRADO I",
+    "capacity": 60,
+    "enrolled": 17,
+    "available": 43,
+    "schedules": [],
+    "instructors": ["ZARAMA URDANETA ROBERTO"],
+    "crn": 14111
+}, {
+    "subject": "SICO5503",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO TRABAJO FINAL",
+    "capacity": 60,
+    "enrolled": 2,
+    "available": 58,
+    "schedules": [{
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "509"
+        },
+        "initHour": "0800",
+        "finalHour": "1150"
+    }],
+    "instructors": ["ZARAMA URDANETA ROBERTO"],
+    "crn": 14709
+}, {
+    "subject": "SICO5602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTRATEGIA ORGANIZACION. Y BSC",
+    "capacity": 60,
+    "enrolled": 15,
+    "available": 45,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "509"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["GARCIA ARANGO ALBERTO", "OLARTE PINZON JUAN PABLO"],
+    "crn": 19844
+}]

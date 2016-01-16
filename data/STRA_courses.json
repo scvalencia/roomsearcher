@@ -1,0 +1,89 @@
+[{
+    "subject": "STRA5401",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 40,
+    "enrolled": 32,
+    "available": 8,
+    "schedules": [],
+    "instructors": ["RIOS MESIAS MARIO ALBERTO"],
+    "crn": 16267
+}, {
+    "subject": "STRA5410",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROBABILIDAD Y ESTADISTICA",
+    "capacity": 45,
+    "enrolled": 30,
+    "available": 15,
+    "schedules": [],
+    "instructors": ["TORRES MACIAS ALVARO", "CHAVARRO LEAL ALVARO"],
+    "crn": 19841
+}, {
+    "subject": "STRA5413",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ANALISIS FINANCIERO",
+    "capacity": 45,
+    "enrolled": 30,
+    "available": 15,
+    "schedules": [],
+    "instructors": ["DEL CASTILLO HERNANDEZ JOSE MARIA", "RIVERA ROJAS JEISON JAHIR"],
+    "crn": 19751
+}, {
+    "subject": "STRA5419",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GERENCIA PROY.ASEGURAM.CALIDAD",
+    "capacity": 40,
+    "enrolled": 30,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["GOMEZ URIBE ANDRES FELIPE ALFON"],
+    "crn": 20274
+}, {
+    "subject": "STRA5421",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CONFIABILIDAD SISTEMAS DE POTE",
+    "capacity": 45,
+    "enrolled": 31,
+    "available": 14,
+    "schedules": [],
+    "instructors": ["RIOS MESIAS MARIO ALBERTO", "CHAVARRO LEAL ALVARO"],
+    "crn": 19842
+}, {
+    "subject": "STRA5428",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SIMULACION SISTEMAS ELECTRICOS",
+    "capacity": 45,
+    "enrolled": 30,
+    "available": 15,
+    "schedules": [],
+    "instructors": ["RIOS MESIAS MARIO ALBERTO", "RAMOS LOPEZ GUSTAVO"],
+    "crn": 19759
+}, {
+    "subject": "STRA5430",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PUESTAS A TIERRA",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["RAMOS LOPEZ GUSTAVO"],
+    "crn": 19760
+}, {
+    "subject": "STRA5431",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PLAN SISTEMAS DE TRANSMISION",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [],
+    "instructors": ["RIOS MESIAS MARIO ALBERTO"],
+    "crn": 19843
+}]

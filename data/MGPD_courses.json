@@ -1,0 +1,133 @@
+[{
+    "subject": "MGPD4409",
+    "section": 1,
+    "credits": 2.0,
+    "title": "FINANZAS PARA EL DESARROLLO",
+    "capacity": 50,
+    "enrolled": 24,
+    "available": 26,
+    "schedules": [],
+    "instructors": ["LOPEZ FAJARDO MARIANO ALBERTO", "GARCIA FRONTI INES MERCEDES"],
+    "crn": 21170
+}, {
+    "subject": "MGPD4420",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TECN. RECOLECCI. ANALIS. DATOS",
+    "capacity": 45,
+    "enrolled": 34,
+    "available": 11,
+    "schedules": [],
+    "instructors": ["HERRERA HERRERA OMAR ANDRES"],
+    "crn": 20328
+}, {
+    "subject": "MGPD4422",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TRABAJO DE CAMPO I",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 19566
+}, {
+    "subject": "MGPD4424",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INNOVACIÓN SOCIAL",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["NAVARRO SANINT MIGUEL", "REFICCO EZEQUIEL ALEJANDRO MARTIN", "FRANCO BORRERO NATHALIA"],
+    "crn": 19986
+}, {
+    "subject": "MGPD4424",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INNOVACIÓN SOCIAL",
+    "capacity": 35,
+    "enrolled": 29,
+    "available": 6,
+    "schedules": [],
+    "instructors": ["TRUJILLO DIANA", "TORGUET DOLZ ROSA MARIA"],
+    "crn": 20353
+}, {
+    "subject": "MGPD4425",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EVALUACION PROGRAMAS SOCIALES",
+    "capacity": 45,
+    "enrolled": 29,
+    "available": 16,
+    "schedules": [],
+    "instructors": ["HERRERA HERRERA OMAR ANDRES"],
+    "crn": 19987
+}, {
+    "subject": "MGPD4426",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DESARROLLO URBANO",
+    "capacity": 65,
+    "enrolled": 66,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["PINILLA JUAN FELIPE", "PARDO VELEZ CARLOS FELIPE"],
+    "crn": 19988
+}, {
+    "subject": "MGPD4427",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DESARROLLO RURAL",
+    "capacity": 65,
+    "enrolled": 66,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["RAMIREZ JUAN MAURICIO"],
+    "crn": 19989
+}, {
+    "subject": "MGPD4428",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ELECT. II DIVERS.CULTUR.DESARR",
+    "capacity": 45,
+    "enrolled": 10,
+    "available": 35,
+    "schedules": [],
+    "instructors": ["APARICIO CUERVO JUAN RICARDO"],
+    "crn": 19990
+}, {
+    "subject": "MGPD4439",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PROYECTO DE GRADO II",
+    "capacity": 45,
+    "enrolled": 34,
+    "available": 11,
+    "schedules": [],
+    "instructors": ["RUEDA FAJARDO XIMENA"],
+    "crn": 20027
+}, {
+    "subject": "MGPD4440",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER HABILIDADES EN CAMPO I",
+    "capacity": 45,
+    "enrolled": 32,
+    "available": 13,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20032
+}, {
+    "subject": "MGPD4441",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ELECTIVA: MERCADOS EMERGENTES",
+    "capacity": 45,
+    "enrolled": 15,
+    "available": 30,
+    "schedules": [],
+    "instructors": ["GARCIA DUQUE JUANA CATALINA"],
+    "crn": 20033
+}]

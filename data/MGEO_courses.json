@@ -1,0 +1,146 @@
+[{
+    "subject": "MGEO4200",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESPACIO Y SOCIEDAD",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "PU",
+            "number": "100"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["HERRERA ANGEL MARTHA CLEMENCIA"],
+    "crn": 19891
+}, {
+    "subject": "MGEO4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PENSAMIENTO GEOGRÁFICO",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "AU",
+            "number": "304"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["SANCHEZ AYALA LUIS DANIEL"],
+    "crn": 19892
+}, {
+    "subject": "MGEO4322",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GEOGRAF.PAISAJE: CAMBIO Y PERS",
+    "capacity": 15,
+    "enrolled": 10,
+    "available": 5,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "AU",
+            "number": "311"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GUHL ANDRES"],
+    "crn": 19896
+}, {
+    "subject": "MGEO4323",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CIUDAD LATINOAM.SIG..XX Y XXI",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["SANCHEZ CALDERON FABIO VLADIMIR"],
+    "crn": 19895
+}, {
+    "subject": "MGEO4400",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TALLER DE CARTOGRAFIA",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["VAN AUSDAL SHAWN"],
+    "crn": 19554
+}, {
+    "subject": "MGEO4501",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TALLER DE PROYECTO DE GRADO",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [],
+    "instructors": ["LEAL CLAUDIA"],
+    "crn": 11665
+}, {
+    "subject": "MGEO4502",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [],
+    "instructors": ["QUINTERO TORO CAMILO"],
+    "crn": 11666
+}, {
+    "subject": "MGEO4503",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EJERCICIO ESCRITO",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [],
+    "instructors": ["QUINTERO TORO CAMILO"],
+    "crn": 12180
+}, {
+    "subject": "MGEO4504",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MAPA",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [],
+    "instructors": ["QUINTERO TORO CAMILO"],
+    "crn": 12181
+}, {
+    "subject": "MGEO4600",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO OPCIONAL",
+    "capacity": 15,
+    "enrolled": 0,
+    "available": 15,
+    "schedules": [],
+    "instructors": ["QUINTERO TORO CAMILO"],
+    "crn": 11667
+}, {
+    "subject": "MGEO4611",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MAPAS Y ANÁLISIS CON SIG",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GUHL ANDRES"],
+    "crn": 19556
+}]

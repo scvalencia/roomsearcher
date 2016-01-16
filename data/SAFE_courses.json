@@ -1,0 +1,82 @@
+[{
+    "subject": "SAFE5101",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SEGURIDAD EN EL HOST",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "1600",
+        "finalHour": "1850"
+    }, {
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "0800",
+        "finalHour": "1350"
+    }],
+    "instructors": ["RUEDA RODRIGUEZ SANDRA JULIETA", "GOMEZ DIAZ RAFAEL ENRIQUE"],
+    "crn": 20285
+}, {
+    "subject": "SAFE5202",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GERENCIA DE SEGURIDAD",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "1600",
+        "finalHour": "1850"
+    }, {
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "0800",
+        "finalHour": "1350"
+    }],
+    "instructors": ["QUIROGA BECERRA MILTON"],
+    "crn": 20286
+}, {
+    "subject": "SAFE5203",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ASPECT. LEGALES E INFORM.FOREN",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "1600",
+        "finalHour": "1850"
+    }, {
+        "days": ["S"],
+        "room": {
+            "building": "ML",
+            "number": "510"
+        },
+        "initHour": "0800",
+        "finalHour": "1350"
+    }],
+    "instructors": ["JIMENEZ JUAN DIEGO"],
+    "crn": 20287
+}]

@@ -1,0 +1,118 @@
+[{
+    "subject": "MPER4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TENDENCIAS DEL PERIODISMO",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "W",
+            "number": "503"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["ZULUAGA TRUJILLO JIMENA"],
+    "crn": 18050
+}, {
+    "subject": "MPER4200",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PERIODISMO DIGITAL",
+    "capacity": 30,
+    "enrolled": 24,
+    "available": 6,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Q",
+            "number": "307"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["MARTINEZ CONCHA MARIA PAULA"],
+    "crn": 19867
+}, {
+    "subject": "MPER4300",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INVESTIGACIÓN EN PERIODISMO",
+    "capacity": 31,
+    "enrolled": 18,
+    "available": 13,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "AU",
+            "number": "307"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["GUTHMANN PROENZA ANNE", "MORELO MARTINEZ GINNA PIEDAD", "ALVAREZ JUAN MIGUEL"],
+    "crn": 19868
+}, {
+    "subject": "MPER4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 10,
+    "enrolled": 7,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["ROBLES DE LA PAVA MARIA MARGARITA"],
+    "crn": 13442
+}, {
+    "subject": "MPER4400",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEM. 1:GENEROS PERIODISTICOS 1",
+    "capacity": 30,
+    "enrolled": 10,
+    "available": 20,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "TX",
+            "number": "603"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["DUQUE SALAZAR ANA LUCIA", "DE VENGOECHEA CORREA ALEJANDRA", "JIMENEZ SANTOFIMIO CAMILO ANDRES"],
+    "crn": 13676
+}, {
+    "subject": "MPER4401",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GENEROS PERIODISTICOS 2",
+    "capacity": 30,
+    "enrolled": 19,
+    "available": 11,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "Z",
+            "number": "109"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SALCEDO RAMOS ALBERTO RAFAEL"],
+    "crn": 19574
+}, {
+    "subject": "MPER4403",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL INTERCAMBIO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21148
+}]

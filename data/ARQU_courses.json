@@ -1,0 +1,2951 @@
+[{
+    "subject": "ARQU1010",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PORTAFOLIO REQUISITO DE GRADO",
+    "capacity": 100,
+    "enrolled": 78,
+    "available": 22,
+    "schedules": [],
+    "instructors": ["CORREDOR MOSQUERA SANDRA YOHANNA"],
+    "crn": 10217
+}, {
+    "subject": "ARQU1020",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MONOGRAFIA OPCION HIST ART ARQ",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["VILLATE MATIZ CAMILO"],
+    "crn": 10904
+}, {
+    "subject": "ARQU1021",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MONOGRAFIA OPCION ARQUYCIUDAD",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["VILLATE MATIZ CAMILO"],
+    "crn": 10193
+}, {
+    "subject": "ARQU1111",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["NAVARRO MORALES MARIA ELISA"],
+    "crn": 13825
+}, {
+    "subject": "ARQU1111",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["FONSECA ULLOA JUANITA"],
+    "crn": 14020
+}, {
+    "subject": "ARQU1111",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MOSQUERA IRAGORRI MANUELA"],
+    "crn": 14022
+}, {
+    "subject": "ARQU1111",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["RENGIFO BARRETO JOSE IGNACIO"],
+    "crn": 14025
+}, {
+    "subject": "ARQU1111",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SERNA MEZA GLORIA PATRICIA"],
+    "crn": 20809
+}, {
+    "subject": "ARQU1121",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["NAVARRO MORALES MARIA ELISA"],
+    "crn": 13826
+}, {
+    "subject": "ARQU1121",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ANZELLINI FAJARDO STEFANO"],
+    "crn": 14026
+}, {
+    "subject": "ARQU1121",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MOJICA RIOS XIOMARA"],
+    "crn": 14027
+}, {
+    "subject": "ARQU1121",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["SANCHEZ CAICEDO ANDRES NORBERTO"],
+    "crn": 14028
+}, {
+    "subject": "ARQU1201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 1",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MAZUERA NIETO EDUARDO"],
+    "crn": 10768
+}, {
+    "subject": "ARQU1201",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GOOSSENS MAARTEN"],
+    "crn": 10766
+}, {
+    "subject": "ARQU1201",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MENDEZ CARDENAS RAFAEL ERNESTO"],
+    "crn": 12445
+}, {
+    "subject": "ARQU1201",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["PARRA ESCOBAR CATALINA"],
+    "crn": 12446
+}, {
+    "subject": "ARQU1201",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["VEGA ROSAS RAFAEL ALFONSO"],
+    "crn": 16622
+}, {
+    "subject": "ARQU1202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 2",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MAZUERA NIETO EDUARDO"],
+    "crn": 10676
+}, {
+    "subject": "ARQU1202",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 2",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ALBORNOZ RUGELES CRISTINA"],
+    "crn": 10770
+}, {
+    "subject": "ARQU1202",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 2",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MENDEZ CARDENAS RAFAEL ERNESTO"],
+    "crn": 12447
+}, {
+    "subject": "ARQU1202",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE HISTORIA 2",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["OBERLAENDER ROJAS LUCAS"],
+    "crn": 12448
+}, {
+    "subject": "ARQU1225A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LA HISTORIA DE UNA CASA",
+    "capacity": 77,
+    "enrolled": 79,
+    "available": -2,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["JANE I MAS MARC"],
+    "crn": 12236
+}, {
+    "subject": "ARQU1226A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HIST PROPORCIONES ARTE Y ARQU",
+    "capacity": 76,
+    "enrolled": 54,
+    "available": 22,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "ML",
+            "number": "604"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ANZELLINI FAJARDO STEFANO"],
+    "crn": 11064
+}, {
+    "subject": "ARQU1229A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARQUITEC. CUERPO Y PERCEPCIÓN",
+    "capacity": 77,
+    "enrolled": 77,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "V"],
+        "room": {
+            "building": "O",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["ISAAK CAMILO"],
+    "crn": 12000
+}, {
+    "subject": "ARQU1301",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MEDINA DEL RÍO JUAN MANUEL"],
+    "crn": 10677
+}, {
+    "subject": "ARQU1301",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 1",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["DUPLAT LAPIDES DANIEL ISAAC"],
+    "crn": 10772
+}, {
+    "subject": "ARQU1301",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GARCIA VARGAS JAIME"],
+    "crn": 12449
+}, {
+    "subject": "ARQU1301",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 1",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["NEGRET PRADA SEBASTIAN"],
+    "crn": 20811
+}, {
+    "subject": "ARQU1301",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["VILLATE MATIZ MARIA CLAUDIA"],
+    "crn": 16623
+}, {
+    "subject": "ARQU1302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MEDINA DEL RÍO JUAN MANUEL"],
+    "crn": 10678
+}, {
+    "subject": "ARQU1302",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["GARCIA VARGAS JAIME"],
+    "crn": 10773
+}, {
+    "subject": "ARQU1302",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["VELANDIA RAYO DIEGO ALEJANDRO"],
+    "crn": 12455
+}, {
+    "subject": "ARQU1302",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["VILLATE MATIZ MARIA CLAUDIA"],
+    "crn": 12456
+}, {
+    "subject": "ARQU1302",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER TECNICO 2",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "202B"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["HUERTAS NADAL DANIEL"],
+    "crn": 18789
+}, {
+    "subject": "ARQU1305A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIUDAD Y TECNICA",
+    "capacity": 77,
+    "enrolled": 67,
+    "available": 10,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["VARGAS CAICEDO HERNANDO"],
+    "crn": 12237
+}, {
+    "subject": "ARQU1306B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RASCACIELOS CIUDAD VERTICAL",
+    "capacity": 77,
+    "enrolled": 82,
+    "available": -5,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["VILLATE MATIZ CAMILO"],
+    "crn": 10679
+}, {
+    "subject": "ARQU1410",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["BLANCO CHAPARRO ALBA CAROLINA"],
+    "crn": 11164
+}, {
+    "subject": "ARQU1410",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["CONCHA SERRANO MARIA CAROLINA"],
+    "crn": 11230
+}, {
+    "subject": "ARQU1410",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["PARRA ESCOBAR CATALINA"],
+    "crn": 12451
+}, {
+    "subject": "ARQU1410",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["RAMIREZ GERMAN"],
+    "crn": 12452
+}, {
+    "subject": "ARQU1410",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 1",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANCHEZ GARCIA MANUEL"],
+    "crn": 13317
+}, {
+    "subject": "ARQU1420",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["BLANCO CHAPARRO ALBA CAROLINA"],
+    "crn": 11165
+}, {
+    "subject": "ARQU1420",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["FONSECA ULLOA JUANITA"],
+    "crn": 11231
+}, {
+    "subject": "ARQU1420",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["RAMIREZ GERMAN"],
+    "crn": 12453
+}, {
+    "subject": "ARQU1420",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 12454
+}, {
+    "subject": "ARQU1420",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER CIUDAD 2",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "202B"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["PARRA ESCOBAR CATALINA"],
+    "crn": 20812
+}, {
+    "subject": "ARQU1502",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VISUALIZACION Y SIMULACIÓN ARQ",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["VELANDIA RAYO DIEGO ALEJANDRO"],
+    "crn": 14034
+}, {
+    "subject": "ARQU1503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO ANALOGO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["ARIZA PARRADO LUCAS"],
+    "crn": 12264
+}, {
+    "subject": "ARQU1503",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO ANALOGO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["PINILLA ACEVEDO MAURICIO F"],
+    "crn": 12459
+}, {
+    "subject": "ARQU1503",
+    "section": 3,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO ANALOGO",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SANCHEZ GARCIA MANUEL"],
+    "crn": 13258
+}, {
+    "subject": "ARQU1503",
+    "section": 4,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO ANALOGO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MOSQUERA IRAGORRI MANUELA"],
+    "crn": 13259
+}, {
+    "subject": "ARQU1503",
+    "section": 5,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO ANALOGO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SERNA MEZA GLORIA PATRICIA"],
+    "crn": 16982
+}, {
+    "subject": "ARQU1504",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO ARQUITECTONICO DIGITAL",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["HUDSON ROLAND"],
+    "crn": 13250
+}, {
+    "subject": "ARQU1552",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HERRAMIENTAS DIGITALES",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Y",
+            "number": "110B"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["GUERRA ARJONA FELIPE ANDRES"],
+    "crn": 11166
+}, {
+    "subject": "ARQU2101",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO HABITAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["JANE I MAS MARC"],
+    "crn": 10857
+}, {
+    "subject": "ARQU2101",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO HABITAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["ALBORNOZ RUGELES CRISTINA"],
+    "crn": 12121
+}, {
+    "subject": "ARQU2101",
+    "section": 3,
+    "credits": 5.0,
+    "title": "PROYECTO HABITAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RENGIFO BARRETO JOSE IGNACIO"],
+    "crn": 13260
+}, {
+    "subject": "ARQU2101",
+    "section": 4,
+    "credits": 5.0,
+    "title": "PROYECTO HABITAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["VELA GARAVITO MARIA LUISA"],
+    "crn": 13271
+}, {
+    "subject": "ARQU2101",
+    "section": 5,
+    "credits": 5.0,
+    "title": "PROYECTO HABITAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RIERADEVALL PONS JOSEP MARIA"],
+    "crn": 15075
+}, {
+    "subject": "ARQU2102",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO TECTONICA",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["VILLATE MATIZ CAMILO"],
+    "crn": 10218
+}, {
+    "subject": "ARQU2102",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO TECTONICA",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["CAMPUZANO OTERO GABRIEL"],
+    "crn": 12122
+}, {
+    "subject": "ARQU2102",
+    "section": 3,
+    "credits": 5.0,
+    "title": "PROYECTO TECTONICA",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["PINILLA ACEVEDO MAURICIO F"],
+    "crn": 12460
+}, {
+    "subject": "ARQU2102",
+    "section": 4,
+    "credits": 5.0,
+    "title": "PROYECTO TECTONICA",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RODRIGUEZ BERNAL CAROLINA"],
+    "crn": 13272
+}, {
+    "subject": "ARQU2102",
+    "section": 5,
+    "credits": 5.0,
+    "title": "PROYECTO TECTONICA",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "202D"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["TORRES CAMPOS GERMAN AUGUSTO"],
+    "crn": 13273
+}, {
+    "subject": "ARQU2103",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO LUGAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "202A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 11372
+}, {
+    "subject": "ARQU2103",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO LUGAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "202C"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["BRUNNER VON LEHENSTEINS KONRAD"],
+    "crn": 11373
+}, {
+    "subject": "ARQU2103",
+    "section": 3,
+    "credits": 5.0,
+    "title": "PROYECTO LUGAR",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "203A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["DELGADO RODRIGUEZ DAVID HUMBERTO"],
+    "crn": 13652
+}, {
+    "subject": "ARQU2103",
+    "section": 4,
+    "credits": 5.0,
+    "title": "PROYECTO LUGAR",
+    "capacity": 16,
+    "enrolled": 15,
+    "available": 1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "203C"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RONDEROS LOPEZ DANIEL ERNESTO"],
+    "crn": 13653
+}, {
+    "subject": "ARQU2103",
+    "section": 5,
+    "credits": 5.0,
+    "title": "PROYECTO LUGAR",
+    "capacity": 16,
+    "enrolled": 15,
+    "available": 1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "202D"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SAMPER DE NEU XIMENA"],
+    "crn": 13654
+}, {
+    "subject": "ARQU2104",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SESION PRACTICA PROYECTO HAB.",
+    "capacity": 75,
+    "enrolled": 80,
+    "available": -5,
+    "schedules": [],
+    "instructors": ["JANE I MAS MARC"],
+    "crn": 10680
+}, {
+    "subject": "ARQU2105",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SESION PRACTICA PROYECTO TEC",
+    "capacity": 75,
+    "enrolled": 80,
+    "available": -5,
+    "schedules": [],
+    "instructors": ["VILLATE MATIZ CAMILO"],
+    "crn": 11374
+}, {
+    "subject": "ARQU2106",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SESION PRACTICA PROYECTO LUG",
+    "capacity": 75,
+    "enrolled": 76,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 11375
+}, {
+    "subject": "ARQU2201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARQUETIPOS EN ARQUITECTURA",
+    "capacity": 80,
+    "enrolled": 59,
+    "available": 21,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "SD",
+            "number": "802"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["RESTREPO HERNANDEZ FABIO"],
+    "crn": 15359
+}, {
+    "subject": "ARQU2201C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL ARQUETIPOS EN ARQUIT",
+    "capacity": 80,
+    "enrolled": 59,
+    "available": 21,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "ML",
+            "number": "607"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["RESTREPO HERNANDEZ FABIO"],
+    "crn": 13668
+}, {
+    "subject": "ARQU2202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARQUITECTURA CLASICA",
+    "capacity": 80,
+    "enrolled": 82,
+    "available": -2,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "W",
+            "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ASCHNER ROSSELLI JUAN PABLO"],
+    "crn": 10026
+}, {
+    "subject": "ARQU2203",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARQUITECTURA MODERNA",
+    "capacity": 80,
+    "enrolled": 79,
+    "available": 1,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "O",
+            "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["GOOSSENS MAARTEN"],
+    "crn": 10590
+}, {
+    "subject": "ARQU2310",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS DE SOPORTE",
+    "capacity": 80,
+    "enrolled": 62,
+    "available": 18,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "W",
+            "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["PARRA GARCIA NICOLAS"],
+    "crn": 11232
+}, {
+    "subject": "ARQU2310C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE SOPORTE",
+    "capacity": 30,
+    "enrolled": 33,
+    "available": -3,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "208"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["NEGRET PRADA SEBASTIAN"],
+    "crn": 12265
+}, {
+    "subject": "ARQU2310C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE SOPORTE",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "ML",
+            "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["NEGRET PRADA SEBASTIAN"],
+    "crn": 12580
+}, {
+    "subject": "ARQU2310C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE SOPORTE",
+    "capacity": 25,
+    "enrolled": 14,
+    "available": 11,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "ML",
+            "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["NEGRET PRADA SEBASTIAN"],
+    "crn": 12581
+}, {
+    "subject": "ARQU2320",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS DE HABITABILIDAD",
+    "capacity": 80,
+    "enrolled": 82,
+    "available": -2,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "SD",
+            "number": "804"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["VILLAZON GODOY RAFAEL ENRIQUE"],
+    "crn": 11233
+}, {
+    "subject": "ARQU2320C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE HABITABILID",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Y",
+            "number": "110B"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["COTE MENENDEZ EDUARDO"],
+    "crn": 12266
+}, {
+    "subject": "ARQU2320C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE HABITABILID",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Y",
+            "number": "110B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["COTE MENENDEZ EDUARDO"],
+    "crn": 12582
+}, {
+    "subject": "ARQU2320C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE HABITABILID",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["COTE MENENDEZ EDUARDO"],
+    "crn": 12583
+}, {
+    "subject": "ARQU2320C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE HABITABILID",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["COTE MENENDEZ EDUARDO"],
+    "crn": 12584
+}, {
+    "subject": "ARQU2330",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS DE CONSTRUCCION Y EST",
+    "capacity": 80,
+    "enrolled": 80,
+    "available": 0,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["RODRIGUEZ BERNAL CAROLINA"],
+    "crn": 11234
+}, {
+    "subject": "ARQU2330C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE CONSTR Y EST",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Y",
+            "number": "110B"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["SANCHEZ CAICEDO ANDRES NORBERTO"],
+    "crn": 12267
+}, {
+    "subject": "ARQU2330C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE CONSTR Y EST",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "208"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANCHEZ CAICEDO ANDRES NORBERTO"],
+    "crn": 12585
+}, {
+    "subject": "ARQU2330C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL SISTEMAS DE CONSTR Y EST",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "208"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SANCHEZ CAICEDO ANDRES NORBERTO"],
+    "crn": 13261
+}, {
+    "subject": "ARQU2410",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PAISAJE URBANO",
+    "capacity": 80,
+    "enrolled": 81,
+    "available": -1,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "G",
+            "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MEJIA ORTIZ CLAUDIA"],
+    "crn": 11247
+}, {
+    "subject": "ARQU2410C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL PAISAJE URBANO",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GUZMAN RAMIREZ MANUELA"],
+    "crn": 12268
+}, {
+    "subject": "ARQU2410C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL PAISAJE URBANO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["GUZMAN RAMIREZ MANUELA"],
+    "crn": 20813
+}, {
+    "subject": "ARQU2410C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL PAISAJE URBANO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GUZMAN RAMIREZ MANUELA"],
+    "crn": 12587
+}, {
+    "subject": "ARQU2410C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL PAISAJE URBANO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "TX",
+            "number": "304"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["GUZMAN RAMIREZ MANUELA"],
+    "crn": 12588
+}, {
+    "subject": "ARQU2420",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO URBANO",
+    "capacity": 80,
+    "enrolled": 76,
+    "available": 4,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ARTEAGA ARREDONDO ISABEL CRISTINA"],
+    "crn": 11167
+}, {
+    "subject": "ARQU2420C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL PROYECTO URBANO",
+    "capacity": 41,
+    "enrolled": 42,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "515"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["TORRES LEON ANDREA CAROLINA"],
+    "crn": 12269
+}, {
+    "subject": "ARQU2420C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL PROYECTO URBANO",
+    "capacity": 41,
+    "enrolled": 34,
+    "available": 7,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "614"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MAYORGA HENAO JOSE MARIO"],
+    "crn": 20814
+}, {
+    "subject": "ARQU2430",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORÍAS URBANAS",
+    "capacity": 82,
+    "enrolled": 78,
+    "available": 4,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "SD",
+            "number": "804"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SALAZAR FERRO CAMILO"],
+    "crn": 11168
+}, {
+    "subject": "ARQU2430C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL TEORÍAS URBANAS",
+    "capacity": 41,
+    "enrolled": 42,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["LEAL SIMBAQUEBA JUANA MARCELA"],
+    "crn": 12270
+}, {
+    "subject": "ARQU2430C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL TEORÍAS URBANAS",
+    "capacity": 41,
+    "enrolled": 36,
+    "available": 5,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["LEAL SIMBAQUEBA JUANA MARCELA"],
+    "crn": 12589
+}, {
+    "subject": "ARQU3163",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM BTA CIUDAD ABIERT COMP.URB",
+    "capacity": 15,
+    "enrolled": 20,
+    "available": -5,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["URREA UYABAN TATIANA"],
+    "crn": 13669
+}, {
+    "subject": "ARQU3167",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MODELAR INTERVENCION EN CIUDAD",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Y",
+            "number": "110B"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SEGURA DURAN ETHEL"],
+    "crn": 20137
+}, {
+    "subject": "ARQU3249",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM ARQU LATINOAMERICANA",
+    "capacity": 15,
+    "enrolled": 21,
+    "available": -6,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MENDEZ CARDENAS RAFAEL ERNESTO"],
+    "crn": 18589
+}, {
+    "subject": "ARQU3325",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM. ESTRUCTURAS MADERA",
+    "capacity": 15,
+    "enrolled": 19,
+    "available": -4,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "CC",
+            "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["RAMIREZ BOTERO ENRIQUE"],
+    "crn": 14033
+}, {
+    "subject": "ARQU3347",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM ESPAC Y ESTRUC ARQ CONTEMP",
+    "capacity": 15,
+    "enrolled": 20,
+    "available": -5,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["VILLATE MATIZ MARIA CLAUDIA"],
+    "crn": 13670
+}, {
+    "subject": "ARQU3348",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM PROCESOS Y REALIZACION ARQ",
+    "capacity": 15,
+    "enrolled": 19,
+    "available": -4,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["DURAN DUQUE LUIS ROBERTO"],
+    "crn": 16527
+}, {
+    "subject": "ARQU3350",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LAB PROYECTOS SOSTENIBLES",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RIERADEVALL PONS JOSEP MARIA"],
+    "crn": 20875
+}, {
+    "subject": "ARQU3810",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO U.I. FORMA",
+    "capacity": 25,
+    "enrolled": 30,
+    "available": -5,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }, {
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["WEISS SALAS PHILIP EUGENE", "ARIZA PARRADO LUCAS"],
+    "crn": 11379
+}, {
+    "subject": "ARQU3812",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO U.I. VIVIENDA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["MEDINA DEL RÍO JUAN MANUEL", "ANGEL SAMPER MARCELA ISABEL"],
+    "crn": 11381
+}, {
+    "subject": "ARQU3814",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO U.I SOSTENIBILIDAD",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }, {
+        "days": ["M", "V"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["PINILLA ACEVEDO MAURICIO F", "DE LA CARRERA FERNANDO"],
+    "crn": 11169
+}, {
+    "subject": "ARQU3820",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI FORMA",
+    "capacity": 25,
+    "enrolled": 29,
+    "available": -4,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["M", "V"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["JANE I MAS MARC"],
+    "crn": 13711
+}, {
+    "subject": "ARQU3822",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI VIVIENDA",
+    "capacity": 25,
+    "enrolled": 30,
+    "available": -5,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ANZELLINI FAJARDO STEFANO"],
+    "crn": 13714
+}, {
+    "subject": "ARQU3823",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI URBANO",
+    "capacity": 25,
+    "enrolled": 34,
+    "available": -9,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["ARTEAGA ARREDONDO ISABEL CRISTINA"],
+    "crn": 13715
+}, {
+    "subject": "ARQU3824",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI SOSTENIBILIDAD",
+    "capacity": 25,
+    "enrolled": 22,
+    "available": 3,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["NAVARRO MORALES MARIA ELISA"],
+    "crn": 13716
+}, {
+    "subject": "ARQU3828",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROY. UI ARQU URBANA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }, {
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["MEJIA ORTIZ CLAUDIA", "HUERTAS NADAL DANIEL"],
+    "crn": 13672
+}, {
+    "subject": "ARQU3829",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS UI ARQU URBANA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SALAZAR FERRO CAMILO"],
+    "crn": 13673
+}, {
+    "subject": "ARQU3830",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UI FORMA",
+    "capacity": 25,
+    "enrolled": 29,
+    "available": -4,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }, {
+        "days": ["V"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["GAMBOA SAMPER PABLO"],
+    "crn": 13234
+}, {
+    "subject": "ARQU3832",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UI VIVIENDA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+    }],
+    "instructors": ["ESCALLON GARTNER CLEMENCIA"],
+    "crn": 13236
+}, {
+    "subject": "ARQU3834",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UI SOSTENIBILIDAD",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["RAMIREZ BOTERO ENRIQUE"],
+    "crn": 13237
+}, {
+    "subject": "ARQU3849",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROY UI TECTONICA Y ESTRUCTURA",
+    "capacity": 25,
+    "enrolled": 30,
+    "available": -5,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "Z",
+            "number": "228"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }, {
+        "days": ["L", "J"],
+        "room": {
+            "building": "Z",
+            "number": "227"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["VILLAZON GODOY RAFAEL ENRIQUE", "CALDERON GARCIA LUIS EDUARDO"],
+    "crn": 18806
+}, {
+    "subject": "ARQU3850",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS UI TECTONICA Y ESTRUC",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "ML",
+            "number": "208"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["PARRA GARCIA NICOLAS"],
+    "crn": 18808
+}, {
+    "subject": "ARQU3851",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI TECTONICA Y ESTRUC",
+    "capacity": 25,
+    "enrolled": 35,
+    "available": -10,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["VARGAS CAICEDO HERNANDO"],
+    "crn": 18595
+}, {
+    "subject": "ARQU3852",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROY UI ARQU Y BELLEZA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ALBORNOZ RUGELES CRISTINA", "OBERLAENDER ROJAS LUCAS"],
+    "crn": 20139
+}, {
+    "subject": "ARQU3853",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS UI ARQU Y BELLEZA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["PRADILLA HOSIE SANTIAGO"],
+    "crn": 20141
+}, {
+    "subject": "ARQU3854",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI ARQU Y BELLEZA",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["RESTREPO HERNANDEZ FABIO"],
+    "crn": 20142
+}, {
+    "subject": "ARQU3855",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROY UI ARQU DIGITAL",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["L", "J"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["VELANDIA RAYO DIEGO ALEJANDRO", "PEREZ ESPITIA DIEGO ANDRES"],
+    "crn": 20429
+}, {
+    "subject": "ARQU3856",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS UI ARQU DIGITAL",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "207"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["HUDSON ROLAND"],
+    "crn": 20430
+}, {
+    "subject": "ARQU3857",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UI ARQU DIGITAL",
+    "capacity": 25,
+    "enrolled": 31,
+    "available": -6,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ISAAK CAMILO"],
+    "crn": 20431
+}, {
+    "subject": "ARQU3910",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP1",
+    "capacity": 9,
+    "enrolled": 8,
+    "available": 1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["MIANI URIBE ALBERTO"],
+    "crn": 11293
+}, {
+    "subject": "ARQU3910",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP1",
+    "capacity": 9,
+    "enrolled": 10,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "K",
+            "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["BERMUDEZ SAMPER DANIEL"],
+    "crn": 11849
+}, {
+    "subject": "ARQU3911",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP2",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["CAMPUZANO CASTELLO CARLOS GABRIEL"],
+    "crn": 12151
+}, {
+    "subject": "ARQU3911",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP2",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ROJAS IRAGORRI JUAN CARLOS"],
+    "crn": 12153
+}, {
+    "subject": "ARQU3912",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP3",
+    "capacity": 9,
+    "enrolled": 10,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 12273
+}, {
+    "subject": "ARQU3912",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP3",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ORTIZ SUAREZ JUAN PABLO"],
+    "crn": 16888
+}, {
+    "subject": "ARQU3913",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP4",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["CASTRO JARAMILLO LORENZO"],
+    "crn": 15151
+}, {
+    "subject": "ARQU3913",
+    "section": 2,
+    "credits": 5.0,
+    "title": "PROYECTO UNIDAD AVANZADA GRP4",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ALVAREZ YEPES LEONARDO"],
+    "crn": 15153
+}, {
+    "subject": "ARQU3920",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA UNIDAD AVANZADA",
+    "capacity": 82,
+    "enrolled": 47,
+    "available": 35,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "SD",
+            "number": "803"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "SD",
+            "number": "806"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ASCHNER ROSSELLI JUAN PABLO"],
+    "crn": 11294
+}, {
+    "subject": "ARQU3920C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPLEM TEORIA UNIDAD AVANZ",
+    "capacity": 41,
+    "enrolled": 40,
+    "available": 1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["MAZUERA NIETO EDUARDO"],
+    "crn": 15027
+}, {
+    "subject": "ARQU3920C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPLEM TEORIA UNIDAD AVANZ",
+    "capacity": 41,
+    "enrolled": 7,
+    "available": 34,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["MAZUERA NIETO EDUARDO"],
+    "crn": 15087
+}, {
+    "subject": "ARQU3930",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UNIDAD AVANZADA GRP1",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "L",
+            "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["DELGADO RODRIGUEZ DAVID HUMBERTO"],
+    "crn": 11295
+}, {
+    "subject": "ARQU3931",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS UNIDAD AVANZADA GRP2",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "103"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["FONSECA ULLOA JUANITA"],
+    "crn": 12152
+}, {
+    "subject": "ARQU3932",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UNIDAD AVANZADA GRP3",
+    "capacity": 18,
+    "enrolled": 19,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GOOSSENS MAARTEN"],
+    "crn": 15361
+}, {
+    "subject": "ARQU3933",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANÁLISIS UNIDAD AVANZADA GRP4",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "206"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["M", "V"],
+        "room": {
+            "building": "T",
+            "number": "207"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["BLANCO CHAPARRO ALBA CAROLINA"],
+    "crn": 15152
+}, {
+    "subject": "ARQU3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 999,
+    "enrolled": 78,
+    "available": 921,
+    "schedules": [],
+    "instructors": ["CORREDOR MOSQUERA SANDRA YOHANNA"],
+    "crn": 11371
+}, {
+    "subject": "ARQU3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA INSTITUC.TIEMPO COMP",
+    "capacity": 0,
+    "enrolled": 7,
+    "available": -7,
+    "schedules": [],
+    "instructors": ["PINILLA ACEVEDO MAURICIO F"],
+    "crn": 11376
+}, {
+    "subject": "ARQU3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA INSTITUC.TIEMPO PARCI",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [],
+    "instructors": ["PINILLA ACEVEDO MAURICIO F"],
+    "crn": 11377
+}, {
+    "subject": "ARQU4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTOS DE CIUDAD Y TERRITOR",
+    "capacity": 30,
+    "enrolled": 21,
+    "available": 9,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "B",
+            "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ARTEAGA ARREDONDO ISABEL CRISTINA", "SALAZAR FERRO CAMILO"],
+    "crn": 19940
+}, {
+    "subject": "ARQU4104",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INTEGRAC.SISTEM.TENIC.",
+    "capacity": 25,
+    "enrolled": 19,
+    "available": 6,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "AU",
+            "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["VILLAZON GODOY RAFAEL ENRIQUE"],
+    "crn": 19155
+}, {
+    "subject": "ARQU4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LABORATORIO 1",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "AU",
+            "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": ["ASCHNER ROSSELLI JUAN PABLO"],
+    "crn": 19973
+}, {
+    "subject": "ARQU4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LABORATORIO DE PROFUNDIZACION",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 18561
+}, {
+    "subject": "ARQU4204",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LABORATORIO DE INVESTIGACIÓN",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 18564
+}, {
+    "subject": "ARQU4301",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 20,
+    "enrolled": 8,
+    "available": 12,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "Z",
+            "number": "226"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+    }],
+    "instructors": [""],
+    "crn": 18566
+}, {
+    "subject": "ARQU4302",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 18567
+}, {
+    "subject": "ARQU4303",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["ROSSI CLAUDIO"],
+    "crn": 18568
+}]

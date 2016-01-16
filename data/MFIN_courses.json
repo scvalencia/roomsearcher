@@ -1,0 +1,193 @@
+[{
+    "subject": "MFIN4201",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ANÁLISIS DE INVERSIONES",
+    "capacity": 38,
+    "enrolled": 38,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARDONA MAGNE EMILIO"],
+    "crn": 20331
+}, {
+    "subject": "MFIN4201",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ANÁLISIS DE INVERSIONES",
+    "capacity": 35,
+    "enrolled": 36,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["CARDONA MAGNE EMILIO"],
+    "crn": 20333
+}, {
+    "subject": "MFIN4203",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DERIVADOS",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LUCIO CHAUSTRE ALEJANDRO"],
+    "crn": 20345
+}, {
+    "subject": "MFIN4203",
+    "section": 2,
+    "credits": 2.0,
+    "title": "DERIVADOS",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["FRIAS DIAZ JUAN DANIEL"],
+    "crn": 20346
+}, {
+    "subject": "MFIN4204",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ECONOMETRÍA",
+    "capacity": 42,
+    "enrolled": 43,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "SD",
+            "number": "801"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["MAYORGA MOGOLLON WILSON"],
+    "crn": 20339
+}, {
+    "subject": "MFIN4204",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ECONOMETRÍA",
+    "capacity": 39,
+    "enrolled": 39,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["MORA VALENCIA ANDRES"],
+    "crn": 20340
+}, {
+    "subject": "MFIN4206",
+    "section": 1,
+    "credits": 2.0,
+    "title": "FINANZAS CORPORATIVAS",
+    "capacity": 32,
+    "enrolled": 33,
+    "available": -1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20343
+}, {
+    "subject": "MFIN4206",
+    "section": 2,
+    "credits": 2.0,
+    "title": "FINANZAS CORPORATIVAS",
+    "capacity": 44,
+    "enrolled": 44,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SERRANO RODRIGUEZ JAVIER"],
+    "crn": 20344
+}, {
+    "subject": "MFIN4208",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MERCADO DE CAPITALES",
+    "capacity": 37,
+    "enrolled": 38,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "SD",
+            "number": "802"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["RODRIGUEZ RAGA SANTIAGO"],
+    "crn": 20337
+}, {
+    "subject": "MFIN4208",
+    "section": 2,
+    "credits": 2.0,
+    "title": "MERCADO DE CAPITALES",
+    "capacity": 37,
+    "enrolled": 38,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["SUESCUN FERNANDO"],
+    "crn": 20338
+}, {
+    "subject": "MFIN4216",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GESTION DE RIESGOS",
+    "capacity": 48,
+    "enrolled": 47,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ RAGA SANTIAGO"],
+    "crn": 20341
+}, {
+    "subject": "MFIN4216",
+    "section": 2,
+    "credits": 2.0,
+    "title": "GESTION DE RIESGOS",
+    "capacity": 38,
+    "enrolled": 41,
+    "available": -3,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ RAGA SANTIAGO"],
+    "crn": 20342
+}, {
+    "subject": "MFIN4238",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PLANEACION FINANCIERA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20347
+}, {
+    "subject": "MFIN4239",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DIAGNOST. DESEMPE. FINANCIERO",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20348
+}, {
+    "subject": "MFIN4240",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SISTEMAS INFORMACION DE COSTOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20349
+}, {
+    "subject": "MFIN4241",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EVALUACION DE PROYECTOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20350
+}]
