@@ -39,8 +39,8 @@ public class URLRetriever {
         Document document = Jsoup.parse(content);
         Elements table = document.select("table[width=600][bgcolor=#FFFFFF]");
 
-        for (Element row : table.select("tr"))
-            for(Element col : row.select("td")) {
+        for (Element row : table.select("tr")) {
+            for (Element col : row.select("td")) {
                 Element subject = col.select("a").first();
                 String link = subject.attr("href");
 
@@ -49,7 +49,7 @@ public class URLRetriever {
                 String code = link.substring(46, 50);
                 codes.add(code);
             }
-
+        }
     }
 
     public List<String> getSubjectsScheduleURLS() {

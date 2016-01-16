@@ -10,7 +10,8 @@ public class Main {
         List<String> subjectsURLS = urlr.getSubjectsScheduleURLS();
 
         for(String url : subjectsURLS) {
-            System.out.println(url);
+            SubjectParser sp = new SubjectParser(url, true);
+            sp.parseContent();
         }
     }
 }
