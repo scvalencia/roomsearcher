@@ -1,0 +1,54 @@
+[
+  {
+    "subject": "MPAZ4000",
+    "section": 1,
+    "credits": 4.0,
+    "title": "COLOQUIO MAESTRÍA CONSTR. PAZ",
+    "capacity": 60,
+    "enrolled": 35,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "BETANCUR RESTREPO LAURA"
+    ],
+    "crn": 20019
+  },
+  {
+    "subject": "MPAZ4100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CONSTRUCCIÓN PAZ Y TRANSICIÓN",
+    "capacity": 60,
+    "enrolled": 52,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RETTBERG ANGELIKA"
+    ],
+    "crn": 20012
+  }
+]
