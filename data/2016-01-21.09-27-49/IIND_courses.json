@@ -1,0 +1,7114 @@
+[
+  {
+    "subject": "IIND1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD. INGEN. INDUSTRIAL",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1530",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MARTHA ERASO JUAN ESTEBAN"
+    ],
+    "crn": 10107
+  },
+  {
+    "subject": "IIND1000",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INTROD. INGEN. INDUSTRIAL",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "716"
+        },
+        "initHour": "1530",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LESMES PALACIOS DIANA ESPERANZA"
+    ],
+    "crn": 16998
+  },
+  {
+    "subject": "IIND1000",
+    "section": 3,
+    "credits": 3.0,
+    "title": "INTROD. INGEN. INDUSTRIAL",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "1530",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MELO ZAMBRANO JULIAN DAVID"
+    ],
+    "crn": 16999
+  },
+  {
+    "subject": "IIND1000",
+    "section": 4,
+    "credits": 3.0,
+    "title": "INTROD. INGEN. INDUSTRIAL",
+    "capacity": 34,
+    "enrolled": 34,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1530",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ NESTOR"
+    ],
+    "crn": 17000
+  },
+  {
+    "subject": "IIND1000",
+    "section": 5,
+    "credits": 3.0,
+    "title": "INTROD. INGEN. INDUSTRIAL",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BASTIDAS ERAZO YOHANA MARCELA"
+    ],
+    "crn": 17001
+  },
+  {
+    "subject": "IIND1001",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 12,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "ROMERO FIERRO JUAN FELIPE"
+    ],
+    "crn": 12415
+  },
+  {
+    "subject": "IIND1001",
+    "section": 2,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "117"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "ROMERO FIERRO JUAN FELIPE"
+    ],
+    "crn": 12416
+  },
+  {
+    "subject": "IIND1001",
+    "section": 3,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 4,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "VESGA DIAZ MARGARITA"
+    ],
+    "crn": 12417
+  },
+  {
+    "subject": "IIND1001",
+    "section": 4,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "VESGA DIAZ MARGARITA"
+    ],
+    "crn": 11362
+  },
+  {
+    "subject": "IIND1001",
+    "section": 5,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "DIAZ GALINDO GABRIELA"
+    ],
+    "crn": 12401
+  },
+  {
+    "subject": "IIND1001",
+    "section": 6,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 9,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "NAVARRO FORERO CAMILO ANDRES"
+    ],
+    "crn": 12403
+  },
+  {
+    "subject": "IIND1001",
+    "section": 7,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "NAVARRO FORERO CAMILO ANDRES"
+    ],
+    "crn": 12404
+  },
+  {
+    "subject": "IIND1001",
+    "section": 8,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "DIAZ GALINDO GABRIELA"
+    ],
+    "crn": 12405
+  },
+  {
+    "subject": "IIND1001",
+    "section": 9,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "117"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "HUERTAS PATIÑO JORGE ALBERTO"
+    ],
+    "crn": 13719
+  },
+  {
+    "subject": "IIND1001",
+    "section": 10,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 7,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "SOLANO ABELLO FELIPE"
+    ],
+    "crn": 12406
+  },
+  {
+    "subject": "IIND1001",
+    "section": 11,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 9,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "GUAJE ACOSTA OSCAR ORLANDO"
+    ],
+    "crn": 12407
+  },
+  {
+    "subject": "IIND1001",
+    "section": 12,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "LOPEZ CORNEJO DANIEL CAMILO"
+    ],
+    "crn": 12408
+  },
+  {
+    "subject": "IIND1001",
+    "section": 13,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 9,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "RIOS SIERRA JENYFER"
+    ],
+    "crn": 12414
+  },
+  {
+    "subject": "IIND1001",
+    "section": 14,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "SORIANO PULIDO ELIANA MARIA"
+    ],
+    "crn": 12409
+  },
+  {
+    "subject": "IIND1001",
+    "section": 15,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "CHIPATECUA HOYOS JUAN CAMILO"
+    ],
+    "crn": 13720
+  },
+  {
+    "subject": "IIND1001",
+    "section": 16,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "GALINDO ORTIZ ANDRES FELIPE"
+    ],
+    "crn": 12410
+  },
+  {
+    "subject": "IIND1001",
+    "section": 17,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "117"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VANEGAS RENDON LAURA CRISTINA",
+      "AGUDELO MENESES LAURA"
+    ],
+    "crn": 12411
+  },
+  {
+    "subject": "IIND1001",
+    "section": 18,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 9,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ ROMAN MARTHA LILIANA",
+      "STEFANEL VASQUEZ MAURICIO"
+    ],
+    "crn": 12412
+  },
+  {
+    "subject": "IIND1001",
+    "section": 19,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 10,
+    "enrolled": 4,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "117"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "CAMARGO CARRILLO DANIELA"
+    ],
+    "crn": 12413
+  },
+  {
+    "subject": "IIND1001",
+    "section": 21,
+    "credits": 0.0,
+    "title": "CLINICA DE PROBLEMAS (IIND)",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "0900",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 12461
+  },
+  {
+    "subject": "IIND1300B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "REDES, JUEGOS Y ALTRUISMO",
+    "capacity": 70,
+    "enrolled": 70,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZARAMA URDANETA ROBERTO"
+    ],
+    "crn": 19453
+  },
+  {
+    "subject": "IIND2070",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MONITORIA INGENIERIA INDUSTRIA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 10221
+  },
+  {
+    "subject": "IIND2071",
+    "section": 2,
+    "credits": 0.0,
+    "title": "MONITORIA INGENIERIA INDUSTRIA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 10222
+  },
+  {
+    "subject": "IIND2103",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRINCIPIOS OPTIMIZACION",
+    "capacity": 67,
+    "enrolled": 67,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ SARMIENTO JULIANA"
+    ],
+    "crn": 10725
+  },
+  {
+    "subject": "IIND2103",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PRINCIPIOS OPTIMIZACION",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "DUQUE VILLARREAL DANIEL"
+    ],
+    "crn": 10727
+  },
+  {
+    "subject": "IIND2103",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PRINCIPIOS OPTIMIZACION",
+    "capacity": 60,
+    "enrolled": 33,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "FONTECHA GARCIA JOHN EDGAR"
+    ],
+    "crn": 10728
+  },
+  {
+    "subject": "IIND2103",
+    "section": 13,
+    "credits": 3.0,
+    "title": "PRINCIPIOS OPTIMIZACION",
+    "capacity": 41,
+    "enrolled": 41,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DUQUE VILLARREAL DANIEL"
+    ],
+    "crn": 11096
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HUERTAS PATIÑO JORGE ALBERTO"
+    ],
+    "crn": 12336
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 32,
+    "enrolled": 28,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LOPEZ CORNEJO DANIEL CAMILO"
+    ],
+    "crn": 12418
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ARANGO CALDERON JULIANA"
+    ],
+    "crn": 12419
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GUAJE ACOSTA OSCAR ORLANDO"
+    ],
+    "crn": 12420
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARDENAS MEDINA SERGIO HUMBERTO"
+    ],
+    "crn": 12426
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 34,
+    "enrolled": 36,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "HUERTAS PATIÑO JORGE ALBERTO"
+    ],
+    "crn": 12421
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ARANGO CALDERON JULIANA"
+    ],
+    "crn": 12422
+  },
+  {
+    "subject": "IIND2103C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "REFUERZO PRINCIPIOS OPTIMIZAC.",
+    "capacity": 33,
+    "enrolled": 30,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ CORNEJO DANIEL CAMILO"
+    ],
+    "crn": 12423
+  },
+  {
+    "subject": "IIND2104",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MODELOS PROBABILISTICOS",
+    "capacity": 68,
+    "enrolled": 65,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BOLIVAR VARGAS JUAN DAVID"
+    ],
+    "crn": 10764
+  },
+  {
+    "subject": "IIND2104",
+    "section": 6,
+    "credits": 3.0,
+    "title": "MODELOS PROBABILISTICOS",
+    "capacity": 70,
+    "enrolled": 70,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MURA IVAN"
+    ],
+    "crn": 10761
+  },
+  {
+    "subject": "IIND2104",
+    "section": 11,
+    "credits": 3.0,
+    "title": "MODELOS PROBABILISTICOS",
+    "capacity": 76,
+    "enrolled": 76,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "OTERO LEON DANIEL FELIPE"
+    ],
+    "crn": 11159
+  },
+  {
+    "subject": "IIND2104",
+    "section": 16,
+    "credits": 3.0,
+    "title": "MODELOS PROBABILISTICOS (INGL)",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AKHAVAN TABATAEI RAHA"
+    ],
+    "crn": 10797
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CARDONA CARLOS ALBERTO"
+    ],
+    "crn": 12427
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CARDONA CARLOS ALBERTO"
+    ],
+    "crn": 12428
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CARDONA CARLOS ALBERTO"
+    ],
+    "crn": 12465
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MORALES ZAMORA GILBERTO ANDRES JOSE"
+    ],
+    "crn": 12429
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 27,
+    "enrolled": 26,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MORALES ZAMORA GILBERTO ANDRES JOSE"
+    ],
+    "crn": 12430
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MORALES ZAMORA GILBERTO ANDRES JOSE"
+    ],
+    "crn": 12466
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 12,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "WILCHES MOGOLLON MARIA ALEJANDRA"
+    ],
+    "crn": 12431
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 13,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 26,
+    "enrolled": 28,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "WILCHES MOGOLLON MARIA ALEJANDRA"
+    ],
+    "crn": 12432
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "WILCHES MOGOLLON MARIA ALEJANDRA"
+    ],
+    "crn": 12467
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 22,
+    "enrolled": 19,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "110"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FAJARDO GUERRERO ANDRES FELIPE"
+    ],
+    "crn": 12337
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 18,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FAJARDO GUERRERO ANDRES FELIPE"
+    ],
+    "crn": 12433
+  },
+  {
+    "subject": "IIND2104C",
+    "section": 19,
+    "credits": 0.0,
+    "title": "REFUERZO MODELOS PROBABILISTIC",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FAJARDO GUERRERO ANDRES FELIPE"
+    ],
+    "crn": 12469
+  },
+  {
+    "subject": "IIND2106",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 62,
+    "enrolled": 62,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CASTELLANOS GUTIERREZ CARLOS ERNESTO"
+    ],
+    "crn": 10703
+  },
+  {
+    "subject": "IIND2106",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 65,
+    "enrolled": 67,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOPEZ GONZALEZ MARIA ALEJANDRA"
+    ],
+    "crn": 10767
+  },
+  {
+    "subject": "IIND2106",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 62,
+    "enrolled": 62,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LAGOS GOMEZ FABIO ALBERTO"
+    ],
+    "crn": 10771
+  },
+  {
+    "subject": "IIND2106",
+    "section": 13,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 60,
+    "enrolled": 45,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LAGOS GOMEZ FABIO ALBERTO"
+    ],
+    "crn": 10774
+  },
+  {
+    "subject": "IIND2106",
+    "section": 17,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 64,
+    "enrolled": 64,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "TORRES GONZALO"
+    ],
+    "crn": 10777
+  },
+  {
+    "subject": "IIND2106",
+    "section": 21,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 60,
+    "enrolled": 57,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "MUTIS GAITAN HERNANDO ENRIQ"
+    ],
+    "crn": 10781
+  },
+  {
+    "subject": "IIND2106",
+    "section": 25,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BERNAL RUEDA ASTRID JOHANNA"
+    ],
+    "crn": 10783
+  },
+  {
+    "subject": "IIND2106",
+    "section": 29,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 43,
+    "enrolled": 43,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BERNAL RUEDA ASTRID JOHANNA"
+    ],
+    "crn": 10798
+  },
+  {
+    "subject": "IIND2106",
+    "section": 34,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CASTILLO HERNANDEZ MARIO JOSE"
+    ],
+    "crn": 10895
+  },
+  {
+    "subject": "IIND2106",
+    "section": 38,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADÍSTICA I",
+    "capacity": 60,
+    "enrolled": 50,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CABRALES AREVALO SERGIO ANDRES"
+    ],
+    "crn": 20382
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 31,
+    "enrolled": 31,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PORRAS BAGETT ALFONSO CESAR AUGUSTO"
+    ],
+    "crn": 12434
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BRICEÑO GUERRERO KATHERINE"
+    ],
+    "crn": 12435
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PORRAS BAGETT ALFONSO CESAR AUGUSTO"
+    ],
+    "crn": 12436
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BRICEÑO GUERRERO KATHERINE"
+    ],
+    "crn": 12437
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 34,
+    "enrolled": 34,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BERNAL LOZANO RODRIGO ARMANDO"
+    ],
+    "crn": 12438
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 31,
+    "enrolled": 31,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TAPIAS MARTINEZ LAURA ANDREA"
+    ],
+    "crn": 12439
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 33,
+    "enrolled": 35,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "TAPIAS MARTINEZ LAURA ANDREA"
+    ],
+    "crn": 12440
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "URIBE FRIAS LUIS CARLOS"
+    ],
+    "crn": 12441
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 18,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 34,
+    "enrolled": 33,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BERNAL LOZANO RODRIGO ARMANDO"
+    ],
+    "crn": 12442
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 19,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MANRIQUE NUÑEZ MARIA CAMILA"
+    ],
+    "crn": 12443
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 22,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEREZ LOPEZ JONATHAN ANDRES"
+    ],
+    "crn": 12475
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 23,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "URIBE FRIAS LUIS CARLOS"
+    ],
+    "crn": 12474
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 26,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BERNAL LOZANO RODRIGO ARMANDO"
+    ],
+    "crn": 12473
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 27,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 31,
+    "enrolled": 31,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "TAPIAS MARTINEZ LAURA ANDREA"
+    ],
+    "crn": 12472
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 30,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "URIBE FRIAS LUIS CARLOS"
+    ],
+    "crn": 12471
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 31,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 21,
+    "enrolled": 21,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "MANRIQUE NUÑEZ MARIA CAMILA"
+    ],
+    "crn": 12470
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 35,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PEREZ LOPEZ JONATHAN ANDRES"
+    ],
+    "crn": 12444
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 36,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "URIBE FRIAS LUIS CARLOS"
+    ],
+    "crn": 12338
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 39,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BERNAL LOZANO RODRIGO ARMANDO"
+    ],
+    "crn": 20384
+  },
+  {
+    "subject": "IIND2106C",
+    "section": 40,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTAD I",
+    "capacity": 30,
+    "enrolled": 11,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TAPIAS MARTINEZ LAURA ANDREA"
+    ],
+    "crn": 20386
+  },
+  {
+    "subject": "IIND2107",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADISTICA II",
+    "capacity": 64,
+    "enrolled": 64,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SANDOVAL VASQUEZ LIDA TOPACIO"
+    ],
+    "crn": 10603
+  },
+  {
+    "subject": "IIND2107",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADISTICA II",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "VALENCIA CARLOS"
+    ],
+    "crn": 10874
+  },
+  {
+    "subject": "IIND2107",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADISTICA II",
+    "capacity": 60,
+    "enrolled": 20,
+    "available": 40,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CORREAL NUÑEZ MARIA ELSA"
+    ],
+    "crn": 10875
+  },
+  {
+    "subject": "IIND2107",
+    "section": 13,
+    "credits": 3.0,
+    "title": "PROBABILIDAD Y ESTADISTICA II",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SANDOVAL VASQUEZ LIDA TOPACIO"
+    ],
+    "crn": 11023
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ALVARADO ANA MARIA"
+    ],
+    "crn": 12339
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 34,
+    "enrolled": 35,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIROGA GOMEZ EDWIN CAMILO"
+    ],
+    "crn": 12476
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 32,
+    "enrolled": 31,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VILLAR ORTEGA ADER LUIS"
+    ],
+    "crn": 12481
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 33,
+    "enrolled": 34,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIROGA GOMEZ EDWIN CAMILO"
+    ],
+    "crn": 12482
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 34,
+    "enrolled": 36,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "614"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ALVARADO ANA MARIA"
+    ],
+    "crn": 12477
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CALCETERO VANEGAS SEBASTIAN FELIPE"
+    ],
+    "crn": 12478
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 30,
+    "enrolled": 10,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CALCETERO VANEGAS SEBASTIAN FELIPE"
+    ],
+    "crn": 12479
+  },
+  {
+    "subject": "IIND2107C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "REFUERZO PROBA Y ESTD II",
+    "capacity": 30,
+    "enrolled": 24,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VILLAR ORTEGA ADER LUIS"
+    ],
+    "crn": 12480
+  },
+  {
+    "subject": "IIND2109",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "OTERO LEON DANIEL FELIPE"
+    ],
+    "crn": 12256
+  },
+  {
+    "subject": "IIND2109",
+    "section": 5,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 38,
+    "enrolled": 38,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LOZANO SANCHEZ ALVARO JULIAN"
+    ],
+    "crn": 12494
+  },
+  {
+    "subject": "IIND2109",
+    "section": 8,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 36,
+    "enrolled": 36,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MONTERO TENG ALVARO JOSE"
+    ],
+    "crn": 13744
+  },
+  {
+    "subject": "IIND2109",
+    "section": 12,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FONTECHA GARCIA JOHN EDGAR"
+    ],
+    "crn": 14145
+  },
+  {
+    "subject": "IIND2109",
+    "section": 15,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO ROMERO ANDRES"
+    ],
+    "crn": 17051
+  },
+  {
+    "subject": "IIND2109",
+    "section": 18,
+    "credits": 3.0,
+    "title": "SISTEMAS APOYO A LA DECISION",
+    "capacity": 50,
+    "enrolled": 49,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MORALES MAHECHA RIDLEY SANTIAGO"
+    ],
+    "crn": 20388
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 13643
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 15149
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 17,
+    "enrolled": 17,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 13644
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "204"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 15134
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 13745
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 15150
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 13,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 32,
+    "enrolled": 28,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 15135
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 29,
+    "enrolled": 22,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "204"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 14146
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 16,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 17052
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 17053
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 19,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CARRANZA RONCANCIO VIVIAN IBETH"
+    ],
+    "crn": 20392
+  },
+  {
+    "subject": "IIND2109C",
+    "section": 20,
+    "credits": 0.0,
+    "title": "REFUERZO SIST. APOYO DECISION",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ZAMBRANO TAPIA JONY ALEXANDER"
+    ],
+    "crn": 20393
+  },
+  {
+    "subject": "IIND2201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTROL DE PRODUCCION",
+    "capacity": 56,
+    "enrolled": 57,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "NIÑO MORA KAREN YINETH"
+    ],
+    "crn": 10740
+  },
+  {
+    "subject": "IIND2201",
+    "section": 5,
+    "credits": 3.0,
+    "title": "CONTROL DE PRODUCCION (INGLES)",
+    "capacity": 55,
+    "enrolled": 54,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ABOLGHASEM GHAZVINI SEPIDEH"
+    ],
+    "crn": 10742
+  },
+  {
+    "subject": "IIND2201",
+    "section": 9,
+    "credits": 3.0,
+    "title": "CONTROL DE PRODUCCION",
+    "capacity": 68,
+    "enrolled": 68,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MARTIN ALDANA ANA LORENA"
+    ],
+    "crn": 10876
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 33,
+    "enrolled": 32,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CASTRO MAYORGA ASTRID YAMILE"
+    ],
+    "crn": 12489
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MADRIGAL CASTRILLON ANDRES"
+    ],
+    "crn": 12490
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 31,
+    "enrolled": 31,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ RIOBO JOSE LUIS"
+    ],
+    "crn": 12491
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 29,
+    "enrolled": 29,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ RIOBO JOSE LUIS"
+    ],
+    "crn": 12340
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "403"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MADRIGAL CASTRILLON ANDRES"
+    ],
+    "crn": 12492
+  },
+  {
+    "subject": "IIND2201C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO CONTROL DE PRODUCCION",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CASTRO MAYORGA ASTRID YAMILE"
+    ],
+    "crn": 12493
+  },
+  {
+    "subject": "IIND2202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PRODUCCION",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "716"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "QUINTERO DOMINGUEZ MARIO ANDRES"
+    ],
+    "crn": 10499
+  },
+  {
+    "subject": "IIND2202",
+    "section": 5,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PRODUCCION",
+    "capacity": 61,
+    "enrolled": 61,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CARDONA GOMEZ NATALIA"
+    ],
+    "crn": 10500
+  },
+  {
+    "subject": "IIND2202",
+    "section": 9,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PRODUCCION",
+    "capacity": 74,
+    "enrolled": 73,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MONTOYA CASAS CARLOS EDUARDO"
+    ],
+    "crn": 12495
+  },
+  {
+    "subject": "IIND2202",
+    "section": 13,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PRODUCCION",
+    "capacity": 61,
+    "enrolled": 61,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BOLIVAR ATUESTA STEVENSON"
+    ],
+    "crn": 11051
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "AGUIRRE GARCIA WILLIAM DAVID"
+    ],
+    "crn": 12341
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AGUIRRE GARCIA WILLIAM DAVID"
+    ],
+    "crn": 12626
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 31,
+    "enrolled": 30,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GARCIA CARDENAS DANIEL FELIPE"
+    ],
+    "crn": 12628
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GARCIA CARDENAS DANIEL FELIPE"
+    ],
+    "crn": 12630
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "QUIROZ CASTELLANOS CARLOS ANDRES"
+    ],
+    "crn": 12633
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "505"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIROZ CASTELLANOS CARLOS ANDRES"
+    ],
+    "crn": 12635
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GUERRERO SANCHEZ DIEGO FERNANDO"
+    ],
+    "crn": 12636
+  },
+  {
+    "subject": "IIND2202C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "COMPL. FUNDAMENTOS PRODUCCIÓN",
+    "capacity": 34,
+    "enrolled": 34,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GUERRERO SANCHEZ DIEGO FERNANDO"
+    ],
+    "crn": 12641
+  },
+  {
+    "subject": "IIND2301",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DINAMICA DE SISTEMAS",
+    "capacity": 80,
+    "enrolled": 80,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OLAYA NIETO CAMILO ENRIQUE"
+    ],
+    "crn": 10756
+  },
+  {
+    "subject": "IIND2301",
+    "section": 5,
+    "credits": 3.0,
+    "title": "DINAMICA DE SISTEMAS",
+    "capacity": 77,
+    "enrolled": 77,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ QUINTERO JULIANA"
+    ],
+    "crn": 10757
+  },
+  {
+    "subject": "IIND2301",
+    "section": 9,
+    "credits": 3.0,
+    "title": "DINAMICA DE SISTEMAS",
+    "capacity": 78,
+    "enrolled": 78,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GUZMAN ABELLO LAURA"
+    ],
+    "crn": 10799
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TABARES HERNANDEZ LAURA JIMENA"
+    ],
+    "crn": 12645
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "TABARES HERNANDEZ LAURA JIMENA"
+    ],
+    "crn": 12342
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 38,
+    "enrolled": 38,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VARGAS MARTINEZ CAMILO ANDRES"
+    ],
+    "crn": 12647
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "VARGAS MARTINEZ CAMILO ANDRES"
+    ],
+    "crn": 12648
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FLECHAS IBARRA JUAN SEBASTIAN"
+    ],
+    "crn": 12646
+  },
+  {
+    "subject": "IIND2301C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO DINÁMICA DE SISTEMAS",
+    "capacity": 39,
+    "enrolled": 38,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FLECHAS IBARRA JUAN SEBASTIAN"
+    ],
+    "crn": 12649
+  },
+  {
+    "subject": "IIND2302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PENS SISTEMICO ORGANIZACIONES",
+    "capacity": 80,
+    "enrolled": 75,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "BARROS CASTRO RICARDO ABAD"
+    ],
+    "crn": 10765
+  },
+  {
+    "subject": "IIND2302",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PENS SISTEMICO ORGANIZACIONES",
+    "capacity": 90,
+    "enrolled": 89,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "PINZON SALCEDO LUIS"
+    ],
+    "crn": 11258
+  },
+  {
+    "subject": "IIND2302",
+    "section": 13,
+    "credits": 3.0,
+    "title": "PENS SISTEMICO ORGANIZACIONES",
+    "capacity": 91,
+    "enrolled": 91,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ CAJIAO MARIA CATALINA"
+    ],
+    "crn": 16625
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 12294
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 12501
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "403"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 12502
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "504"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 18545
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "003"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 12504
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 21,
+    "enrolled": 20,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ TOVAR SILVIA ELENA"
+    ],
+    "crn": 12505
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 12503
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "505"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 18546
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 12507
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 12506
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 16,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 18547
+  },
+  {
+    "subject": "IIND2302C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "COMPL. PENS SISTE ORGANIZACION",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ GONZALEZ CARLOS FRANCISCO"
+    ],
+    "crn": 12508
+  },
+  {
+    "subject": "IIND2400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SIST. DE CONTROL GERENCIAL",
+    "capacity": 50,
+    "enrolled": 44,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ORTIZ ORTIZ JUAN DIEGO"
+    ],
+    "crn": 10116
+  },
+  {
+    "subject": "IIND2400",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SIST. DE CONTROL GERENCIAL",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "JAMOCO ANGEL OSCAR JAVIER"
+    ],
+    "crn": 10151
+  },
+  {
+    "subject": "IIND2400",
+    "section": 3,
+    "credits": 3.0,
+    "title": "SIST. DE CONTROL GERENCIAL",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL DAZA NICOLAS"
+    ],
+    "crn": 10360
+  },
+  {
+    "subject": "IIND2400",
+    "section": 5,
+    "credits": 3.0,
+    "title": "SIST. DE CONTROL GERENCIAL",
+    "capacity": 56,
+    "enrolled": 57,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "716"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SANZ PAOLA"
+    ],
+    "crn": 10546
+  },
+  {
+    "subject": "IIND2400",
+    "section": 6,
+    "credits": 3.0,
+    "title": "SIST. DE CONTROL GERENCIAL",
+    "capacity": 56,
+    "enrolled": 55,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VARGAS TORRES SERGIO ANDRES"
+    ],
+    "crn": 12752
+  },
+  {
+    "subject": "IIND2401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 64,
+    "enrolled": 64,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ROA MEZA DIEGO SEBASTIAN"
+    ],
+    "crn": 10152
+  },
+  {
+    "subject": "IIND2401",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 39,
+    "enrolled": 39,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ PRIETO ELKIN EDUARDO"
+    ],
+    "crn": 10153
+  },
+  {
+    "subject": "IIND2401",
+    "section": 7,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 63,
+    "enrolled": 63,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PINZON MARIO"
+    ],
+    "crn": 10154
+  },
+  {
+    "subject": "IIND2401",
+    "section": 10,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 63,
+    "enrolled": 63,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CAÑON CELIS HUGO ADRIAN"
+    ],
+    "crn": 10155
+  },
+  {
+    "subject": "IIND2401",
+    "section": 13,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL DAZA NICOLAS"
+    ],
+    "crn": 10156
+  },
+  {
+    "subject": "IIND2401",
+    "section": 16,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ORTIZ ORTIZ JUAN DIEGO"
+    ],
+    "crn": 10361
+  },
+  {
+    "subject": "IIND2401",
+    "section": 19,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL DAZA NICOLAS"
+    ],
+    "crn": 10568
+  },
+  {
+    "subject": "IIND2401",
+    "section": 22,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 63,
+    "enrolled": 63,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VARGAS TORRES SERGIO ANDRES"
+    ],
+    "crn": 10670
+  },
+  {
+    "subject": "IIND2401",
+    "section": 25,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 60,
+    "enrolled": 48,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BAQUERO HAEBERLIN MANUEL"
+    ],
+    "crn": 10758
+  },
+  {
+    "subject": "IIND2401",
+    "section": 28,
+    "credits": 3.0,
+    "title": "ANALIS.DECISION INVERSION",
+    "capacity": 60,
+    "enrolled": 44,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1800",
+        "finalHour": "1920"
+      }
+    ],
+    "instructors": [
+      "LOZANO JAVIER"
+    ],
+    "crn": 10759
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 62,
+    "enrolled": 58,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VANEGAS RENDON LAURA CRISTINA"
+    ],
+    "crn": 13289
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ ROMAN MARTHA LILIANA"
+    ],
+    "crn": 13291
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 60,
+    "enrolled": 46,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CAMARGO CARRILLO DANIELA"
+    ],
+    "crn": 13290
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 68,
+    "enrolled": 67,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AGUDELO MENESES LAURA"
+    ],
+    "crn": 13292
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 68,
+    "enrolled": 68,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SORIANO PULIDO ELIANA MARIA"
+    ],
+    "crn": 13293
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 65,
+    "enrolled": 64,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "615"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CHIPATECUA HOYOS JUAN CAMILO"
+    ],
+    "crn": 13294
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 20,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 60,
+    "enrolled": 36,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GALINDO ORTIZ ANDRES FELIPE"
+    ],
+    "crn": 13295
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 23,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 60,
+    "enrolled": 50,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BELTRAN AREVALO ANDRES FELIPE"
+    ],
+    "crn": 13296
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 26,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RIOS SIERRA JENYFER"
+    ],
+    "crn": 13297
+  },
+  {
+    "subject": "IIND2401C",
+    "section": 29,
+    "credits": 0.0,
+    "title": "REFUERZO ANALIS.DECISION INVER",
+    "capacity": 65,
+    "enrolled": 65,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "STEFANEL VASQUEZ MAURICIO"
+    ],
+    "crn": 13298
+  },
+  {
+    "subject": "IIND3000",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROYECTO DE GRADO 1",
+    "capacity": 100,
+    "enrolled": 72,
+    "available": 28,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ HERNANDEZ DIANA CATALINA",
+      "SUAREZ SANCHEZ MARIA MERCEDES"
+    ],
+    "crn": 10119
+  },
+  {
+    "subject": "IIND3000",
+    "section": 2,
+    "credits": 0.0,
+    "title": "PROYECTO DE GRADO 1",
+    "capacity": 105,
+    "enrolled": 107,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ HERNANDEZ DIANA CATALINA",
+      "SUAREZ SANCHEZ MARIA MERCEDES"
+    ],
+    "crn": 15056
+  },
+  {
+    "subject": "IIND3001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO 2",
+    "capacity": 200,
+    "enrolled": 95,
+    "available": 105,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEDAGLIA GONZALEZ ANDRES"
+    ],
+    "crn": 10120
+  },
+  {
+    "subject": "IIND3001",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO 2",
+    "capacity": 30,
+    "enrolled": 9,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GALVEZ REY LUIS EDUARDO"
+    ],
+    "crn": 10121
+  },
+  {
+    "subject": "IIND3001",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO 2",
+    "capacity": 31,
+    "enrolled": 30,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HILARION JULIA"
+    ],
+    "crn": 10455
+  },
+  {
+    "subject": "IIND3001",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO 2",
+    "capacity": 30,
+    "enrolled": 6,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ PALACIOS MIGUEL ANGEL"
+    ],
+    "crn": 13047
+  },
+  {
+    "subject": "IIND3001",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PROYEC GRADO 2 (SIX SIGMA)",
+    "capacity": 30,
+    "enrolled": 11,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "SAMPAYO OLIVEROS ERNESTO FABIAN"
+    ],
+    "crn": 16620
+  },
+  {
+    "subject": "IIND3001",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO 2",
+    "capacity": 30,
+    "enrolled": 7,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ CAJIAO MARIA CATALINA"
+    ],
+    "crn": 16619
+  },
+  {
+    "subject": "IIND3006",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO INTERMEDIO",
+    "capacity": 40,
+    "enrolled": 31,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MELO ZAMBRANO JULIAN DAVID"
+    ],
+    "crn": 10586
+  },
+  {
+    "subject": "IIND3006",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PROY. INT. ING. SIN FRONTERAS",
+    "capacity": 40,
+    "enrolled": 20,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ CAJIAO MARIA CATALINA"
+    ],
+    "crn": 12075
+  },
+  {
+    "subject": "IIND3107",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ING. DE MERCADEO",
+    "capacity": 40,
+    "enrolled": 35,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "TORRES GONZALO"
+    ],
+    "crn": 13432
+  },
+  {
+    "subject": "IIND3113",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SIMULAC. EVENTOS DISCRETOS",
+    "capacity": 63,
+    "enrolled": 62,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CABRALES AREVALO SERGIO ANDRES"
+    ],
+    "crn": 11174
+  },
+  {
+    "subject": "IIND3113",
+    "section": 5,
+    "credits": 3.0,
+    "title": "SIMULAC. EVENTOS DISCRETOS",
+    "capacity": 62,
+    "enrolled": 60,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AMAYA GUIO CIRO ALBERTO"
+    ],
+    "crn": 11224
+  },
+  {
+    "subject": "IIND3113",
+    "section": 9,
+    "credits": 3.0,
+    "title": "SIMULAC. EVENTOS DISCRETOS",
+    "capacity": 60,
+    "enrolled": 48,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "OTERO LEON DANIEL FELIPE"
+    ],
+    "crn": 11225
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HERRERA MOLANO LAURA FERNANDA"
+    ],
+    "crn": 12675
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 26,
+    "enrolled": 25,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "HERRERA MOLANO LAURA FERNANDA"
+    ],
+    "crn": 12672
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "HERRERA MOLANO LAURA FERNANDA"
+    ],
+    "crn": 12676
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HERRAN GARCIA JUAN SEBASTIAN"
+    ],
+    "crn": 12343
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERRAN GARCIA JUAN SEBASTIAN"
+    ],
+    "crn": 12674
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERRAN GARCIA JUAN SEBASTIAN"
+    ],
+    "crn": 13175
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 22,
+    "enrolled": 10,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "URIZA ANTORVEZA PABLO ANDRES"
+    ],
+    "crn": 20411
+  },
+  {
+    "subject": "IIND3113C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "REFUERZO SIMULA. EVENT.DISCRET",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "URIZA ANTORVEZA PABLO ANDRES"
+    ],
+    "crn": 20412
+  },
+  {
+    "subject": "IIND3202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GERENCIA DE PRODUCCION",
+    "capacity": 40,
+    "enrolled": 21,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GALVEZ REY LUIS EDUARDO"
+    ],
+    "crn": 10459
+  },
+  {
+    "subject": "IIND3208",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DES. AVANZADO DE NUEVOS PROD.",
+    "capacity": 40,
+    "enrolled": 10,
+    "available": 30,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1800",
+        "finalHour": "1920"
+      }
+    ],
+    "instructors": [
+      "SAMPER LUIS FELIPE"
+    ],
+    "crn": 19440
+  },
+  {
+    "subject": "IIND3218",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE LA CALIDAD",
+    "capacity": 40,
+    "enrolled": 36,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ ELIECER"
+    ],
+    "crn": 10877
+  },
+  {
+    "subject": "IIND3218C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO FUND. CALIDAD",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RUBIANO ROJAS MARIO ANDRES"
+    ],
+    "crn": 12295
+  },
+  {
+    "subject": "IIND3218C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO FUND. CALIDAD",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RUBIANO ROJAS MARIO ANDRES"
+    ],
+    "crn": 12671
+  },
+  {
+    "subject": "IIND3221",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LOGISTICA",
+    "capacity": 61,
+    "enrolled": 61,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "TORRES DELGADO JOSE FIDEL"
+    ],
+    "crn": 11175
+  },
+  {
+    "subject": "IIND3221",
+    "section": 5,
+    "credits": 3.0,
+    "title": "LOGISTICA",
+    "capacity": 60,
+    "enrolled": 40,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ ELIECER"
+    ],
+    "crn": 11227
+  },
+  {
+    "subject": "IIND3221",
+    "section": 9,
+    "credits": 3.0,
+    "title": "LOGISTICA",
+    "capacity": 62,
+    "enrolled": 62,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SAMPAYO OLIVEROS ERNESTO FABIAN"
+    ],
+    "crn": 11228
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 30,
+    "enrolled": 24,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BETANCOURT HERRERA LUISA FERNANDA"
+    ],
+    "crn": 12344
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "716"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RUIZ MARIN SANDRA MILENA"
+    ],
+    "crn": 12677
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 44,
+    "enrolled": 27,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SERRANO ARIAS JAVIER SANTIAGO"
+    ],
+    "crn": 12678
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 30,
+    "enrolled": 21,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BETANCOURT HERRERA LUISA FERNANDA"
+    ],
+    "crn": 12679
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RUIZ MARIN SANDRA MILENA"
+    ],
+    "crn": 12680
+  },
+  {
+    "subject": "IIND3221C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "REFUERZO LOGÍSTICA",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SERRANO ARIAS JAVIER SANTIAGO"
+    ],
+    "crn": 12681
+  },
+  {
+    "subject": "IIND3301",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS PUBLICOS",
+    "capacity": 50,
+    "enrolled": 29,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ACEVEDO BOHORQUEZ JORGE"
+    ],
+    "crn": 10168
+  },
+  {
+    "subject": "IIND3309",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RELACIONES INDUSTRIALES",
+    "capacity": 56,
+    "enrolled": 57,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SARKIS BASSAM"
+    ],
+    "crn": 19441
+  },
+  {
+    "subject": "IIND3311",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTRATEGIA ORGANIZACIONAL",
+    "capacity": 91,
+    "enrolled": 89,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GARCIA CESAR"
+    ],
+    "crn": 11176
+  },
+  {
+    "subject": "IIND3311",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ESTRATEGIA ORGANIZACIONAL",
+    "capacity": 90,
+    "enrolled": 89,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ PINZON JUAN CAMILO"
+    ],
+    "crn": 11680
+  },
+  {
+    "subject": "IIND3311C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. ESTRAT. ORGANIZACIONAL",
+    "capacity": 47,
+    "enrolled": 45,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ CORTES LIBARDO"
+    ],
+    "crn": 12296
+  },
+  {
+    "subject": "IIND3311C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. ESTRAT. ORGANIZACIONAL",
+    "capacity": 44,
+    "enrolled": 44,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ CORTES LIBARDO"
+    ],
+    "crn": 12496
+  },
+  {
+    "subject": "IIND3311C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL. ESTRAT. ORGANIZACIONAL",
+    "capacity": 47,
+    "enrolled": 47,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ALFONSO CAMACHO CAMILO ANDRES"
+    ],
+    "crn": 12497
+  },
+  {
+    "subject": "IIND3311C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "COMPL. ESTRAT. ORGANIZACIONAL",
+    "capacity": 43,
+    "enrolled": 42,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ALFONSO CAMACHO CAMILO ANDRES"
+    ],
+    "crn": 12498
+  },
+  {
+    "subject": "IIND3312",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EMPREND.INNOVAC.EN INGE",
+    "capacity": 50,
+    "enrolled": 46,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "HILARION JULIA"
+    ],
+    "crn": 13478
+  },
+  {
+    "subject": "IIND3400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FINANZAS",
+    "capacity": 114,
+    "enrolled": 114,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL NAVARRO JULIO"
+    ],
+    "crn": 10752
+  },
+  {
+    "subject": "IIND3400",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FINANZAS",
+    "capacity": 114,
+    "enrolled": 113,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL NAVARRO JULIO"
+    ],
+    "crn": 10158
+  },
+  {
+    "subject": "IIND3402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VALORACION DE EMPRESAS",
+    "capacity": 59,
+    "enrolled": 58,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL NAVARRO JULIO"
+    ],
+    "crn": 13075
+  },
+  {
+    "subject": "IIND3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 200,
+    "enrolled": 97,
+    "available": 103,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13860
+  },
+  {
+    "subject": "IIND4002",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 1",
+    "capacity": 27,
+    "enrolled": 28,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 11315
+  },
+  {
+    "subject": "IIND4005",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO DE INVESTIGACION",
+    "capacity": 40,
+    "enrolled": 9,
+    "available": 31,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA",
+      "GARCIA ARANGO ALBERTO"
+    ],
+    "crn": 10190
+  },
+  {
+    "subject": "IIND4006",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS DE GRADO 2",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 11316
+  },
+  {
+    "subject": "IIND4007",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NIVELATORIO ESTOCASTICOS",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 10396
+  },
+  {
+    "subject": "IIND4008",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NIVELATORIO OPTIMIZACION",
+    "capacity": 17,
+    "enrolled": 17,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 10356
+  },
+  {
+    "subject": "IIND4009",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INTERCAMBIO DE MAESTRIA",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 12050
+  },
+  {
+    "subject": "IIND4010",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO INTERNACIONAL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13861
+  },
+  {
+    "subject": "IIND4011",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS DOBLE DIPLOMA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13862
+  },
+  {
+    "subject": "IIND4100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MODELOS ESTADIST.LINEALES",
+    "capacity": 53,
+    "enrolled": 53,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CORREAL NUÑEZ MARIA ELSA"
+    ],
+    "crn": 10016
+  },
+  {
+    "subject": "IIND4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "OPTIMIZACION AVANZADA",
+    "capacity": 50,
+    "enrolled": 49,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "MEDAGLIA GONZALEZ ANDRES"
+    ],
+    "crn": 10017
+  },
+  {
+    "subject": "IIND4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "METOD.ESTADISTICOS MULTIVAR.",
+    "capacity": 40,
+    "enrolled": 10,
+    "available": 30,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MUTIS GAITAN HERNANDO ENRIQ"
+    ],
+    "crn": 19442
+  },
+  {
+    "subject": "IIND4107",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROCESOS ESTOCASTICOS",
+    "capacity": 40,
+    "enrolled": 22,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AKHAVAN TABATAEI RAHA"
+    ],
+    "crn": 19443
+  },
+  {
+    "subject": "IIND4110",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL INV.OPERACIONES",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "AKHAVAN TABATAEI RAHA"
+    ],
+    "crn": 11069
+  },
+  {
+    "subject": "IIND4200",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MODELOS CONTROL PRODUCC.",
+    "capacity": 50,
+    "enrolled": 47,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AMAYA GUIO CIRO ALBERTO"
+    ],
+    "crn": 10210
+  },
+  {
+    "subject": "IIND4206",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MODELOS DE SISTEMAS LOGISTICOS",
+    "capacity": 40,
+    "enrolled": 6,
+    "available": 34,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "TORRES DELGADO JOSE FIDEL"
+    ],
+    "crn": 19444
+  },
+  {
+    "subject": "IIND4210",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL EN SISTEMAS DE PROD",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TORRES DELGADO JOSE FIDEL"
+    ],
+    "crn": 14365
+  },
+  {
+    "subject": "IIND4213",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO DE EXPERIM. INGE.",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "AKHAVAN TABATAEI RAHA"
+    ],
+    "crn": 11191
+  },
+  {
+    "subject": "IIND4215",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CONTROL DE CALIDAD AVANZADO",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AKHAVAN TABATAEI RAHA"
+    ],
+    "crn": 19445
+  },
+  {
+    "subject": "IIND4223",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROC. SIST. MANUFACT. (INGLES)",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ABOLGHASEM GHAZVINI SEPIDEH"
+    ],
+    "crn": 20298
+  },
+  {
+    "subject": "IIND4303",
+    "section": 1,
+    "credits": 4.0,
+    "title": "APRENDIZAJE ORGANIZACIONAL",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "ZARAMA URDANETA ROBERTO"
+    ],
+    "crn": 19447
+  },
+  {
+    "subject": "IIND4307",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SISTEMAS DE NEGOCIACION",
+    "capacity": 58,
+    "enrolled": 57,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PINZON SALCEDO LUIS"
+    ],
+    "crn": 19849
+  },
+  {
+    "subject": "IIND4317",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL DIREC. Y GESTION",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA CESAR"
+    ],
+    "crn": 13232
+  },
+  {
+    "subject": "IIND4324",
+    "section": 1,
+    "credits": 4.0,
+    "title": "APLIC. Y TEORIA EVOLUTIVA ORG.",
+    "capacity": 31,
+    "enrolled": 31,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "OLAYA NIETO CAMILO ENRIQUE"
+    ],
+    "crn": 19450
+  },
+  {
+    "subject": "IIND4337",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SIMUL.BASADA AGENTES (SIMBA)",
+    "capacity": 40,
+    "enrolled": 23,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GARCIA CESAR"
+    ],
+    "crn": 19452
+  },
+  {
+    "subject": "IIND4403",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEORIA DE LA DECISION",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1600",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CASTILLO HERNANDEZ MARIO JOSE"
+    ],
+    "crn": 10211
+  },
+  {
+    "subject": "IIND4406",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GERENCIA FINANCIERA DEL RIESGO",
+    "capacity": 60,
+    "enrolled": 59,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1900",
+        "finalHour": "2020"
+      }
+    ],
+    "instructors": [
+      "VILLARREAL NAVARRO JULIO"
+    ],
+    "crn": 10202
+  },
+  {
+    "subject": "IIND6002",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13932
+  },
+  {
+    "subject": "IIND6003",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 2",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 14579
+  },
+  {
+    "subject": "IIND6402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA SEMESTRAL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13863
+  },
+  {
+    "subject": "IIND6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE PROPUESTA DOCTORAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13864
+  },
+  {
+    "subject": "IIND6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 4CR",
+    "capacity": 30,
+    "enrolled": 3,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13865
+  },
+  {
+    "subject": "IIND6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 8CR",
+    "capacity": 30,
+    "enrolled": 3,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13866
+  },
+  {
+    "subject": "IIND6982",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TESIS 12CR",
+    "capacity": 30,
+    "enrolled": 3,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13867
+  },
+  {
+    "subject": "IIND6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13868
+  },
+  {
+    "subject": "IIND6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO ARANGO MARCELA"
+    ],
+    "crn": 13869
+  }
+]
