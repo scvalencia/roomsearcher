@@ -1,0 +1,212 @@
+[
+  {
+    "subject": "DCOM5200",
+    "section": 1,
+    "credits": 2.0,
+    "title": "LEGAL ENGLISH",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19216
+  },
+  {
+    "subject": "DCOM5201",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TITULOS VALORES",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19217
+  },
+  {
+    "subject": "DCOM5203",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PROCESOS CONCURSALES",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19952
+  },
+  {
+    "subject": "DCOM5204",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SOCIEDADES",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19218
+  },
+  {
+    "subject": "DCOM5208",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DERECHO DE LA COMPETENCIA",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19219
+  },
+  {
+    "subject": "DCOM5210",
+    "section": 1,
+    "credits": 1.0,
+    "title": "COMERCIO ELECTRONICO",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19220
+  },
+  {
+    "subject": "DCOM5212",
+    "section": 1,
+    "credits": 1.0,
+    "title": "DERECHO DEL CONSUMO",
+    "capacity": 0,
+    "enrolled": 42,
+    "available": -42,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "RGC",
+          "number": "218"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 19221
+  }
+]
