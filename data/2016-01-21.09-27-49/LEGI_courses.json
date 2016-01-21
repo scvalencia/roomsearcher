@@ -1,0 +1,94 @@
+[
+  {
+    "subject": "LEGI5501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ASPECTOS JURIDICOS ECONOMICOS",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GIRALDO BUSTAMANTE CARLOS JULIO",
+      "VARON PALOMINO JUAN CARLOS"
+    ],
+    "crn": 19470
+  },
+  {
+    "subject": "LEGI5503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTERV. ESTADO SECTOR FINANCIE",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GIRALDO BUSTAMANTE CARLOS JULIO"
+    ],
+    "crn": 19472
+  },
+  {
+    "subject": "LEGI5505",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GERENCIA FINANCIERA",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GIRALDO BUSTAMANTE CARLOS JULIO",
+      "SARAVIA RIOS JORGE"
+    ],
+    "crn": 19473
+  }
+]
