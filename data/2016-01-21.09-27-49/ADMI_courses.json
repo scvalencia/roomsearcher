@@ -1,0 +1,3870 @@
+[
+  {
+    "subject": "ADMI1101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAM.ADMON Y GERENCIA (ADMI)",
+    "capacity": 100,
+    "enrolled": 104,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "OROZCO SILVA LUIS ENRIQUE",
+      "DIAZ MATAJIRA LUIS"
+    ],
+    "crn": 10126
+  },
+  {
+    "subject": "ADMI1102",
+    "section": 4,
+    "credits": 3.0,
+    "title": "FUNDAM.ADMON Y GERENCIA",
+    "capacity": 120,
+    "enrolled": 112,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUE CARLOS",
+      "CASTILLO GUTIERREZ JUAN PABLO",
+      "PERALTA GUSTAVO"
+    ],
+    "crn": 11411
+  },
+  {
+    "subject": "ADMI1102",
+    "section": 5,
+    "credits": 3.0,
+    "title": "FUNDAM.ADMON Y GERENCIA",
+    "capacity": 120,
+    "enrolled": 70,
+    "available": 50,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUE CARLOS"
+    ],
+    "crn": 12116
+  },
+  {
+    "subject": "ADMI1102",
+    "section": 6,
+    "credits": 3.0,
+    "title": "FUNDAM.ADMON Y GEREN. (INGLES)",
+    "capacity": 40,
+    "enrolled": 13,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "FERRO CALVO MAURICIO"
+    ],
+    "crn": 21175
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 33,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PERALTA GUSTAVO"
+    ],
+    "crn": 20624
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SCHNARCH GONZALEZ DAVID"
+    ],
+    "crn": 20666
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CASTILLO GUTIERREZ JUAN PABLO"
+    ],
+    "crn": 20669
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 13,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "RUIZ GUTIERREZ JAIME ALBERTO"
+    ],
+    "crn": 20673
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SCHNARCH GONZALEZ DAVID"
+    ],
+    "crn": 20675
+  },
+  {
+    "subject": "ADMI1102C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "FUNDAM.ADMON Y GERENCIA COMPL",
+    "capacity": 40,
+    "enrolled": 18,
+    "available": 22,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "TRUJILLO DIANA"
+    ],
+    "crn": 20676
+  },
+  {
+    "subject": "ADMI1190",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SERVICIOS ECOSISTÉMIC.(INGLES)",
+    "capacity": 50,
+    "enrolled": 61,
+    "available": -11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "PARK JOO YOUNG"
+    ],
+    "crn": 17184
+  },
+  {
+    "subject": "ADMI1190",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SERVICIOS ECOSISTÉMICOS",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LINK OSPINA ANDRES"
+    ],
+    "crn": 20646
+  },
+  {
+    "subject": "ADMI1190",
+    "section": 3,
+    "credits": 3.0,
+    "title": "SERVICIOS ECOSISTÉMICOS",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LINK OSPINA ANDRES"
+    ],
+    "crn": 20647
+  },
+  {
+    "subject": "ADMI1203",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FINANZAS 1:PLANEACION",
+    "capacity": 52,
+    "enrolled": 52,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BAUTISTA MENA RAFAEL DE JESUS"
+    ],
+    "crn": 10131
+  },
+  {
+    "subject": "ADMI1203",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FINANZAS 1: PLANEACION",
+    "capacity": 50,
+    "enrolled": 34,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FUENTES FRIAS DARIO ALEJANDRO"
+    ],
+    "crn": 20816
+  },
+  {
+    "subject": "ADMI1203",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FINANZAS 1: PLANEACION",
+    "capacity": 50,
+    "enrolled": 42,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BAUTISTA MENA RAFAEL DE JESUS"
+    ],
+    "crn": 12118
+  },
+  {
+    "subject": "ADMI1203",
+    "section": 4,
+    "credits": 3.0,
+    "title": "FINANZAS 1: PLANEACION",
+    "capacity": 50,
+    "enrolled": 49,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LOPEZ FAJARDO MARIANO ALBERTO"
+    ],
+    "crn": 11123
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ CORTES CARLOS ANDRES"
+    ],
+    "crn": 12174
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 2,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "DIAZ VELASCO JOSE DARIO"
+    ],
+    "crn": 11017
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 3,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 38,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108B"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "DIAZ VELASCO JOSE DARIO"
+    ],
+    "crn": 11019
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 4,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CACERES PORRAS MARTHA CONSTANZA"
+    ],
+    "crn": 11021
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 5,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "CACERES PORRAS MARTHA CONSTANZA"
+    ],
+    "crn": 11022
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 6,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ CORTES CARLOS ANDRES"
+    ],
+    "crn": 13124
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 7,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "URBINA FLOREZ ANDRES GUILLERMO"
+    ],
+    "crn": 13125
+  },
+  {
+    "subject": "ADMI1401",
+    "section": 8,
+    "credits": 1.0,
+    "title": "TALLER HABILIDADES INFORMATICA",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "RESTREPO SARMIENTO JORGE ARTURO"
+    ],
+    "crn": 18583
+  },
+  {
+    "subject": "ADMI1590",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER DE CREATIVIDAD",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "COLMENARES MISAS CARLOS FELIPE"
+    ],
+    "crn": 17185
+  },
+  {
+    "subject": "ADMI1590",
+    "section": 2,
+    "credits": 1.0,
+    "title": "TALLER DE CREATIVIDAD",
+    "capacity": 50,
+    "enrolled": 45,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "COLMENARES MISAS CARLOS FELIPE"
+    ],
+    "crn": 20917
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "URIBE ARBELAEZ SOFIA"
+    ],
+    "crn": 11013
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 2,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TRIANA QUIJANO ADRIANA FERNAN"
+    ],
+    "crn": 13920
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 3,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MUNOZ CIFUENTES JESUS"
+    ],
+    "crn": 11014
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 4,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 18,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BERNAL VARGAS LUZ STELLA"
+    ],
+    "crn": 11015
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 5,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 20,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LLANOS PAEZ SARA HELENA"
+    ],
+    "crn": 13123
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 6,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "208"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "TRIANA QUIJANO ADRIANA FERNAN"
+    ],
+    "crn": 17132
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 7,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "URIBE ARBELAEZ SOFIA"
+    ],
+    "crn": 18587
+  },
+  {
+    "subject": "ADMI1602",
+    "section": 8,
+    "credits": 1.0,
+    "title": "TALLER AUTOCONOCIMIENTO",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LEON DIAZ INGRID MARCELA"
+    ],
+    "crn": 20817
+  },
+  {
+    "subject": "ADMI1603",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPORT. ORGANIZACIONAL",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "614"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OTALORA MONTENEGRO GUILLERMO"
+    ],
+    "crn": 10133
+  },
+  {
+    "subject": "ADMI1603",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COMPORT. ORGANIZACIONAL",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OTALORA MONTENEGRO GUILLERMO"
+    ],
+    "crn": 11131
+  },
+  {
+    "subject": "ADMI1603",
+    "section": 3,
+    "credits": 3.0,
+    "title": "COMPORT. ORGANIZACIONAL",
+    "capacity": 40,
+    "enrolled": 44,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SALGADO CONSUEGRA ELVIRA ISABEL"
+    ],
+    "crn": 10134
+  },
+  {
+    "subject": "ADMI2104B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DESARROLLO EMPRES.COL",
+    "capacity": 53,
+    "enrolled": 53,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MOLINA LONDONO LUIS FERNANDO"
+    ],
+    "crn": 11547
+  },
+  {
+    "subject": "ADMI2104B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "HISTORIA DESARROLLO EMPRES.COL",
+    "capacity": 187,
+    "enrolled": 149,
+    "available": 38,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MOLINA LONDONO LUIS FERNANDO"
+    ],
+    "crn": 21174
+  },
+  {
+    "subject": "ADMI2104B",
+    "section": 3,
+    "credits": 3.0,
+    "title": "HISTORIA DESARROLLO EMPRES.COL",
+    "capacity": 37,
+    "enrolled": 37,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MOLINA LONDONO LUIS FERNANDO"
+    ],
+    "crn": 13121
+  },
+  {
+    "subject": "ADMI2104B",
+    "section": 4,
+    "credits": 3.0,
+    "title": "HISTORIA DESARROLLO EMPRES.COL",
+    "capacity": 62,
+    "enrolled": 61,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "716"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MEISEL ROCA ADOLFO ENRIQUE"
+    ],
+    "crn": 15131
+  },
+  {
+    "subject": "ADMI2106",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RESPONSABILIDAD SOCIAL INGLES",
+    "capacity": 50,
+    "enrolled": 60,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RUEDA FAJARDO XIMENA"
+    ],
+    "crn": 10637
+  },
+  {
+    "subject": "ADMI2106",
+    "section": 2,
+    "credits": 3.0,
+    "title": "RESPONSABILIDAD SOCIAL",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PRIETO MENDEZ ANDRES"
+    ],
+    "crn": 11216
+  },
+  {
+    "subject": "ADMI2106",
+    "section": 3,
+    "credits": 3.0,
+    "title": "RESPONSABILIDAD SOCIAL",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "FRANCO BORRERO NATHALIA",
+      "REFICCO EZEQUIEL ALEJANDRO MARTIN"
+    ],
+    "crn": 10135
+  },
+  {
+    "subject": "ADMI2107",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GERENCIA DE RECURSOS HUMANOS",
+    "capacity": 50,
+    "enrolled": 34,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ROZO POSADA PAULA LILIANA",
+      "FERRUFINO ECHEVERRY CLAUDIA ANDREA"
+    ],
+    "crn": 10427
+  },
+  {
+    "subject": "ADMI2107",
+    "section": 2,
+    "credits": 3.0,
+    "title": "GERENCIA DE RECURSOS HUMANOS",
+    "capacity": 50,
+    "enrolled": 33,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AMAYA GONZALEZ RENATA",
+      "BAQUERO FANDIÑO DIANA VICTORIA"
+    ],
+    "crn": 10502
+  },
+  {
+    "subject": "ADMI2107",
+    "section": 3,
+    "credits": 3.0,
+    "title": "GERENCIA DE RECURSOS HUMANOS",
+    "capacity": 51,
+    "enrolled": 50,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BAQUERO FANDIÑO DIANA VICTORIA",
+      "GOMEZ ORDOÑEZ MARGARITA MARIA"
+    ],
+    "crn": 13205
+  },
+  {
+    "subject": "ADMI2204",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FINANZAS 2: INVERSION",
+    "capacity": 50,
+    "enrolled": 29,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BURBANO ANTONIO JOSE"
+    ],
+    "crn": 10136
+  },
+  {
+    "subject": "ADMI2204",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FINANZAS 2: INVERSION",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MORA VALENCIA ANDRES"
+    ],
+    "crn": 10137
+  },
+  {
+    "subject": "ADMI2204",
+    "section": 4,
+    "credits": 3.0,
+    "title": "FINANZAS 2: INVERSION",
+    "capacity": 50,
+    "enrolled": 43,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CARDONA MAGNE EMILIO"
+    ],
+    "crn": 11425
+  },
+  {
+    "subject": "ADMI2204",
+    "section": 5,
+    "credits": 3.0,
+    "title": "FINANZAS 2: INVERSION",
+    "capacity": 52,
+    "enrolled": 51,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARDONA MAGNE EMILIO"
+    ],
+    "crn": 18596
+  },
+  {
+    "subject": "ADMI2205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FINANZAS 3: ESTRATEGIA",
+    "capacity": 50,
+    "enrolled": 38,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BAUTISTA MENA RAFAEL DE JESUS"
+    ],
+    "crn": 10138
+  },
+  {
+    "subject": "ADMI2205",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FINANZAS 3:ESTRATEGIA",
+    "capacity": 52,
+    "enrolled": 52,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ SALAZAR GIOVANNI"
+    ],
+    "crn": 11426
+  },
+  {
+    "subject": "ADMI2205",
+    "section": 4,
+    "credits": 3.0,
+    "title": "FINANZAS 3: ESTRATEGIA",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ SALAZAR GIOVANNI"
+    ],
+    "crn": 13923
+  },
+  {
+    "subject": "ADMI2206",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COMPORTAM.CONSUMIDOR (INGLES)",
+    "capacity": 50,
+    "enrolled": 35,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TRUJILLO CARLOS ANDRES"
+    ],
+    "crn": 20822
+  },
+  {
+    "subject": "ADMI2206",
+    "section": 6,
+    "credits": 3.0,
+    "title": "COMPORTAMIENTO DEL CONSUMIDOR",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "TRUJILLO CARLOS ANDRES"
+    ],
+    "crn": 14896
+  },
+  {
+    "subject": "ADMI2207",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COLOMBIA Y SUS INSTIT.(ADMON)",
+    "capacity": 45,
+    "enrolled": 46,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "WILLS HERRERA EDUARDO"
+    ],
+    "crn": 13554
+  },
+  {
+    "subject": "ADMI2207",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COLOMBIA Y SUS INSTIT. (ADMON)",
+    "capacity": 45,
+    "enrolled": 50,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OROZCO SILVA LUIS ENRIQUE"
+    ],
+    "crn": 10444
+  },
+  {
+    "subject": "ADMI2207",
+    "section": 3,
+    "credits": 3.0,
+    "title": "COLOMBIA Y SUS INSTITUCIONES",
+    "capacity": 45,
+    "enrolled": 47,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CASTILLO VALLEJO ALEJANDRO"
+    ],
+    "crn": 12119
+  },
+  {
+    "subject": "ADMI2207",
+    "section": 5,
+    "credits": 3.0,
+    "title": "COLOMBIA Y SUS INSTITUCIONES",
+    "capacity": 45,
+    "enrolled": 47,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "110"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CASTILLO VALLEJO ALEJANDRO"
+    ],
+    "crn": 14899
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS MERCADEO (INGLES)",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "WILSON BRADLEY JAIMES"
+    ],
+    "crn": 13604
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE MERCADEO",
+    "capacity": 50,
+    "enrolled": 60,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESTRADA MEJIA CATALINA"
+    ],
+    "crn": 10665
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 5,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE MERCADEO",
+    "capacity": 50,
+    "enrolled": 60,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PEREZ CIFUENTES GABRIEL"
+    ],
+    "crn": 10139
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 6,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE MERCADEO",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOMBANA ROA JUAN JOSE"
+    ],
+    "crn": 13266
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 7,
+    "credits": 3.0,
+    "title": "FUNDAM.MERCADEO (ADMON-INGLES)",
+    "capacity": 50,
+    "enrolled": 60,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "WILSON BRADLEY JAIMES"
+    ],
+    "crn": 13606
+  },
+  {
+    "subject": "ADMI2301",
+    "section": 8,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE MERCADEO",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ROJAS MURCIA DANIEL EDUARDO"
+    ],
+    "crn": 18597
+  },
+  {
+    "subject": "ADMI2302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVESTIGACION DE MERCADOS",
+    "capacity": 50,
+    "enrolled": 33,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRIOS FAJARDO ANDRES ALBERTO"
+    ],
+    "crn": 10140
+  },
+  {
+    "subject": "ADMI2302",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INVESTIGACION DE MERCADOS",
+    "capacity": 50,
+    "enrolled": 31,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "704"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PAREJA FIGUEREDO DIANA MARCELA"
+    ],
+    "crn": 10180
+  },
+  {
+    "subject": "ADMI2302",
+    "section": 3,
+    "credits": 3.0,
+    "title": "INVESTIGACION DE MERCADOS",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ FALLA FELIPE ANDRES"
+    ],
+    "crn": 20900
+  },
+  {
+    "subject": "ADMI2403",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OPERACIONES Y LOGISTICA",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SOTO JUAN PABLO"
+    ],
+    "crn": 11122
+  },
+  {
+    "subject": "ADMI2403",
+    "section": 2,
+    "credits": 3.0,
+    "title": "OPERACIONES Y LOGISTICA",
+    "capacity": 50,
+    "enrolled": 21,
+    "available": 29,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BRITTO RODRIGO"
+    ],
+    "crn": 13207
+  },
+  {
+    "subject": "ADMI2403",
+    "section": 4,
+    "credits": 3.0,
+    "title": "OPERACIONES Y LOGIST. (INGLES)",
+    "capacity": 50,
+    "enrolled": 28,
+    "available": 22,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "THIELL MARCUS"
+    ],
+    "crn": 13556
+  },
+  {
+    "subject": "ADMI2501",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ANALISIS ENTORNO COLOMBIANO",
+    "capacity": 40,
+    "enrolled": 33,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BARRIGA PALACIO JORGE RICARDO"
+    ],
+    "crn": 20826
+  },
+  {
+    "subject": "ADMI2501",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ANALISIS ENTORNO COLOMBIANO",
+    "capacity": 51,
+    "enrolled": 56,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "304"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BARRIGA PALACIO JORGE RICARDO",
+      "MARTINEZ GAITAN JAIME BERNARDO"
+    ],
+    "crn": 20827
+  },
+  {
+    "subject": "ADMI2501",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ANALISIS ENTORNO COLOMBIANO",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MONTES JUAN CARLOS"
+    ],
+    "crn": 16683
+  },
+  {
+    "subject": "ADMI2557",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HERRAMIENTAS TOMA DECI II",
+    "capacity": 40,
+    "enrolled": 25,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BRITTO RODRIGO"
+    ],
+    "crn": 20657
+  },
+  {
+    "subject": "ADMI2557",
+    "section": 2,
+    "credits": 3.0,
+    "title": "HERRAMIENTAS TOMA DECI II",
+    "capacity": 40,
+    "enrolled": 38,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VELASCO NUBIA"
+    ],
+    "crn": 20856
+  },
+  {
+    "subject": "ADMI2557",
+    "section": 3,
+    "credits": 3.0,
+    "title": "HERRAMIENTAS TOMA DECI II",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "OROZCO LUZ ELENA"
+    ],
+    "crn": 20858
+  },
+  {
+    "subject": "ADMI2557",
+    "section": 5,
+    "credits": 3.0,
+    "title": "HERRAMIENTAS TOMA DECI II",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OROZCO LUZ ELENA"
+    ],
+    "crn": 20867
+  },
+  {
+    "subject": "ADMI2605",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUEVARA CAMILO"
+    ],
+    "crn": 14023
+  },
+  {
+    "subject": "ADMI2605",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 50,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUEVARA CAMILO"
+    ],
+    "crn": 14031
+  },
+  {
+    "subject": "ADMI2605",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RUIZ GUTIERREZ JAIME ALBERTO"
+    ],
+    "crn": 14032
+  },
+  {
+    "subject": "ADMI2605",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MILANES LAURA"
+    ],
+    "crn": 14085
+  },
+  {
+    "subject": "ADMI2605",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MILANES LAURA"
+    ],
+    "crn": 18601
+  },
+  {
+    "subject": "ADMI2801",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LA GESTION DE LO PUBLICO",
+    "capacity": 55,
+    "enrolled": 52,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VELEZ LESMEZ MARIA ALEJANDRA"
+    ],
+    "crn": 10142
+  },
+  {
+    "subject": "ADMI2801",
+    "section": 2,
+    "credits": 3.0,
+    "title": "LA GESTION DE LO PUBLICO",
+    "capacity": 55,
+    "enrolled": 48,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "TRUJILLO DIANA"
+    ],
+    "crn": 13011
+  },
+  {
+    "subject": "ADMI2801",
+    "section": 3,
+    "credits": 3.0,
+    "title": "LA GESTION DE LO PUBLICO",
+    "capacity": 55,
+    "enrolled": 55,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AZUERO ZUÑIGA FRANCISCO"
+    ],
+    "crn": 13746
+  },
+  {
+    "subject": "ADMI3107",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CASOS Y PROYECTOS EN ADMON",
+    "capacity": 55,
+    "enrolled": 56,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SERVANTIE VINCIANE MARIE CATHERINE"
+    ],
+    "crn": 16942
+  },
+  {
+    "subject": "ADMI3107",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CASOS Y PROYECTOS EN ADMON",
+    "capacity": 56,
+    "enrolled": 58,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AZUERO ISAZA MARCO ANTONIO",
+      "PLATIN CANO JUAN CAMILO",
+      "LOPEZ VANMEEK MARIA DEL PILAR"
+    ],
+    "crn": 13287
+  },
+  {
+    "subject": "ADMI3109",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PLANES DE NEGOCIOS",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ALVARADO ANDRES JOSE"
+    ],
+    "crn": 13122
+  },
+  {
+    "subject": "ADMI3110",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EMPRENDI. INNOVACION.(INGLES)",
+    "capacity": 32,
+    "enrolled": 31,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VESGA RAFAEL"
+    ],
+    "crn": 10837
+  },
+  {
+    "subject": "ADMI3110",
+    "section": 2,
+    "credits": 3.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 31,
+    "enrolled": 33,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ESTRADA PRADA FELIPE"
+    ],
+    "crn": 12462
+  },
+  {
+    "subject": "ADMI3110",
+    "section": 4,
+    "credits": 3.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 30,
+    "enrolled": 33,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ MORA JORGE ALBERTO"
+    ],
+    "crn": 10859
+  },
+  {
+    "subject": "ADMI3110",
+    "section": 5,
+    "credits": 3.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 31,
+    "enrolled": 30,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ALVARADO ANDRES JOSE"
+    ],
+    "crn": 13560
+  },
+  {
+    "subject": "ADMI3110",
+    "section": 6,
+    "credits": 3.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ POVEDA ROBERTO"
+    ],
+    "crn": 14951
+  },
+  {
+    "subject": "ADMI3122",
+    "section": 1,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 35,
+    "enrolled": 31,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LOPEZ FAJARDO MARIANO ALBERTO"
+    ],
+    "crn": 10144
+  },
+  {
+    "subject": "ADMI3122",
+    "section": 2,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "YAÑEZ ARENAS JAVIER"
+    ],
+    "crn": 18608
+  },
+  {
+    "subject": "ADMI3122",
+    "section": 3,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 35,
+    "enrolled": 23,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "FUENTES FRIAS DARIO ALEJANDRO"
+    ],
+    "crn": 13557
+  },
+  {
+    "subject": "ADMI3122",
+    "section": 4,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 35,
+    "enrolled": 36,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "BRITTO RODRIGO"
+    ],
+    "crn": 13924
+  },
+  {
+    "subject": "ADMI3128B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GESTION CULTURAL",
+    "capacity": 54,
+    "enrolled": 53,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RUIZ GUTIERREZ JAIME ALBERTO"
+    ],
+    "crn": 10671
+  },
+  {
+    "subject": "ADMI3133B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GERENCIA AMBIENTAL (INGLES)",
+    "capacity": 57,
+    "enrolled": 30,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PARK JOO YOUNG"
+    ],
+    "crn": 13228
+  },
+  {
+    "subject": "ADMI3135B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CINE MEDIO AMBIENTE Y SOCIEDAD",
+    "capacity": 57,
+    "enrolled": 57,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ BECERRA MANUEL"
+    ],
+    "crn": 17186
+  },
+  {
+    "subject": "ADMI3137",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MODELOS DE LIDERAZGO",
+    "capacity": 50,
+    "enrolled": 13,
+    "available": 37,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LEON DIAZ INGRID MARCELA"
+    ],
+    "crn": 14504
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OPCION DE GRADO-TG (ESTRATEGIA",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "FERRO CORTES LUZ MARINA"
+    ],
+    "crn": 10808
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 2,
+    "credits": 3.0,
+    "title": "OPCION DE GRADO-TG (MERCADEO)",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OSPINA SILVA JOSE MIGUEL"
+    ],
+    "crn": 13761
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 3,
+    "credits": 3.0,
+    "title": "OPCION DE GRADO-TG (FINANZAS)",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "T",
+          "number": "205"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "POMBO VEJARANO CARLOS"
+    ],
+    "crn": 13762
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 4,
+    "credits": 3.0,
+    "title": "OPCION DE GRADO-TG (GEST Y ORG",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "PAEZ MARTINEZ HOLMES JULIAN"
+    ],
+    "crn": 13763
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 5,
+    "credits": 3.0,
+    "title": "OPCION DE GRADO - ASIS. INVEST",
+    "capacity": 100,
+    "enrolled": 78,
+    "available": 22,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DIAZ MATAJIRA LUIS"
+    ],
+    "crn": 10861
+  },
+  {
+    "subject": "ADMI3200",
+    "section": 7,
+    "credits": 3.0,
+    "title": "OPCION GRADO - SEM.EMPREND.FEM",
+    "capacity": 17,
+    "enrolled": 5,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FERRO CORTES LUZ MARINA"
+    ],
+    "crn": 20923
+  },
+  {
+    "subject": "ADMI3205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FINANZAS PERSONALES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ RAGA SANTIAGO"
+    ],
+    "crn": 11998
+  },
+  {
+    "subject": "ADMI3207",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MERCADO DE CAPITALES",
+    "capacity": 48,
+    "enrolled": 47,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ RAGA SANTIAGO"
+    ],
+    "crn": 10145
+  },
+  {
+    "subject": "ADMI3237",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MARKETING COMMUNICATIONS",
+    "capacity": 30,
+    "enrolled": 14,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "603"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "WILSON BRADLEY JAIMES"
+    ],
+    "crn": 19134
+  },
+  {
+    "subject": "ADMI3238",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MERCADEO VERDE",
+    "capacity": 30,
+    "enrolled": 10,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ARIAS PUENTES CLAUDIA PATRICIA"
+    ],
+    "crn": 20678
+  },
+  {
+    "subject": "ADMI3313",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SALES AND DISTR MANAGEM (INGL)",
+    "capacity": 45,
+    "enrolled": 19,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GARCIA GARCIA ARMANDO"
+    ],
+    "crn": 14505
+  },
+  {
+    "subject": "ADMI3335",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FINANCIACIÓN DE EMPRENDIMIENT",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ALVARADO ANDRES JOSE"
+    ],
+    "crn": 17430
+  },
+  {
+    "subject": "ADMI3405",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGIA E INFORMAC.(INGLES)",
+    "capacity": 51,
+    "enrolled": 50,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CAMACHO AHUMADA SONIA MARCELA"
+    ],
+    "crn": 10147
+  },
+  {
+    "subject": "ADMI3405",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TECNOLOGIA E INFORMACION",
+    "capacity": 52,
+    "enrolled": 51,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "703"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CAMACHO AHUMADA SONIA MARCELA"
+    ],
+    "crn": 10148
+  },
+  {
+    "subject": "ADMI3405",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TECNOLOGIA E INFORMACION",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RUIZ VALDIVIESO MAURICIO"
+    ],
+    "crn": 18615
+  },
+  {
+    "subject": "ADMI3431",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MARKETING DIGITAL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VENEGAS SANCHEZ MARIA CAMILA"
+    ],
+    "crn": 17432
+  },
+  {
+    "subject": "ADMI3502",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTRATEGIA",
+    "capacity": 50,
+    "enrolled": 53,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "YAÑEZ ARENAS JAVIER"
+    ],
+    "crn": 10149
+  },
+  {
+    "subject": "ADMI3502",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ESTRATEGIA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MONTES JUAN CARLOS"
+    ],
+    "crn": 10407
+  },
+  {
+    "subject": "ADMI3502",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ESTRATEGIA (INGLES)",
+    "capacity": 65,
+    "enrolled": 12,
+    "available": 53,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ POVEDA ROBERTO"
+    ],
+    "crn": 12463
+  },
+  {
+    "subject": "ADMI3601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALL. HABILIDADES GERENC.",
+    "capacity": 35,
+    "enrolled": 27,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MUNOZ CIFUENTES JESUS"
+    ],
+    "crn": 10132
+  },
+  {
+    "subject": "ADMI3601",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALL. HABILIDADES GERENC.",
+    "capacity": 45,
+    "enrolled": 27,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MUNOZ CIFUENTES JESUS"
+    ],
+    "crn": 18819
+  },
+  {
+    "subject": "ADMI3604",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE INNOVACION",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VESGA RAFAEL"
+    ],
+    "crn": 10898
+  },
+  {
+    "subject": "ADMI3606",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTRATEGIAS DE NEGOCIACION",
+    "capacity": 34,
+    "enrolled": 34,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AZUERO ISAZA MARCO ANTONIO"
+    ],
+    "crn": 17433
+  },
+  {
+    "subject": "ADMI3610",
+    "section": 3,
+    "credits": 3.0,
+    "title": "THINK OR SINK",
+    "capacity": 50,
+    "enrolled": 27,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ COUTURE GUSTAVO ALFONSO"
+    ],
+    "crn": 20681
+  },
+  {
+    "subject": "ADMI3611",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ALIMENTOS Y OPORTUN.EMPRENDED.",
+    "capacity": 40,
+    "enrolled": 38,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ COUTURE GUSTAVO ALFONSO"
+    ],
+    "crn": 20682
+  },
+  {
+    "subject": "ADMI3615",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MERCADEO DEPORTIVO",
+    "capacity": 50,
+    "enrolled": 35,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LLORENTE CARREÑO ALVARO"
+    ],
+    "crn": 11291
+  },
+  {
+    "subject": "ADMI3701",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NEGOCIOS INTERNACIONALES",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GARCIA DUQUE JUANA CATALINA"
+    ],
+    "crn": 11132
+  },
+  {
+    "subject": "ADMI3701",
+    "section": 2,
+    "credits": 3.0,
+    "title": "NEGOCIOS INTERNACIONALES",
+    "capacity": 51,
+    "enrolled": 50,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CARRILLO JUAN"
+    ],
+    "crn": 10150
+  },
+  {
+    "subject": "ADMI3701",
+    "section": 3,
+    "credits": 3.0,
+    "title": "NEGOCIOS INTERNALES (INGLES)",
+    "capacity": 50,
+    "enrolled": 44,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BARRIGA PALACIO JORGE RICARDO"
+    ],
+    "crn": 12120
+  },
+  {
+    "subject": "ADMI3705",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MERCADOS EMERGENTES",
+    "capacity": 45,
+    "enrolled": 17,
+    "available": 28,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GARCIA DUQUE JUANA CATALINA",
+      "CARRILLO JUAN"
+    ],
+    "crn": 20873
+  },
+  {
+    "subject": "ADMI3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 200,
+    "enrolled": 41,
+    "available": 159,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DIAZ MATAJIRA LUIS"
+    ],
+    "crn": 13702
+  },
+  {
+    "subject": "ADMI3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA EMPRESARIAL",
+    "capacity": 100,
+    "enrolled": 51,
+    "available": 49,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DIAZ MATAJIRA LUIS"
+    ],
+    "crn": 10900
+  }
+]
