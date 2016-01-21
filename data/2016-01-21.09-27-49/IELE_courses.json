@@ -1,0 +1,3761 @@
+[
+  {
+    "subject": "IELE1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTR. A LA INGENIERIA ELECTR.",
+    "capacity": 54,
+    "enrolled": 54,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS"
+    ],
+    "crn": 16750
+  },
+  {
+    "subject": "IELE1000",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INTR. A LA INGENIERIA ELECTR.",
+    "capacity": 54,
+    "enrolled": 52,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 20879
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 10,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 12592
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13115
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 16757
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 10,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 16764
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 10,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 16765
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20889
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20892
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20895
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 9,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "114"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20897
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 7,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20898
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 8,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20899
+  },
+  {
+    "subject": "IELE1000C",
+    "section": 12,
+    "credits": 0.0,
+    "title": "COMPL INTR. INGENIERIA ELECTR",
+    "capacity": 9,
+    "enrolled": 7,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20901
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 21,
+    "enrolled": 19,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "RODRIGUEZ HOYOS JUAN DIEGO",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 16766
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS"
+    ],
+    "crn": 16767
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 21,
+    "enrolled": 21,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "PAZMIÑO CAMILO ERNESTO",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 16768
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 21,
+    "enrolled": 20,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "DIAZ MEDINA CARLOS HUMBERTO",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 20902
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 21,
+    "enrolled": 25,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "DUARTE SANCHEZ DANIEL FELIPE",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 20903
+  },
+  {
+    "subject": "IELE1000L",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB.INTR.ING.ELECTRI Y ELECT",
+    "capacity": 21,
+    "enrolled": 21,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "CASTRO LANCHEROS ANGEL ALBERTO",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 20904
+  },
+  {
+    "subject": "IELE1002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE CIRCUITOS",
+    "capacity": 34,
+    "enrolled": 38,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "CANU MICHAEL JACQUES ALBERT"
+    ],
+    "crn": 12095
+  },
+  {
+    "subject": "IELE1002",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE CIRCUITOS",
+    "capacity": 34,
+    "enrolled": 28,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "CANU MICHAEL JACQUES ALBERT"
+    ],
+    "crn": 20906
+  },
+  {
+    "subject": "IELE1002L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "RODRIGUEZ HOYOS JUAN DIEGO"
+    ],
+    "crn": 13618
+  },
+  {
+    "subject": "IELE1002L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "RODRIGUEZ HOYOS JUAN DIEGO"
+    ],
+    "crn": 13619
+  },
+  {
+    "subject": "IELE1002L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "RODRIGUEZ HOYOS JUAN DIEGO"
+    ],
+    "crn": 14092
+  },
+  {
+    "subject": "IELE1002L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "0900",
+        "finalHour": "1020"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "RODRIGUEZ HOYOS JUAN DIEGO"
+    ],
+    "crn": 14133
+  },
+  {
+    "subject": "IELE1006",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS DE CIRCUITOS",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "URIBE MURIEL REINALDO AUGUSTO"
+    ],
+    "crn": 13425
+  },
+  {
+    "subject": "IELE1006",
+    "section": 2,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS DE CIRCUITOS",
+    "capacity": 30,
+    "enrolled": 26,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO"
+    ],
+    "crn": 20914
+  },
+  {
+    "subject": "IELE1006L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 3,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MARTINEZ MONTAÑA DANIEL ALBERTO"
+    ],
+    "crn": 13630
+  },
+  {
+    "subject": "IELE1006L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 13,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MARTINEZ MONTAÑA DANIEL ALBERTO"
+    ],
+    "crn": 13631
+  },
+  {
+    "subject": "IELE1006L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 10,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MARTINEZ MONTAÑA DANIEL ALBERTO"
+    ],
+    "crn": 15220
+  },
+  {
+    "subject": "IELE1006L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 8,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1230",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MARTINEZ MONTAÑA DANIEL ALBERTO"
+    ],
+    "crn": 15269
+  },
+  {
+    "subject": "IELE1006L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.FUNDAMENTOS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 8,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1230",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MARTINEZ MONTAÑA DANIEL ALBERTO"
+    ],
+    "crn": 16771
+  },
+  {
+    "subject": "IELE1010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIRCUITOS E INSTRUMENTACION",
+    "capacity": 48,
+    "enrolled": 36,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO"
+    ],
+    "crn": 13288
+  },
+  {
+    "subject": "IELE1010C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. CIRCUITOS INSTRUMENTAC",
+    "capacity": 48,
+    "enrolled": 36,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "0700",
+        "finalHour": "0750"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MONROY CARDENAS DIEGO ANDRES"
+    ],
+    "crn": 13299
+  },
+  {
+    "subject": "IELE1010L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. CIRCUITOS INSTRUMENTACION",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MONROY CARDENAS DIEGO ANDRES"
+    ],
+    "crn": 13281
+  },
+  {
+    "subject": "IELE1010L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. CIRCUITOS INSTRUMENTACION",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MONROY CARDENAS DIEGO ANDRES"
+    ],
+    "crn": 14856
+  },
+  {
+    "subject": "IELE1010L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. CIRCUITOS INSTRUMENTACION",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ANTONIO",
+      "MONROY CARDENAS DIEGO ANDRES"
+    ],
+    "crn": 18681
+  },
+  {
+    "subject": "IELE1400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE REDES",
+    "capacity": 54,
+    "enrolled": 56,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO"
+    ],
+    "crn": 13426
+  },
+  {
+    "subject": "IELE1400C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL FUNDAMENTOS DE REDES",
+    "capacity": 54,
+    "enrolled": 56,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "BECERRA PAREJA JORGE MARIO"
+    ],
+    "crn": 18590
+  },
+  {
+    "subject": "IELE1400L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB FUNDAMENTOS DE REDES",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "BECERRA PAREJA JORGE MARIO"
+    ],
+    "crn": 13633
+  },
+  {
+    "subject": "IELE1400L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB FUNDAMENTOS DE REDES",
+    "capacity": 30,
+    "enrolled": 33,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "BECERRA PAREJA JORGE MARIO"
+    ],
+    "crn": 14858
+  },
+  {
+    "subject": "IELE1502",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS DINÁMICOS",
+    "capacity": 64,
+    "enrolled": 41,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO"
+    ],
+    "crn": 13428
+  },
+  {
+    "subject": "IELE1502L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. SISTEMAS DINAMICOS",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "SUAREZ DIAZ ANGELICA MARIA"
+    ],
+    "crn": 13609
+  },
+  {
+    "subject": "IELE1502L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. SISTEMAS DINAMICOS",
+    "capacity": 64,
+    "enrolled": 22,
+    "available": 42,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "SUAREZ DIAZ ANGELICA MARIA"
+    ],
+    "crn": 18592
+  },
+  {
+    "subject": "IELE1999",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PLANEACION ACADEMICA",
+    "capacity": 60,
+    "enrolled": 25,
+    "available": 35,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13476
+  },
+  {
+    "subject": "IELE2000",
+    "section": 1,
+    "credits": 1.0,
+    "title": "ANALISIS Y SINTESIS CIRCUITOS",
+    "capacity": 12,
+    "enrolled": 1,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEÑA TRASLAVIÑA NESTOR MISAEL"
+    ],
+    "crn": 10833
+  },
+  {
+    "subject": "IELE2002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORÍA ELECTROMAGNÉTICA",
+    "capacity": 46,
+    "enrolled": 43,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO"
+    ],
+    "crn": 10834
+  },
+  {
+    "subject": "IELE2002C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL TEORIA ELECTROMAGNETICA",
+    "capacity": 46,
+    "enrolled": 43,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0750"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "GARZON CRUZ SANDRA CAMILA"
+    ],
+    "crn": 12644
+  },
+  {
+    "subject": "IELE2002L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. TEORIA ELECTROMAGNETICA",
+    "capacity": 18,
+    "enrolled": 21,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "012"
+        },
+        "initHour": "1230",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "GARZON CRUZ SANDRA CAMILA"
+    ],
+    "crn": 13635
+  },
+  {
+    "subject": "IELE2002L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. TEORIA ELECTROMAGNETICA",
+    "capacity": 18,
+    "enrolled": 22,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "012"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO",
+      "GARZON CRUZ SANDRA CAMILA"
+    ],
+    "crn": 13636
+  },
+  {
+    "subject": "IELE2009",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPUTACION CIENTIFICA EN IEE",
+    "capacity": 54,
+    "enrolled": 30,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "PEÑA TRASLAVIÑA NESTOR MISAEL"
+    ],
+    "crn": 13799
+  },
+  {
+    "subject": "IELE2009L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB COMPUTAC CIENTIFICA",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PEÑA TRASLAVIÑA NESTOR MISAEL",
+      "DUARTE SANCHEZ DANIEL FELIPE"
+    ],
+    "crn": 13852
+  },
+  {
+    "subject": "IELE2009L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB COMPUTAC CIENTIFICA",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "PEÑA TRASLAVIÑA NESTOR MISAEL",
+      "DUARTE SANCHEZ DANIEL FELIPE"
+    ],
+    "crn": 14863
+  },
+  {
+    "subject": "IELE2010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MATERIALES PARA IEE",
+    "capacity": 48,
+    "enrolled": 36,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "GOMEZ MARTINEZ RODRIGO"
+    ],
+    "crn": 13637
+  },
+  {
+    "subject": "IELE2010L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB MATERIALES PARA IEE",
+    "capacity": 16,
+    "enrolled": 12,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "AREVALO RIBON SEBASTIAN"
+    ],
+    "crn": 13638
+  },
+  {
+    "subject": "IELE2010L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB MATERIALES PARA IEE",
+    "capacity": 16,
+    "enrolled": 13,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "AREVALO RIBON SEBASTIAN"
+    ],
+    "crn": 13639
+  },
+  {
+    "subject": "IELE2010L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB MATERIALES PARA IEE",
+    "capacity": 16,
+    "enrolled": 11,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "AREVALO RIBON SEBASTIAN"
+    ],
+    "crn": 14095
+  },
+  {
+    "subject": "IELE2040B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIENCIA, TECNOLOGIA Y GENERO",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA"
+    ],
+    "crn": 17839
+  },
+  {
+    "subject": "IELE2042B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGY OF IRONMAN",
+    "capacity": 59,
+    "enrolled": 57,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OSMA CRUZ JOHANN FACCELO"
+    ],
+    "crn": 15084
+  },
+  {
+    "subject": "IELE2100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELEMENT.SISTEMAS ELECTRICOS",
+    "capacity": 84,
+    "enrolled": 83,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO"
+    ],
+    "crn": 10835
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 11,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "ORTIZ PADILLA MIGUEL ANGEL"
+    ],
+    "crn": 13640
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 14,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "ORTIZ PADILLA MIGUEL ANGEL"
+    ],
+    "crn": 14066
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 14,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "ORTIZ PADILLA MIGUEL ANGEL"
+    ],
+    "crn": 14067
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 15,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "ORTIZ PADILLA MIGUEL ANGEL"
+    ],
+    "crn": 14883
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 15,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "GARZON CRUZ SANDRA CAMILA"
+    ],
+    "crn": 14884
+  },
+  {
+    "subject": "IELE2100L",
+    "section": 7,
+    "credits": 0.0,
+    "title": "LAB.ELEM.SISTEMAS ELECTRICOS",
+    "capacity": 14,
+    "enrolled": 14,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "040"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO",
+      "ORTIZ PADILLA MIGUEL ANGEL"
+    ],
+    "crn": 21203
+  },
+  {
+    "subject": "IELE2206",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE ELECTRÓNICA",
+    "capacity": 50,
+    "enrolled": 41,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA"
+    ],
+    "crn": 13429
+  },
+  {
+    "subject": "IELE2206L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB FUNDAMENTOS DE ELECTRÓNICA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "MAYORGA TABORDA JORGE LUIS"
+    ],
+    "crn": 13641
+  },
+  {
+    "subject": "IELE2206L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB FUNDAMENTOS DE ELECTRÓNICA",
+    "capacity": 18,
+    "enrolled": 9,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "AREVALO RIBON SEBASTIAN"
+    ],
+    "crn": 13642
+  },
+  {
+    "subject": "IELE2206L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB FUNDAMENTOS DE ELECTRÓNICA",
+    "capacity": 16,
+    "enrolled": 14,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL ALBA GRACIELA",
+      "AREVALO RIBON SEBASTIAN"
+    ],
+    "crn": 14096
+  },
+  {
+    "subject": "IELE2300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS DE SISTEMS DE CONTROL",
+    "capacity": 64,
+    "enrolled": 48,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR"
+    ],
+    "crn": 10931
+  },
+  {
+    "subject": "IELE2300",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ANALISIS DE SISTEMS DE CONTROL",
+    "capacity": 64,
+    "enrolled": 53,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 10968
+  },
+  {
+    "subject": "IELE2300",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ANALISIS DE SISTEMS DE CONTROL",
+    "capacity": 64,
+    "enrolled": 65,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GAUTHIER SELLIER ALAIN"
+    ],
+    "crn": 10969
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 16,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 13646
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 16,
+    "enrolled": 13,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 13647
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 13648
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 16,
+    "enrolled": 18,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 13649
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 16786
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 16,
+    "enrolled": 14,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 15061
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 7,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 15062
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 8,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 15063
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 9,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 15064
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 11,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 20916
+  },
+  {
+    "subject": "IELE2300L",
+    "section": 12,
+    "credits": 0.0,
+    "title": "LAB.ANALISIS SIST. CONTROL",
+    "capacity": 16,
+    "enrolled": 13,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "026"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR",
+      "GAUTHIER SELLIER ALAIN",
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 20918
+  },
+  {
+    "subject": "IELE2402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMUNICACIONES",
+    "capacity": 44,
+    "enrolled": 25,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS"
+    ],
+    "crn": 13477
+  },
+  {
+    "subject": "IELE2402L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. COMUNICACIONES",
+    "capacity": 12,
+    "enrolled": 14,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "DIAZ MEDINA CARLOS HUMBERTO"
+    ],
+    "crn": 13650
+  },
+  {
+    "subject": "IELE2402L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. COMUNICACIONES",
+    "capacity": 12,
+    "enrolled": 11,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "012"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS",
+      "DIAZ MEDINA CARLOS HUMBERTO"
+    ],
+    "crn": 13651
+  },
+  {
+    "subject": "IELE2500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEÑALES",
+    "capacity": 50,
+    "enrolled": 48,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PALACIOS ALFREDO"
+    ],
+    "crn": 13548
+  },
+  {
+    "subject": "IELE2500L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATOR SEÑALES",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "003"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PALACIOS ALFREDO",
+      "MAYORGA TABORDA JORGE LUIS"
+    ],
+    "crn": 13549
+  },
+  {
+    "subject": "IELE2500L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATOR SEÑALES",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "012"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PALACIOS ALFREDO",
+      "MAYORGA TABORDA JORGE LUIS"
+    ],
+    "crn": 14097
+  },
+  {
+    "subject": "IELE2500L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LABORATOR SEÑALES",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "012"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PALACIOS ALFREDO",
+      "MAYORGA TABORDA JORGE LUIS"
+    ],
+    "crn": 14893
+  },
+  {
+    "subject": "IELE2900",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MONITORIA ING ELECTR-ELECTRO 1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 11068
+  },
+  {
+    "subject": "IELE3000",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO PROYECTO DE GRADO",
+    "capacity": 50,
+    "enrolled": 43,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 11173
+  },
+  {
+    "subject": "IELE3001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO ELECTRICA",
+    "capacity": 36,
+    "enrolled": 24,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10450
+  },
+  {
+    "subject": "IELE3002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO ELECTRONICA",
+    "capacity": 36,
+    "enrolled": 28,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10451
+  },
+  {
+    "subject": "IELE3006",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OPTIMIZACION",
+    "capacity": 42,
+    "enrolled": 24,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU"
+    ],
+    "crn": 10836
+  },
+  {
+    "subject": "IELE3006L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB OPTIMIZACION",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU",
+      "HIGUERA ARIAS CAROLINA"
+    ],
+    "crn": 14079
+  },
+  {
+    "subject": "IELE3006L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB OPTIMIZACION",
+    "capacity": 16,
+    "enrolled": 8,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU",
+      "HIGUERA ARIAS CAROLINA"
+    ],
+    "crn": 14894
+  },
+  {
+    "subject": "IELE3090",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 12,
+    "enrolled": 4,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13853
+  },
+  {
+    "subject": "IELE3108",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE SISTEMAS DE POTENCIA",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CHAVARRO LEAL ALVARO"
+    ],
+    "crn": 13430
+  },
+  {
+    "subject": "IELE3110",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ECONOMIA SISTEMAS DE POTENCIA",
+    "capacity": 45,
+    "enrolled": 25,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CADENA MONROY ANGELA INES"
+    ],
+    "crn": 19429
+  },
+  {
+    "subject": "IELE3135",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AUTOMAT SISTEMAS DISTRIBUCION",
+    "capacity": 40,
+    "enrolled": 13,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RAMOS LOPEZ GUSTAVO"
+    ],
+    "crn": 19430
+  },
+  {
+    "subject": "IELE3138",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SIST. ELECTRICOS INDUSTRIALES",
+    "capacity": 36,
+    "enrolled": 19,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "403"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RAMOS LOPEZ GUSTAVO"
+    ],
+    "crn": 19432
+  },
+  {
+    "subject": "IELE3152",
+    "section": 1,
+    "credits": 3.0,
+    "title": "REDES INTELIGENTES",
+    "capacity": 36,
+    "enrolled": 9,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CADENA MONROY ANGELA INES"
+    ],
+    "crn": 19883
+  },
+  {
+    "subject": "IELE3200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTRÓNICA ANÁLOGA",
+    "capacity": 42,
+    "enrolled": 15,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU"
+    ],
+    "crn": 10932
+  },
+  {
+    "subject": "IELE3200L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO ELECTRONIC ANALOGA",
+    "capacity": 14,
+    "enrolled": 7,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU",
+      "HIGUERA ARIAS CAROLINA"
+    ],
+    "crn": 20922
+  },
+  {
+    "subject": "IELE3200L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO ELECTRONIC ANALOGA",
+    "capacity": 14,
+    "enrolled": 8,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU",
+      "HIGUERA ARIAS CAROLINA"
+    ],
+    "crn": 13660
+  },
+  {
+    "subject": "IELE3206",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTRUMENTACION ELECTRONICA",
+    "capacity": 44,
+    "enrolled": 43,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OSMA CRUZ JOHANN FACCELO"
+    ],
+    "crn": 19431
+  },
+  {
+    "subject": "IELE3206L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB INSTRUMENTACIO ELECTRONI",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1230",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "OSMA CRUZ JOHANN FACCELO",
+      "VILLAMIL SANCHEZ ANDRES MAURICIO"
+    ],
+    "crn": 19439
+  },
+  {
+    "subject": "IELE3206L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB INSTRUMENTACIO ELECTRONI",
+    "capacity": 20,
+    "enrolled": 25,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OSMA CRUZ JOHANN FACCELO",
+      "VILLAMIL SANCHEZ ANDRES MAURICIO"
+    ],
+    "crn": 20928
+  },
+  {
+    "subject": "IELE3208",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE ELECTRONICA",
+    "capacity": 24,
+    "enrolled": 18,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 12173
+  },
+  {
+    "subject": "IELE3220",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS ELECTRONICOS DIGITALE",
+    "capacity": 46,
+    "enrolled": 31,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 13801
+  },
+  {
+    "subject": "IELE3220L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. SISTE ELECTRO DIGITALES",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "004"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SEGURA QUIJANO FREDY ENRIQUE",
+      "VILLAMIL SANCHEZ ANDRES MAURICIO"
+    ],
+    "crn": 13802
+  },
+  {
+    "subject": "IELE3220L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. SISTE ELECTRO DIGITALES",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "009"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SEGURA QUIJANO FREDY ENRIQUE",
+      "VILLAMIL SANCHEZ ANDRES MAURICIO"
+    ],
+    "crn": 21043
+  },
+  {
+    "subject": "IELE3330",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE CONTROL",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 13803
+  },
+  {
+    "subject": "IELE3338",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ROBOTICA",
+    "capacity": 44,
+    "enrolled": 45,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VARGAS JOSE FERNANDO"
+    ],
+    "crn": 19433
+  },
+  {
+    "subject": "IELE3420",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INGENIERIA DE TELETRAFICO",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "PEÑA TRASLAVIÑA NESTOR MISAEL"
+    ],
+    "crn": 19434
+  },
+  {
+    "subject": "IELE3430",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE COMUNICACIONES",
+    "capacity": 22,
+    "enrolled": 3,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ REYES JUAN CARLOS"
+    ],
+    "crn": 13804
+  },
+  {
+    "subject": "IELE4000",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO MAGÍSTER",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10553
+  },
+  {
+    "subject": "IELE4001",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO MAGÍSTER 1",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 11363
+  },
+  {
+    "subject": "IELE4002",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO MAGÍSTER 2",
+    "capacity": 24,
+    "enrolled": 18,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10554
+  },
+  {
+    "subject": "IELE4003",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CURSO TUTORIAL",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 11059
+  },
+  {
+    "subject": "IELE4005",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO ESPECIAL I",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 11542
+  },
+  {
+    "subject": "IELE4009",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SIST. LINEALES MULT. VARIABLES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "505"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GAUTHIER SELLIER ALAIN"
+    ],
+    "crn": 19435
+  },
+  {
+    "subject": "IELE4010",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROCESOS ESTOCASTICOS",
+    "capacity": 24,
+    "enrolled": 7,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PALACIOS ALFREDO"
+    ],
+    "crn": 10509
+  },
+  {
+    "subject": "IELE4011",
+    "section": 1,
+    "credits": 4.0,
+    "title": "OPTIMIZACIÓN",
+    "capacity": 32,
+    "enrolled": 27,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "200"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOZANO MARTINEZ FERNANDO ENRIQU"
+    ],
+    "crn": 10693
+  },
+  {
+    "subject": "IELE4020",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS I",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10555
+  },
+  {
+    "subject": "IELE4021",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS II",
+    "capacity": 24,
+    "enrolled": 18,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 10510
+  },
+  {
+    "subject": "IELE4024",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO INTERNACIONAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13854
+  },
+  {
+    "subject": "IELE4070",
+    "section": 1,
+    "credits": 0.0,
+    "title": "ASIST GRADUAD IELECTRI-ELECTRO",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 12049
+  },
+  {
+    "subject": "IELE4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CONTROL ESTABILI SIST POTENCIA",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RIOS MESIAS MARIO ALBERTO"
+    ],
+    "crn": 19436
+  },
+  {
+    "subject": "IELE4111",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARMÓNICOS Y FLUCTUACIONES SP",
+    "capacity": 24,
+    "enrolled": 9,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RAMOS LOPEZ GUSTAVO"
+    ],
+    "crn": 19904
+  },
+  {
+    "subject": "IELE4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FABRICACIÓN DE MICROSISTEMAS",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "OSMA CRUZ JOHANN FACCELO",
+      "LLAIN JIMENEZ HERMES ARIEL"
+    ],
+    "crn": 19884
+  },
+  {
+    "subject": "IELE4313",
+    "section": 1,
+    "credits": 4.0,
+    "title": "APREND.Y EVOL. ORIENT.CONTROL",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "QUIJANO SILVA NICANOR"
+    ],
+    "crn": 19438
+  },
+  {
+    "subject": "IELE4402",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO DE REDES INALAMBRICAS",
+    "capacity": 24,
+    "enrolled": 5,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "403"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BUSTAMANTE MILLER ROBERTO"
+    ],
+    "crn": 19885
+  },
+  {
+    "subject": "IELE6002",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 14119
+  },
+  {
+    "subject": "IELE6003",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 2",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 14120
+  },
+  {
+    "subject": "IELE6007",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL ESPECIAL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 21210
+  },
+  {
+    "subject": "IELE6402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA SEMESTRAL",
+    "capacity": 10,
+    "enrolled": 7,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13855
+  },
+  {
+    "subject": "IELE6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE PROPUESTA DOCTORAL",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13856
+  },
+  {
+    "subject": "IELE6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 4CR",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13857
+  },
+  {
+    "subject": "IELE6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 8CR",
+    "capacity": 20,
+    "enrolled": 0,
+    "available": 20,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13858
+  },
+  {
+    "subject": "IELE6982",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TESIS 12CR",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 13859
+  },
+  {
+    "subject": "IELE6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 16804
+  },
+  {
+    "subject": "IELE6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GUERRERO HURTADO MAURICIO"
+    ],
+    "crn": 17856
+  }
+]
