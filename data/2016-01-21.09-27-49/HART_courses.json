@@ -1,0 +1,501 @@
+[
+  {
+    "subject": "HART1101A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DEL ARTE",
+    "capacity": 215,
+    "enrolled": 215,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "003"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "URIBE HANABERGH VERONICA",
+      "HERRERA WASSILOWSKY ALEXANDER CHARLES"
+    ],
+    "crn": 12044
+  },
+  {
+    "subject": "HART1104A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APRECIACIÓN DEL ARTE",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ACOSTA LUNA OLGA ISABEL"
+    ],
+    "crn": 15611
+  },
+  {
+    "subject": "HART1105A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EL ARTE EN LA HISTORIA DE OCCI",
+    "capacity": 66,
+    "enrolled": 66,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BERNAL MARIA CLARA"
+    ],
+    "crn": 17766
+  },
+  {
+    "subject": "HART1113A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y VIAJES",
+    "capacity": 67,
+    "enrolled": 72,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "URIBE HANABERGH VERONICA"
+    ],
+    "crn": 15613
+  },
+  {
+    "subject": "HART1201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PENSAR LA HISTORIA DE ARTE",
+    "capacity": 60,
+    "enrolled": 49,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GUERRERO JUAN CARLOS"
+    ],
+    "crn": 12045
+  },
+  {
+    "subject": "HART1341B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE EN COLOMBIA",
+    "capacity": 77,
+    "enrolled": 79,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "FRANCO FRANCO ANA MARIA"
+    ],
+    "crn": 12046
+  },
+  {
+    "subject": "HART1441B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE EN AMERICA LATINA",
+    "capacity": 37,
+    "enrolled": 35,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "PINNI DE LAPIDUS IVONE"
+    ],
+    "crn": 19362
+  },
+  {
+    "subject": "HART1522B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE MEDIEVAL",
+    "capacity": 37,
+    "enrolled": 33,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "110"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "VELANDIA ONOFRE DARIO"
+    ],
+    "crn": 19363
+  },
+  {
+    "subject": "HART1523B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VANGUARDIAS ARTÍSTICAS",
+    "capacity": 60,
+    "enrolled": 51,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FRANCO FRANCO ANA MARIA"
+    ],
+    "crn": 16736
+  },
+  {
+    "subject": "HART1541B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE CONTEMPORANEO",
+    "capacity": 66,
+    "enrolled": 20,
+    "available": 46,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GUERRERO JUAN CARLOS"
+    ],
+    "crn": 12047
+  },
+  {
+    "subject": "HART1603A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE PREHISPANICO",
+    "capacity": 42,
+    "enrolled": 16,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "110"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "HERRERA WASSILOWSKY ALEXANDER CHARLES"
+    ],
+    "crn": 20871
+  },
+  {
+    "subject": "HART2202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DOCUMENTOS Y ARCHIVOS EN ARTE",
+    "capacity": 40,
+    "enrolled": 32,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PINNI DE LAPIDUS IVONE"
+    ],
+    "crn": 19364
+  },
+  {
+    "subject": "HART2241",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DADA Y SURREALISMO",
+    "capacity": 35,
+    "enrolled": 23,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "505"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BERNAL MARIA CLARA"
+    ],
+    "crn": 19365
+  },
+  {
+    "subject": "HART2521",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINT. ESPAÑOLA SIGLO DE ORO",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "110"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "VELANDIA ONOFRE DARIO"
+    ],
+    "crn": 20002
+  },
+  {
+    "subject": "HART3100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LABORATORIO DE IMAGEN",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "G",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZALAMEA FAJARDO PATRICIA"
+    ],
+    "crn": 20005
+  },
+  {
+    "subject": "HART3422",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINT BARROCA SURAMERICANA",
+    "capacity": 25,
+    "enrolled": 8,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "505"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ACOSTA LUNA OLGA ISABEL"
+    ],
+    "crn": 20006
+  },
+  {
+    "subject": "HART3530",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO: GOYA",
+    "capacity": 25,
+    "enrolled": 13,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "205"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "URIBE HANABERGH VERONICA"
+    ],
+    "crn": 19910
+  },
+  {
+    "subject": "HART3990",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO TRABAJO DE GRADO",
+    "capacity": 20,
+    "enrolled": 5,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "601"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ACOSTA LUNA OLGA ISABEL"
+    ],
+    "crn": 15616
+  },
+  {
+    "subject": "HART3991",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 999,
+    "enrolled": 1,
+    "available": 998,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 14574
+  }
+]
