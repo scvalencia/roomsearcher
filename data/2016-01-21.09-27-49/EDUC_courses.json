@@ -1,0 +1,2561 @@
+[
+  {
+    "subject": "EDUC1000A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AMBIENT.APREND.A TRAVES HISTOR",
+    "capacity": 71,
+    "enrolled": 76,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO",
+      "MALDONADO CAROLINA",
+      "ALMANZA MARROQUIN MONICA ISABEL"
+    ],
+    "crn": 11681
+  },
+  {
+    "subject": "EDUC1000A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "AMBIENT.APREND.A TRAVES HISTOR",
+    "capacity": 71,
+    "enrolled": 76,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO",
+      "NANWANI KISHORE SANJAY",
+      "ALDANA VARGAS MARIA FERNANDA"
+    ],
+    "crn": 11682
+  },
+  {
+    "subject": "EDUC1000A",
+    "section": 3,
+    "credits": 3.0,
+    "title": "AMBIENT.APREND.A TRAVES HISTOR",
+    "capacity": 71,
+    "enrolled": 77,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO",
+      "TAFUR ARCINIEGAS MARIANA",
+      "NANWANI KISHORE SANJAY"
+    ],
+    "crn": 11541
+  },
+  {
+    "subject": "EDUC1001B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONSTRUCTIVISMO Y APRENDIZAJE",
+    "capacity": 42,
+    "enrolled": 46,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GOMEZ LOZANO MARIA TERESA"
+    ],
+    "crn": 10922
+  },
+  {
+    "subject": "EDUC1001B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONSTRUCTIVISMO Y APRENDIZAJE",
+    "capacity": 48,
+    "enrolled": 48,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA",
+      "GUTIERREZ HERRERA JAIME ANDRES"
+    ],
+    "crn": 13192
+  },
+  {
+    "subject": "EDUC1005B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EDUCACION Y CIENCIA",
+    "capacity": 42,
+    "enrolled": 47,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RESTREPO ANGELA MARIA",
+      "TAFUR ARCINIEGAS MARIANA"
+    ],
+    "crn": 11313
+  },
+  {
+    "subject": "EDUC1010B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FORMAC ETICA DEL PROFESIONAL",
+    "capacity": 39,
+    "enrolled": 42,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY",
+      "ALMANZA MARROQUIN MONICA ISABEL"
+    ],
+    "crn": 15547
+  },
+  {
+    "subject": "EDUC1012A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EL SENTIDO DE LA EDUCACION",
+    "capacity": 69,
+    "enrolled": 78,
+    "available": -9,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 10814
+  },
+  {
+    "subject": "EDUC1012A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "EL SENTIDO DE LA EDUCACION",
+    "capacity": 69,
+    "enrolled": 75,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ NINO ANA MARIA"
+    ],
+    "crn": 14779
+  },
+  {
+    "subject": "EDUC1021",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMP.AMB..APREND.A TRAVES HIST",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "312"
+        },
+        "initHour": "1130",
+        "finalHour": "1220"
+      }
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO",
+      "MALDONADO CAROLINA"
+    ],
+    "crn": 20818
+  },
+  {
+    "subject": "EDUC2001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CURSO TUTORIAL DISCIPLINAR",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ LOZANO MARIA TERESA"
+    ],
+    "crn": 19296
+  },
+  {
+    "subject": "EDUC2003",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTOS INVESTIGAC.CONECTA-T",
+    "capacity": 20,
+    "enrolled": 0,
+    "available": 20,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO LUZ ADRIANA"
+    ],
+    "crn": 17180
+  },
+  {
+    "subject": "EDUC3000",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PRACTICA PEDAGOGICA",
+    "capacity": 10,
+    "enrolled": 7,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ LOZANO MARIA TERESA"
+    ],
+    "crn": 11153
+  },
+  {
+    "subject": "EDUC4010",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CURSO TUTORIAL 1",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOLANO FLECHAS ANDRES ELIAS",
+      "MARINO VONHILDEBRAND JULIAN PATRICIO"
+    ],
+    "crn": 11146
+  },
+  {
+    "subject": "EDUC4017",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CURRICULO Y PEDAGOGIA",
+    "capacity": 50,
+    "enrolled": 40,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA",
+      "RODRIGUEZ FARFAN NELSON ENRIQUE"
+    ],
+    "crn": 19302
+  },
+  {
+    "subject": "EDUC4017",
+    "section": 2,
+    "credits": 4.0,
+    "title": "CURRICULO Y PEDAGOGIA",
+    "capacity": 75,
+    "enrolled": 51,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALCOCER TOCORA MILENA RAQUEL",
+      "SUAREZ HIGUERA IVONNE MARIA",
+      "CAMACHO GONZALEZ CARLOS MARIO"
+    ],
+    "crn": 20358
+  },
+  {
+    "subject": "EDUC4017",
+    "section": 3,
+    "credits": 4.0,
+    "title": "CURRICULO Y PEDAGOGIA",
+    "capacity": 75,
+    "enrolled": 28,
+    "available": 47,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VERGEL GUERRERO JOHN ALEXANDER",
+      "FLORIDO MOSQUERA HUGO EDILBERTO"
+    ],
+    "crn": 20359
+  },
+  {
+    "subject": "EDUC4022",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DE REDACCION",
+    "capacity": 30,
+    "enrolled": 14,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 12970
+  },
+  {
+    "subject": "EDUC4022",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER DE REDACCION",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALZATE SALAZAR YAZMIN ANDREA"
+    ],
+    "crn": 18401
+  },
+  {
+    "subject": "EDUC4022",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER DE REDACCION",
+    "capacity": 40,
+    "enrolled": 38,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VELASQUEZ JAVIER ALBERTO"
+    ],
+    "crn": 18945
+  },
+  {
+    "subject": "EDUC4022",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER DE REDACCION",
+    "capacity": 40,
+    "enrolled": 0,
+    "available": 40,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VELASQUEZ JAVIER ALBERTO"
+    ],
+    "crn": 19043
+  },
+  {
+    "subject": "EDUC4025",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS DE INVESTIGACIÓN E",
+    "capacity": 50,
+    "enrolled": 34,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO",
+      "BASTIDAS BILBAO HAMER JONATHAN"
+    ],
+    "crn": 19300
+  },
+  {
+    "subject": "EDUC4025",
+    "section": 2,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS DE INVESTIGACIÓN E",
+    "capacity": 75,
+    "enrolled": 52,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CIFUENTES ALVAREZ GARY ALBERTO",
+      "RESTREPO ANGELA MARIA"
+    ],
+    "crn": 21031
+  },
+  {
+    "subject": "EDUC4025",
+    "section": 3,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS DE INVESTIGACIÓN E",
+    "capacity": 75,
+    "enrolled": 26,
+    "available": 49,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO",
+      "BASTIDAS BILBAO HAMER JONATHAN"
+    ],
+    "crn": 21033
+  },
+  {
+    "subject": "EDUC4026",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉTODOS CUANTITATIVOS DE INVES",
+    "capacity": 50,
+    "enrolled": 12,
+    "available": 38,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MOLANO FLECHAS ANDRES ELIAS"
+    ],
+    "crn": 17670
+  },
+  {
+    "subject": "EDUC4026",
+    "section": 2,
+    "credits": 4.0,
+    "title": "MÉTODOS CUANTITATIVOS DE INVES",
+    "capacity": 35,
+    "enrolled": 29,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 21072
+  },
+  {
+    "subject": "EDUC4027",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉTODOS CUALIITATIVOS DE INVES",
+    "capacity": 35,
+    "enrolled": 40,
+    "available": -5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIOGENES",
+      "REY AREVALO GERARDO"
+    ],
+    "crn": 14543
+  },
+  {
+    "subject": "EDUC4027",
+    "section": 2,
+    "credits": 4.0,
+    "title": "MÉTODOS CUALIITATIVOS DE INVES",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "BASTIDAS BILBAO HAMER JONATHAN",
+      "REY AREVALO GERARDO"
+    ],
+    "crn": 21122
+  },
+  {
+    "subject": "EDUC4028",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO INVESTIGACIÓN-ACCIÓN",
+    "capacity": 35,
+    "enrolled": 33,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ MORALES EDWIN FERLEY"
+    ],
+    "crn": 19917
+  },
+  {
+    "subject": "EDUC4029",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO METODOS CUANTITATI",
+    "capacity": 50,
+    "enrolled": 12,
+    "available": 38,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GUERRERO ROSADA PAOLA ANDREA"
+    ],
+    "crn": 19004
+  },
+  {
+    "subject": "EDUC4029",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO METODOS CUANTITATI",
+    "capacity": 35,
+    "enrolled": 29,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 21073
+  },
+  {
+    "subject": "EDUC4030",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CARTOGRAFIA EDUCATIVA",
+    "capacity": 35,
+    "enrolled": 39,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA",
+      "SOLANO CAMARGO SILVIA PAOLA"
+    ],
+    "crn": 19961
+  },
+  {
+    "subject": "EDUC4103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EVALUACION DEL APRENDIZAJE",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SUAREZ HIGUERA IVONNE MARIA",
+      "RODRIGUEZ FARFAN NELSON ENRIQUE"
+    ],
+    "crn": 19301
+  },
+  {
+    "subject": "EDUC4110",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DESARROLLO, EDUCACIÓN Y CULTUR",
+    "capacity": 30,
+    "enrolled": 11,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO",
+      "MALDONADO CAROLINA"
+    ],
+    "crn": 19972
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 30,
+    "enrolled": 1,
+    "available": 29,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 10688
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 2,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 30,
+    "enrolled": 3,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 14825
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 3,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 18861
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 4,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TAFUR ARCINIEGAS MARIANA"
+    ],
+    "crn": 21074
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 5,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "0730",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GALVIS PANQUEVA ALVARO HERNAN"
+    ],
+    "crn": 21075
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 6,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ LOZANO MARIA TERESA"
+    ],
+    "crn": 18864
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 7,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ NINO ANA MARIA"
+    ],
+    "crn": 18865
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 9,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 6,
+    "enrolled": 1,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO"
+    ],
+    "crn": 18867
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 10,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 18868
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 11,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 18869
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 14,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RESTREPO ANGELA MARIA"
+    ],
+    "crn": 18872
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 15,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CIFUENTES ALVAREZ GARY ALBERTO"
+    ],
+    "crn": 18873
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 16,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO LUZ ADRIANA"
+    ],
+    "crn": 18888
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 17,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 25,
+    "enrolled": 5,
+    "available": 20,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 18889
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 18,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA"
+    ],
+    "crn": 18890
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 19,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 6,
+    "enrolled": 0,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOLANO FLECHAS ANDRES ELIAS"
+    ],
+    "crn": 18891
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 20,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALDANA VARGAS MARIA FERNANDA"
+    ],
+    "crn": 18892
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 21,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY"
+    ],
+    "crn": 18893
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 22,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 6,
+    "enrolled": 1,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA"
+    ],
+    "crn": 18894
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 23,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 18895
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 24,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO"
+    ],
+    "crn": 18896
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 25,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 20,
+    "enrolled": 3,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CIFUENTES ALVAREZ GARY ALBERTO"
+    ],
+    "crn": 18898
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 26,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALDANA VARGAS MARIA FERNANDA"
+    ],
+    "crn": 18899
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 27,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 18901
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 28,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 18903
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 29,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY"
+    ],
+    "crn": 19013
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 30,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GALVIS PANQUEVA ALVARO HERNAN"
+    ],
+    "crn": 19014
+  },
+  {
+    "subject": "EDUC4206",
+    "section": 31,
+    "credits": 6.0,
+    "title": "TESIS 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLORIDO MOSQUERA HUGO EDILBERTO"
+    ],
+    "crn": 19015
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 10815
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 2,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 30,
+    "enrolled": 6,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 16892
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 3,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "119"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 18874
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 4,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 15,
+    "enrolled": 4,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ NINO ANA MARIA"
+    ],
+    "crn": 18875
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 5,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO"
+    ],
+    "crn": 18879
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 6,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 8,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ LOZANO MARIA TERESA"
+    ],
+    "crn": 18876
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 7,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 18877
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 8,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CIFUENTES ALVAREZ GARY ALBERTO"
+    ],
+    "crn": 18878
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 9,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO LUZ ADRIANA"
+    ],
+    "crn": 18880
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 10,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 5,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 18881
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 11,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA"
+    ],
+    "crn": 18883
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 12,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOLANO FLECHAS ANDRES ELIAS"
+    ],
+    "crn": 18884
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 14,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RESTREPO ANGELA MARIA"
+    ],
+    "crn": 18886
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 15,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALDANA VARGAS MARIA FERNANDA"
+    ],
+    "crn": 18887
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 17,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 15,
+    "enrolled": 5,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 18907
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 18,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY"
+    ],
+    "crn": 18908
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 19,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GALVIS PANQUEVA ALVARO HERNAN"
+    ],
+    "crn": 18909
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 20,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TAFUR ARCINIEGAS MARIANA"
+    ],
+    "crn": 18910
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 21,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 1,
+    "available": 19,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO LUZ ADRIANA"
+    ],
+    "crn": 18911
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 22,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA"
+    ],
+    "crn": 18912
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 23,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 1,
+    "available": 19,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MALDONADO CAROLINA"
+    ],
+    "crn": 18913
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 24,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO"
+    ],
+    "crn": 18914
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 25,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALDANA VARGAS MARIA FERNANDA"
+    ],
+    "crn": 18915
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 26,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 18916
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 27,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 8,
+    "enrolled": 0,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALCOCER TOCORA MILENA RAQUEL"
+    ],
+    "crn": 18917
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 28,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 18918
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 29,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY"
+    ],
+    "crn": 19016
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 30,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GALVIS PANQUEVA ALVARO HERNAN"
+    ],
+    "crn": 19017
+  },
+  {
+    "subject": "EDUC4207",
+    "section": 31,
+    "credits": 6.0,
+    "title": "TESIS 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLORIDO MOSQUERA HUGO EDILBERTO"
+    ],
+    "crn": 19018
+  },
+  {
+    "subject": "EDUC4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROCES LECT Y ESCR EN DOS LENG",
+    "capacity": 30,
+    "enrolled": 6,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TEJADA SANCHEZ MARTHA ISABEL"
+    ],
+    "crn": 19303
+  },
+  {
+    "subject": "EDUC4304",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EDU. BILIN. CONTEX Y NECESI.",
+    "capacity": 30,
+    "enrolled": 6,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 17671
+  },
+  {
+    "subject": "EDUC4401",
+    "section": 1,
+    "credits": 4.0,
+    "title": "AMB DE APR APOY CON TECNO",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO LUZ ADRIANA",
+      "YAYA ESCOBAR RUBY ESPERANZA"
+    ],
+    "crn": 19304
+  },
+  {
+    "subject": "EDUC4407",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PEDAGOGÍAS EMERGENTES Y N. TEC",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CIFUENTES ALVAREZ GARY ALBERTO"
+    ],
+    "crn": 19985
+  },
+  {
+    "subject": "EDUC4508",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EDUC.EN MATEMAT, CIENC Y TECN.",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RESTREPO ANGELA MARIA",
+      "TAFUR ARCINIEGAS MARIANA"
+    ],
+    "crn": 19913
+  },
+  {
+    "subject": "EDUC4512",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PERSPECTIVAS SOCIOCUL DE MAT",
+    "capacity": 1,
+    "enrolled": 2,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 19984
+  },
+  {
+    "subject": "EDUC4606",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CONTEXTO EDUCATIVO COLOMBIANO",
+    "capacity": 40,
+    "enrolled": 22,
+    "available": 18,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 19305
+  },
+  {
+    "subject": "EDUC4609",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTIT.EDUCATIVAS QUE APRENDEN",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLORIDO MOSQUERA HUGO EDILBERTO",
+      "VENEGAS FAJARDO CRISTINA"
+    ],
+    "crn": 19306
+  },
+  {
+    "subject": "EDUC4706",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEM FILOSOFIA DE LA EDUCACION",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 19307
+  },
+  {
+    "subject": "EDUC4714",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PENSAMIENTO COMPLEJO Y EDUCACI",
+    "capacity": 30,
+    "enrolled": 19,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FLOREZ IRMA ALICIA",
+      "REY AREVALO GERARDO"
+    ],
+    "crn": 19308
+  },
+  {
+    "subject": "EDUC4720",
+    "section": 1,
+    "credits": 4.0,
+    "title": "IMAGINACIÓN PEDAGÓGICA Y APREN",
+    "capacity": 30,
+    "enrolled": 10,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 17675
+  },
+  {
+    "subject": "EDUC4721",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EDUCACIÓN Y ÉTICA",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY"
+    ],
+    "crn": 19311
+  },
+  {
+    "subject": "EDUC4724",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DIS.USO PRUEB. ESTANDAR.EDUCAC",
+    "capacity": 30,
+    "enrolled": 7,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MARINO VONHILDEBRAND JULIAN PATRICIO",
+      "SUAREZ HIGUERA IVONNE MARIA"
+    ],
+    "crn": 19309
+  },
+  {
+    "subject": "EDUC4801",
+    "section": 1,
+    "credits": 5.0,
+    "title": "NOC. DE CURRIC. EN MATEMATICAS",
+    "capacity": 28,
+    "enrolled": 24,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ GUZMAN PEDRO ALEJ"
+    ],
+    "crn": 19914
+  },
+  {
+    "subject": "EDUC4802",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ANALISIS DE CONTENIDO",
+    "capacity": 28,
+    "enrolled": 24,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ GUZMAN PEDRO ALEJ"
+    ],
+    "crn": 19310
+  },
+  {
+    "subject": "EDUC4807",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EVALUACIÓN DE LA PLANIFICACIÓN",
+    "capacity": 28,
+    "enrolled": 28,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ GUZMAN PEDRO ALEJ"
+    ],
+    "crn": 19915
+  },
+  {
+    "subject": "EDUC4808",
+    "section": 1,
+    "credits": 5.0,
+    "title": "PRESENTACIÓN FINAL",
+    "capacity": 28,
+    "enrolled": 28,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "0900",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "GOMEZ GUZMAN PEDRO ALEJ"
+    ],
+    "crn": 19312
+  },
+  {
+    "subject": "EDUC4901",
+    "section": 1,
+    "credits": 4.0,
+    "title": "AULAS DEMOCRITICAS",
+    "capacity": 30,
+    "enrolled": 5,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ NINO ANA MARIA"
+    ],
+    "crn": 19916
+  },
+  {
+    "subject": "EDUC5300",
+    "section": 1,
+    "credits": 6.0,
+    "title": "SEMINARIO DE INVES. - ACCIÓN",
+    "capacity": 7,
+    "enrolled": 5,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ MORALES EDWIN FERLEY"
+    ],
+    "crn": 11161
+  },
+  {
+    "subject": "EDUC6001",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL DISCIPLINAR DOCTORAL",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE",
+      "BAYONA RODRIGUEZ HERNANDO",
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 12252
+  },
+  {
+    "subject": "EDUC6002",
+    "section": 1,
+    "credits": 6.0,
+    "title": "EXPERIENCIA DE INVESTIGACIÓN",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 17681
+  },
+  {
+    "subject": "EDUC6003",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACIÓN I",
+    "capacity": 6,
+    "enrolled": 3,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13789
+  },
+  {
+    "subject": "EDUC6004",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA CIFE",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCALLON LARGACHA JUAN EDUARDO"
+    ],
+    "crn": 13024
+  },
+  {
+    "subject": "EDUC6005",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACION II",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 14270
+  },
+  {
+    "subject": "EDUC6006",
+    "section": 1,
+    "credits": 6.0,
+    "title": "ELABORACION DE PROPUESTA I",
+    "capacity": 6,
+    "enrolled": 1,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES",
+      "RESTREPO ANGELA MARIA",
+      "HERNANDEZ CAROLA"
+    ],
+    "crn": 13060
+  },
+  {
+    "subject": "EDUC6007",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACION III",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13413
+  },
+  {
+    "subject": "EDUC6008",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACION IV",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13790
+  },
+  {
+    "subject": "EDUC6009",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACION V",
+    "capacity": 27,
+    "enrolled": 4,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "106"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 14271
+  },
+  {
+    "subject": "EDUC6010",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACION VI",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 15557
+  },
+  {
+    "subject": "EDUC6011",
+    "section": 1,
+    "credits": 12.0,
+    "title": "PASANTIA DOCTORAL",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13251
+  },
+  {
+    "subject": "EDUC6012",
+    "section": 1,
+    "credits": 6.0,
+    "title": "ELABORACIÓN DE PROPUESTA II",
+    "capacity": 7,
+    "enrolled": 3,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MONTOYA VARGAS JUNY",
+      "GOMEZ GUZMAN PEDRO ALEJ",
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 13455
+  },
+  {
+    "subject": "EDUC6013",
+    "section": 1,
+    "credits": 12.0,
+    "title": "INVESTIGACION DOCTORAL",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13456
+  },
+  {
+    "subject": "EDUC6014",
+    "section": 1,
+    "credits": 12.0,
+    "title": "INVESTIGACIÓN DOCTORAL II",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 14272
+  },
+  {
+    "subject": "EDUC6016",
+    "section": 1,
+    "credits": 6.0,
+    "title": "ELABORACION DE PROPUESTA III",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 13962
+  },
+  {
+    "subject": "EDUC6019",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEXTO DE INVESTIGACION",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DELGADILLO JORGE ANDRES"
+    ],
+    "crn": 15307
+  },
+  {
+    "subject": "EDUC6020",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LÓGICAS INVESTIG.EDUC.Y PEDAG.",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 19968
+  },
+  {
+    "subject": "EDUC6021",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EVAL.IMPACTO EDUC.Y CIENC.SOC.",
+    "capacity": 50,
+    "enrolled": 8,
+    "available": 42,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MOLANO FLECHAS ANDRES ELIAS",
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 19315
+  },
+  {
+    "subject": "EDUC6022",
+    "section": 1,
+    "credits": 12.0,
+    "title": "INVESTIGACIÓN DOCTORAL III",
+    "capacity": 4,
+    "enrolled": 1,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 16103
+  },
+  {
+    "subject": "EDUC6023",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO DE INVESTIGACIÓN VIII",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 19316
+  },
+  {
+    "subject": "EDUC6024",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FORMACION,SUBJETIV.Y ESTET. SI",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HERRERA GONZALEZ JOSE DARIO"
+    ],
+    "crn": 19317
+  },
+  {
+    "subject": "EDUC6025",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL DE DOCTORADO",
+    "capacity": 6,
+    "enrolled": 1,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAYONA RODRIGUEZ HERNANDO"
+    ],
+    "crn": 19966
+  },
+  {
+    "subject": "EDUC6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN DE TESIS DOCTORAL",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 16104
+  },
+  {
+    "subject": "EDUC6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TRUSCOTT DE MEJIA ANNE-MARIE"
+    ],
+    "crn": 15559
+  }
+]
