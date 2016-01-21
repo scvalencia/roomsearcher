@@ -1,5 +1,6 @@
 package edu.co.uniandes.scvalencia;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -9,10 +10,9 @@ import java.io.File;
 import java.io.IOException;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Scanner;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 /**
  * Created by scvalencia606 on 12/26/15.
@@ -22,16 +22,20 @@ public class SubjectParser {
     String url;
     String code;
     boolean persistence;
+    String path;
 
-    public SubjectParser(String url, boolean persistence) {
+    public SubjectParser(String url, boolean persistence, String path) {
         this.url = url;
         this.code = url.substring(url.length() - 4, url.length());
         this.persistence = persistence;
+        this.path = path;
     }
 
     public void parseContent() {
         String content = null;
         URLConnection connection = null;
+        ObjectMapper mapper = new ObjectMapper();
+
         try {
             connection = new URL(this.url).openConnection();
             Scanner scanner = new Scanner(connection.getInputStream());
@@ -86,6 +90,7 @@ public class SubjectParser {
         }
 
         if(persistence) {
+
             List<Register> registers = new ArrayList<Register>();
 
             Long CRN = null;
@@ -138,9 +143,8 @@ public class SubjectParser {
                 }
             }
 
-            ObjectMapper mapper = new ObjectMapper();
             try {
-                mapper.writeValue(new File("data/" + this.code + "_courses.json"), registers);
+                mapper.writeValue(new File(path + "/" + this.code + "_courses.json"), registers);
             } catch (IOException e) {
                 e.printStackTrace();
             }
