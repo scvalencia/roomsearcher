@@ -1,0 +1,56 @@
+[
+  {
+    "subject": "SOCI1000B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LA IMAGINACIÓN SOCIOLÓGICA",
+    "capacity": 56,
+    "enrolled": 53,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ MARIA JOSE"
+    ],
+    "crn": 19924
+  },
+  {
+    "subject": "SOCI1001B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SOCIOLOGÍA DE LA VIOLENCIA",
+    "capacity": 57,
+    "enrolled": 46,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DE CASTELBAJAC MATTHIEU"
+    ],
+    "crn": 19767
+  }
+]
