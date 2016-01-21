@@ -1,0 +1,232 @@
+[
+  {
+    "subject": "SPUB4104",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ECONOMÍA DE LA SALUD",
+    "capacity": 40,
+    "enrolled": 13,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HARKER ROA ARTURO"
+    ],
+    "crn": 19749
+  },
+  {
+    "subject": "SPUB4106",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROYECTO DE GRADO I",
+    "capacity": 40,
+    "enrolled": 10,
+    "available": 30,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "JOVANA ALEXANDRA OCAMPO CAÑAS"
+    ],
+    "crn": 16241
+  },
+  {
+    "subject": "SPUB4108",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SISTEMAS DE SALUD",
+    "capacity": 55,
+    "enrolled": 49,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BERNAL ACEVEDO OSCAR ALBERTO"
+    ],
+    "crn": 19750
+  },
+  {
+    "subject": "SPUB4109",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROYECTO DE GRADO II",
+    "capacity": 40,
+    "enrolled": 16,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "BERNAL ACEVEDO OSCAR ALBERTO"
+    ],
+    "crn": 16244
+  },
+  {
+    "subject": "SPUB4110",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SALUD Y MEDIO AMBIENTE",
+    "capacity": 40,
+    "enrolled": 32,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "614"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ FLOREZ LUIS JORGE"
+    ],
+    "crn": 18710
+  },
+  {
+    "subject": "SPUB4111",
+    "section": 1,
+    "credits": 4.0,
+    "title": "POLÍTICAS DE SALUD",
+    "capacity": 40,
+    "enrolled": 17,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "BERNAL ACEVEDO OSCAR ALBERTO"
+    ],
+    "crn": 20035
+  },
+  {
+    "subject": "SPUB4113",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EPIDEMIOLOGIA Y DEMOGRAFIA",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ URIBE CATALINA"
+    ],
+    "crn": 20668
+  },
+  {
+    "subject": "SPUB5101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INTRO A LA SALUD PÚBLI Y AMBIE",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 16246
+  },
+  {
+    "subject": "SPUB5102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ANÁLI DE SITUA DE SALUD TERRIT",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LATORRE CASTRO MARIA LUISA"
+    ],
+    "crn": 16247
+  },
+  {
+    "subject": "SPUB5103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑ PLAN PROGR Y PROY SALUD",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JOVANA ALEXANDRA OCAMPO CAÑAS"
+    ],
+    "crn": 16248
+  }
+]
