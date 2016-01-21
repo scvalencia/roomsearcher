@@ -1,0 +1,440 @@
+[
+  {
+    "subject": "CISO1200B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PENSAD:WEBER, DURKHEIM, MARX",
+    "capacity": 95,
+    "enrolled": 103,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "URIBE TOBON CARLOS ALBERTO"
+    ],
+    "crn": 13562
+  },
+  {
+    "subject": "CISO1200B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PENSAD:WEBER, DURKHEIM, MARX",
+    "capacity": 90,
+    "enrolled": 92,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "APARICIO CUERVO JUAN RICARDO"
+    ],
+    "crn": 14039
+  },
+  {
+    "subject": "CISO1200B",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PENSAD:WEBER, DURKHEIM, MARX",
+    "capacity": 67,
+    "enrolled": 70,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MANRIQUE OSPINA CARLOS ANDRES"
+    ],
+    "crn": 13403
+  },
+  {
+    "subject": "CISO1500B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COLOMBIA CONTEMPORANEA",
+    "capacity": 77,
+    "enrolled": 82,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ARIAS TRUJILLO JOSE RICARDO"
+    ],
+    "crn": 13159
+  },
+  {
+    "subject": "CISO1500B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COLOMBIA CONTEMPORANEA",
+    "capacity": 77,
+    "enrolled": 81,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ ROJAS CATALINA"
+    ],
+    "crn": 13158
+  },
+  {
+    "subject": "CISO1635B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIVERSIDAD HUMANA",
+    "capacity": 47,
+    "enrolled": 48,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "FERRO UMAÑA MARIA DEL ROSARIO"
+    ],
+    "crn": 17201
+  },
+  {
+    "subject": "CISO2000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA Y SOCIOLO DE LA CIENC",
+    "capacity": 80,
+    "enrolled": 82,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 20390
+  },
+  {
+    "subject": "CISO2000",
+    "section": 2,
+    "credits": 3.0,
+    "title": "HISTORIA Y SOCIOLO DE LA CIENC",
+    "capacity": 80,
+    "enrolled": 82,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MASIAS NUNEZ RODOLFO"
+    ],
+    "crn": 19766
+  },
+  {
+    "subject": "CISO2000",
+    "section": 3,
+    "credits": 3.0,
+    "title": "HISTORIA Y SOCIOLO DE LA CIENC",
+    "capacity": 77,
+    "enrolled": 67,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FERNANDEZ PINTO MANUELA"
+    ],
+    "crn": 21161
+  },
+  {
+    "subject": "CISO2100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA SOCIAL S.XX",
+    "capacity": 51,
+    "enrolled": 51,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ORJUELA ESCOBAR LUIS JAVIER"
+    ],
+    "crn": 19768
+  },
+  {
+    "subject": "CISO2101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HIST. Y CRITICA: POPPER, BENJ.",
+    "capacity": 118,
+    "enrolled": 111,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DE ZUBIRIA SAMPER SERGIO"
+    ],
+    "crn": 19769
+  },
+  {
+    "subject": "CISO2102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SUJ. Y SOC: TEORIA SOCIAL S.XX",
+    "capacity": 62,
+    "enrolled": 62,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LOBO GREGORY"
+    ],
+    "crn": 20836
+  },
+  {
+    "subject": "CISO2200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROBLEMAS DE LA INVEST. SOCIAL",
+    "capacity": 120,
+    "enrolled": 80,
+    "available": 40,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AMAYA SANTIAGO"
+    ],
+    "crn": 21105
+  },
+  {
+    "subject": "CISO2200",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PROBLEMAS DE LA INVEST. SOCIAL",
+    "capacity": 50,
+    "enrolled": 61,
+    "available": -11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SUAREZ MONTANEZ ROBERTO"
+    ],
+    "crn": 20878
+  }
+]
