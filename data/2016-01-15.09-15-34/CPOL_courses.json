@@ -1,0 +1,957 @@
+[{
+    "subject": "CPOL1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRODUCC.CIENC.POLITICA.",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "ML",
+            "number": "514"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["RETTBERG ANGELIKA"],
+    "crn": 11298
+}, {
+    "subject": "CPOL1000",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INTRODUCC.CIENC.POLITICA.",
+    "capacity": 60,
+    "enrolled": 33,
+    "available": 27,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "SD",
+            "number": "715"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["LAURENT VIRGINIE MARIE"],
+    "crn": 20717
+}, {
+    "subject": "CPOL1003",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DE INDUCCIÓN",
+    "capacity": 110,
+    "enrolled": 46,
+    "available": 64,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "O",
+            "number": "103"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 14523
+}, {
+    "subject": "CPOL1100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD.POLITICA COMPARADA",
+    "capacity": 100,
+    "enrolled": 51,
+    "available": 49,
+    "schedules": [{
+        "days": ["S"],
+        "room": {
+            "building": "B",
+            "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+    }],
+    "instructors": ["NASI LIGNAROLO CARLO"],
+    "crn": 10967
+}, {
+    "subject": "CPOL1200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD.RELAC.INTERNAC.",
+    "capacity": 120,
+    "enrolled": 131,
+    "available": -11,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "SD",
+            "number": "805"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["IRANZO DOSDAD ANGELA"],
+    "crn": 10905
+}, {
+    "subject": "CPOL1300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD. POLITICA COLOMBIANA",
+    "capacity": 120,
+    "enrolled": 125,
+    "available": -5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "SD",
+            "number": "805"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["GARCIA SANCHEZ MIGUEL"],
+    "crn": 10027
+}, {
+    "subject": "CPOL1400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRODUCCION TEORIA POLITICA",
+    "capacity": 78,
+    "enrolled": 74,
+    "available": 4,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "607"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "ML",
+            "number": "607"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["KALMANOVITZ GONZALEZ PABLO"],
+    "crn": 10906
+}, {
+    "subject": "CPOL1500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE METODOLOGIA",
+    "capacity": 30,
+    "enrolled": 54,
+    "available": -24,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "SD",
+            "number": "715"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "O",
+            "number": "204"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["BOTERO JARAMILLO FELIPE"],
+    "crn": 10028
+}, {
+    "subject": "CPOL2122B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "REVOL. Y PROC PAZ COMPARADO",
+    "capacity": 32,
+    "enrolled": 36,
+    "available": -4,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "Z",
+            "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["NASI LIGNAROLO CARLO"],
+    "crn": 20040
+}, {
+    "subject": "CPOL2140",
+    "section": 1,
+    "credits": 3.0,
+    "title": "POLIT. ILEGAL. E ILEGAL. POLIT",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "LL",
+            "number": "303"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["OTERO BAHAMON SILVIA ALEJANDRA"],
+    "crn": 20155
+}, {
+    "subject": "CPOL2202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GLOBALIZACION",
+    "capacity": 33,
+    "enrolled": 36,
+    "available": -3,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "AU",
+            "number": "404"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["CHENOU JEAN MARIE"],
+    "crn": 21241
+}, {
+    "subject": "CPOL2220",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CHINA, POLITICA Y RRII",
+    "capacity": 48,
+    "enrolled": 48,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "V"],
+        "room": {
+            "building": "O",
+            "number": "401"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["CREUTZFELDT BENJAMIN HANS"],
+    "crn": 20158
+}, {
+    "subject": "CPOL2244",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENFOQUES CONCEPTUALES RRII",
+    "capacity": 63,
+    "enrolled": 65,
+    "available": -2,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "SD",
+            "number": "716"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["TICKNER ARLENE BETH"],
+    "crn": 20046
+}, {
+    "subject": "CPOL2308B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PARTIDOS POLITICOS Y ELECCIONE",
+    "capacity": 47,
+    "enrolled": 56,
+    "available": -9,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "302"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["WILLS OTERO LAURA"],
+    "crn": 20047
+}, {
+    "subject": "CPOL2334",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GOB Y DESCENTRALIZACIÓN COLOMB",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "O",
+            "number": "302"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MEJIA GUINAND LUIS BERNARDO"],
+    "crn": 20162
+}, {
+    "subject": "CPOL2410",
+    "section": 1,
+    "credits": 3.0,
+    "title": "JUSTICIA TRANSIC Y MEMORIA",
+    "capacity": 33,
+    "enrolled": 34,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "TM",
+            "number": "201"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["OROZCO ABAD IVAN"],
+    "crn": 21186
+}, {
+    "subject": "CPOL2417",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA CONTEMP POLITICA Y SOC",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "AU",
+            "number": "206"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["MASIAS NUNEZ RODOLFO"],
+    "crn": 20066
+}, {
+    "subject": "CPOL2441",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTIVA AREA TEORÍA POL-PR-1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "V"],
+        "room": {
+            "building": "R",
+            "number": "109"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": [""],
+    "crn": 20166
+}, {
+    "subject": "CPOL2501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER METODOLOGIA",
+    "capacity": 60,
+    "enrolled": 48,
+    "available": 12,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "SD",
+            "number": "704"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["RODRIGUEZ RAGA JUAN CARLOS"],
+    "crn": 10244
+}, {
+    "subject": "CPOL2601",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO PROG INVESTIG. CPOL",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 13787
+}, {
+    "subject": "CPOL3003",
+    "section": 1,
+    "credits": 6.0,
+    "title": "MONOGRAFIA DE GRADO",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 10029
+}, {
+    "subject": "CPOL3005",
+    "section": 1,
+    "credits": 6.0,
+    "title": "INVESTIGACION PROFESORAL",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 10830
+}, {
+    "subject": "CPOL3100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM POLITICA COMPARADA",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "AU",
+            "number": "308"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["BOTERO JARAMILLO FELIPE"],
+    "crn": 19209
+}, {
+    "subject": "CPOL3200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM RELACIONES INTERNACIO",
+    "capacity": 30,
+    "enrolled": 17,
+    "available": 13,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "TX",
+            "number": "602"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["IRANZO DOSDAD ANGELA"],
+    "crn": 10243
+}, {
+    "subject": "CPOL3300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM POLITICA COLOMBIANA",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "AU",
+            "number": "307"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["TORRES PRECIADO JAVIER FERNANDO"],
+    "crn": 13788
+}, {
+    "subject": "CPOL3402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM TEORÍA Y FILOS POLITICA",
+    "capacity": 30,
+    "enrolled": 5,
+    "available": 25,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "TX",
+            "number": "603"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["CARDENAS DIAZ JAVIER ALONSO"],
+    "crn": 20169
+}, {
+    "subject": "CPOL3500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO INVESTIGACION",
+    "capacity": 28,
+    "enrolled": 29,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "PU",
+            "number": "200"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["WILLS OTERO LAURA"],
+    "crn": 10245
+}, {
+    "subject": "CPOL3500",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SEMINARIO INVESTIGACION",
+    "capacity": 28,
+    "enrolled": 29,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "AU",
+            "number": "307"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["PINO URIBE JUAN FEDERICO"],
+    "crn": 20719
+}, {
+    "subject": "CPOL3600",
+    "section": 1,
+    "credits": 0.0,
+    "title": "OPCION GRADO MATERIAS MAESTRIA",
+    "capacity": 12,
+    "enrolled": 2,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 12968
+}, {
+    "subject": "CPOL3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 25,
+    "enrolled": 3,
+    "available": 22,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 10205
+}, {
+    "subject": "CPOL3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFES. 6 CREDITOS",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 18905
+}, {
+    "subject": "CPOL3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA PROFES. 3 CREDITOS",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 17158
+}, {
+    "subject": "CPOL3993",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DE GRADO",
+    "capacity": 50,
+    "enrolled": 20,
+    "available": 30,
+    "schedules": [],
+    "instructors": ["MEJIA GUINAND LUIS BERNARDO"],
+    "crn": 10831
+}, {
+    "subject": "CPOL3995",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DOCENTE",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 18900
+}, {
+    "subject": "CPOL4000",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INTERCAMBIO MAESTRIA CIENCIA",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 14218
+}, {
+    "subject": "CPOL4001",
+    "section": 1,
+    "credits": 0.0,
+    "title": "GRADO EN PROFUNDIZACIÓN",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 16087
+}, {
+    "subject": "CPOL4066",
+    "section": 1,
+    "credits": 0.0,
+    "title": "DOBLE PROGRAMA MA",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 18902
+}, {
+    "subject": "CPOL4103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 12,
+    "enrolled": 6,
+    "available": 6,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 18897
+}, {
+    "subject": "CPOL4107",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEORIA RELACIONES INTERNALES",
+    "capacity": 23,
+    "enrolled": 21,
+    "available": 2,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "O",
+            "number": "403"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["TICKNER ARLENE BETH"],
+    "crn": 19210
+}, {
+    "subject": "CPOL4114",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GOBERN. INSTIT. DLLO EN LATAM.",
+    "capacity": 28,
+    "enrolled": 12,
+    "available": 16,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "AU",
+            "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["HERNANDEZ HUERTA VICTOR ANTONIO"],
+    "crn": 20174
+}, {
+    "subject": "CPOL4141",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DEBATE POLITICO CONTEMPORANEO",
+    "capacity": 34,
+    "enrolled": 25,
+    "available": 9,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "AU",
+            "number": "403"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ORJUELA ESCOBAR LUIS JAVIER"],
+    "crn": 20117
+}, {
+    "subject": "CPOL4217",
+    "section": 1,
+    "credits": 4.0,
+    "title": "REGION. INTEGRA. LATAM/CARIBE",
+    "capacity": 34,
+    "enrolled": 14,
+    "available": 20,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "AU",
+            "number": "107"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["PRIETO CORREDOR GERMAN CAMILO"],
+    "crn": 20176
+}, {
+    "subject": "CPOL4230",
+    "section": 1,
+    "credits": 4.0,
+    "title": "COMP OPINION PÚBLICA COMPARADA",
+    "capacity": 26,
+    "enrolled": 14,
+    "available": 12,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "AU",
+            "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["GARCIA SANCHEZ MIGUEL"],
+    "crn": 19211
+}, {
+    "subject": "CPOL4309",
+    "section": 1,
+    "credits": 4.0,
+    "title": "HACIENDO HISTOR. NEGOC. HABANA",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "S1",
+            "number": "003"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["OROZCO ABAD IVAN"],
+    "crn": 20178
+}, {
+    "subject": "CPOL4413",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEORIAS DEL ESTADO",
+    "capacity": 33,
+    "enrolled": 9,
+    "available": 24,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "AU",
+            "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["KALMANOVITZ GONZALEZ PABLO"],
+    "crn": 20171
+}, {
+    "subject": "CPOL4420",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MEMORIA HISTO COMIS VERDAD COL",
+    "capacity": 28,
+    "enrolled": 18,
+    "available": 10,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "AU",
+            "number": "308"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GOMEZ SUAREZ ANDREI GIOVANI"],
+    "crn": 19214
+}, {
+    "subject": "CPOL4521",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉTODOS CUALITATIVOS INV CPOL",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "T",
+            "number": "205"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["MEJIA GUINAND LUIS BERNARDO"],
+    "crn": 19212
+}, {
+    "subject": "CPOL4522",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO INVESTIGACION CIENCI",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "TX",
+            "number": "602"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+    }],
+    "instructors": ["LAURENT VIRGINIE MARIE"],
+    "crn": 18847
+}, {
+    "subject": "CPOL6523",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LECTURAS DIRIGIDAS",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 19077
+}, {
+    "subject": "CPOL6972",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MAYOR-RELACIONES INTER",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20182
+}, {
+    "subject": "CPOL6973",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MAYOR-TEORIA POLITICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20183
+}, {
+    "subject": "CPOL6974",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MAYOR-POL COMPARADA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20180
+}, {
+    "subject": "CPOL6975",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MAYOR-POL COLOMBIANA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20184
+}, {
+    "subject": "CPOL6976",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MENOR-RELACIONES INTER",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20185
+}, {
+    "subject": "CPOL6977",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MENOR-TEORIA POLITICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20186
+}, {
+    "subject": "CPOL6978",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MENOR-POL COMPARADA",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20187
+}, {
+    "subject": "CPOL6979",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EX AREA MENOR-POL COLOMBIANA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 20188
+}, {
+    "subject": "CPOL6980",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TRABAJO GRUPO DE INVEST. DOCT.",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 12822
+}, {
+    "subject": "CPOL6994",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PASANTÍA ESTUDIANTES DOCTORADO",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 13405
+}, {
+    "subject": "CPOL6998",
+    "section": 1,
+    "credits": 0.0,
+    "title": "DISERTACION EN PROGRESO",
+    "capacity": 3,
+    "enrolled": 5,
+    "available": -2,
+    "schedules": [],
+    "instructors": ["SANTACRUZ BRAVO CAROLINA"],
+    "crn": 19051
+}]

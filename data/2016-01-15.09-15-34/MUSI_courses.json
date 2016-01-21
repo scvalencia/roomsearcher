@@ -1,0 +1,4311 @@
+[{
+    "subject": "MUSI1100A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APRECIACION DE LA MUSICA",
+    "capacity": 62,
+    "enrolled": 66,
+    "available": -4,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "ML",
+            "number": "514"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GIRALDO ANGEL CAMILO"],
+    "crn": 10267
+}, {
+    "subject": "MUSI1100A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "APRECIACION DE LA MUSICA",
+    "capacity": 77,
+    "enrolled": 77,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["RODRIGUEZ MELO MARTHA ENNA"],
+    "crn": 10497
+}, {
+    "subject": "MUSI1100A",
+    "section": 4,
+    "credits": 3.0,
+    "title": "APRECIACION DE LA MUSICA",
+    "capacity": 77,
+    "enrolled": 78,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "606"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "ML",
+            "number": "606"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["PLATZ MARROQUIN RAUL MAURICIO"],
+    "crn": 18549
+}, {
+    "subject": "MUSI1100A",
+    "section": 5,
+    "credits": 3.0,
+    "title": "APRECIACION DE LA MUSICA",
+    "capacity": 187,
+    "enrolled": 115,
+    "available": 72,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "R",
+            "number": "210"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["PLATZ MARROQUIN RAUL MAURICIO"],
+    "crn": 21098
+}, {
+    "subject": "MUSI1101B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APRECIACION DE BLUES Y ROCK 1",
+    "capacity": 62,
+    "enrolled": 69,
+    "available": -7,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "R",
+            "number": "111"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 10652
+}, {
+    "subject": "MUSI1102B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APRECIACION DE BLUES Y ROCK 2",
+    "capacity": 62,
+    "enrolled": 63,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "111"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 10256
+}, {
+    "subject": "MUSI1104B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUS. EDAD MEDIA Y RENACIMIENTO",
+    "capacity": 22,
+    "enrolled": 23,
+    "available": -1,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "AU",
+            "number": "309"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["FUENTES HERNANDEZ ARMANDO JOSE"],
+    "crn": 10672
+}, {
+    "subject": "MUSI1105B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA SIGLOS XVII Y XVIII",
+    "capacity": 47,
+    "enrolled": 44,
+    "available": 3,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "Z",
+            "number": "213"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["GARCIA MARCELA"],
+    "crn": 10607
+}, {
+    "subject": "MUSI1106B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA SIGLO XIX",
+    "capacity": 50,
+    "enrolled": 35,
+    "available": 15,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "ML",
+            "number": "607"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "W",
+            "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["TORRES LOPEZ RONDY FELIPE"],
+    "crn": 18551
+}, {
+    "subject": "MUSI1107B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA IMPOPULAR SIGLO XX",
+    "capacity": 77,
+    "enrolled": 28,
+    "available": 49,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "V",
+            "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["RODRIGUEZ MELO MARTHA ENNA"],
+    "crn": 16397
+}, {
+    "subject": "MUSI1114A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA ORQUESTAL EN OCCIDENTE",
+    "capacity": 77,
+    "enrolled": 34,
+    "available": 43,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "B",
+            "number": "401"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "SD",
+            "number": "716"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 10587
+}, {
+    "subject": "MUSI1116B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA Y CINEMATOGRAFIA",
+    "capacity": 47,
+    "enrolled": 51,
+    "available": -4,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "Z",
+            "number": "213"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["GARCIA MARCELA"],
+    "crn": 20380
+}, {
+    "subject": "MUSI1121A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MUSICA Y GUERRA EN OCCIDENTE",
+    "capacity": 47,
+    "enrolled": 20,
+    "available": 27,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "ML",
+            "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 20394
+}, {
+    "subject": "MUSI1122B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BANDA SONORA",
+    "capacity": 62,
+    "enrolled": 40,
+    "available": 22,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "SD",
+            "number": "716"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 20921
+}, {
+    "subject": "MUSI1125A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LA HISTORIA DEL JAZZ",
+    "capacity": 77,
+    "enrolled": 77,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 12068
+}, {
+    "subject": "MUSI1125B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MÚSICA EXPERIMENTAL",
+    "capacity": 37,
+    "enrolled": 38,
+    "available": -1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "ML",
+            "number": "516"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 10878
+}, {
+    "subject": "MUSI1126",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NEGOCIOS DE LA MÚSICA",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "AU",
+            "number": "207"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "AU",
+            "number": "207"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["BARRERA SILVA NATALIA"],
+    "crn": 16399
+}, {
+    "subject": "MUSI1129",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANALISIS DE PRODUC.DISCOGRAF.",
+    "capacity": 12,
+    "enrolled": 3,
+    "available": 9,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 18959
+}, {
+    "subject": "MUSI1130",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER CANCIONES COMERCIALES",
+    "capacity": 25,
+    "enrolled": 2,
+    "available": 23,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "AU",
+            "number": "309"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["RODRIGUEZ CORTES NICOLAS"],
+    "crn": 20402
+}, {
+    "subject": "MUSI1130B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DE LA HABANERA AL TANGO",
+    "capacity": 77,
+    "enrolled": 77,
+    "available": 0,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "ML",
+            "number": "604"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 11678
+}, {
+    "subject": "MUSI1132",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENTENDER Y SENTIR LA MUSICA",
+    "capacity": 25,
+    "enrolled": 3,
+    "available": 22,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "AU",
+            "number": "309"
+        },
+        "initHour": "1100",
+        "finalHour": "1150"
+    }],
+    "instructors": ["PLATZ MARROQUIN RAUL MAURICIO"],
+    "crn": 20403
+}, {
+    "subject": "MUSI1134B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIENA, EROS Y MÚSICA",
+    "capacity": 27,
+    "enrolled": 18,
+    "available": 9,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "AU",
+            "number": "308"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20404
+}, {
+    "subject": "MUSI1202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA 1",
+    "capacity": 15,
+    "enrolled": 20,
+    "available": -5,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 11002
+}, {
+    "subject": "MUSI1202",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ARMONIA 1",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["AZULA CAJAL MARIA DEL PILAR"],
+    "crn": 11001
+}, {
+    "subject": "MUSI1203",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA 2",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }, {
+        "days": ["V"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 10941
+}, {
+    "subject": "MUSI1203",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ARMONIA 2",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["BARACALDO RAMIREZ PEDRO OMAR"],
+    "crn": 11003
+}, {
+    "subject": "MUSI1204",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA 3",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "211"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["GARCIA MARCELA"],
+    "crn": 16400
+}, {
+    "subject": "MUSI1204",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ARMONIA 3",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["TORRES LOPEZ RONDY FELIPE"],
+    "crn": 11004
+}, {
+    "subject": "MUSI1205",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 1",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "111"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["AZULA CAJAL MARIA DEL PILAR"],
+    "crn": 10254
+}, {
+    "subject": "MUSI1205",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANCHEZ BERNAL CATALINA"],
+    "crn": 11454
+}, {
+    "subject": "MUSI1206",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 2",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["BARACALDO RAMIREZ PEDRO OMAR"],
+    "crn": 10785
+}, {
+    "subject": "MUSI1206",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 2",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["SANCHEZ BERNAL CATALINA"],
+    "crn": 10893
+}, {
+    "subject": "MUSI1207",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 3",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["AZULA CAJAL MARIA DEL PILAR"],
+    "crn": 10357
+}, {
+    "subject": "MUSI1207",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 3",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANCHEZ BERNAL CATALINA"],
+    "crn": 10894
+}, {
+    "subject": "MUSI1208",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 21226
+}, {
+    "subject": "MUSI1208",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 21228
+}, {
+    "subject": "MUSI1208",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 17169
+}, {
+    "subject": "MUSI1208",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 21229
+}, {
+    "subject": "MUSI1208",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 21244
+}, {
+    "subject": "MUSI1208",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 13325
+}, {
+    "subject": "MUSI1208",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 21246
+}, {
+    "subject": "MUSI1208",
+    "section": 8,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 21253
+}, {
+    "subject": "MUSI1208",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 21264
+}, {
+    "subject": "MUSI1208",
+    "section": 12,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 15310
+}, {
+    "subject": "MUSI1208",
+    "section": 13,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 17152
+}, {
+    "subject": "MUSI1209",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["SAMPERA DE LA TEJERA MARIA BARBARA"],
+    "crn": 11047
+}, {
+    "subject": "MUSI1209",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 16403
+}, {
+    "subject": "MUSI1209",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 18571
+}, {
+    "subject": "MUSI1209",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 18572
+}, {
+    "subject": "MUSI1209",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 18573
+}, {
+    "subject": "MUSI1209",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 19082
+}, {
+    "subject": "MUSI1209",
+    "section": 8,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20456
+}, {
+    "subject": "MUSI1209",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20458
+}, {
+    "subject": "MUSI1209",
+    "section": 10,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20462
+}, {
+    "subject": "MUSI1209",
+    "section": 11,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20465
+}, {
+    "subject": "MUSI1209",
+    "section": 12,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20467
+}, {
+    "subject": "MUSI1210",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 11285
+}, {
+    "subject": "MUSI1210",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["SAMPERA DE LA TEJERA MARIA BARBARA"],
+    "crn": 10793
+}, {
+    "subject": "MUSI1210",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 17167
+}, {
+    "subject": "MUSI1210",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 13930
+}, {
+    "subject": "MUSI1210",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20413
+}, {
+    "subject": "MUSI1210",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20414
+}, {
+    "subject": "MUSI1210",
+    "section": 8,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20416
+}, {
+    "subject": "MUSI1210",
+    "section": 9,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20417
+}, {
+    "subject": "MUSI1210",
+    "section": 10,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 3",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 20419
+}, {
+    "subject": "MUSI1303",
+    "section": 1,
+    "credits": 0.0,
+    "title": "CORO DE CAMARA",
+    "capacity": 24,
+    "enrolled": 5,
+    "available": 19,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 11429
+}, {
+    "subject": "MUSI1400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.1 - GUITARRA",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 13111
+}, {
+    "subject": "MUSI1400",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.1 - CANTO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 19022
+}, {
+    "subject": "MUSI1400",
+    "section": 3,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.1- CANTO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 21262
+}, {
+    "subject": "MUSI1401",
+    "section": 3,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.2 - CANTO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 21259
+}, {
+    "subject": "MUSI1401",
+    "section": 4,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 13764
+}, {
+    "subject": "MUSI1402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTRUMENTO COMPL.3 - GUITARRA",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 19107
+}, {
+    "subject": "MUSI1404",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONJUNTO 1 PIANO",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11154
+}, {
+    "subject": "MUSI1404",
+    "section": 3,
+    "credits": 3.0,
+    "title": "CONJUNTO 1 - GUITARRA",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 10628
+}, {
+    "subject": "MUSI1404",
+    "section": 4,
+    "credits": 3.0,
+    "title": "CONJUNTO 1",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11944
+}, {
+    "subject": "MUSI1415",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20468
+}, {
+    "subject": "MUSI1415",
+    "section": 2,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AVENDAÑO RESTREPO JUAN FERNANDO"],
+    "crn": 20470
+}, {
+    "subject": "MUSI1415",
+    "section": 3,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["HOYOS LEONARDO FEDERICO"],
+    "crn": 20471
+}, {
+    "subject": "MUSI1415",
+    "section": 4,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 20472
+}, {
+    "subject": "MUSI1415",
+    "section": 5,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LINARES CHAVEZ JULIAN DAVID"],
+    "crn": 20473
+}, {
+    "subject": "MUSI1415",
+    "section": 6,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - VIOLONCEL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GARCIA CASTRO DIEGO"],
+    "crn": 21204
+}, {
+    "subject": "MUSI1415",
+    "section": 7,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - CLARINETE",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ SARMIENTO EDWIN ALBERTO"],
+    "crn": 21205
+}, {
+    "subject": "MUSI1415",
+    "section": 8,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - GUITARRA",
+    "capacity": 1,
+    "enrolled": 2,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 21208
+}, {
+    "subject": "MUSI1415",
+    "section": 9,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - VIOLÍN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 21209
+}, {
+    "subject": "MUSI1415",
+    "section": 10,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - PIANO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 21211
+}, {
+    "subject": "MUSI1415",
+    "section": 11,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - SAXOFÓN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 21214
+}, {
+    "subject": "MUSI1415",
+    "section": 12,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 1 - 15 - VIOLA",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LINARES CHAVEZ JULIAN DAVID"],
+    "crn": 21218
+}, {
+    "subject": "MUSI1416",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 2 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 20480
+}, {
+    "subject": "MUSI1416",
+    "section": 2,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 2 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["LINARES CHAVEZ JULIAN DAVID"],
+    "crn": 21247
+}, {
+    "subject": "MUSI1417",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 3 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["NOGUERA RAMIREZ JULIO ALBERTO"],
+    "crn": 20484
+}, {
+    "subject": "MUSI1417",
+    "section": 2,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 3 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 20485
+}, {
+    "subject": "MUSI1417",
+    "section": 3,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 3 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20486
+}, {
+    "subject": "MUSI1600",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TECLADO 1",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 11455
+}, {
+    "subject": "MUSI1600",
+    "section": 2,
+    "credits": 2.0,
+    "title": "TECLADO 1",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+    }],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 16493
+}, {
+    "subject": "MUSI1601",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TECLADO 2",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 11456
+}, {
+    "subject": "MUSI1601",
+    "section": 2,
+    "credits": 2.0,
+    "title": "TECLADO 2",
+    "capacity": 15,
+    "enrolled": 10,
+    "available": 5,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 11457
+}, {
+    "subject": "MUSI1602",
+    "section": 2,
+    "credits": 2.0,
+    "title": "TECLADO 3",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 11458
+}, {
+    "subject": "MUSI1603",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TECLADO 4",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+    }],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 11460
+}, {
+    "subject": "MUSI1603",
+    "section": 2,
+    "credits": 2.0,
+    "title": "TECLADO 4",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 16499
+}, {
+    "subject": "MUSI1610",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SOFTWARE MUSICAL 1",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["BASTOS BALDRICH JUAN SEBASTIAN"],
+    "crn": 20490
+}, {
+    "subject": "MUSI1610",
+    "section": 2,
+    "credits": 2.0,
+    "title": "SOFTWARE MUSICAL 1",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1600",
+        "finalHour": "1720"
+    }],
+    "instructors": ["BASTOS BALDRICH JUAN SEBASTIAN"],
+    "crn": 20514
+}, {
+    "subject": "MUSI1610",
+    "section": 3,
+    "credits": 2.0,
+    "title": "SOFTWARE MUSICAL 1",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["RESTREPO PABON RODRIGO"],
+    "crn": 20516
+}, {
+    "subject": "MUSI1611",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SOFTWARE MUSICAL 2",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1730",
+        "finalHour": "1850"
+    }],
+    "instructors": ["BASTOS BALDRICH JUAN SEBASTIAN"],
+    "crn": 20519
+}, {
+    "subject": "MUSI1611",
+    "section": 2,
+    "credits": 2.0,
+    "title": "SOFTWARE MUSICAL 2",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+    }],
+    "instructors": ["RESTREPO PABON RODRIGO"],
+    "crn": 20521
+}, {
+    "subject": "MUSI1800",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENSAMBLE DE JAZZ",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 10544
+}, {
+    "subject": "MUSI1802",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO MUSICA ANTIGUA",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [],
+    "instructors": ["HUERTAS NIETO ALVARO"],
+    "crn": 13991
+}, {
+    "subject": "MUSI1807",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER MIDI (ELECTIVA-OPCION)",
+    "capacity": 15,
+    "enrolled": 10,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["RESTREPO PABON RODRIGO"],
+    "crn": 11463
+}, {
+    "subject": "MUSI1808",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNICAS GRABACION 1 (OPCION)",
+    "capacity": 10,
+    "enrolled": 10,
+    "available": 0,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+    }],
+    "instructors": ["BASTOS BALDRICH JUAN SEBASTIAN"],
+    "crn": 20524
+}, {
+    "subject": "MUSI1811",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13265
+}, {
+    "subject": "MUSI1812",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO DE MUSICA COLOMBIANA",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 14956
+}, {
+    "subject": "MUSI1815",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE IMPROV (JAZZ)",
+    "capacity": 15,
+    "enrolled": 8,
+    "available": 7,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "V",
+            "number": "112"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["PLATZ MARROQUIN RAUL MAURICIO"],
+    "crn": 13993
+}, {
+    "subject": "MUSI1816",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TECNICA ALEXANDER 2",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "V",
+            "number": "111"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GONZALEZ RORIGUEZ JONATAN"],
+    "crn": 20545
+}, {
+    "subject": "MUSI1817",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA DEL JAZZ",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1330",
+        "finalHour": "1520"
+    }],
+    "instructors": ["PLATZ MARROQUIN RAUL MAURICIO"],
+    "crn": 20548
+}, {
+    "subject": "MUSI1818",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENSAMBLE VOCAL",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 14959
+}, {
+    "subject": "MUSI1819",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CORO PREPARATORIO",
+    "capacity": 30,
+    "enrolled": 5,
+    "available": 25,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+    }],
+    "instructors": ["OSPINA FADUL CAMILA"],
+    "crn": 10608
+}, {
+    "subject": "MUSI1820",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CORO UNIANDES",
+    "capacity": 40,
+    "enrolled": 6,
+    "available": 34,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1920"
+    }],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10943
+}, {
+    "subject": "MUSI1821",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARREGLOS JAZZ: INTRODUCCIÓN",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [],
+    "instructors": ["ACEVEDO OSCAR"],
+    "crn": 20552
+}, {
+    "subject": "MUSI1825",
+    "section": 1,
+    "credits": 0.5,
+    "title": "CONJUNTO CORAL",
+    "capacity": 40,
+    "enrolled": 1,
+    "available": 39,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 15285
+}, {
+    "subject": "MUSI1830",
+    "section": 1,
+    "credits": 0.0,
+    "title": "CORO 1",
+    "capacity": 50,
+    "enrolled": 37,
+    "available": 13,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 18617
+}, {
+    "subject": "MUSI1831",
+    "section": 1,
+    "credits": 0.0,
+    "title": "CORO 2",
+    "capacity": 50,
+    "enrolled": 10,
+    "available": 40,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 18619
+}, {
+    "subject": "MUSI1902",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER DE IDIOMA 2",
+    "capacity": 10,
+    "enrolled": 9,
+    "available": 1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "R",
+            "number": "211"
+        },
+        "initHour": "1530",
+        "finalHour": "1720"
+    }],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 20554
+}, {
+    "subject": "MUSI1903",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 1",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "R",
+            "number": "108"
+        },
+        "initHour": "1530",
+        "finalHour": "1920"
+    }],
+    "instructors": [""],
+    "crn": 15298
+}, {
+    "subject": "MUSI1910",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 1",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13216
+}, {
+    "subject": "MUSI1911",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 2",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13217
+}, {
+    "subject": "MUSI1912",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 3",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13218
+}, {
+    "subject": "MUSI1991",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTIVA 1",
+    "capacity": 20,
+    "enrolled": 1,
+    "available": 19,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20577
+}, {
+    "subject": "MUSI1992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTIVA 2",
+    "capacity": 20,
+    "enrolled": 0,
+    "available": 20,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20580
+}, {
+    "subject": "MUSI2200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 4",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 14138
+}, {
+    "subject": "MUSI2200",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 4",
+    "capacity": 1,
+    "enrolled": 2,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["SAMPERA DE LA TEJERA MARIA BARBARA"],
+    "crn": 15295
+}, {
+    "subject": "MUSI2200",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20650
+}, {
+    "subject": "MUSI2200",
+    "section": 8,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20652
+}, {
+    "subject": "MUSI2201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 5",
+    "capacity": 4,
+    "enrolled": 4,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SAMPERA DE LA TEJERA MARIA BARBARA"],
+    "crn": 10630
+}, {
+    "subject": "MUSI2201",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 5",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 21266
+}, {
+    "subject": "MUSI2201",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 5",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARO GOMEZ AURELIO"],
+    "crn": 12737
+}, {
+    "subject": "MUSI2201",
+    "section": 5,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 5",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 13758
+}, {
+    "subject": "MUSI2201",
+    "section": 6,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 5",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CASTILLO SERRANO DIEGO FERNANDO"],
+    "crn": 20654
+}, {
+    "subject": "MUSI2202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 6",
+    "capacity": 4,
+    "enrolled": 3,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["SAMPERA DE LA TEJERA MARIA BARBARA"],
+    "crn": 10631
+}, {
+    "subject": "MUSI2202",
+    "section": 7,
+    "credits": 3.0,
+    "title": "PIANO COMPLEMENTARIO 6",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 18631
+}, {
+    "subject": "MUSI2203",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 4",
+    "capacity": 15,
+    "enrolled": 10,
+    "available": 5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["SANCHEZ BERNAL CATALINA"],
+    "crn": 10654
+}, {
+    "subject": "MUSI2203",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 4",
+    "capacity": 15,
+    "enrolled": 8,
+    "available": 7,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "111"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+    }],
+    "instructors": ["BARACALDO RAMIREZ PEDRO OMAR"],
+    "crn": 11034
+}, {
+    "subject": "MUSI2204",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ENTREN AUDITIVO 5",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["BARACALDO RAMIREZ PEDRO OMAR"],
+    "crn": 10609
+}, {
+    "subject": "MUSI2205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA 4",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "R",
+            "number": "211"
+        },
+        "initHour": "1100",
+        "finalHour": "1220"
+    }, {
+        "days": ["V"],
+        "room": {
+            "building": "R",
+            "number": "211"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 10944
+}, {
+    "subject": "MUSI2205",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ARMONIA 4",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "211"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 11035
+}, {
+    "subject": "MUSI2206",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARMONIA 5",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["LAPIDUS WOLKIND HORACIO"],
+    "crn": 10945
+}, {
+    "subject": "MUSI2208",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTRAPUNTO 1",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["RAMIREZ VELASCO PEDRO FELIPE"],
+    "crn": 10946
+}, {
+    "subject": "MUSI2209",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTRAPUNTO 2",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 10881
+}, {
+    "subject": "MUSI2209",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONTRAPUNTO 2",
+    "capacity": 15,
+    "enrolled": 11,
+    "available": 4,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "V",
+            "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["RAMIREZ VELASCO PEDRO FELIPE"],
+    "crn": 10882
+}, {
+    "subject": "MUSI2210",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTRAPUNTO AVANZADO 1",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 10947
+}, {
+    "subject": "MUSI2211",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONTRAPUNTO AVANZADO 2",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 10948
+}, {
+    "subject": "MUSI2212",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MORFOLOGIA 1",
+    "capacity": 25,
+    "enrolled": 20,
+    "available": 5,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+    }],
+    "instructors": ["LAPIDUS WOLKIND HORACIO"],
+    "crn": 10949
+}, {
+    "subject": "MUSI2213",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MORFOLOGIA 2",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "V",
+            "number": "103"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["LAPIDUS WOLKIND HORACIO"],
+    "crn": 11472
+}, {
+    "subject": "MUSI2301",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUND DIRECCION 1",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["OSPINA FADUL CAMILA"],
+    "crn": 10892
+}, {
+    "subject": "MUSI2302",
+    "section": 1,
+    "credits": 5.0,
+    "title": "DIRECCION CORAL 1",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10951
+}, {
+    "subject": "MUSI2303",
+    "section": 1,
+    "credits": 5.0,
+    "title": "DIRECCION CORAL 2",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10952
+}, {
+    "subject": "MUSI2400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO 2",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11945
+}, {
+    "subject": "MUSI2400",
+    "section": 4,
+    "credits": 3.0,
+    "title": "CONJUNTO 2 PIANO",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11063
+}, {
+    "subject": "MUSI2401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO 3 PIANO",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11274
+}, {
+    "subject": "MUSI2401",
+    "section": 3,
+    "credits": 3.0,
+    "title": "CONJUNTO SAXOFÓN",
+    "capacity": 8,
+    "enrolled": 6,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 15173
+}, {
+    "subject": "MUSI2401",
+    "section": 5,
+    "credits": 3.0,
+    "title": "CONJUNTO 3",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11946
+}, {
+    "subject": "MUSI2402",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONJUNTO 4 - GUITARRA",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["ROCCA LYNN CARLOS BERNARD"],
+    "crn": 21227
+}, {
+    "subject": "MUSI2402",
+    "section": 3,
+    "credits": 3.0,
+    "title": "CONJUNTO 4 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11491
+}, {
+    "subject": "MUSI2402",
+    "section": 4,
+    "credits": 3.0,
+    "title": "CONJUNTO 4",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11947
+}, {
+    "subject": "MUSI2403",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONJUNTO 5",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11948
+}, {
+    "subject": "MUSI2403",
+    "section": 5,
+    "credits": 3.0,
+    "title": "CONJUNTO 5 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11492
+}, {
+    "subject": "MUSI2403",
+    "section": 6,
+    "credits": 3.0,
+    "title": "CONJUNTO 5",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 20661
+}, {
+    "subject": "MUSI2404",
+    "section": 1,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["HOYOS LEONARDO FEDERICO"],
+    "crn": 20663
+}, {
+    "subject": "MUSI2406",
+    "section": 4,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 6",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 16582
+}, {
+    "subject": "MUSI2406",
+    "section": 5,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 6 - FLAUTA",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13729
+}, {
+    "subject": "MUSI2407",
+    "section": 1,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 7 - VIOLIN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["HOYOS LEONARDO FEDERICO"],
+    "crn": 13304
+}, {
+    "subject": "MUSI2407",
+    "section": 4,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 7",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 16556
+}, {
+    "subject": "MUSI2407",
+    "section": 5,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 7",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SANKO ALEXANDER"],
+    "crn": 13338
+}, {
+    "subject": "MUSI2407",
+    "section": 8,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 7",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 18657
+}, {
+    "subject": "MUSI2407",
+    "section": 9,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 7",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SALCEDO RODRIGUEZ PEDRO ALEJANDRO"],
+    "crn": 20734
+}, {
+    "subject": "MUSI2414",
+    "section": 4,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ SARMIENTO EDWIN ALBERTO"],
+    "crn": 20708
+}, {
+    "subject": "MUSI2414",
+    "section": 5,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ SARMIENTO EDWIN ALBERTO"],
+    "crn": 20709
+}, {
+    "subject": "MUSI2414",
+    "section": 6,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20711
+}, {
+    "subject": "MUSI2414",
+    "section": 7,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20712
+}, {
+    "subject": "MUSI2414",
+    "section": 8,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20713
+}, {
+    "subject": "MUSI2414",
+    "section": 9,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 20714
+}, {
+    "subject": "MUSI2414",
+    "section": 10,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 20715
+}, {
+    "subject": "MUSI2414",
+    "section": 11,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 20718
+}, {
+    "subject": "MUSI2414",
+    "section": 12,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GARCIA CASTRO DIEGO"],
+    "crn": 20720
+}, {
+    "subject": "MUSI2415",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20721
+}, {
+    "subject": "MUSI2415",
+    "section": 2,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15 PIANO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 19071
+}, {
+    "subject": "MUSI2415",
+    "section": 3,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20722
+}, {
+    "subject": "MUSI2415",
+    "section": 4,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SALCEDO RODRIGUEZ PEDRO ALEJANDRO"],
+    "crn": 20726
+}, {
+    "subject": "MUSI2415",
+    "section": 6,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15 - PERCUSIÓN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SICHACA CUERVO SANDRA"],
+    "crn": 21261
+}, {
+    "subject": "MUSI2415",
+    "section": 7,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 5 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 20728
+}, {
+    "subject": "MUSI2416",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INSTRUMENTO 6 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20729
+}, {
+    "subject": "MUSI2420",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RECITAL MITAD DE CARRERA INSTR",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 20732
+}, {
+    "subject": "MUSI2500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 10897
+}, {
+    "subject": "MUSI2500",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 21230
+}, {
+    "subject": "MUSI2500",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 11289
+}, {
+    "subject": "MUSI2500",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 2,
+    "enrolled": 3,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 14144
+}, {
+    "subject": "MUSI2500",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 1",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["RAMIREZ VELASCO PEDRO FELIPE"],
+    "crn": 14147
+}, {
+    "subject": "MUSI2501",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 12957
+}, {
+    "subject": "MUSI2501",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["RAMIREZ VELASCO PEDRO FELIPE"],
+    "crn": 14998
+}, {
+    "subject": "MUSI2501",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 15311
+}, {
+    "subject": "MUSI2501",
+    "section": 6,
+    "credits": 3.0,
+    "title": "TALLER DE COMPOSICION 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 16597
+}, {
+    "subject": "MUSI2502",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTRUMENTACION 1",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "111"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 10788
+}, {
+    "subject": "MUSI2503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTRUMENTACION 2",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "106"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 10569
+}, {
+    "subject": "MUSI2504",
+    "section": 1,
+    "credits": 5.0,
+    "title": "COMPOSICION 1",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 16596
+}, {
+    "subject": "MUSI2504",
+    "section": 2,
+    "credits": 5.0,
+    "title": "COMPOSICION 1",
+    "capacity": 6,
+    "enrolled": 1,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 11112
+}, {
+    "subject": "MUSI2504",
+    "section": 3,
+    "credits": 5.0,
+    "title": "COMPOSICION 1",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 15204
+}, {
+    "subject": "MUSI2505",
+    "section": 1,
+    "credits": 5.0,
+    "title": "COMPOSICION 2",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 11113
+}, {
+    "subject": "MUSI2505",
+    "section": 2,
+    "credits": 5.0,
+    "title": "COMPOSICION 2",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 12958
+}, {
+    "subject": "MUSI2505",
+    "section": 3,
+    "credits": 5.0,
+    "title": "COMPOSICION 2",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 13320
+}, {
+    "subject": "MUSI2505",
+    "section": 4,
+    "credits": 5.0,
+    "title": "COMPOSICION 2",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 15313
+}, {
+    "subject": "MUSI2513",
+    "section": 1,
+    "credits": 2.0,
+    "title": "AUDIO PARA LA IMAGEN II",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1500",
+        "finalHour": "1750"
+    }],
+    "instructors": ["TORRES REYES ISABEL CRISTINA"],
+    "crn": 20745
+}, {
+    "subject": "MUSI2514",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPOSICIÓN PARA LA IMAGEN I",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 18970
+}, {
+    "subject": "MUSI2514",
+    "section": 3,
+    "credits": 3.0,
+    "title": "COMPOSICIÓN PARA LA IMAGEN I",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["RAMIREZ VELASCO PEDRO FELIPE"],
+    "crn": 18972
+}, {
+    "subject": "MUSI2515",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPOSICIÓN PARA LA IMAGEN II",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 20754
+}, {
+    "subject": "MUSI2515",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COMPOSICIÓN PARA LA IMAGEN II",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 20757
+}, {
+    "subject": "MUSI2602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SONIDO EN VIVO 1",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+    }],
+    "instructors": ["TARQUINO FERNANDEZ JAVIER HUMBERTO"],
+    "crn": 20763
+}, {
+    "subject": "MUSI2602",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SONIDO EN VIVO 1",
+    "capacity": 30,
+    "enrolled": 5,
+    "available": 25,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+    }],
+    "instructors": ["TARQUINO FERNANDEZ JAVIER HUMBERTO"],
+    "crn": 20764
+}, {
+    "subject": "MUSI2606",
+    "section": 2,
+    "credits": 2.0,
+    "title": "AUDICION CRITICA",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["SANTOS CANO ERNESTO"],
+    "crn": 11476
+}, {
+    "subject": "MUSI2608",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE GRABACION 1",
+    "capacity": 8,
+    "enrolled": 6,
+    "available": 2,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "Z",
+            "number": "115D"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["ZORRO RODRIGUEZ MARCELA PATRICIA"],
+    "crn": 15006
+}, {
+    "subject": "MUSI2608",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE GRABACION 1",
+    "capacity": 8,
+    "enrolled": 4,
+    "available": 4,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "Z",
+            "number": "115D"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+    }],
+    "instructors": ["ZORRO RODRIGUEZ MARCELA PATRICIA"],
+    "crn": 10505
+}, {
+    "subject": "MUSI2612",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE AUDIO Y ACÚSTIC",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "AU",
+            "number": "306"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 18691
+}, {
+    "subject": "MUSI2613",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGÍA DEL AUDIO 1",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "AU",
+            "number": "309"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["TARQUINO FERNANDEZ JAVIER HUMBERTO"],
+    "crn": 18692
+}, {
+    "subject": "MUSI2619",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGÍA DEL AUDIO 2",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Z",
+            "number": "224"
+        },
+        "initHour": "1530",
+        "finalHour": "1720"
+    }],
+    "instructors": ["SILVA CASTRO CARLOS ARTURO"],
+    "crn": 20766
+}, {
+    "subject": "MUSI2620",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ACÚSTICA MUSICAL",
+    "capacity": 25,
+    "enrolled": 9,
+    "available": 16,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "AU",
+            "number": "306"
+        },
+        "initHour": "1430",
+        "finalHour": "1720"
+    }],
+    "instructors": ["RODRIGUEZ LAVERDE JUANITA"],
+    "crn": 18701
+}, {
+    "subject": "MUSI2700",
+    "section": 2,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 1",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 10883
+}, {
+    "subject": "MUSI2701",
+    "section": 1,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 2",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 11935
+}, {
+    "subject": "MUSI2801",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 1",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["SALAZAR APARICIO PEDRO ALEJANDRO"],
+    "crn": 15008
+}, {
+    "subject": "MUSI2805",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PIANO APLICADO 4",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 13953
+}, {
+    "subject": "MUSI2805",
+    "section": 2,
+    "credits": 2.0,
+    "title": "PIANO APLICADO 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 20767
+}, {
+    "subject": "MUSI2806",
+    "section": 2,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 2",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 15305
+}, {
+    "subject": "MUSI2807",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 3",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 15009
+}, {
+    "subject": "MUSI2808",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 17121
+}, {
+    "subject": "MUSI2809",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 5",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 15010
+}, {
+    "subject": "MUSI2810",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 4",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13219
+}, {
+    "subject": "MUSI2811",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 5",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13220
+}, {
+    "subject": "MUSI2812",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 6",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13221
+}, {
+    "subject": "MUSI2813",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 7",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13222
+}, {
+    "subject": "MUSI2814",
+    "section": 1,
+    "credits": 2.0,
+    "title": "TALLER LÍRICO 6",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 16607
+}, {
+    "subject": "MUSI2815",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 2",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 13724
+}, {
+    "subject": "MUSI2816",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 3",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13725
+}, {
+    "subject": "MUSI2817",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 4",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13726
+}, {
+    "subject": "MUSI2818",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 5",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 15014
+}, {
+    "subject": "MUSI2821",
+    "section": 1,
+    "credits": 2.0,
+    "title": "RECITAL MITAD DE CARRERA CANTO",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 20769
+}, {
+    "subject": "MUSI2822",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO APLICADO 1 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20770
+}, {
+    "subject": "MUSI2823",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO APLICADO 2 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["AVILA MIRA CLAUDIA ROMELIA"],
+    "crn": 18705
+}, {
+    "subject": "MUSI2824",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO APLICADO 3 - 15",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 18707
+}, {
+    "subject": "MUSI2825",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PIANO APLICADO 4 - 15",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 18708
+}, {
+    "subject": "MUSI3300",
+    "section": 1,
+    "credits": 5.0,
+    "title": "DIRECCION CORAL 3",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10955
+}, {
+    "subject": "MUSI3301",
+    "section": 1,
+    "credits": 5.0,
+    "title": "DIRECCION CORAL 4",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10956
+}, {
+    "subject": "MUSI3302",
+    "section": 1,
+    "credits": 5.0,
+    "title": "DIRECCION CORAL 5",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 10957
+}, {
+    "subject": "MUSI3303",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONCIERTO GRADO",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["GAMBOA HOYOS CAROLINA"],
+    "crn": 11478
+}, {
+    "subject": "MUSI3400",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONJUNTO 6",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11949
+}, {
+    "subject": "MUSI3400",
+    "section": 4,
+    "credits": 3.0,
+    "title": "CONJUNTO 6 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11040
+}, {
+    "subject": "MUSI3401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO 7 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11041
+}, {
+    "subject": "MUSI3401",
+    "section": 5,
+    "credits": 3.0,
+    "title": "CONJUNTO 7",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11950
+}, {
+    "subject": "MUSI3402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONJUNTO 8 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11042
+}, {
+    "subject": "MUSI3402",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CONJUNTO 8",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 11951
+}, {
+    "subject": "MUSI3403",
+    "section": 1,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 8",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["RODRIGUEZ SARMIENTO EDWIN ALBERTO"],
+    "crn": 20844
+}, {
+    "subject": "MUSI3403",
+    "section": 2,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 8",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 18713
+}, {
+    "subject": "MUSI3403",
+    "section": 3,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 8",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["AGUILAR AMORTEGUI LUIS EDUARDO"],
+    "crn": 13961
+}, {
+    "subject": "MUSI3404",
+    "section": 1,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["PETROV PETROV ORLIN"],
+    "crn": 16612
+}, {
+    "subject": "MUSI3404",
+    "section": 2,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 9 - PIANO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 13662
+}, {
+    "subject": "MUSI3404",
+    "section": 3,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["NOGUERA RAMIREZ JULIO ALBERTO"],
+    "crn": 20860
+}, {
+    "subject": "MUSI3404",
+    "section": 5,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 9 VIOLÍN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 11934
+}, {
+    "subject": "MUSI3404",
+    "section": 10,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 9 - VIOLIN",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GONZALEZ VELASQUEZ WALTER MAURICIO"],
+    "crn": 13305
+}, {
+    "subject": "MUSI3405",
+    "section": 3,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 10",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 16614
+}, {
+    "subject": "MUSI3405",
+    "section": 5,
+    "credits": 5.0,
+    "title": "INSTRUMENTO 10 PIANO",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CARBONELL REYES ANTONIO AGUSTIN"],
+    "crn": 11272
+}, {
+    "subject": "MUSI3406",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RECITAL GRADO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 18722
+}, {
+    "subject": "MUSI3500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ORQUESTACION 1",
+    "capacity": 3,
+    "enrolled": 4,
+    "available": -1,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "111"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 10787
+}, {
+    "subject": "MUSI3501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ORQUESTACION 2",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "V",
+            "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["LEON RENGIFO LUIS FERNANDO"],
+    "crn": 10786
+}, {
+    "subject": "MUSI3502",
+    "section": 1,
+    "credits": 5.0,
+    "title": "COMPOSICION 3",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 12985
+}, {
+    "subject": "MUSI3502",
+    "section": 2,
+    "credits": 5.0,
+    "title": "COMPOSICION 3",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 10803
+}, {
+    "subject": "MUSI3502",
+    "section": 3,
+    "credits": 5.0,
+    "title": "COMPOSICION 3",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 10806
+}, {
+    "subject": "MUSI3502",
+    "section": 4,
+    "credits": 5.0,
+    "title": "COMPOSICION 3",
+    "capacity": 3,
+    "enrolled": 3,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 16615
+}, {
+    "subject": "MUSI3503",
+    "section": 1,
+    "credits": 5.0,
+    "title": "COMPOSICION 4",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 10886
+}, {
+    "subject": "MUSI3503",
+    "section": 2,
+    "credits": 5.0,
+    "title": "COMPOSICION 4",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 12135
+}, {
+    "subject": "MUSI3503",
+    "section": 3,
+    "credits": 5.0,
+    "title": "COMPOSICION 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 14112
+}, {
+    "subject": "MUSI3504",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPOS.MEDIOS COMPLEMENT. (EC)",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 10610
+}, {
+    "subject": "MUSI3505",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPOSICION GRADO",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["PERALTA CACERES CATALINA LEONO"],
+    "crn": 11046
+}, {
+    "subject": "MUSI3505",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COMPOSICION GRADO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["LOZANO MANCERA SANTIAGO"],
+    "crn": 13309
+}, {
+    "subject": "MUSI3505",
+    "section": 3,
+    "credits": 3.0,
+    "title": "COMPOSICION GRADO",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["PULIDO HURTADO LUIS HERNANDO"],
+    "crn": 15001
+}, {
+    "subject": "MUSI3505",
+    "section": 4,
+    "credits": 3.0,
+    "title": "COMPOSICION GRADO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["GARCIA MONCADA JORGE GREGORIO"],
+    "crn": 20888
+}, {
+    "subject": "MUSI3511",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INSTRUMENTACIÓN DIGITAL",
+    "capacity": 8,
+    "enrolled": 1,
+    "available": 7,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21108
+}, {
+    "subject": "MUSI3601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE GRABACION 2",
+    "capacity": 7,
+    "enrolled": 5,
+    "available": 2,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Z",
+            "number": "115D"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["SANTOS CANO ERNESTO"],
+    "crn": 10262
+}, {
+    "subject": "MUSI3601",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE GRABACION 2",
+    "capacity": 7,
+    "enrolled": 8,
+    "available": -1,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+    }],
+    "instructors": ["SANTOS CANO ERNESTO"],
+    "crn": 10655
+}, {
+    "subject": "MUSI3606",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRODUCCION MUSICAL 1",
+    "capacity": 8,
+    "enrolled": 3,
+    "available": 5,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1430",
+        "finalHour": "1720"
+    }],
+    "instructors": ["SANTOS CANO ERNESTO"],
+    "crn": 20915
+}, {
+    "subject": "MUSI3606",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PRODUCCION MUSICAL 1",
+    "capacity": 8,
+    "enrolled": 4,
+    "available": 4,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "Z",
+            "number": "115D"
+        },
+        "initHour": "1130",
+        "finalHour": "1420"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 16616
+}, {
+    "subject": "MUSI3607",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRODUCCION MUSICAL 2",
+    "capacity": 8,
+    "enrolled": 1,
+    "available": 7,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 11286
+}, {
+    "subject": "MUSI3607",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PRODUCCION MUSICAL 2",
+    "capacity": 8,
+    "enrolled": 5,
+    "available": 3,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["SANTOS CANO ERNESTO"],
+    "crn": 11495
+}, {
+    "subject": "MUSI3610",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 24,
+    "enrolled": 12,
+    "available": 12,
+    "schedules": [],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 10795
+}, {
+    "subject": "MUSI3611",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ARMONIA POPULAR 1 ANALISIS Y",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1130",
+        "finalHour": "1320"
+    }],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 10958
+}, {
+    "subject": "MUSI3612",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ARMONIA POPULAR 2 ANALISIS Y",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "R",
+            "number": "212"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 10959
+}, {
+    "subject": "MUSI3614",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MASTERIZACIÒN",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1730",
+        "finalHour": "2020"
+    }],
+    "instructors": ["SILVA CASTRO CARLOS ARTURO"],
+    "crn": 15040
+}, {
+    "subject": "MUSI3615",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PRE-PROYECTO PRODUCCIÓN",
+    "capacity": 24,
+    "enrolled": 7,
+    "available": 17,
+    "schedules": [],
+    "instructors": ["CARRERO SANCHEZ SANDRO"],
+    "crn": 13995
+}, {
+    "subject": "MUSI3616",
+    "section": 1,
+    "credits": 3.0,
+    "title": "POSPRODUCCIÓN 1",
+    "capacity": 8,
+    "enrolled": 1,
+    "available": 7,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["ESCALLON GAVIRIA RICARDO"],
+    "crn": 20920
+}, {
+    "subject": "MUSI3618",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE MEZCLA",
+    "capacity": 8,
+    "enrolled": 6,
+    "available": 2,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1130",
+        "finalHour": "1320"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 18725
+}, {
+    "subject": "MUSI3618",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DE MEZCLA",
+    "capacity": 8,
+    "enrolled": 7,
+    "available": 1,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Z",
+            "number": "115A"
+        },
+        "initHour": "1130",
+        "finalHour": "1320"
+    }],
+    "instructors": ["COLLAZOS ROTAVISTA ALEJANDRO"],
+    "crn": 18724
+}, {
+    "subject": "MUSI3700",
+    "section": 1,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 3",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13307
+}, {
+    "subject": "MUSI3700",
+    "section": 2,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 3",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 11685
+}, {
+    "subject": "MUSI3700",
+    "section": 3,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 3",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["TORRES LOPEZ RONDY FELIPE"],
+    "crn": 15211
+}, {
+    "subject": "MUSI3701",
+    "section": 1,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["TORRES LOPEZ RONDY FELIPE"],
+    "crn": 11538
+}, {
+    "subject": "MUSI3701",
+    "section": 3,
+    "credits": 5.0,
+    "title": "ANALISIS MUSICAL 4",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13732
+}, {
+    "subject": "MUSI3703",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PREPROYECTO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13337
+}, {
+    "subject": "MUSI3704",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["TORRES LOPEZ RONDY FELIPE"],
+    "crn": 13310
+}, {
+    "subject": "MUSI3704",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 17142
+}, {
+    "subject": "MUSI3810",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 8",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13223
+}, {
+    "subject": "MUSI3811",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13225
+}, {
+    "subject": "MUSI3811",
+    "section": 2,
+    "credits": 4.0,
+    "title": "CANTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 21256
+}, {
+    "subject": "MUSI3811",
+    "section": 3,
+    "credits": 4.0,
+    "title": "CANTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 21257
+}, {
+    "subject": "MUSI3811",
+    "section": 4,
+    "credits": 4.0,
+    "title": "CANTO 9",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["TORO BELTRAN CAMILA"],
+    "crn": 21258
+}, {
+    "subject": "MUSI3812",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CANTO 10",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["SILVA VALENCIA ANDRES ARTURO"],
+    "crn": 13227
+}, {
+    "subject": "MUSI3813",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 6",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 16618
+}, {
+    "subject": "MUSI3814",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LITERATURA VOCAL 7",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 13727
+}, {
+    "subject": "MUSI3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [],
+    "instructors": ["FUENTES HERNANDEZ ARMANDO JOSE"],
+    "crn": 10960
+}, {
+    "subject": "MUSI3998",
+    "section": 1,
+    "credits": 0.0,
+    "title": "ORQUESTA",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1600",
+        "finalHour": "1920"
+    }, {
+        "days": ["L", "I"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1600",
+        "finalHour": "1920"
+    }],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 10611
+}, {
+    "subject": "MUSI3999",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ORQUESTA - CONJUNTO",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1920"
+    }, {
+        "days": ["L", "I"],
+        "room": {
+            "building": "K2",
+            "number": "101"
+        },
+        "initHour": "1600",
+        "finalHour": "1920"
+    }],
+    "instructors": ["CUBIDES GREIFFESTEIN MANUEL FRANCISCO"],
+    "crn": 13607
+}]

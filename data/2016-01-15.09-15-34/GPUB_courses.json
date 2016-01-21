@@ -1,0 +1,58 @@
+[{
+    "subject": "GPUB5604",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ACTIVIDAD ADMINISTRATIVA",
+    "capacity": 50,
+    "enrolled": 44,
+    "available": 6,
+    "schedules": [{
+        "days": ["L", "M", "I", "J", "V"],
+        "room": {
+            "building": "ML",
+            "number": "615"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+    }],
+    "instructors": [""],
+    "crn": 19359
+}, {
+    "subject": "GPUB5605",
+    "section": 1,
+    "credits": 2.0,
+    "title": "RESPONSABILIDAD DEL ESTADO",
+    "capacity": 50,
+    "enrolled": 44,
+    "available": 6,
+    "schedules": [{
+        "days": ["L", "M", "I", "J", "V"],
+        "room": {
+            "building": "ML",
+            "number": "615"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+    }],
+    "instructors": ["DE VIVERO ARCINIEGAS FELIPE"],
+    "crn": 19360
+}, {
+    "subject": "GPUB5607",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CONTROL DE LA ADMON. PUBLICA",
+    "capacity": 50,
+    "enrolled": 44,
+    "available": 6,
+    "schedules": [{
+        "days": ["L", "M", "I", "J", "V"],
+        "room": {
+            "building": "ML",
+            "number": "615"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+    }],
+    "instructors": ["DE VIVERO ARCINIEGAS FELIPE"],
+    "crn": 19361
+}]

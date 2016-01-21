@@ -1,0 +1,78 @@
+[{
+    "subject": "AUTO5200",
+    "section": 1,
+    "credits": 2.0,
+    "title": "FUNDAMENT.ELEMENTOS SIST.CONTR",
+    "capacity": 40,
+    "enrolled": 8,
+    "available": 32,
+    "schedules": [],
+    "instructors": ["QUIJANO SILVA NICANOR", "GAUTHIER SELLIER ALAIN"],
+    "crn": 17479
+}, {
+    "subject": "AUTO5201",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21200
+}, {
+    "subject": "AUTO5211",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CONTROL REGULATORIO",
+    "capacity": 40,
+    "enrolled": 8,
+    "available": 32,
+    "schedules": [],
+    "instructors": ["ACUÑA GOMEZ ALIRIO"],
+    "crn": 18379
+}, {
+    "subject": "AUTO5214",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GERENCIA DE PROYECTOS",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [],
+    "instructors": ["GOMEZ URIBE ANDRES FELIPE ALFON"],
+    "crn": 19173
+}, {
+    "subject": "AUTO5215",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CONTROL AVANZADO",
+    "capacity": 40,
+    "enrolled": 12,
+    "available": 28,
+    "schedules": [],
+    "instructors": ["OTERO GARCIA FERNANDO"],
+    "crn": 19174
+}, {
+    "subject": "AUTO5226",
+    "section": 1,
+    "credits": 2.0,
+    "title": "CONTROL DE MOVIMIENTO",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [],
+    "instructors": ["JIMENEZ VARGAS JOSE FERNANDO"],
+    "crn": 19172
+}, {
+    "subject": "AUTO5229",
+    "section": 1,
+    "credits": 2.0,
+    "title": "FUNDAMENTOS HIDRAULICOS",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [],
+    "instructors": ["LOBOGUERRERO USCATEQUI JAIME"],
+    "crn": 19171
+}]

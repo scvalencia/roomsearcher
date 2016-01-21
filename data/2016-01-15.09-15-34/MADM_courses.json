@@ -1,0 +1,314 @@
+[{
+    "subject": "MADM4052",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER DE NEGOC.Y EQUIPOS EFEC",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [],
+    "instructors": ["AZUERO ISAZA MARCO ANTONIO"],
+    "crn": 13903
+}, {
+    "subject": "MADM4052",
+    "section": 2,
+    "credits": 1.0,
+    "title": "TALLER DE NEGOC.Y EQUIPOS EFEC",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["ORDUZ BARON MARIA ISABEL"],
+    "crn": 13904
+}, {
+    "subject": "MADM4100",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EMPRESARIADO EN COLOMBIA",
+    "capacity": 45,
+    "enrolled": 50,
+    "available": -5,
+    "schedules": [],
+    "instructors": ["MOLINA LONDONO LUIS FERNANDO"],
+    "crn": 20293
+}, {
+    "subject": "MADM4100",
+    "section": 2,
+    "credits": 2.0,
+    "title": "EMPRESARIADO EN COLOMBIA",
+    "capacity": 45,
+    "enrolled": 34,
+    "available": 11,
+    "schedules": [],
+    "instructors": ["DURAN AMOROCHO XAVIER HERNANDO"],
+    "crn": 20294
+}, {
+    "subject": "MADM4151",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["VESGA RAFAEL"],
+    "crn": 19857
+}, {
+    "subject": "MADM4151",
+    "section": 2,
+    "credits": 2.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["VESGA RAFAEL", "HERNANDEZ MORA JORGE ALBERTO"],
+    "crn": 20263
+}, {
+    "subject": "MADM4151",
+    "section": 3,
+    "credits": 2.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 45,
+    "enrolled": 37,
+    "available": 8,
+    "schedules": [],
+    "instructors": ["HERNANDEZ CIFUENTES JAIME ALFREDO", "VESGA RAFAEL"],
+    "crn": 20264
+}, {
+    "subject": "MADM4154",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EL LIDER, SU ETICA Y RESPONSAB",
+    "capacity": 40,
+    "enrolled": 36,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["GONZALEZ COUTURE GUSTAVO ALFONSO"],
+    "crn": 19505
+}, {
+    "subject": "MADM4154",
+    "section": 2,
+    "credits": 2.0,
+    "title": "EL LIDER, SU ETICA Y RESPONSAB",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["OROZCO SILVA LUIS ENRIQUE"],
+    "crn": 20269
+}, {
+    "subject": "MADM4154",
+    "section": 3,
+    "credits": 2.0,
+    "title": "EL LIDER, SU ETICA Y RESPONSAB",
+    "capacity": 45,
+    "enrolled": 36,
+    "available": 9,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 20270
+}, {
+    "subject": "MADM4206",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GERENCIA FINANCIERA",
+    "capacity": 40,
+    "enrolled": 35,
+    "available": 5,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "SD",
+            "number": "714"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+    }, {
+        "days": ["L"],
+        "room": {
+            "building": "SD",
+            "number": "714"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+    }],
+    "instructors": ["SERRANO RODRIGUEZ JAVIER"],
+    "crn": 19858
+}, {
+    "subject": "MADM4206",
+    "section": 2,
+    "credits": 4.0,
+    "title": "GERENCIA FINANCIERA",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SERRANO RODRIGUEZ JAVIER"],
+    "crn": 20275
+}, {
+    "subject": "MADM4206",
+    "section": 3,
+    "credits": 4.0,
+    "title": "GERENCIA FINANCIERA",
+    "capacity": 45,
+    "enrolled": 47,
+    "available": -2,
+    "schedules": [],
+    "instructors": ["EICHMANN MARC W"],
+    "crn": 20260
+}, {
+    "subject": "MADM4271",
+    "section": 1,
+    "credits": 2.0,
+    "title": "FINANZAS CORPORATIVAS",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["CARDONA MAGNE EMILIO"],
+    "crn": 21134
+}, {
+    "subject": "MADM4303",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GERENCIA DE MERCADEO",
+    "capacity": 40,
+    "enrolled": 32,
+    "available": 8,
+    "schedules": [],
+    "instructors": ["OSPINA SILVA JOSE MIGUEL"],
+    "crn": 19859
+}, {
+    "subject": "MADM4303",
+    "section": 2,
+    "credits": 4.0,
+    "title": "GERENCIA DE MERCADEO",
+    "capacity": 45,
+    "enrolled": 46,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["WILSON BRADLEY JAIMES"],
+    "crn": 20259
+}, {
+    "subject": "MADM4303",
+    "section": 3,
+    "credits": 4.0,
+    "title": "GERENCIA DE MERCADEO",
+    "capacity": 45,
+    "enrolled": 51,
+    "available": -6,
+    "schedules": [],
+    "instructors": ["RUIZ LOMBANA FABIAN ALBERTO"],
+    "crn": 20258
+}, {
+    "subject": "MADM4366",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ESTADISTICA APLICADA MERCADEO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["OSPINA SILVA JOSE MIGUEL"],
+    "crn": 21219
+}, {
+    "subject": "MADM4450",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GERENCIA DE LOGISTICA",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["THIELL MARCUS"],
+    "crn": 20257
+}, {
+    "subject": "MADM4550",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ESTRATEGIA",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["REFICCO EZEQUIEL ALEJANDRO MARTIN"],
+    "crn": 20268
+}, {
+    "subject": "MADM4550",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ESTRATEGIA",
+    "capacity": 45,
+    "enrolled": 53,
+    "available": -8,
+    "schedules": [],
+    "instructors": ["YAÑEZ ARENAS JAVIER"],
+    "crn": 20279
+}, {
+    "subject": "MADM4551",
+    "section": 1,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 45,
+    "enrolled": 48,
+    "available": -3,
+    "schedules": [],
+    "instructors": ["LOPEZ FAJARDO MARIANO ALBERTO", "LOPEZ VANMEEK MARIA DEL PILAR"],
+    "crn": 20272
+}, {
+    "subject": "MADM4551",
+    "section": 2,
+    "credits": 3.0,
+    "title": "JUEGO GERENCIAL",
+    "capacity": 45,
+    "enrolled": 48,
+    "available": -3,
+    "schedules": [],
+    "instructors": ["LOPEZ FAJARDO MARIANO ALBERTO", "LOPEZ VANMEEK MARIA DEL PILAR"],
+    "crn": 20273
+}, {
+    "subject": "MADM4650",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SCHNARCH GONZALEZ DAVID", "OTALORA MONTENEGRO GUILLERMO"],
+    "crn": 20256
+}, {
+    "subject": "MADM4701",
+    "section": 1,
+    "credits": 2.0,
+    "title": "NEGOCIOS INTERNACIONALES",
+    "capacity": 45,
+    "enrolled": 39,
+    "available": 6,
+    "schedules": [],
+    "instructors": ["CARRILLO JUAN"],
+    "crn": 20265
+}, {
+    "subject": "MADM4701",
+    "section": 2,
+    "credits": 2.0,
+    "title": "NEGOCIOS INTERNACIONALES",
+    "capacity": 45,
+    "enrolled": 46,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["BARRIGA PALACIO JORGE RICARDO"],
+    "crn": 20266
+}, {
+    "subject": "MADM4909",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21140
+}]

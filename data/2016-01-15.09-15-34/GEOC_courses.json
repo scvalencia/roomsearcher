@@ -1,0 +1,758 @@
+[{
+    "subject": "GEOC0000",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INDUCCION",
+    "capacity": 50,
+    "enrolled": 35,
+    "available": 15,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "LL",
+            "number": "304"
+        },
+        "initHour": "1500",
+        "finalHour": "1550"
+    }],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 21006
+}, {
+    "subject": "GEOC0001",
+    "section": 1,
+    "credits": 0.0,
+    "title": "NUCLEO GEOCIENCIAS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [{
+        "days": ["L", "M", "I", "J", "V"],
+        "room": {
+            "building": "G",
+            "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+    }, {
+        "days": ["L", "M", "I", "J", "V"],
+        "room": {
+            "building": "O",
+            "number": "100"
+        },
+        "initHour": "0900",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 21007
+}, {
+    "subject": "GEOC1002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GEOCIENCIAS",
+    "capacity": 90,
+    "enrolled": 94,
+    "available": -4,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "ML",
+            "number": "608"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["PARDO VILLAVECES NATALIA"],
+    "crn": 14987
+}, {
+    "subject": "GEOC1002",
+    "section": 2,
+    "credits": 3.0,
+    "title": "GEOCIENCIAS",
+    "capacity": 90,
+    "enrolled": 95,
+    "available": -5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "103"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["HUGUET MICHEO MARIA DEL CARMEN"],
+    "crn": 14989
+}, {
+    "subject": "GEOC1002",
+    "section": 3,
+    "credits": 3.0,
+    "title": "GEOCIENCIAS",
+    "capacity": 90,
+    "enrolled": 60,
+    "available": 30,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "ML",
+            "number": "608"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "SD",
+            "number": "805"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["PEARSE JILLIAN", "HUGUET MICHEO MARIA DEL CARMEN", "NOE LESLIE FRANCIS"],
+    "crn": 15011
+}, {
+    "subject": "GEOC1002",
+    "section": 4,
+    "credits": 3.0,
+    "title": "GEOCIENCIAS",
+    "capacity": 90,
+    "enrolled": 92,
+    "available": -2,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "ML",
+            "number": "603"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 15012
+}, {
+    "subject": "GEOC1002",
+    "section": 5,
+    "credits": 3.0,
+    "title": "GEOCIENCIAS",
+    "capacity": 90,
+    "enrolled": 93,
+    "available": -3,
+    "schedules": [{
+        "days": ["L", "I"],
+        "room": {
+            "building": "O",
+            "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["GARCIA ARIAS MARCOS"],
+    "crn": 15013
+}, {
+    "subject": "GEOC1003",
+    "section": 1,
+    "credits": 0.5,
+    "title": "COLOQUIO 1 DE GEOCIENCIAS",
+    "capacity": 55,
+    "enrolled": 53,
+    "available": 2,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "B",
+            "number": "202"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 12043
+}, {
+    "subject": "GEOC1005",
+    "section": 1,
+    "credits": 0.5,
+    "title": "COLOQUIO 2 DE GEOCIENCIAS",
+    "capacity": 55,
+    "enrolled": 32,
+    "available": 23,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "B",
+            "number": "202"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+    }],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 13463
+}, {
+    "subject": "GEOC1022",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GEOLOGIA",
+    "capacity": 30,
+    "enrolled": 47,
+    "available": -17,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "O",
+            "number": "402"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+    }],
+    "instructors": ["MONTES RODRIGUEZ CAMILO"],
+    "crn": 11533
+}, {
+    "subject": "GEOC1023",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LABORATORIO DE GEOLOGIA",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+    }],
+    "instructors": ["ROJAS LEQUERICA SALVADOR DOMINGO"],
+    "crn": 18727
+}, {
+    "subject": "GEOC1023",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LABORATORIO DE GEOLOGIA",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+    }],
+    "instructors": ["ROJAS LEQUERICA SALVADOR DOMINGO"],
+    "crn": 18728
+}, {
+    "subject": "GEOC1510B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GAS, CARBÓN, PETRÓLEO",
+    "capacity": 95,
+    "enrolled": 93,
+    "available": 2,
+    "schedules": [{
+        "days": ["I", "V"],
+        "room": {
+            "building": "ML",
+            "number": "603"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["MONTES RODRIGUEZ CAMILO"],
+    "crn": 19356
+}, {
+    "subject": "GEOC2018",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GEOQUÍMICA",
+    "capacity": 100,
+    "enrolled": 69,
+    "available": 31,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["BLANCO QUINTERO IDAEL"],
+    "crn": 19974
+}, {
+    "subject": "GEOC2028",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MINERALES FORMADORES DE ROCAS",
+    "capacity": 100,
+    "enrolled": 93,
+    "available": 7,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "O",
+            "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["FERRI FABIO"],
+    "crn": 19353
+}, {
+    "subject": "GEOC2029",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SUAREZ ROJAS ALBA MARINA"],
+    "crn": 19354
+}, {
+    "subject": "GEOC2029",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SUAREZ ROJAS ALBA MARINA"],
+    "crn": 21013
+}, {
+    "subject": "GEOC2029",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["SUAREZ ROJAS ALBA MARINA"],
+    "crn": 21015
+}, {
+    "subject": "GEOC2029",
+    "section": 4,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [],
+    "instructors": ["DELGADO URIBE ADRIANA"],
+    "crn": 21016
+}, {
+    "subject": "GEOC2029",
+    "section": 5,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [],
+    "instructors": ["CASTRILLÓN PEÑA ANDRÉS"],
+    "crn": 21019
+}, {
+    "subject": "GEOC2029",
+    "section": 6,
+    "credits": 1.0,
+    "title": "LAB MINER. FORMADORES DE ROCAS",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [],
+    "instructors": ["CASTRILLÓN PEÑA ANDRÉS"],
+    "crn": 21132
+}, {
+    "subject": "GEOC2057",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA DEL CONTINUO",
+    "capacity": 44,
+    "enrolled": 42,
+    "available": 2,
+    "schedules": [{
+        "days": ["V"],
+        "room": {
+            "building": "SD",
+            "number": "802"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }, {
+        "days": ["I"],
+        "room": {
+            "building": "ML",
+            "number": "515"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["FERRI FABIO"],
+    "crn": 19355
+}, {
+    "subject": "GEOC3038",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTRATIGRAF.SEDIMENTOL.(INGL)",
+    "capacity": 80,
+    "enrolled": 64,
+    "available": 16,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "210"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+    }],
+    "instructors": ["NOE LESLIE FRANCIS"],
+    "crn": 19976
+}, {
+    "subject": "GEOC3039",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LAB ESTRATIGR. Y SEDIMENTOLOG.",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [],
+    "instructors": ["LAMUS OCHOA FELIPE"],
+    "crn": 19977
+}, {
+    "subject": "GEOC3039",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LAB ESTRATIGR. Y SEDIMENTOLOG.",
+    "capacity": 15,
+    "enrolled": 11,
+    "available": 4,
+    "schedules": [],
+    "instructors": ["LAMUS OCHOA FELIPE"],
+    "crn": 21020
+}, {
+    "subject": "GEOC3039",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LAB ESTRATIGR. Y SEDIMENTOLOG.",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["LAMUS OCHOA FELIPE"],
+    "crn": 21021
+}, {
+    "subject": "GEOC3039",
+    "section": 4,
+    "credits": 1.0,
+    "title": "LAB ESTRATIGR. Y SEDIMENTOLOG.",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["OSORIO SANABRIA LINA LILIANA"],
+    "crn": 21022
+}, {
+    "subject": "GEOC3039",
+    "section": 5,
+    "credits": 1.0,
+    "title": "LAB ESTRATIGR. Y SEDIMENTOLOG.",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["OSORIO SANABRIA LINA LILIANA"],
+    "crn": 21024
+}, {
+    "subject": "GEOC3048",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SÍSMICA Y SISMOLOGÍA",
+    "capacity": 60,
+    "enrolled": 40,
+    "available": 20,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "SD",
+            "number": "804"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }, {
+        "days": ["M"],
+        "room": {
+            "building": "R",
+            "number": "112"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+    }],
+    "instructors": ["TARY JEAN BAPTISTE", "JARAMILLO MEJÍA JOSÉ MARÍA"],
+    "crn": 19978
+}, {
+    "subject": "GEOC3049",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "ML",
+            "number": "108B"
+        },
+        "initHour": "0830",
+        "finalHour": "1020"
+    }],
+    "instructors": ["RODRIGUEZ PRADILLA GERMAN ROBERTO"],
+    "crn": 19979
+}, {
+    "subject": "GEOC3049",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 16,
+    "enrolled": 3,
+    "available": 13,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "ML",
+            "number": "108B"
+        },
+        "initHour": "1030",
+        "finalHour": "1220"
+    }],
+    "instructors": ["RODRIGUEZ PRADILLA GERMAN ROBERTO"],
+    "crn": 21025
+}, {
+    "subject": "GEOC3049",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 16,
+    "enrolled": 9,
+    "available": 7,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+    }],
+    "instructors": ["RODRIGUEZ PRADILLA GERMAN ROBERTO"],
+    "crn": 21026
+}, {
+    "subject": "GEOC3049",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 0,
+    "enrolled": 5,
+    "available": -5,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21027
+}, {
+    "subject": "GEOC3049",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 0,
+    "enrolled": 3,
+    "available": -3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21085
+}, {
+    "subject": "GEOC3049",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. SÍSMICA Y SISMOLOGÍA",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21086
+}, {
+    "subject": "GEOC3068",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SENSOR.REMOTOS, SIG,GPS (INGL)",
+    "capacity": 60,
+    "enrolled": 55,
+    "available": 5,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "R",
+            "number": "112"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+    }],
+    "instructors": ["PEARSE JILLIAN"],
+    "crn": 19980
+}, {
+    "subject": "GEOC3069",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "LL",
+            "number": "204"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+    }],
+    "instructors": ["SUAREZ TORRES EDILBERTO"],
+    "crn": 19981
+}, {
+    "subject": "GEOC3069",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 16,
+    "enrolled": 17,
+    "available": -1,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+    }],
+    "instructors": ["SUAREZ TORRES EDILBERTO"],
+    "crn": 21028
+}, {
+    "subject": "GEOC3069",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 16,
+    "enrolled": 16,
+    "available": 0,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "Q",
+            "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+    }],
+    "instructors": ["SUAREZ TORRES EDILBERTO"],
+    "crn": 21029
+}, {
+    "subject": "GEOC3069",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21030
+}, {
+    "subject": "GEOC3069",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21087
+}, {
+    "subject": "GEOC3069",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB.SENSORE REMOTOS SIG Y GPS",
+    "capacity": 0,
+    "enrolled": 3,
+    "available": -3,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21089
+}, {
+    "subject": "GEOC3098",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA EMPRESARIAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 15191
+}, {
+    "subject": "GEOC3099",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["MARIN CASTILLO RODRIGO ALBERTO"],
+    "crn": 15209
+}, {
+    "subject": "GEOC3101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "YACIMIENTOS MINERALES",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [{
+        "days": ["M", "J"],
+        "room": {
+            "building": "AU",
+            "number": "205"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+    }],
+    "instructors": ["BLANCO QUINTERO IDAEL"],
+    "crn": 19357
+}, {
+    "subject": "GEOC3102",
+    "section": 1,
+    "credits": 1.0,
+    "title": "YACIMIENTOS MINERALES (L)",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [],
+    "instructors": ["DELGADO URIBE ADRIANA"],
+    "crn": 19358
+}, {
+    "subject": "GEOC3102",
+    "section": 2,
+    "credits": 1.0,
+    "title": "YACIMIENTOS MINERALES (L)",
+    "capacity": 15,
+    "enrolled": 9,
+    "available": 6,
+    "schedules": [],
+    "instructors": ["DELGADO URIBE ADRIANA"],
+    "crn": 21032
+}]

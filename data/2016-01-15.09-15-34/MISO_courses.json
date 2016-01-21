@@ -1,0 +1,167 @@
+[{
+    "subject": "MISO4000",
+    "section": 1,
+    "credits": 0.0,
+    "title": "NIVELATORIO MODELAJE SOFTWARE",
+    "capacity": 31,
+    "enrolled": 25,
+    "available": 6,
+    "schedules": [],
+    "instructors": [""],
+    "crn": 21194
+}, {
+    "subject": "MISO4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROCESOS DE DESARROLLO AGILES",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "T",
+            "number": "205"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["CORTES BUITRAGO GLORIA CRISTINA"],
+    "crn": 14446
+}, {
+    "subject": "MISO4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MEJOR. PRODUCT: AUTOMATIZACION",
+    "capacity": 31,
+    "enrolled": 23,
+    "available": 8,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "AU",
+            "number": "403"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["GARCES PERNETT KELLY JOHANY"],
+    "crn": 13986
+}, {
+    "subject": "MISO4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GEST. DE PROY. DESARROLLO SOFT",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "W",
+            "number": "403"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["CASALLAS GUTIERREZ RUBBY"],
+    "crn": 18034
+}, {
+    "subject": "MISO4204",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FABRICAS SW Y LIN PRODUCTOS",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [{
+        "days": ["M"],
+        "room": {
+            "building": "S",
+            "number": "102"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": [""],
+    "crn": 14604
+}, {
+    "subject": "MISO4205",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MEJORAMIENTO EXPERIENCIA USUAR",
+    "capacity": 36,
+    "enrolled": 15,
+    "available": 21,
+    "schedules": [{
+        "days": ["J"],
+        "room": {
+            "building": "S1",
+            "number": "105"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["NAVARRO SANINT MIGUEL"],
+    "crn": 16210
+}, {
+    "subject": "MISO4206",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA SW ÁGIL",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [{
+        "days": ["I"],
+        "room": {
+            "building": "O",
+            "number": "404"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["CORREAL DARIO"],
+    "crn": 18823
+}, {
+    "subject": "MISO4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO INTEGRADOR",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [{
+        "days": ["L"],
+        "room": {
+            "building": "G",
+            "number": "102"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+    }],
+    "instructors": ["CASALLAS GUTIERREZ RUBBY"],
+    "crn": 16211
+}, {
+    "subject": "MISO4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS I",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [],
+    "instructors": ["FERNANDEZ JUAN PABLO"],
+    "crn": 15251
+}, {
+    "subject": "MISO4303",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS II",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [],
+    "instructors": ["FERNANDEZ JUAN PABLO"],
+    "crn": 16212
+}]
