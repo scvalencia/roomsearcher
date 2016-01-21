@@ -17,5 +17,7 @@ for f in os.listdir('.'):
 		os.popen('ruby prettify_json.rb %s > tmp.json' % f)
 		os.popen('cp tmp.json %s' % f)
 		os.popen('rm tmp.json')
+		os.popen('git add %s' % f)
+		os.popen('git commit -m "New courses data for processing"')
 
 os.remove(SCRIPT)
