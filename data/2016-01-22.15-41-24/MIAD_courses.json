@@ -1,0 +1,202 @@
+[
+  {
+    "subject": "MIAD4100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAM. CIENCIAS COMPORTAMIENT",
+    "capacity": 12,
+    "enrolled": 10,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VELEZ LESMEZ MARIA ALEJANDRA",
+      "TRUJILLO CARLOS ANDRES"
+    ],
+    "crn": 20322
+  },
+  {
+    "subject": "MIAD4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS MICROECONOMÍA",
+    "capacity": 12,
+    "enrolled": 5,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BEJARANO ROJAS JESUS ANTONIO"
+    ],
+    "crn": 20321
+  },
+  {
+    "subject": "MIAD4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉTODOS I",
+    "capacity": 12,
+    "enrolled": 7,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "TABORDA RIOS RODRIGO"
+    ],
+    "crn": 20320
+  },
+  {
+    "subject": "MIAD4103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENT. ADMIN. Y PENSADORES",
+    "capacity": 12,
+    "enrolled": 5,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUE CARLOS"
+    ],
+    "crn": 20323
+  },
+  {
+    "subject": "MIAD4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "COMPORTA. ORGANIZACIONAL I",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "WILLS HERRERA EDUARDO"
+    ],
+    "crn": 20319
+  },
+  {
+    "subject": "MIAD4400",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAM. ECOLOGÍA INDUSTRIAL",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "WAN HOOF BART"
+    ],
+    "crn": 20318
+  },
+  {
+    "subject": "MIAD4970",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EXAMENES COMPREHENSIVOS",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "POMBO VEJARANO CARLOS"
+    ],
+    "crn": 20332
+  },
+  {
+    "subject": "MIAD4982",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEM. INVESTIGACIÓN I PHD",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "809"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "POMBO VEJARANO CARLOS"
+    ],
+    "crn": 20317
+  }
+]
