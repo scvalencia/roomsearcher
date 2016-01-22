@@ -1,0 +1,143 @@
+[
+  {
+    "subject": "MSIN4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ING CRIPTOGRAFICA Y APLIC SERV",
+    "capacity": 40,
+    "enrolled": 33,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "QUIROGA BECERRA MILTON"
+    ],
+    "crn": 19580
+  },
+  {
+    "subject": "MSIN4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INFRAESTRUCTURA SEGURA",
+    "capacity": 40,
+    "enrolled": 25,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "DONOSO YESID",
+      "GOMEZ DIAZ RAFAEL ENRIQUE",
+      "RUEDA RODRIGUEZ SANDRA JULIETA"
+    ],
+    "crn": 18054
+  },
+  {
+    "subject": "MSIN4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MOD. Y ESTÁND. DE SEGURIDAD",
+    "capacity": 40,
+    "enrolled": 21,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "RUEDA RODRIGUEZ SANDRA JULIETA",
+      "MOLINA MOLINA FABIAN"
+    ],
+    "crn": 19579
+  },
+  {
+    "subject": "MSIN4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO FINAL",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S",
+          "number": "101"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "GOMEZ DIAZ RICARDO",
+      "PEREZ JARAMILLO DIEGO HERNAN",
+      "RUEDA RODRIGUEZ SANDRA JULIETA"
+    ],
+    "crn": 14608
+  },
+  {
+    "subject": "MSIN4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS I",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERNANDEZ JUAN PABLO"
+    ],
+    "crn": 14609
+  },
+  {
+    "subject": "MSIN4303",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS II",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERNANDEZ JUAN PABLO"
+    ],
+    "crn": 16217
+  }
+]
