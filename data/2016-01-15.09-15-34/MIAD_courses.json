@@ -1,4 +1,5 @@
-[{
+[
+  {
     "subject": "MIAD4100",
     "section": 1,
     "credits": 4.0,
@@ -6,18 +7,26 @@
     "capacity": 12,
     "enrolled": 12,
     "available": 0,
-    "schedules": [{
-        "days": ["I"],
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
         "room": {
-            "building": "W",
-            "number": "201"
+          "building": "W",
+          "number": "201"
         },
         "initHour": "1000",
         "finalHour": "1250"
-    }],
-    "instructors": ["VELEZ LESMEZ MARIA ALEJANDRA", "TRUJILLO CARLOS ANDRES"],
+      }
+    ],
+    "instructors": [
+      "VELEZ LESMEZ MARIA ALEJANDRA",
+      "TRUJILLO CARLOS ANDRES"
+    ],
     "crn": 20322
-}, {
+  },
+  {
     "subject": "MIAD4101",
     "section": 1,
     "credits": 4.0,
@@ -25,18 +34,25 @@
     "capacity": 12,
     "enrolled": 4,
     "available": 8,
-    "schedules": [{
-        "days": ["J"],
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
         "room": {
-            "building": "SD",
-            "number": "809"
+          "building": "SD",
+          "number": "809"
         },
         "initHour": "0700",
         "finalHour": "0950"
-    }],
-    "instructors": ["BEJARANO ROJAS JESUS ANTONIO"],
+      }
+    ],
+    "instructors": [
+      "BEJARANO ROJAS JESUS ANTONIO"
+    ],
     "crn": 20321
-}, {
+  },
+  {
     "subject": "MIAD4102",
     "section": 1,
     "credits": 4.0,
@@ -44,18 +60,26 @@
     "capacity": 12,
     "enrolled": 6,
     "available": 6,
-    "schedules": [{
-        "days": ["I", "V"],
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
         "room": {
-            "building": "W",
-            "number": "201"
+          "building": "W",
+          "number": "201"
         },
         "initHour": "0700",
         "finalHour": "0820"
-    }],
-    "instructors": ["TABORDA RIOS RODRIGO"],
+      }
+    ],
+    "instructors": [
+      "TABORDA RIOS RODRIGO"
+    ],
     "crn": 20320
-}, {
+  },
+  {
     "subject": "MIAD4103",
     "section": 1,
     "credits": 4.0,
@@ -63,18 +87,25 @@
     "capacity": 12,
     "enrolled": 4,
     "available": 8,
-    "schedules": [{
-        "days": ["M"],
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
         "room": {
-            "building": "SD",
-            "number": "809"
+          "building": "SD",
+          "number": "809"
         },
         "initHour": "0700",
         "finalHour": "0950"
-    }],
-    "instructors": ["DAVILA LADRON DE GUE CARLOS"],
+      }
+    ],
+    "instructors": [
+      "DAVILA LADRON DE GUE CARLOS"
+    ],
     "crn": 20323
-}, {
+  },
+  {
     "subject": "MIAD4202",
     "section": 1,
     "credits": 4.0,
@@ -82,18 +113,25 @@
     "capacity": 10,
     "enrolled": 2,
     "available": 8,
-    "schedules": [{
-        "days": ["J"],
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
         "room": {
-            "building": "SD",
-            "number": "809"
+          "building": "SD",
+          "number": "809"
         },
         "initHour": "1000",
         "finalHour": "1250"
-    }],
-    "instructors": ["WILLS HERRERA EDUARDO"],
+      }
+    ],
+    "instructors": [
+      "WILLS HERRERA EDUARDO"
+    ],
     "crn": 20319
-}, {
+  },
+  {
     "subject": "MIAD4400",
     "section": 1,
     "credits": 4.0,
@@ -101,10 +139,15 @@
     "capacity": 10,
     "enrolled": 1,
     "available": 9,
-    "schedules": [],
-    "instructors": ["WAN HOOF BART"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "WAN HOOF BART"
+    ],
     "crn": 20318
-}, {
+  },
+  {
     "subject": "MIAD4970",
     "section": 1,
     "credits": 4.0,
@@ -112,10 +155,15 @@
     "capacity": 5,
     "enrolled": 3,
     "available": 2,
-    "schedules": [],
-    "instructors": ["POMBO VEJARANO CARLOS"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "POMBO VEJARANO CARLOS"
+    ],
     "crn": 20332
-}, {
+  },
+  {
     "subject": "MIAD4982",
     "section": 1,
     "credits": 4.0,
@@ -123,7 +171,12 @@
     "capacity": 5,
     "enrolled": 3,
     "available": 2,
-    "schedules": [],
-    "instructors": ["POMBO VEJARANO CARLOS"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "POMBO VEJARANO CARLOS"
+    ],
     "crn": 20317
-}]
+  }
+]
