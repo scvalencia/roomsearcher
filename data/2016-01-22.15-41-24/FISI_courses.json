@@ -1,0 +1,7643 @@
+[
+  {
+    "subject": "FISI1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PREFISICA",
+    "capacity": 60,
+    "enrolled": 64,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "615"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "SANDOVAL NAVIA CLAUDIA JULIANA"
+    ],
+    "crn": 10220
+  },
+  {
+    "subject": "FISI1000C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. PREFISICA",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "HOYOS RESTREPO PAULINA"
+    ],
+    "crn": 12287
+  },
+  {
+    "subject": "FISI1000C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. PREFISICA",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "DIAZ TRUJILLO PAUL WILLIAM"
+    ],
+    "crn": 12733
+  },
+  {
+    "subject": "FISI1000C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL. PREFISICA",
+    "capacity": 23,
+    "enrolled": 21,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "FARFAN ROMERO JUAN CAMILO"
+    ],
+    "crn": 20949
+  },
+  {
+    "subject": "FISI1002",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INTRODUCCION A FISICA",
+    "capacity": 50,
+    "enrolled": 43,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1600",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO",
+      "AVILA BERNAL CARLOS ARTURO",
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 10433
+  },
+  {
+    "subject": "FISI1003",
+    "section": 1,
+    "credits": 1.0,
+    "title": "COLOQUIO 1 DE FISICA",
+    "capacity": 50,
+    "enrolled": 33,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "KELKAR NEELIMA"
+    ],
+    "crn": 10588
+  },
+  {
+    "subject": "FISI1004A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRANDES IDEAS DE LA FISICA",
+    "capacity": 195,
+    "enrolled": 197,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "003"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ MORENO BERNARDO"
+    ],
+    "crn": 10923
+  },
+  {
+    "subject": "FISI1005",
+    "section": 1,
+    "credits": 1.0,
+    "title": "COLOQUIO 2 DE FISICA",
+    "capacity": 50,
+    "enrolled": 15,
+    "available": 35,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "KELKAR NEELIMA"
+    ],
+    "crn": 10779
+  },
+  {
+    "subject": "FISI1012",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA BASICA 1",
+    "capacity": 80,
+    "enrolled": 98,
+    "available": -18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 10072
+  },
+  {
+    "subject": "FISI1012",
+    "section": 7,
+    "credits": 3.0,
+    "title": "FISICA BASICA 1",
+    "capacity": 80,
+    "enrolled": 66,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "NOGUERA POVEDA DANIEL FELIPE EDILBERTO"
+    ],
+    "crn": 19048
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "ARIAS CASTRO JUAN CARLOS"
+    ],
+    "crn": 12332
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "ARIAS CASTRO JUAN CARLOS"
+    ],
+    "crn": 12702
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "ROJAS RUIZ DANIEL"
+    ],
+    "crn": 12703
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "103"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "NOGUERA POVEDA DANIEL FELIPE EDILBERTO"
+    ],
+    "crn": 12705
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "BARAJAS RAMIREZ ANDRES CAMILO"
+    ],
+    "crn": 19036
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MAHECHA ARANGO VICTOR JOSE"
+    ],
+    "crn": 19100
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "BARAJAS RAMIREZ ANDRES CAMILO"
+    ],
+    "crn": 20992
+  },
+  {
+    "subject": "FISI1012C",
+    "section": 12,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 1",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1800",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MAHECHA ARANGO VICTOR JOSE"
+    ],
+    "crn": 21295
+  },
+  {
+    "subject": "FISI1013",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 1",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CARRANZA CELIS DIEGO ANDRES"
+    ],
+    "crn": 10074
+  },
+  {
+    "subject": "FISI1013",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 1",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "CARRANZA CELIS DIEGO ANDRES"
+    ],
+    "crn": 10625
+  },
+  {
+    "subject": "FISI1013",
+    "section": 4,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 1",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PERICO MARTINEZ NESTOR RAFAEL"
+    ],
+    "crn": 18635
+  },
+  {
+    "subject": "FISI1013",
+    "section": 5,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 1",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO CARDENAS ANGEL MARIA"
+    ],
+    "crn": 16636
+  },
+  {
+    "subject": "FISI1013",
+    "section": 6,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 1",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "PERICO MARTINEZ NESTOR RAFAEL"
+    ],
+    "crn": 19089
+  },
+  {
+    "subject": "FISI1018",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 100,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "FORERO ROMERO JAIME ERNESTO"
+    ],
+    "crn": 10465
+  },
+  {
+    "subject": "FISI1018",
+    "section": 7,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 99,
+    "available": -14,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ ROJAS JUAN GABRIEL"
+    ],
+    "crn": 10466
+  },
+  {
+    "subject": "FISI1018",
+    "section": 13,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 99,
+    "available": -14,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "TELLEZ ACOSTA GABRIEL"
+    ],
+    "crn": 10467
+  },
+  {
+    "subject": "FISI1018",
+    "section": 19,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 98,
+    "available": -13,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL CARLOS ARTURO"
+    ],
+    "crn": 10468
+  },
+  {
+    "subject": "FISI1018",
+    "section": 25,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 100,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1300",
+        "finalHour": "1420"
+      }
+    ],
+    "instructors": [
+      "FLOREZ BUSTOS CARLOS ANDRES"
+    ],
+    "crn": 10469
+  },
+  {
+    "subject": "FISI1018",
+    "section": 31,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 98,
+    "available": -13,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1430",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "ROLDAN GIRALDO JOSE ROLANDO"
+    ],
+    "crn": 10470
+  },
+  {
+    "subject": "FISI1018",
+    "section": 37,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 89,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1600",
+        "finalHour": "1720"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ DUENAS FERNEY JAVIER"
+    ],
+    "crn": 14009
+  },
+  {
+    "subject": "FISI1018",
+    "section": 43,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 90,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1730",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "BOTERO ALONSO"
+    ],
+    "crn": 10548
+  },
+  {
+    "subject": "FISI1018",
+    "section": 49,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 100,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VALENCIA GONZALEZ ALEJANDRA"
+    ],
+    "crn": 10992
+  },
+  {
+    "subject": "FISI1018",
+    "section": 55,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 98,
+    "available": -13,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BARGUEÑO DE RETES PEDRO"
+    ],
+    "crn": 11584
+  },
+  {
+    "subject": "FISI1018",
+    "section": 60,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 81,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "SUESCA SANCHEZ ELIZABETH"
+    ],
+    "crn": 13321
+  },
+  {
+    "subject": "FISI1018",
+    "section": 65,
+    "credits": 3.0,
+    "title": "FISICA I",
+    "capacity": 85,
+    "enrolled": 100,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "HURTADO MORALES MIKEL FERNANDO"
+    ],
+    "crn": 15221
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "CASTILLO MIGUEL FERNANDO"
+    ],
+    "crn": 12333
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "CASTILLO MIGUEL FERNANDO"
+    ],
+    "crn": 12650
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ VANEGAS JUAN CARLOS"
+    ],
+    "crn": 12651
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 27,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ VANEGAS JUAN CARLOS"
+    ],
+    "crn": 12652
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 26,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "110"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SEGURA DELGADO MANUEL ALEJANDRO"
+    ],
+    "crn": 12653
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ VANEGAS JUAN CARLOS"
+    ],
+    "crn": 12654
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 25,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "YANEZ DORIA GENHLI"
+    ],
+    "crn": 12655
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 25,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "YANEZ DORIA GENHLI"
+    ],
+    "crn": 12656
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 28,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "BEDOYA FIERRO DIEGO ANDRES"
+    ],
+    "crn": 12657
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 26,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BEDOYA FIERRO DIEGO ANDRES"
+    ],
+    "crn": 12658
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 16,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 25,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "BARBOSA TRUJILLO DIEGO ANDRES"
+    ],
+    "crn": 12659
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BARBOSA TRUJILLO DIEGO ANDRES"
+    ],
+    "crn": 12660
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 20,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ AZUERO ANGELA VIVIANA"
+    ],
+    "crn": 12683
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 21,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BARBOSA TRUJILLO DIEGO ANDRES"
+    ],
+    "crn": 12684
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 22,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 26,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "504"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BERMUDEZ MANJARRES ANDRES DARIO"
+    ],
+    "crn": 12682
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 23,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BRAVO MEDINA SERGIO"
+    ],
+    "crn": 12685
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 26,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 26,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CASTILLO JULIO MARIO"
+    ],
+    "crn": 12686
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 27,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CASTILLO JULIO MARIO"
+    ],
+    "crn": 12687
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 28,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 25,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "BRAVO MEDINA SERGIO"
+    ],
+    "crn": 12688
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 29,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "203"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "BERMUDEZ MANJARRES ANDRES DARIO"
+    ],
+    "crn": 12689
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 32,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "YANEZ DORIA GENHLI"
+    ],
+    "crn": 12690
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 33,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "CASTILLO MIGUEL FERNANDO"
+    ],
+    "crn": 12691
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 34,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 26,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "614"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "GOMEZ AZUERO ANGELA VIVIANA"
+    ],
+    "crn": 13144
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 35,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 23,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "CORTISSOZ IRIARTE JEAN CARLOS"
+    ],
+    "crn": 13145
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 38,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "T",
+          "number": "205"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "VARELA ALVAREZ LUCAS"
+    ],
+    "crn": 14010
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 39,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "VILLALBA PARDO FABIAN DARIO"
+    ],
+    "crn": 14011
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 40,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ RUIZ JORGE LUIS"
+    ],
+    "crn": 14012
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 41,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ RUIZ JORGE LUIS"
+    ],
+    "crn": 18640
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 44,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 21,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO CARDENAS ANGEL MARIA"
+    ],
+    "crn": 12692
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 45,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO CASTILLO JULIO MARIO"
+    ],
+    "crn": 12693
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 46,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "FERRERO BOTERO ALEJANDRO"
+    ],
+    "crn": 12694
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 47,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO CARDENAS ANGEL MARIA"
+    ],
+    "crn": 12695
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 50,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "FERRERO BOTERO ALEJANDRO"
+    ],
+    "crn": 12696
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 51,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "300"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "VARELA ALVAREZ LUCAS"
+    ],
+    "crn": 12697
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 52,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO CARDENAS ANGEL MARIA"
+    ],
+    "crn": 12698
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 53,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO CARDENAS ANGEL MARIA"
+    ],
+    "crn": 12699
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 56,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "BRAVO HUERTAS LUIS ALFREDO"
+    ],
+    "crn": 12739
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 57,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 26,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "VILLALBA PARDO FABIAN DARIO"
+    ],
+    "crn": 12740
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 58,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "RIOS ECHEVERRY LEONARDO"
+    ],
+    "crn": 12741
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 59,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "RIOS ECHEVERRY LEONARDO"
+    ],
+    "crn": 13146
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 61,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "104"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "FERRERO BOTERO ALEJANDRO"
+    ],
+    "crn": 13322
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 62,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 18,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MENDOZA NAVAS LUIS MIGUEL"
+    ],
+    "crn": 14014
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 63,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "VILLALBA PARDO FABIAN DARIO"
+    ],
+    "crn": 14015
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 64,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 19,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "103"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "ROJAS GAMBOA DIEGO FERNEY"
+    ],
+    "crn": 13323
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 66,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RIOS ECHEVERRY LEONARDO"
+    ],
+    "crn": 15223
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 67,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 23,
+    "enrolled": 27,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ RUIZ JORGE LUIS"
+    ],
+    "crn": 15224
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 68,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "PULIDO GONZALES WALTER"
+    ],
+    "crn": 15225
+  },
+  {
+    "subject": "FISI1018C",
+    "section": 69,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA I",
+    "capacity": 22,
+    "enrolled": 25,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MENDOZA NAVAS LUIS MIGUEL"
+    ],
+    "crn": 15226
+  },
+  {
+    "subject": "FISI1019",
+    "section": 1,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "OLAYA CORTES DANIEL ESTEBAN"
+    ],
+    "crn": 10383
+  },
+  {
+    "subject": "FISI1019",
+    "section": 2,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ ROBAYO COSME BELISARIO"
+    ],
+    "crn": 10634
+  },
+  {
+    "subject": "FISI1019",
+    "section": 3,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "ALARCON RODRIGUEZ WILLIAM FRANCISCO"
+    ],
+    "crn": 10384
+  },
+  {
+    "subject": "FISI1019",
+    "section": 4,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "MEJIA MORA JOSE RICARDO"
+    ],
+    "crn": 10471
+  },
+  {
+    "subject": "FISI1019",
+    "section": 5,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALARCON RODRIGUEZ WILLIAM FRANCISCO"
+    ],
+    "crn": 12700
+  },
+  {
+    "subject": "FISI1019",
+    "section": 6,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MEJIA MORA JOSE RICARDO"
+    ],
+    "crn": 10517
+  },
+  {
+    "subject": "FISI1019",
+    "section": 7,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "ARIAS VALBUENA HECTOR MAURICIO"
+    ],
+    "crn": 10472
+  },
+  {
+    "subject": "FISI1019",
+    "section": 8,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "DURAN CHAPARRO DAVID CAMILO"
+    ],
+    "crn": 10385
+  },
+  {
+    "subject": "FISI1019",
+    "section": 9,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ARIAS VALBUENA HECTOR MAURICIO"
+    ],
+    "crn": 11583
+  },
+  {
+    "subject": "FISI1019",
+    "section": 10,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DURAN CHAPARRO DAVID CAMILO"
+    ],
+    "crn": 12701
+  },
+  {
+    "subject": "FISI1019",
+    "section": 11,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "ARIAS VALBUENA HECTOR MAURICIO"
+    ],
+    "crn": 14017
+  },
+  {
+    "subject": "FISI1019",
+    "section": 12,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 0,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "URREGO GONZALEZ DANIEL FERNANDO"
+    ],
+    "crn": 18648
+  },
+  {
+    "subject": "FISI1019",
+    "section": 13,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "BUESAQUILLO GOMEZ VICTOR GIRALDO"
+    ],
+    "crn": 10387
+  },
+  {
+    "subject": "FISI1019",
+    "section": 14,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "LOZANO GOMEZ DANIEL"
+    ],
+    "crn": 10388
+  },
+  {
+    "subject": "FISI1019",
+    "section": 15,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "BUESAQUILLO GOMEZ VICTOR GIRALDO"
+    ],
+    "crn": 10389
+  },
+  {
+    "subject": "FISI1019",
+    "section": 16,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "OLAYA CORTES DANIEL ESTEBAN"
+    ],
+    "crn": 10390
+  },
+  {
+    "subject": "FISI1019",
+    "section": 17,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ANGARITA VARGAS MARIO FERNANDO"
+    ],
+    "crn": 10391
+  },
+  {
+    "subject": "FISI1019",
+    "section": 18,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEDRAZA HERNANDEZ ANDRES FERNANDO"
+    ],
+    "crn": 10392
+  },
+  {
+    "subject": "FISI1019",
+    "section": 19,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "PEDRAZA HERNANDEZ ANDRES FERNANDO"
+    ],
+    "crn": 10393
+  },
+  {
+    "subject": "FISI1019",
+    "section": 20,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "MENDEZ REINA RUDY MARCELA"
+    ],
+    "crn": 10394
+  },
+  {
+    "subject": "FISI1019",
+    "section": 21,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BUESAQUILLO GOMEZ VICTOR GIRALDO"
+    ],
+    "crn": 10750
+  },
+  {
+    "subject": "FISI1019",
+    "section": 22,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LOZANO GOMEZ DANIEL"
+    ],
+    "crn": 11088
+  },
+  {
+    "subject": "FISI1019",
+    "section": 23,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 15,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "URREGO GONZALEZ DANIEL FERNANDO"
+    ],
+    "crn": 13147
+  },
+  {
+    "subject": "FISI1019",
+    "section": 24,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 18,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "SUAREZ PEREZ JOHN FREDY"
+    ],
+    "crn": 14957
+  },
+  {
+    "subject": "FISI1019",
+    "section": 25,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "USECHE REYES DIEGO HERNANDO"
+    ],
+    "crn": 10635
+  },
+  {
+    "subject": "FISI1019",
+    "section": 26,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "MEJIA MORA JOSE RICARDO"
+    ],
+    "crn": 10473
+  },
+  {
+    "subject": "FISI1019",
+    "section": 27,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALARCON RODRIGUEZ WILLIAM FRANCISCO"
+    ],
+    "crn": 10474
+  },
+  {
+    "subject": "FISI1019",
+    "section": 28,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "DURAN CHAPARRO DAVID CAMILO"
+    ],
+    "crn": 10475
+  },
+  {
+    "subject": "FISI1019",
+    "section": 29,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ ROBAYO COSME BELISARIO"
+    ],
+    "crn": 10395
+  },
+  {
+    "subject": "FISI1019",
+    "section": 30,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 0,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 10570
+  },
+  {
+    "subject": "FISI1019",
+    "section": 31,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "SUAREZ PEREZ JOHN FREDY"
+    ],
+    "crn": 17155
+  },
+  {
+    "subject": "FISI1019",
+    "section": 32,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ ROBAYO COSME BELISARIO"
+    ],
+    "crn": 19097
+  },
+  {
+    "subject": "FISI1019",
+    "section": 33,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "MENDEZ REINA RUDY MARCELA"
+    ],
+    "crn": 19087
+  },
+  {
+    "subject": "FISI1019",
+    "section": 34,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "OLAYA CORTES DANIEL ESTEBAN"
+    ],
+    "crn": 19102
+  },
+  {
+    "subject": "FISI1019",
+    "section": 35,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "SUAREZ PEREZ JOHN FREDY"
+    ],
+    "crn": 19096
+  },
+  {
+    "subject": "FISI1019",
+    "section": 36,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "LOZANO GOMEZ DANIEL"
+    ],
+    "crn": 19088
+  },
+  {
+    "subject": "FISI1019",
+    "section": 37,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL I",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "304"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "PEDRAZA HERNANDEZ ANDRES FERNANDO"
+    ],
+    "crn": 19103
+  },
+  {
+    "subject": "FISI1022",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA BASICA 2 (INGLES)",
+    "capacity": 85,
+    "enrolled": 83,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SMITH CIARAN ALEXANDER"
+    ],
+    "crn": 10075
+  },
+  {
+    "subject": "FISI1022C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "300"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "UBAQUE BRITO KAROL YOBANY"
+    ],
+    "crn": 12334
+  },
+  {
+    "subject": "FISI1022C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 2",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "UBAQUE BRITO KAROL YOBANY"
+    ],
+    "crn": 12706
+  },
+  {
+    "subject": "FISI1022C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 2",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "G",
+          "number": "102"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "PULIDO GONZALES WALTER"
+    ],
+    "crn": 18633
+  },
+  {
+    "subject": "FISI1022C",
+    "section": 6,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "PULIDO GONZALES WALTER"
+    ],
+    "crn": 14016
+  },
+  {
+    "subject": "FISI1022C",
+    "section": 7,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA BÁSICA 2",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "307"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "ROJAS RUIZ DANIEL"
+    ],
+    "crn": 21076
+  },
+  {
+    "subject": "FISI1023",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 2",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ JIMENEZ DIEGO FERNANDO"
+    ],
+    "crn": 18853
+  },
+  {
+    "subject": "FISI1023",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 2",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ JIMENEZ DIEGO FERNANDO"
+    ],
+    "crn": 18854
+  },
+  {
+    "subject": "FISI1023",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 2",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ JIMENEZ DIEGO FERNANDO"
+    ],
+    "crn": 18855
+  },
+  {
+    "subject": "FISI1023",
+    "section": 5,
+    "credits": 1.0,
+    "title": "LABORATORIO DE FISICA BASICA 2",
+    "capacity": 22,
+    "enrolled": 6,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "USECHE REYES DIEGO HERNANDO"
+    ],
+    "crn": 18857
+  },
+  {
+    "subject": "FISI1028",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 97,
+    "available": -17,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VILLABONA MONSALVE JUAN PABLO"
+    ],
+    "crn": 11543
+  },
+  {
+    "subject": "FISI1028",
+    "section": 7,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 93,
+    "available": -13,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "QUIROGA PUELLO LUIS"
+    ],
+    "crn": 10751
+  },
+  {
+    "subject": "FISI1028",
+    "section": 13,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 95,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ PORTELA MAYERLIN"
+    ],
+    "crn": 10453
+  },
+  {
+    "subject": "FISI1028",
+    "section": 19,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 94,
+    "available": -14,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PATIÑO ZAPATA EDGAR JAVIER"
+    ],
+    "crn": 10518
+  },
+  {
+    "subject": "FISI1028",
+    "section": 25,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 93,
+    "available": -13,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1300",
+        "finalHour": "1420"
+      }
+    ],
+    "instructors": [
+      "ARIAS CALLEJAS VERONICA"
+    ],
+    "crn": 10636
+  },
+  {
+    "subject": "FISI1028",
+    "section": 37,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 87,
+    "available": -7,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1600",
+        "finalHour": "1720"
+      }
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 20980
+  },
+  {
+    "subject": "FISI1028",
+    "section": 43,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 88,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1730",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MARTIN CONTRERAS MIGUEL ANGEL"
+    ],
+    "crn": 11507
+  },
+  {
+    "subject": "FISI1028",
+    "section": 49,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 80,
+    "enrolled": 82,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "DAS SIBA PRASAD"
+    ],
+    "crn": 18683
+  },
+  {
+    "subject": "FISI1028",
+    "section": 55,
+    "credits": 3.0,
+    "title": "FISICA II",
+    "capacity": 90,
+    "enrolled": 72,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "SABOGAL MARTINEZ BEATRIZ EUGENIA"
+    ],
+    "crn": 20989
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 29,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "GALAN ROJAS JORGE LUIS"
+    ],
+    "crn": 12335
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "SEQUERA MARIN LING ALFONSO"
+    ],
+    "crn": 12709
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 19,
+    "enrolled": 20,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "311"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "SEQUERA MARIN LING ALFONSO"
+    ],
+    "crn": 13493
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "VALBUENA SANCHEZ CAMILO"
+    ],
+    "crn": 13494
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 8,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ROJAS GAMBOA DIEGO FERNEY"
+    ],
+    "crn": 12710
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 9,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TABBAN SABBAGH SOUAD MARIA"
+    ],
+    "crn": 12711
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 10,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 19,
+    "enrolled": 20,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "312"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TABBAN SABBAGH SOUAD MARIA"
+    ],
+    "crn": 12712
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 11,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "0800",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DIAZ TRUJILLO PAUL WILLIAM"
+    ],
+    "crn": 12713
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 14,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 25,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "CRUZ WILCHES LUIS FERNANDO"
+    ],
+    "crn": 12714
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 15,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 26,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "CRUZ WILCHES LUIS FERNANDO"
+    ],
+    "crn": 12716
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 16,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "SEQUERA MARIN LING ALFONSO"
+    ],
+    "crn": 12717
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 17,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 19,
+    "enrolled": 20,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "312"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "TABBAN SABBAGH SOUAD MARIA"
+    ],
+    "crn": 13495
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 20,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GALAN ROJAS JORGE LUIS"
+    ],
+    "crn": 12718
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 21,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "UBAQUE BRITO KAROL YOBANY"
+    ],
+    "crn": 12719
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 22,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 23,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ROJAS GAMBOA DIEGO FERNEY"
+    ],
+    "crn": 12720
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 23,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 23,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "106"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CALDERON LOSADA OMAR"
+    ],
+    "crn": 12721
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 26,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 27,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "CRUZ WILCHES LUIS FERNANDO"
+    ],
+    "crn": 12722
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 27,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 22,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "CALDERON LOSADA OMAR"
+    ],
+    "crn": 12723
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 28,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "BARCENAS LARA DONNY ROLANDO"
+    ],
+    "crn": 12724
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 29,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "310"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "BARCENAS LARA DONNY ROLANDO"
+    ],
+    "crn": 12725
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 32,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 13,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "NOGUERA POVEDA DANIEL FELIPE EDILBERTO"
+    ],
+    "crn": 14976
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 33,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 0,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "309"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 14977
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 38,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RUIZ FERNANDO JAVIER"
+    ],
+    "crn": 20981
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 39,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RUIZ FERNANDO JAVIER"
+    ],
+    "crn": 20982
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 40,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 22,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ROMERO ROBERT PAUL"
+    ],
+    "crn": 20983
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 41,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 18,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "106"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARCENAS LARA DONNY ROLANDO"
+    ],
+    "crn": 20984
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 44,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "AVILAN VARGAS NICOLAS GUILLERMO"
+    ],
+    "crn": 12730
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 45,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 20,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "SALAZAR ROMERO ROBERT PAUL"
+    ],
+    "crn": 12731
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 46,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "BARAJAS RAMIREZ ANDRES CAMILO"
+    ],
+    "crn": 13496
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 47,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MEJIA MORENO SIMON"
+    ],
+    "crn": 12732
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 50,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 18,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "GALAN ROJAS JORGE LUIS"
+    ],
+    "crn": 18686
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 51,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 24,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "202"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "AVILAN VARGAS NICOLAS GUILLERMO"
+    ],
+    "crn": 18687
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 52,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 16,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "T",
+          "number": "205"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "AVILAN VARGAS NICOLAS GUILLERMO"
+    ],
+    "crn": 18688
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 53,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 24,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "003"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NOGUERA POVEDA DANIEL FELIPE EDILBERTO"
+    ],
+    "crn": 18689
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 59,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 23,
+    "enrolled": 27,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "ROJAS RUIZ DANIEL"
+    ],
+    "crn": 21000
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 60,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 22,
+    "enrolled": 12,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "GARZON MIGUEZ OSCAR FERNANDO"
+    ],
+    "crn": 21285
+  },
+  {
+    "subject": "FISI1028C",
+    "section": 61,
+    "credits": 0.0,
+    "title": "COMPL. FÍSICA II",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GARZON MIGUEZ OSCAR FERNANDO"
+    ],
+    "crn": 21286
+  },
+  {
+    "subject": "FISI1029",
+    "section": 1,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "ERASO HERNANDEZ LEIDY KATHERIN"
+    ],
+    "crn": 10452
+  },
+  {
+    "subject": "FISI1029",
+    "section": 2,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "USECHE REYES DIEGO HERNANDO"
+    ],
+    "crn": 10520
+  },
+  {
+    "subject": "FISI1029",
+    "section": 3,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ANGARITA VARGAS MARIO FERNANDO"
+    ],
+    "crn": 10476
+  },
+  {
+    "subject": "FISI1029",
+    "section": 4,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "ANGARITA VARGAS MARIO FERNANDO"
+    ],
+    "crn": 10477
+  },
+  {
+    "subject": "FISI1029",
+    "section": 5,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FAJARDO JAIRO ANDRES"
+    ],
+    "crn": 10521
+  },
+  {
+    "subject": "FISI1029",
+    "section": 6,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "FAJARDO JAIRO ANDRES"
+    ],
+    "crn": 18690
+  },
+  {
+    "subject": "FISI1029",
+    "section": 7,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "CASTRO RODRIGUEZ DIEGO ALBERTO"
+    ],
+    "crn": 10479
+  },
+  {
+    "subject": "FISI1029",
+    "section": 8,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "CASTRO RODRIGUEZ DIEGO ALBERTO"
+    ],
+    "crn": 10480
+  },
+  {
+    "subject": "FISI1029",
+    "section": 9,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ URREGO RONALD ELIECER"
+    ],
+    "crn": 10481
+  },
+  {
+    "subject": "FISI1029",
+    "section": 10,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ URREGO RONALD ELIECER"
+    ],
+    "crn": 10482
+  },
+  {
+    "subject": "FISI1029",
+    "section": 11,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CASTRO RODRIGUEZ DIEGO ALBERTO"
+    ],
+    "crn": 10483
+  },
+  {
+    "subject": "FISI1029",
+    "section": 12,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "LOPEZ GARCIA ANDRES JENARO"
+    ],
+    "crn": 10522
+  },
+  {
+    "subject": "FISI1029",
+    "section": 13,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "FAJARDO JAIRO ANDRES"
+    ],
+    "crn": 10523
+  },
+  {
+    "subject": "FISI1029",
+    "section": 14,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "CARRANZA CELIS DIEGO ANDRES"
+    ],
+    "crn": 10524
+  },
+  {
+    "subject": "FISI1029",
+    "section": 15,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BRAVO HUERTAS LUIS ALFREDO"
+    ],
+    "crn": 10525
+  },
+  {
+    "subject": "FISI1029",
+    "section": 16,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "BRAVO HUERTAS LUIS ALFREDO"
+    ],
+    "crn": 10484
+  },
+  {
+    "subject": "FISI1029",
+    "section": 17,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 20,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LOPEZ GARCIA ANDRES JENARO"
+    ],
+    "crn": 10485
+  },
+  {
+    "subject": "FISI1029",
+    "section": 18,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 18,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "LOPEZ GARCIA ANDRES JENARO"
+    ],
+    "crn": 10486
+  },
+  {
+    "subject": "FISI1029",
+    "section": 19,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 20,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "ERASO HERNANDEZ LEIDY KATHERIN"
+    ],
+    "crn": 13497
+  },
+  {
+    "subject": "FISI1029",
+    "section": 20,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "ERASO HERNANDEZ LEIDY KATHERIN"
+    ],
+    "crn": 10487
+  },
+  {
+    "subject": "FISI1029",
+    "section": 21,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PERICO MARTINEZ NESTOR RAFAEL"
+    ],
+    "crn": 10638
+  },
+  {
+    "subject": "FISI1029",
+    "section": 22,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1300",
+        "finalHour": "1450"
+      }
+    ],
+    "instructors": [
+      "URREGO GONZALEZ DANIEL FERNANDO"
+    ],
+    "crn": 10639
+  },
+  {
+    "subject": "FISI1029",
+    "section": 23,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "URREGO GONZALEZ DANIEL FERNANDO"
+    ],
+    "crn": 10863
+  },
+  {
+    "subject": "FISI1029",
+    "section": 24,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 11,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ FELICIANO BAYRON STEVENSON"
+    ],
+    "crn": 15299
+  },
+  {
+    "subject": "FISI1029",
+    "section": 25,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "302"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ FELICIANO BAYRON STEVENSON"
+    ],
+    "crn": 15300
+  },
+  {
+    "subject": "FISI1029",
+    "section": 26,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ URREGO RONALD ELIECER"
+    ],
+    "crn": 19094
+  },
+  {
+    "subject": "FISI1029",
+    "section": 27,
+    "credits": 1.0,
+    "title": "FISICA EXPERIMENTAL II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1500",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ FELICIANO BAYRON STEVENSON"
+    ],
+    "crn": 19098
+  },
+  {
+    "subject": "FISI1038",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ONDAS Y FLUIDOS",
+    "capacity": 80,
+    "enrolled": 76,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GARCIA LOPEZ LUIS ANIBAL"
+    ],
+    "crn": 10599
+  },
+  {
+    "subject": "FISI1038C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. ONDAS Y FLUIDOS",
+    "capacity": 27,
+    "enrolled": 25,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "206"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "URIBE SUAREZ JUAN DAVID"
+    ],
+    "crn": 12288
+  },
+  {
+    "subject": "FISI1038C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. ONDAS Y FLUIDOS",
+    "capacity": 27,
+    "enrolled": 27,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "310"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "URIBE SUAREZ JUAN DAVID"
+    ],
+    "crn": 12707
+  },
+  {
+    "subject": "FISI1038C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. ONDAS Y FLUIDOS",
+    "capacity": 26,
+    "enrolled": 24,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "MEJIA MORENO SIMON"
+    ],
+    "crn": 18859
+  },
+  {
+    "subject": "FISI1039",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LABORATORIO DE ONDAS Y FLUIDOS",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "URIBE SUAREZ JUAN DAVID"
+    ],
+    "crn": 18784
+  },
+  {
+    "subject": "FISI1039",
+    "section": 2,
+    "credits": 1.0,
+    "title": "LABORATORIO DE ONDAS Y FLUIDOS",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "CASTRILLON MENDOZA LARRY STEVEN"
+    ],
+    "crn": 18785
+  },
+  {
+    "subject": "FISI1039",
+    "section": 3,
+    "credits": 1.0,
+    "title": "LABORATORIO DE ONDAS Y FLUIDOS",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "305"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "VALBUENA SANCHEZ CAMILO"
+    ],
+    "crn": 18786
+  },
+  {
+    "subject": "FISI1048",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA MODERNA",
+    "capacity": 70,
+    "enrolled": 61,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ MORENO BERNARDO"
+    ],
+    "crn": 10514
+  },
+  {
+    "subject": "FISI1049",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LABORATORIO DE FISICA MODERNA",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CARDONA RODRIGUEZ ALEXANDER"
+    ],
+    "crn": 13794
+  },
+  {
+    "subject": "FISI1049",
+    "section": 2,
+    "credits": 3.0,
+    "title": "LABORATORIO DE FISICA MODERNA",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MENDOZA NAVAS LUIS MIGUEL"
+    ],
+    "crn": 14148
+  },
+  {
+    "subject": "FISI1090A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COSMOS: EL UNIVERSO FISICO",
+    "capacity": 95,
+    "enrolled": 100,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "REYES LEGA ANDRES FERNANDO"
+    ],
+    "crn": 19350
+  },
+  {
+    "subject": "FISI1092A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENERGIA UNA PERSPECTIVA GLOBAL",
+    "capacity": 95,
+    "enrolled": 101,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SANABRIA ARENAS JUAN CARLOS"
+    ],
+    "crn": 15592
+  },
+  {
+    "subject": "FISI1094B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENERGIAS ALTERNATIVAS",
+    "capacity": 95,
+    "enrolled": 100,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "KELKAR NEELIMA"
+    ],
+    "crn": 12289
+  },
+  {
+    "subject": "FISI1801B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NANOTECNOLOGIA",
+    "capacity": 95,
+    "enrolled": 69,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ PICO YENNY ROCIO"
+    ],
+    "crn": 12084
+  },
+  {
+    "subject": "FISI1860",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTRONICA PARA CIENCIAS",
+    "capacity": 22,
+    "enrolled": 18,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GUZMAN RINCON DAVID ALFONSO"
+    ],
+    "crn": 12033
+  },
+  {
+    "subject": "FISI1860",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ELECTRONICA PARA CIENCIAS",
+    "capacity": 15,
+    "enrolled": 11,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "GUZMAN RINCON DAVID ALFONSO"
+    ],
+    "crn": 21270
+  },
+  {
+    "subject": "FISI1908B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ASTRONOMIA GALACTICA",
+    "capacity": 95,
+    "enrolled": 68,
+    "available": 27,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OOSTRA VANNOPPEN BENJAMIN"
+    ],
+    "crn": 19349
+  },
+  {
+    "subject": "FISI1913B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ASTROBIOLOGÍA: VIDA EN EL UNIV",
+    "capacity": 95,
+    "enrolled": 100,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NOWAKOWSKY MAREK"
+    ],
+    "crn": 12034
+  },
+  {
+    "subject": "FISI1914",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TALLER DE ASTRONOMIA",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "FORERO ROMERO JAIME ERNESTO"
+    ],
+    "crn": 17105
+  },
+  {
+    "subject": "FISI2007",
+    "section": 1,
+    "credits": 3.0,
+    "title": "METODOS MATEMATICOS",
+    "capacity": 50,
+    "enrolled": 31,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ROLDAN GIRALDO JOSE ROLANDO"
+    ],
+    "crn": 10091
+  },
+  {
+    "subject": "FISI2007",
+    "section": 2,
+    "credits": 3.0,
+    "title": "METODOS MATEMATICOS",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "FERRERO BOTERO ALEJANDRO"
+    ],
+    "crn": 21221
+  },
+  {
+    "subject": "FISI2026",
+    "section": 1,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS COMPUTACIONALES",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1600",
+        "finalHour": "1720"
+      }
+    ],
+    "instructors": [
+      "MENDEZ REINA RUDY MARCELA"
+    ],
+    "crn": 13833
+  },
+  {
+    "subject": "FISI2026",
+    "section": 2,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS COMPUTACIONALES",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MENDEZ REINA RUDY MARCELA"
+    ],
+    "crn": 15254
+  },
+  {
+    "subject": "FISI2026",
+    "section": 3,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS COMPUTACIONALES",
+    "capacity": 20,
+    "enrolled": 25,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ORJUELA ZUÑIGA JUAN DAVID"
+    ],
+    "crn": 15255
+  },
+  {
+    "subject": "FISI2026",
+    "section": 4,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS COMPUTACIONALES",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ORJUELA ZUÑIGA JUAN DAVID"
+    ],
+    "crn": 16652
+  },
+  {
+    "subject": "FISI2026",
+    "section": 5,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS COMPUTACIONALES",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ORJUELA ZUÑIGA JUAN DAVID"
+    ],
+    "crn": 17164
+  },
+  {
+    "subject": "FISI2027",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. MÉTODOS COMPUT.(ESPECIAL)",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17153
+  },
+  {
+    "subject": "FISI2028",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MÉTODOS COMPUTACIONALES",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO MOLANO GERMAN"
+    ],
+    "crn": 13834
+  },
+  {
+    "subject": "FISI2029",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LAB. MÉTODOS COMPUTACIONALES",
+    "capacity": 25,
+    "enrolled": 23,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1300",
+        "finalHour": "1420"
+      }
+    ],
+    "instructors": [
+      "CHAPARRO MOLANO GERMAN"
+    ],
+    "crn": 13835
+  },
+  {
+    "subject": "FISI2040",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TERMODINAMICA",
+    "capacity": 45,
+    "enrolled": 42,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CAMACHO BELTRAN ANGELA STELLA"
+    ],
+    "crn": 10924
+  },
+  {
+    "subject": "FISI2051",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LABORATORIO INTERMEDIO",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ ROJAS JUAN GABRIEL",
+      "CARDONA RODRIGUEZ ALEXANDER"
+    ],
+    "crn": 10817
+  },
+  {
+    "subject": "FISI2405",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA (INGLES)",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "003"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FLOREZ BUSTOS CARLOS ANDRES"
+    ],
+    "crn": 10092
+  },
+  {
+    "subject": "FISI2432",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTROMAGNETISMO 1",
+    "capacity": 35,
+    "enrolled": 30,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ PORTELA MAYERLIN"
+    ],
+    "crn": 13836
+  },
+  {
+    "subject": "FISI2810",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NANOMATERIALES",
+    "capacity": 30,
+    "enrolled": 7,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ PICO YENNY ROCIO"
+    ],
+    "crn": 19345
+  },
+  {
+    "subject": "FISI2930",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ASTRONOMÍA GENERAL",
+    "capacity": 30,
+    "enrolled": 25,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "OOSTRA VANNOPPEN BENJAMIN"
+    ],
+    "crn": 19343
+  },
+  {
+    "subject": "FISI3000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA DOCENTE FISICA",
+    "capacity": 25,
+    "enrolled": 26,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 12035
+  },
+  {
+    "subject": "FISI3010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA CUANTICA I (INGLES)",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NOWAKOWSKY MAREK"
+    ],
+    "crn": 10573
+  },
+  {
+    "subject": "FISI3011",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO DE FISICA TEORICA",
+    "capacity": 25,
+    "enrolled": 3,
+    "available": 22,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BOTERO ALONSO"
+    ],
+    "crn": 18858
+  },
+  {
+    "subject": "FISI3013",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEM.TEORIA CUANTICA DE CAMPOS",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21195
+  },
+  {
+    "subject": "FISI3020",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA CUANTICA II",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "505"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VALENCIA GONZALEZ ALEJANDRA"
+    ],
+    "crn": 10434
+  },
+  {
+    "subject": "FISI3028",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉT. COMPUTACIONALES AVANZADOS",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FORERO ROMERO JAIME ERNESTO"
+    ],
+    "crn": 19342
+  },
+  {
+    "subject": "FISI3040",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA ESTADISTICA",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TELLEZ ACOSTA GABRIEL"
+    ],
+    "crn": 10818
+  },
+  {
+    "subject": "FISI3098",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MONOGRAFIA",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 13837
+  },
+  {
+    "subject": "FISI3100",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO DE INVESTIGACIÓN",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13838
+  },
+  {
+    "subject": "FISI3101",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO DE ALTAS ENERGIAS",
+    "capacity": 25,
+    "enrolled": 6,
+    "available": 19,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ MORENO BERNARDO"
+    ],
+    "crn": 17088
+  },
+  {
+    "subject": "FISI3152",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA DE PARTICULAS",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "401"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AVILA BERNAL CARLOS ARTURO"
+    ],
+    "crn": 14564
+  },
+  {
+    "subject": "FISI3401",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO 1. OPTICA CUANTICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALENCIA GONZALEZ ALEJANDRA"
+    ],
+    "crn": 17089
+  },
+  {
+    "subject": "FISI3434",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ELECTROMAGNETISMO 2",
+    "capacity": 40,
+    "enrolled": 34,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SANABRIA ARENAS JUAN CARLOS"
+    ],
+    "crn": 14986
+  },
+  {
+    "subject": "FISI3510",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEORIA CUANTICA DE CAMPOS",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "REYES LEGA ANDRES FERNANDO"
+    ],
+    "crn": 20152
+  },
+  {
+    "subject": "FISI3701",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO MATERIA CONDENSADA",
+    "capacity": 25,
+    "enrolled": 4,
+    "available": 21,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUIROGA PUELLO LUIS"
+    ],
+    "crn": 17090
+  },
+  {
+    "subject": "FISI3760",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISICA DEL ESTADO SOLIDO",
+    "capacity": 24,
+    "enrolled": 9,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "QUIROGA PUELLO LUIS"
+    ],
+    "crn": 10927
+  },
+  {
+    "subject": "FISI3801",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO DE BIOFISICA",
+    "capacity": 25,
+    "enrolled": 3,
+    "available": 22,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 17091
+  },
+  {
+    "subject": "FISI3810",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA DE SISTEMAS",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 21102
+  },
+  {
+    "subject": "FISI3901",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEM.1 ASTRONOMIA Y ASTROFISICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 17092
+  },
+  {
+    "subject": "FISI3902",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEM.2-ASTRONOMIA Y ASTROFISICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 17093
+  },
+  {
+    "subject": "FISI3904",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ASTROFISICA NUCLEAR (INGLES)",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "KELKAR NEELIMA"
+    ],
+    "crn": 20078
+  },
+  {
+    "subject": "FISI4010",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MECANICA CUANTICA AVANZADA 1",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BARGUEÑO DE RETES PEDRO"
+    ],
+    "crn": 19840
+  },
+  {
+    "subject": "FISI4011",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 1 DE FISICA TEORICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BOTERO ALONSO"
+    ],
+    "crn": 17084
+  },
+  {
+    "subject": "FISI4012",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 DE FISICA TEORICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BOTERO ALONSO"
+    ],
+    "crn": 17085
+  },
+  {
+    "subject": "FISI4013",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM1.TEORIA CUANTICA DE CAMPOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21196
+  },
+  {
+    "subject": "FISI4014",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM2.TEORIA CUANTICA DE CAMPOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21197
+  },
+  {
+    "subject": "FISI4028",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MÉT. COMPUTACIONALES AVANZADOS",
+    "capacity": 10,
+    "enrolled": 11,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FORERO ROMERO JAIME ERNESTO"
+    ],
+    "crn": 19346
+  },
+  {
+    "subject": "FISI4051",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LABORATORIO AVANZADO",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "301"
+        },
+        "initHour": "1600",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ ROJAS JUAN GABRIEL",
+      "CARDONA RODRIGUEZ ALEXANDER"
+    ],
+    "crn": 14013
+  },
+  {
+    "subject": "FISI4098",
+    "section": 1,
+    "credits": 5.0,
+    "title": "TRABAJO DE GRADO (1)",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11083
+  },
+  {
+    "subject": "FISI4099",
+    "section": 1,
+    "credits": 5.0,
+    "title": "TRABAJO DE GRADO (2)",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11084
+  },
+  {
+    "subject": "FISI4101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 1 ALTAS ENERGIAS",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ MORENO BERNARDO"
+    ],
+    "crn": 10095
+  },
+  {
+    "subject": "FISI4102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 ALTAS ENERGIAS",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ MORENO BERNARDO"
+    ],
+    "crn": 10689
+  },
+  {
+    "subject": "FISI4401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO DE OPTICA CUANTICA",
+    "capacity": 25,
+    "enrolled": 2,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALENCIA GONZALEZ ALEJANDRA"
+    ],
+    "crn": 13269
+  },
+  {
+    "subject": "FISI4402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 DE OPTICA CUANTICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALENCIA GONZALEZ ALEJANDRA"
+    ],
+    "crn": 13461
+  },
+  {
+    "subject": "FISI4405",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MECANICA ANALITICA",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BOTERO ALONSO"
+    ],
+    "crn": 21078
+  },
+  {
+    "subject": "FISI4510",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TEORIA CUANTICA DE CAMPOS",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "REYES LEGA ANDRES FERNANDO"
+    ],
+    "crn": 20151
+  },
+  {
+    "subject": "FISI4601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 1 DE GEOCIENCIAS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEARSE JILLIAN"
+    ],
+    "crn": 17128
+  },
+  {
+    "subject": "FISI4602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 DE GEOCIENCIAS",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEARSE JILLIAN"
+    ],
+    "crn": 17743
+  },
+  {
+    "subject": "FISI4701",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 1 MATERIA CONDENSADA",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUIROGA PUELLO LUIS"
+    ],
+    "crn": 10096
+  },
+  {
+    "subject": "FISI4702",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 MATERIA CONDENSADA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUIROGA PUELLO LUIS"
+    ],
+    "crn": 10097
+  },
+  {
+    "subject": "FISI4774",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MATERIALES Y NANO-ESTRUCTURAS",
+    "capacity": 2,
+    "enrolled": 4,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PATIÑO ZAPATA EDGAR JAVIER"
+    ],
+    "crn": 19348
+  },
+  {
+    "subject": "FISI4801",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 1 DE BIOFISICA",
+    "capacity": 25,
+    "enrolled": 2,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11263
+  },
+  {
+    "subject": "FISI4802",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO 2 DE BIOFISICA",
+    "capacity": 25,
+    "enrolled": 2,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11264
+  },
+  {
+    "subject": "FISI4810",
+    "section": 1,
+    "credits": 4.0,
+    "title": "BIOLOGÍA DE SISTEMAS",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21079
+  },
+  {
+    "subject": "FISI4901",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM.1 ASTRONOMIA Y ASTROFISICA",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 11265
+  },
+  {
+    "subject": "FISI4902",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEM.2 ASTRONOMIA Y ASTROFISICA",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA VARELA JOSE ALEJANDRO"
+    ],
+    "crn": 11266
+  },
+  {
+    "subject": "FISI4904",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ASTROFISICA NUCLEAR (INGLES)",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "KELKAR NEELIMA"
+    ],
+    "crn": 20108
+  },
+  {
+    "subject": "FISI6111",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 1",
+    "capacity": 25,
+    "enrolled": 5,
+    "available": 20,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12106
+  },
+  {
+    "subject": "FISI6112",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 2",
+    "capacity": 25,
+    "enrolled": 6,
+    "available": 19,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12107
+  },
+  {
+    "subject": "FISI6113",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 3",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12108
+  },
+  {
+    "subject": "FISI6114",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 4",
+    "capacity": 25,
+    "enrolled": 1,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12109
+  },
+  {
+    "subject": "FISI6115",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 5",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12110
+  },
+  {
+    "subject": "FISI6116",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 6",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12111
+  },
+  {
+    "subject": "FISI6117",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 7",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12112
+  },
+  {
+    "subject": "FISI6118",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 8",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12113
+  },
+  {
+    "subject": "FISI6119",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO AVANZADO 9",
+    "capacity": 25,
+    "enrolled": 0,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12114
+  },
+  {
+    "subject": "FISI6201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INVESTIGACION 1",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11143
+  },
+  {
+    "subject": "FISI6202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INVESTIGACION 2",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 11144
+  },
+  {
+    "subject": "FISI6961",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CURSO DIRIGIDO I",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12175
+  },
+  {
+    "subject": "FISI6962",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CURSO DIRIGIDO II",
+    "capacity": 5,
+    "enrolled": 1,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12986
+  },
+  {
+    "subject": "FISI6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE CONOCIMIENTOS",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12038
+  },
+  {
+    "subject": "FISI6971",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12039
+  },
+  {
+    "subject": "FISI6972",
+    "section": 1,
+    "credits": 5.0,
+    "title": "EXAMEN DE CANDIDATURA",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12040
+  },
+  {
+    "subject": "FISI6973",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA II",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 19019
+  },
+  {
+    "subject": "FISI6974",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA III",
+    "capacity": 0,
+    "enrolled": 3,
+    "available": -3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20247
+  },
+  {
+    "subject": "FISI6981",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS I",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12041
+  },
+  {
+    "subject": "FISI6982",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS II",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12984
+  },
+  {
+    "subject": "FISI6983",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS III",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 13065
+  },
+  {
+    "subject": "FISI6984",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS IV",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 13462
+  },
+  {
+    "subject": "FISI6985",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS V",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 13839
+  },
+  {
+    "subject": "FISI6986",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS VI",
+    "capacity": 10,
+    "enrolled": 2,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 15194
+  },
+  {
+    "subject": "FISI6987",
+    "section": 1,
+    "credits": 10.0,
+    "title": "TESIS VII",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 17124
+  },
+  {
+    "subject": "FISI6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN DE TESIS",
+    "capacity": 10,
+    "enrolled": 4,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEDRAZA JUAN MANUEL"
+    ],
+    "crn": 12042
+  }
+]

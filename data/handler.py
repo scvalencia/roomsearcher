@@ -23,6 +23,6 @@ for f in os.listdir('.'):
 		os.popen('git add %s' % f)
 		os.popen('git commit -m "New courses data for processing"')
 
-	couneter += 1
+	counter += 1
 
 os.remove(SCRIPT)

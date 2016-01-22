@@ -1,0 +1,2269 @@
+[
+  {
+    "subject": "PSIC1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEXUALIDAD HUMANA",
+    "capacity": 70,
+    "enrolled": 70,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VARGAS TRUJILLO ELVIA",
+      "IBARRA AVILA MARTA CAROLINA"
+    ],
+    "crn": 13444
+  },
+  {
+    "subject": "PSIC1002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER MANEJO DE ESTRES",
+    "capacity": 70,
+    "enrolled": 71,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ ORTIZ VIVIOLA MELIDA"
+    ],
+    "crn": 15986
+  },
+  {
+    "subject": "PSIC1014",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO EDUCACION INICIAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MALDONADO CAROLINA"
+    ],
+    "crn": 13706
+  },
+  {
+    "subject": "PSIC1015",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO PSICOLOGÍA Y CULTURA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PACKER MARTIN"
+    ],
+    "crn": 13707
+  },
+  {
+    "subject": "PSIC1016",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO RELACIONES AFECTIVAS",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARRILLO AVILA SONIA"
+    ],
+    "crn": 13708
+  },
+  {
+    "subject": "PSIC1017",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO T. DE ALIMENTACION",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20132
+  },
+  {
+    "subject": "PSIC1018",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO LENGUAJE Y COGNICION",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALI FLORENCIA"
+    ],
+    "crn": 18180
+  },
+  {
+    "subject": "PSIC1019",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO PSICOLOGIA Y SALUD",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FINCK BARBOZA CAROLYN"
+    ],
+    "crn": 13709
+  },
+  {
+    "subject": "PSIC1021",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO FAMILIA Y SEXUALIDAD",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VARGAS TRUJILLO ELVIA"
+    ],
+    "crn": 13718
+  },
+  {
+    "subject": "PSIC1022",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO LAB DE COGNICION",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JIMENEZ LEAL WILLIAM"
+    ],
+    "crn": 14464
+  },
+  {
+    "subject": "PSIC1023",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO SENTIDO DEL HUMOR",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 13739
+  },
+  {
+    "subject": "PSIC1024",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO EN PSIC Y ASUNT ECON",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CRUZ VASQUEZ JULIO EDUARDO"
+    ],
+    "crn": 13740
+  },
+  {
+    "subject": "PSIC1025",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO NEUROCIENCIAS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARDENAS FERNANDO"
+    ],
+    "crn": 13759
+  },
+  {
+    "subject": "PSIC1026",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO SUB. VIOLEN Y GUERRA",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARANGUREN ROMERO JUAN PABLO"
+    ],
+    "crn": 19696
+  },
+  {
+    "subject": "PSIC1027",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO GENERO, INTERV. PSIC",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ANA LUCIA"
+    ],
+    "crn": 15156
+  },
+  {
+    "subject": "PSIC1028",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMILLERO ENF.CARDIOVASCULARES",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 18995
+  },
+  {
+    "subject": "PSIC1110B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PUBLICIDAD USOS Y ABUSOS",
+    "capacity": 77,
+    "enrolled": 81,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "401"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CRUZ VASQUEZ JULIO EDUARDO"
+    ],
+    "crn": 19724
+  },
+  {
+    "subject": "PSIC1115B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EL ARTE DE SER PADRE",
+    "capacity": 53,
+    "enrolled": 43,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CARRILLO AVILA SONIA"
+    ],
+    "crn": 19725
+  },
+  {
+    "subject": "PSIC1130B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PERS. PSIC. DEL AMOR DE PAREJA",
+    "capacity": 67,
+    "enrolled": 70,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 21123
+  },
+  {
+    "subject": "PSIC1135B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONDUCTA CRIMINAL Y SOCIEDAD",
+    "capacity": 77,
+    "enrolled": 82,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "PEREZ TRUJILLO MONICA"
+    ],
+    "crn": 15992
+  },
+  {
+    "subject": "PSIC1204",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRINCIPIOS DE NEUROCIENCIAS 1",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARDENAS FERNANDO"
+    ],
+    "crn": 10438
+  },
+  {
+    "subject": "PSIC1204",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRINCIPIOS DE NEUROCIENCIAS 1",
+    "capacity": 45,
+    "enrolled": 47,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "110"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CARDENAS FERNANDO"
+    ],
+    "crn": 18771
+  },
+  {
+    "subject": "PSIC1205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRINCIPIOS DE NEUROCIENCIAS 2",
+    "capacity": 100,
+    "enrolled": 99,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "CARDENAS FERNANDO"
+    ],
+    "crn": 10439
+  },
+  {
+    "subject": "PSIC1402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PSICOLOGIA",
+    "capacity": 80,
+    "enrolled": 80,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "FINCK BARBOZA CAROLYN"
+    ],
+    "crn": 20993
+  },
+  {
+    "subject": "PSIC1402",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PSICOLOGIA",
+    "capacity": 80,
+    "enrolled": 78,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GALVIS SERNA ESTEBAN"
+    ],
+    "crn": 20995
+  },
+  {
+    "subject": "PSIC1403",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DE INDUCCION",
+    "capacity": 70,
+    "enrolled": 62,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 15098
+  },
+  {
+    "subject": "PSIC2312",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGIA DEL APRENDIZAJE",
+    "capacity": 90,
+    "enrolled": 90,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CRUZ VASQUEZ JULIO EDUARDO"
+    ],
+    "crn": 19697
+  },
+  {
+    "subject": "PSIC2313",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGÍA DE LA EMOCIÓN",
+    "capacity": 90,
+    "enrolled": 89,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ ORTIZ VIVIOLA MELIDA"
+    ],
+    "crn": 19698
+  },
+  {
+    "subject": "PSIC2314",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOG DEL LENGUAJE (INGLES)",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "GB",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "GB",
+          "number": "104"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "INGRAM GORDON PATRICK DUNSTAN"
+    ],
+    "crn": 14465
+  },
+  {
+    "subject": "PSIC2316",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGIA DE LA PERCEPCION",
+    "capacity": 90,
+    "enrolled": 73,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ LEAL WILLIAM"
+    ],
+    "crn": 18185
+  },
+  {
+    "subject": "PSIC2318",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MOTIVACIÓN",
+    "capacity": 90,
+    "enrolled": 92,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 18186
+  },
+  {
+    "subject": "PSIC2503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGÍA SOCIAL CRÍTICA",
+    "capacity": 81,
+    "enrolled": 81,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ARANGUREN ROMERO JUAN PABLO"
+    ],
+    "crn": 14103
+  },
+  {
+    "subject": "PSIC2504",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOL SOCIAL EXPERIM",
+    "capacity": 80,
+    "enrolled": 61,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CRUZ VASQUEZ JULIO EDUARDO"
+    ],
+    "crn": 13262
+  },
+  {
+    "subject": "PSIC2600",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ENTREVISTA PSICOLOGICA",
+    "capacity": 26,
+    "enrolled": 27,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "GB",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ARBOLEDA MARIA CLARA"
+    ],
+    "crn": 11539
+  },
+  {
+    "subject": "PSIC2600",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ENTREVISTA PSICOLOGICA",
+    "capacity": 26,
+    "enrolled": 29,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ANA LUCIA"
+    ],
+    "crn": 15089
+  },
+  {
+    "subject": "PSIC2601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOMETRIA",
+    "capacity": 80,
+    "enrolled": 68,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1100",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "GOMEZ MAQUET YVONNE"
+    ],
+    "crn": 13263
+  },
+  {
+    "subject": "PSIC2602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EVALUACION PSICOLÓGICA",
+    "capacity": 35,
+    "enrolled": 19,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 10648
+  },
+  {
+    "subject": "PSIC2602",
+    "section": 2,
+    "credits": 3.0,
+    "title": "EVALUACION PSICOLÓGICA",
+    "capacity": 35,
+    "enrolled": 32,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "300"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 14109
+  },
+  {
+    "subject": "PSIC2706",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 1",
+    "capacity": 45,
+    "enrolled": 48,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ LEAL WILLIAM"
+    ],
+    "crn": 11420
+  },
+  {
+    "subject": "PSIC2706",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 1",
+    "capacity": 45,
+    "enrolled": 38,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ LEAL WILLIAM"
+    ],
+    "crn": 13336
+  },
+  {
+    "subject": "PSIC2707",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 2",
+    "capacity": 45,
+    "enrolled": 47,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 14071
+  },
+  {
+    "subject": "PSIC2707",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 2",
+    "capacity": 45,
+    "enrolled": 35,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 13264
+  },
+  {
+    "subject": "PSIC2708",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 3",
+    "capacity": 45,
+    "enrolled": 42,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PEREZ TRUJILLO MONICA"
+    ],
+    "crn": 14070
+  },
+  {
+    "subject": "PSIC2708",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DISEÑO Y ANÁLISIS DE INV. 3",
+    "capacity": 45,
+    "enrolled": 44,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "303"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ANA LUCIA"
+    ],
+    "crn": 20967
+  },
+  {
+    "subject": "PSIC3600",
+    "section": 1,
+    "credits": 0.0,
+    "title": "OPCION GRADO MATERIAS MAESTRIA",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 13445
+  },
+  {
+    "subject": "PSIC3705",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRABAJO DE GRADO 1 06",
+    "capacity": 50,
+    "enrolled": 19,
+    "available": 31,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 10442
+  },
+  {
+    "subject": "PSIC3706",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRABAJO DE GRADO 2 06",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 10440
+  },
+  {
+    "subject": "PSIC3707",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVESTIGACION DIRIGIDA 1",
+    "capacity": 25,
+    "enrolled": 9,
+    "available": 16,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 12069
+  },
+  {
+    "subject": "PSIC3708",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVES.DIRIGIDA 2.",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 15154
+  },
+  {
+    "subject": "PSIC3800",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PSICOLOGIA APLICADA",
+    "capacity": 70,
+    "enrolled": 48,
+    "available": 22,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ARBOLEDA MARIA CLARA"
+    ],
+    "crn": 11540
+  },
+  {
+    "subject": "PSIC3801",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ETICA PROFESIONAL",
+    "capacity": 70,
+    "enrolled": 53,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "VARGAS TRUJILLO ELVIA"
+    ],
+    "crn": 10649
+  },
+  {
+    "subject": "PSIC3811",
+    "section": 1,
+    "credits": 9.0,
+    "title": "PRÁCTICA 1 06",
+    "capacity": 65,
+    "enrolled": 48,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARBOLEDA MARIA CLARA",
+      "MURCIA AGUDELO NUBIA ESTHER",
+      "ROCABADO GUTIERREZ MARCELA CRISTINA"
+    ],
+    "crn": 10650
+  },
+  {
+    "subject": "PSIC3812",
+    "section": 1,
+    "credits": 9.0,
+    "title": "PRÁCTICA 2 06",
+    "capacity": 65,
+    "enrolled": 40,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARBOLEDA MARIA CLARA",
+      "PEREZ GARZON DIANA ALEJANDRA",
+      "ESCOBAR CANTOR ANGELICA"
+    ],
+    "crn": 10651
+  },
+  {
+    "subject": "PSIC3814",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INFORME DE PRÁCTICA",
+    "capacity": 40,
+    "enrolled": 28,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VARGAS TRUJILLO ELVIA"
+    ],
+    "crn": 15093
+  },
+  {
+    "subject": "PSIC3815",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEM.OPCIÓN GRADO PROFESIONAL",
+    "capacity": 50,
+    "enrolled": 26,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "GB",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ROJAS ANGELA MARIA"
+    ],
+    "crn": 13700
+  },
+  {
+    "subject": "PSIC3818",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA SISTEMICA",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LOZANO FORERO MARIA CONSTANZA",
+      "CAICEDO SERRANO MARIA JOSE"
+    ],
+    "crn": 18999
+  },
+  {
+    "subject": "PSIC3830",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RESILIENCIA: NIÑOS Y JOVENES",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "403"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ JENNY"
+    ],
+    "crn": 19702
+  },
+  {
+    "subject": "PSIC3858",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGIA Y EDUCACION INICIAL",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "PLATA CAVIEDES TATIANA"
+    ],
+    "crn": 21090
+  },
+  {
+    "subject": "PSIC3875",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NEUROBIO: ANSIEDAD Y DEPRESION",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LEON ANHUAMAN LAURA ANDREA"
+    ],
+    "crn": 21092
+  },
+  {
+    "subject": "PSIC3878",
+    "section": 1,
+    "credits": 3.0,
+    "title": "A.ESTRATEGICO T.INHABILITANTES",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "208"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO ROSA"
+    ],
+    "crn": 21093
+  },
+  {
+    "subject": "PSIC3884",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVESTIGACION DEL DESARROLLO",
+    "capacity": 30,
+    "enrolled": 4,
+    "available": 26,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PACKER MARTIN"
+    ],
+    "crn": 15996
+  },
+  {
+    "subject": "PSIC3890",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGIA DEPORTE Y EJERCICIO",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "QUIÑONES PAREDES DAVID JULIAN"
+    ],
+    "crn": 16917
+  },
+  {
+    "subject": "PSIC3891",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CYBERPSYCHOLOGY",
+    "capacity": 26,
+    "enrolled": 25,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "INGRAM GORDON PATRICK DUNSTAN"
+    ],
+    "crn": 18193
+  },
+  {
+    "subject": "PSIC3894",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DLLO.COMPETENCIAS GERENCIALES",
+    "capacity": 25,
+    "enrolled": 29,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SALGADO FERRERO CAMILA"
+    ],
+    "crn": 21094
+  },
+  {
+    "subject": "PSIC3896",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRO. PSICOLOGÍA ANALÍTICA",
+    "capacity": 26,
+    "enrolled": 26,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARVALLO MOROS EDUARDO"
+    ],
+    "crn": 16231
+  },
+  {
+    "subject": "PSIC3901",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NEUROPSICOLOGIA FUNDAMENTAL",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "105"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "CARDENAS FERNANDO"
+    ],
+    "crn": 21088
+  },
+  {
+    "subject": "PSIC3952",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGÍA ORGANIZACIONAL",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BAQUERO BARATO JHON ALEXANDER"
+    ],
+    "crn": 20143
+  },
+  {
+    "subject": "PSIC3954",
+    "section": 1,
+    "credits": 3.0,
+    "title": "POL. PUBLICAS EN INFANCIA",
+    "capacity": 25,
+    "enrolled": 14,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CARRILLO AVILA SONIA"
+    ],
+    "crn": 19714
+  },
+  {
+    "subject": "PSIC3961",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PSICOPATOLOGIA",
+    "capacity": 80,
+    "enrolled": 70,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "CASTRO LEONIDAS"
+    ],
+    "crn": 11077
+  },
+  {
+    "subject": "PSIC3962",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DESARROLLO PSICOLOGICO",
+    "capacity": 80,
+    "enrolled": 48,
+    "available": 32,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "607"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "PACKER MARTIN"
+    ],
+    "crn": 10441
+  },
+  {
+    "subject": "PSIC3963",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RELACIONES DE PAREJA",
+    "capacity": 25,
+    "enrolled": 23,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 20996
+  },
+  {
+    "subject": "PSIC3987",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PSICOLOGIA DE LA SALUD",
+    "capacity": 25,
+    "enrolled": 24,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ SEGURA MARIA ALEXIS"
+    ],
+    "crn": 19717
+  },
+  {
+    "subject": "PSIC4100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO DE PROY. DE INVEST I",
+    "capacity": 15,
+    "enrolled": 5,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 10170
+  },
+  {
+    "subject": "PSIC4106",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO PROY INV II COLOQI",
+    "capacity": 9,
+    "enrolled": 7,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 10171
+  },
+  {
+    "subject": "PSIC4107",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO PROY INV III COLOQ II",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 16001
+  },
+  {
+    "subject": "PSIC4108",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO PR INVE IV COLOQ III",
+    "capacity": 4,
+    "enrolled": 4,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 10355
+  },
+  {
+    "subject": "PSIC4114",
+    "section": 1,
+    "credits": 4.0,
+    "title": "METODOS CUALI: INTERSUBJETIV.",
+    "capacity": 25,
+    "enrolled": 15,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "106"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "ARANGUREN ROMERO JUAN PABLO"
+    ],
+    "crn": 21096
+  },
+  {
+    "subject": "PSIC4200",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEM.EVALUACION PROY Y PROGRAMA",
+    "capacity": 25,
+    "enrolled": 19,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LUCUMI CUESTA DIEGO IVÁN"
+    ],
+    "crn": 19719
+  },
+  {
+    "subject": "PSIC4209",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PSICOLOGIA Y CULTURA",
+    "capacity": 25,
+    "enrolled": 10,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "PACKER MARTIN"
+    ],
+    "crn": 19720
+  },
+  {
+    "subject": "PSIC4250",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PSYCHOLOGY OF HEALTH",
+    "capacity": 25,
+    "enrolled": 9,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "GB",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "YOUNG JEREMY CHI-YING"
+    ],
+    "crn": 21095
+  },
+  {
+    "subject": "PSIC4251",
+    "section": 1,
+    "credits": 4.0,
+    "title": "NEUROBIO: ANSIEDAD Y DEPRESION",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "303"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LEON ANHUAMAN LAURA ANDREA"
+    ],
+    "crn": 21293
+  },
+  {
+    "subject": "PSIC4890",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN PROY INVEST MA",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 14124
+  },
+  {
+    "subject": "PSIC6400",
+    "section": 1,
+    "credits": 12.0,
+    "title": "PASANTIA",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 11189
+  },
+  {
+    "subject": "PSIC6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN CURSOS FUNDAMENTALES",
+    "capacity": 8,
+    "enrolled": 0,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 12070
+  },
+  {
+    "subject": "PSIC6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS Y COLOQUIO DOCTORALES",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 12071
+  },
+  {
+    "subject": "PSIC6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS Y COLOQUIO DOCTORALES",
+    "capacity": 15,
+    "enrolled": 8,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA"
+    ],
+    "crn": 12072
+  },
+  {
+    "subject": "PSIC6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN PROYECTO INV.",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 12566
+  },
+  {
+    "subject": "PSIC6991",
+    "section": 1,
+    "credits": 0.0,
+    "title": "DISERTACION DOCTORAL EN CURSO",
+    "capacity": 10,
+    "enrolled": 7,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 14110
+  },
+  {
+    "subject": "PSIC6992",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS DOCTORAL",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 13693
+  },
+  {
+    "subject": "PSIC6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21151
+  }
+]

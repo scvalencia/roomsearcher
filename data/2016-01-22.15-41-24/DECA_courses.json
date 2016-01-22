@@ -1,0 +1,916 @@
+[
+  {
+    "subject": "DECA1001",
+    "section": 1,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ HERRERA LAURA MARCELA"
+    ],
+    "crn": 20497
+  },
+  {
+    "subject": "DECA1001",
+    "section": 2,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CORTES QUINTERO CLAUDIA MAGALLY"
+    ],
+    "crn": 20503
+  },
+  {
+    "subject": "DECA1001",
+    "section": 3,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 26,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "COLORADO QUEVEDO LUIS GABRIEL"
+    ],
+    "crn": 20507
+  },
+  {
+    "subject": "DECA1001",
+    "section": 4,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 25,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CORTES ROMERO YURY CECILIA"
+    ],
+    "crn": 20513
+  },
+  {
+    "subject": "DECA1001",
+    "section": 5,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PATIÑO GOMEZ ANGELA MARIA"
+    ],
+    "crn": 20517
+  },
+  {
+    "subject": "DECA1001",
+    "section": 6,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BLANCO FIGUEROA JULIE XIMENA"
+    ],
+    "crn": 20525
+  },
+  {
+    "subject": "DECA1001",
+    "section": 7,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 19,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PADILLA MORENO SANDRA PATRICIA"
+    ],
+    "crn": 20526
+  },
+  {
+    "subject": "DECA1001",
+    "section": 10,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CORTES ROMERO YURY CECILIA"
+    ],
+    "crn": 20553
+  },
+  {
+    "subject": "DECA1001",
+    "section": 11,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ HERRERA LAURA MARCELA"
+    ],
+    "crn": 20562
+  },
+  {
+    "subject": "DECA1001",
+    "section": 12,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CORTES QUINTERO CLAUDIA MAGALLY"
+    ],
+    "crn": 20568
+  },
+  {
+    "subject": "DECA1001",
+    "section": 13,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "COLORADO QUEVEDO LUIS GABRIEL"
+    ],
+    "crn": 20569
+  },
+  {
+    "subject": "DECA1001",
+    "section": 14,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CORTES ROMERO YURY CECILIA"
+    ],
+    "crn": 20570
+  },
+  {
+    "subject": "DECA1001",
+    "section": 15,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BURGOS CARDENAS JUANITA"
+    ],
+    "crn": 20572
+  },
+  {
+    "subject": "DECA1001",
+    "section": 16,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CARO RINCON JENNY ROCIO"
+    ],
+    "crn": 20573
+  },
+  {
+    "subject": "DECA1001",
+    "section": 17,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CHICAIZA HERRERA JENNY PAOLA"
+    ],
+    "crn": 20574
+  },
+  {
+    "subject": "DECA1001",
+    "section": 18,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RAMOS BORDA HARRY ESTEBAN"
+    ],
+    "crn": 20575
+  },
+  {
+    "subject": "DECA1001",
+    "section": 19,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MORENO MARIN ROSA DIANA"
+    ],
+    "crn": 20576
+  },
+  {
+    "subject": "DECA1001",
+    "section": 20,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RAMOS BORDA HARRY ESTEBAN"
+    ],
+    "crn": 20578
+  },
+  {
+    "subject": "DECA1001",
+    "section": 22,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CARO RINCON JENNY ROCIO"
+    ],
+    "crn": 20592
+  },
+  {
+    "subject": "DECA1001",
+    "section": 23,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "COLORADO QUEVEDO LUIS GABRIEL"
+    ],
+    "crn": 20593
+  },
+  {
+    "subject": "DECA1001",
+    "section": 24,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BURGOS CARDENAS JUANITA"
+    ],
+    "crn": 20594
+  },
+  {
+    "subject": "DECA1001",
+    "section": 25,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RENGIFO FONNEGRA MARIA"
+    ],
+    "crn": 20596
+  },
+  {
+    "subject": "DECA1001",
+    "section": 26,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CORTES QUINTERO CLAUDIA MAGALLY"
+    ],
+    "crn": 20598
+  },
+  {
+    "subject": "DECA1001",
+    "section": 27,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CARO RINCON JENNY ROCIO"
+    ],
+    "crn": 20615
+  },
+  {
+    "subject": "DECA1001",
+    "section": 28,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 17,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ HERRERA LAURA MARCELA"
+    ],
+    "crn": 20617
+  },
+  {
+    "subject": "DECA1001",
+    "section": 29,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR"
+    ],
+    "crn": 20619
+  },
+  {
+    "subject": "DECA1001",
+    "section": 30,
+    "credits": 1.0,
+    "title": "HERRAMIENTAS VIDA UNIVERSITARI",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "109"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BURGOS CARDENAS JUANITA"
+    ],
+    "crn": 20620
+  },
+  {
+    "subject": "DECA1101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL",
+    "capacity": 8,
+    "enrolled": 7,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR",
+      "PARGA ALONSO DAVID FELIPE"
+    ],
+    "crn": 16772
+  },
+  {
+    "subject": "DECA1101",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL",
+    "capacity": 8,
+    "enrolled": 6,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR",
+      "PARGA ALONSO DAVID FELIPE"
+    ],
+    "crn": 16756
+  },
+  {
+    "subject": "DECA1101",
+    "section": 3,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL",
+    "capacity": 8,
+    "enrolled": 8,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR",
+      "PARGA ALONSO DAVID FELIPE"
+    ],
+    "crn": 16762
+  },
+  {
+    "subject": "DECA1101",
+    "section": 4,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL",
+    "capacity": 60,
+    "enrolled": 49,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR",
+      "PARGA ALONSO DAVID FELIPE"
+    ],
+    "crn": 16752
+  },
+  {
+    "subject": "DECA1102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL 2",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR"
+    ],
+    "crn": 16773
+  },
+  {
+    "subject": "DECA1103",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA SOCIAL 3",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ FORERO MARIA DEL PILAR"
+    ],
+    "crn": 16774
+  },
+  {
+    "subject": "DECA2201",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO",
+    "capacity": 200,
+    "enrolled": 161,
+    "available": 39,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOGOLLON YADIRA"
+    ],
+    "crn": 16893
+  },
+  {
+    "subject": "DECA2203",
+    "section": 1,
+    "credits": 0.0,
+    "title": "DOBLE TITULACION INTERCAMBIO",
+    "capacity": 25,
+    "enrolled": 16,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOGOLLON YADIRA"
+    ],
+    "crn": 16895
+  },
+  {
+    "subject": "DECA2204",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROYECTO DE GRADO EN INTERCAMB",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MOGOLLON YADIRA"
+    ],
+    "crn": 18748
+  },
+  {
+    "subject": "DECA2205",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANT.INVEST.EST.EXTRAJ.PREG.",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17568
+  },
+  {
+    "subject": "DECA4997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANT.INVEST.EST.EXTRAJ.MAEST",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17569
+  },
+  {
+    "subject": "DECA4997",
+    "section": 2,
+    "credits": 0.0,
+    "title": "PASANT.INVEST.EST.EXTRAJ.MAEST",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19126
+  },
+  {
+    "subject": "DECA6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANT.INVEST.EST.EXTRAJ.DOCT",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17570
+  }
+]

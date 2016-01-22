@@ -1,0 +1,174 @@
+[
+  {
+    "subject": "DEIN4402",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO DE INVESTIGACIÓN",
+    "capacity": 19,
+    "enrolled": 4,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "312"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "PRADA URIBE MARIA ANGELICA"
+    ],
+    "crn": 21183
+  },
+  {
+    "subject": "DEIN4404",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21217
+  },
+  {
+    "subject": "DEIN4601",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MERCADOS Y DERECHO INT",
+    "capacity": 30,
+    "enrolled": 14,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "108"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "WILLS VALDERRAMA SANTIAGO"
+    ],
+    "crn": 21180
+  },
+  {
+    "subject": "DEIN4602",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROTECCION INT DE LA PERSONA",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "RÁBAGO DORBECKER MIGUEL"
+    ],
+    "crn": 21178
+  },
+  {
+    "subject": "DEIN4603",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DERECHO INT Y GLOBALIZACION",
+    "capacity": 30,
+    "enrolled": 16,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "PRIETO RIOS ENRIQUE"
+    ],
+    "crn": 21182
+  },
+  {
+    "subject": "DEIN4606",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DERECHO AMBIENTAL INTERNACIONA",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "NIETO CARRASCO JIMENA"
+    ],
+    "crn": 21179
+  },
+  {
+    "subject": "DEIN4608",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DER.INTERNAL ECON.CONTRUC.PAZ",
+    "capacity": 30,
+    "enrolled": 7,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "URUEÑA HERNANDEZ RENE FERNANDO"
+    ],
+    "crn": 21181
+  }
+]

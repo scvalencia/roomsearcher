@@ -1,0 +1,2710 @@
+[
+  {
+    "subject": "IMEC1000",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRODUCC.INGEN.MECANICA",
+    "capacity": 100,
+    "enrolled": 106,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "TORO GOMEZ JOSE RAFAEL"
+    ],
+    "crn": 10418
+  },
+  {
+    "subject": "IMEC1000C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.INTRODUCCION IMEC",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "TORO GOMEZ JOSE RAFAEL",
+      "CANO GONZALEZ SANTIAGO"
+    ],
+    "crn": 20941
+  },
+  {
+    "subject": "IMEC1000C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.INTRODUCCION IMEC",
+    "capacity": 31,
+    "enrolled": 34,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "TORO GOMEZ JOSE RAFAEL",
+      "HERNANDEZ BARRIOS CARLOS FELIPE"
+    ],
+    "crn": 20940
+  },
+  {
+    "subject": "IMEC1000C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL.INTRODUCCION IMEC",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "TORO GOMEZ JOSE RAFAEL",
+      "HERNANDEZ BARRIOS CARLOS FELIPE",
+      "CANO GONZALEZ SANTIAGO"
+    ],
+    "crn": 20840
+  },
+  {
+    "subject": "IMEC1001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE EXPERIMENT.",
+    "capacity": 30,
+    "enrolled": 44,
+    "available": -14,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO"
+    ],
+    "crn": 10377
+  },
+  {
+    "subject": "IMEC1001",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE EXPERIMENT.",
+    "capacity": 31,
+    "enrolled": 46,
+    "available": -15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CAMARGO LEYVA JONATHAN"
+    ],
+    "crn": 10659
+  },
+  {
+    "subject": "IMEC1001",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE EXPERIMENT.",
+    "capacity": 40,
+    "enrolled": 52,
+    "available": -12,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GORDILLO ARIZA GERARDO"
+    ],
+    "crn": 12765
+  },
+  {
+    "subject": "IMEC1001C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.FUNDAMENTOS DE EXPER.",
+    "capacity": 26,
+    "enrolled": 38,
+    "available": -12,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GORDILLO ARIZA GERARDO",
+      "MARIN LANCHEROS DILAN JAVIER"
+    ],
+    "crn": 20942
+  },
+  {
+    "subject": "IMEC1001C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.FUNDAMENTOS DE EXPER.",
+    "capacity": 25,
+    "enrolled": 36,
+    "available": -11,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO",
+      "ARDILA GOMEZ SERGIO ANDRES"
+    ],
+    "crn": 20943
+  },
+  {
+    "subject": "IMEC1001C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL.FUNDAMENTOS DE EXPER.",
+    "capacity": 25,
+    "enrolled": 33,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO",
+      "MARIN LANCHEROS DILAN JAVIER"
+    ],
+    "crn": 20944
+  },
+  {
+    "subject": "IMEC1001C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL.FUNDAMENTOS DE EXPER.",
+    "capacity": 25,
+    "enrolled": 35,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GORDILLO ARIZA GERARDO",
+      "ARDILA GOMEZ SERGIO ANDRES"
+    ],
+    "crn": 20841
+  },
+  {
+    "subject": "IMEC1330",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TERMODINÁMICA",
+    "capacity": 50,
+    "enrolled": 51,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO"
+    ],
+    "crn": 11220
+  },
+  {
+    "subject": "IMEC1330",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TERMODINÁMICA",
+    "capacity": 35,
+    "enrolled": 33,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO"
+    ],
+    "crn": 21154
+  },
+  {
+    "subject": "IMEC1330L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO TERMODINÁMICA",
+    "capacity": 30,
+    "enrolled": 27,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "300"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO",
+      "BLANCO OTERO DAVID ENRIQUE"
+    ],
+    "crn": 12298
+  },
+  {
+    "subject": "IMEC1330L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO TERMODINÁMICA",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO",
+      "BLANCO OTERO DAVID ENRIQUE"
+    ],
+    "crn": 12785
+  },
+  {
+    "subject": "IMEC1330L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LABORATORIO TERMODINÁMICA",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "307"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO",
+      "BLANCO OTERO DAVID ENRIQUE"
+    ],
+    "crn": 18704
+  },
+  {
+    "subject": "IMEC1410",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIENCIA DE MATERIALES",
+    "capacity": 50,
+    "enrolled": 82,
+    "available": -32,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ROJAS MORA FABIO ARTURO"
+    ],
+    "crn": 10011
+  },
+  {
+    "subject": "IMEC1410",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CIENCIA DE MATERIALES",
+    "capacity": 50,
+    "enrolled": 75,
+    "available": -25,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "MEDINA PERIILLA JORGE ALBERTO"
+    ],
+    "crn": 10174
+  },
+  {
+    "subject": "IMEC1410L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORAT.DE CIENCIA MATERIALES",
+    "capacity": 50,
+    "enrolled": 82,
+    "available": -32,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ROJAS MORA FABIO ARTURO",
+      "CASTRO LANDINEZ JUAN FELIPE"
+    ],
+    "crn": 12299
+  },
+  {
+    "subject": "IMEC1410L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORAT.DE CIENCIA MATERIALES",
+    "capacity": 50,
+    "enrolled": 75,
+    "available": -25,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MEDINA PERIILLA JORGE ALBERTO",
+      "RUEDA GUERRERO NATALIA ANDREA"
+    ],
+    "crn": 12793
+  },
+  {
+    "subject": "IMEC1503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO GRAFICO EN INGENIERÍA",
+    "capacity": 65,
+    "enrolled": 36,
+    "available": 29,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN"
+    ],
+    "crn": 10378
+  },
+  {
+    "subject": "IMEC1503",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DISEÑO GRAFICO EN INGENIERÍA",
+    "capacity": 55,
+    "enrolled": 55,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CAMARGO LEYVA JONATHAN"
+    ],
+    "crn": 10379
+  },
+  {
+    "subject": "IMEC1503",
+    "section": 3,
+    "credits": 3.0,
+    "title": "DISEÑO GRAFICO EN INGENIERÍA",
+    "capacity": 57,
+    "enrolled": 64,
+    "available": -7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN"
+    ],
+    "crn": 10380
+  },
+  {
+    "subject": "IMEC1503C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO GRÁFICO INGEN",
+    "capacity": 39,
+    "enrolled": 20,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN",
+      "MARTINEZ POSADA DANIELA CAROLINA"
+    ],
+    "crn": 20954
+  },
+  {
+    "subject": "IMEC1503C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO GRÁFICO INGEN",
+    "capacity": 39,
+    "enrolled": 27,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN",
+      "ALVAREZ OJEDA RODRIGO ANDRES"
+    ],
+    "crn": 20956
+  },
+  {
+    "subject": "IMEC1503C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO GRÁFICO INGEN",
+    "capacity": 39,
+    "enrolled": 36,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN",
+      "OSPINA VELA DIEGO FERNANDO"
+    ],
+    "crn": 20958
+  },
+  {
+    "subject": "IMEC1503C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO GRÁFICO INGEN",
+    "capacity": 39,
+    "enrolled": 41,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CAMARGO LEYVA JONATHAN",
+      "MARTINEZ POSADA DANIELA CAROLINA"
+    ],
+    "crn": 20959
+  },
+  {
+    "subject": "IMEC1503C",
+    "section": 5,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO GRÁFICO INGEN",
+    "capacity": 39,
+    "enrolled": 31,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CAMARGO LEYVA JONATHAN",
+      "ALVAREZ OJEDA RODRIGO ANDRES"
+    ],
+    "crn": 20960
+  },
+  {
+    "subject": "IMEC1541",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA DE SOLIDOS RIGIDOS",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "304"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO"
+    ],
+    "crn": 10175
+  },
+  {
+    "subject": "IMEC1541",
+    "section": 2,
+    "credits": 3.0,
+    "title": "MECANICA DE SOLIDOS RIGIDOS",
+    "capacity": 45,
+    "enrolled": 36,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO"
+    ],
+    "crn": 12194
+  },
+  {
+    "subject": "IMEC1541L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC SOL RIGIDOS",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "505"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO",
+      "ORREGO CAICEDO CAMILO JOSE"
+    ],
+    "crn": 12300
+  },
+  {
+    "subject": "IMEC1541L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC SOL RIGIDOS",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "602"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO",
+      "ORREGO CAICEDO CAMILO JOSE"
+    ],
+    "crn": 12813
+  },
+  {
+    "subject": "IMEC1541L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC SOL RIGIDOS",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "310"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO",
+      "ORREGO CAICEDO CAMILO JOSE"
+    ],
+    "crn": 12814
+  },
+  {
+    "subject": "IMEC1541L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC SOL RIGIDOS",
+    "capacity": 25,
+    "enrolled": 22,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO",
+      "ORREGO CAICEDO CAMILO JOSE"
+    ],
+    "crn": 19056
+  },
+  {
+    "subject": "IMEC1600",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO GIE",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19454
+  },
+  {
+    "subject": "IMEC1601",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO GRUPO ROBOCOL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19455
+  },
+  {
+    "subject": "IMEC1700",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO GIAP",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19456
+  },
+  {
+    "subject": "IMEC1800",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEM. MECANICA COMPUTACIONAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19457
+  },
+  {
+    "subject": "IMEC1997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SISOMA 1",
+    "capacity": 999,
+    "enrolled": 340,
+    "available": 659,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ VALBUENA JULIO ENRIQUE"
+    ],
+    "crn": 19846
+  },
+  {
+    "subject": "IMEC2070",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MONITORIA INGENIERIA MECANICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 11255
+  },
+  {
+    "subject": "IMEC2210",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECANICA FLUIDOS",
+    "capacity": 85,
+    "enrolled": 52,
+    "available": 33,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE"
+    ],
+    "crn": 11116
+  },
+  {
+    "subject": "IMEC2210L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO MECANICA FLUIDOS",
+    "capacity": 45,
+    "enrolled": 17,
+    "available": 28,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE",
+      "MACHADO MOLINA RAFAEL"
+    ],
+    "crn": 12301
+  },
+  {
+    "subject": "IMEC2210L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO MECANICA FLUIDOS",
+    "capacity": 40,
+    "enrolled": 35,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE",
+      "MACHADO MOLINA RAFAEL"
+    ],
+    "crn": 12821
+  },
+  {
+    "subject": "IMEC2320",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRANSFERENC.CALOR",
+    "capacity": 80,
+    "enrolled": 73,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "401"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO"
+    ],
+    "crn": 10176
+  },
+  {
+    "subject": "IMEC2320L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB TRANSFERENCIA DE CALOR",
+    "capacity": 52,
+    "enrolled": 51,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "301"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO",
+      "SANCHEZ NIÑO JAIRO ANTONIO"
+    ],
+    "crn": 12972
+  },
+  {
+    "subject": "IMEC2320L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB TRANSFERENCIA DE CALOR",
+    "capacity": 40,
+    "enrolled": 22,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO",
+      "SANCHEZ NIÑO JAIRO ANTONIO"
+    ],
+    "crn": 12973
+  },
+  {
+    "subject": "IMEC2411",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INGENIERÍA DE MATERIALES",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 10012
+  },
+  {
+    "subject": "IMEC2411",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INGENIERÍA DE MATERIALES",
+    "capacity": 40,
+    "enrolled": 29,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MEDINA PERIILLA JORGE ALBERTO"
+    ],
+    "crn": 12171
+  },
+  {
+    "subject": "IMEC2411L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA DE MATERIALES",
+    "capacity": 45,
+    "enrolled": 45,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "404"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESCOBAR GUTIERREZ JAIRO ARTURO",
+      "AMAYA DUEÑAS DIANA MARIA"
+    ],
+    "crn": 12302
+  },
+  {
+    "subject": "IMEC2411L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA DE MATERIALES",
+    "capacity": 40,
+    "enrolled": 29,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MEDINA PERIILLA JORGE ALBERTO",
+      "AMAYA DUEÑAS DIANA MARIA"
+    ],
+    "crn": 12827
+  },
+  {
+    "subject": "IMEC2520",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MECÁNICA SÓLIDOS DEFORMABLES",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO"
+    ],
+    "crn": 18775
+  },
+  {
+    "subject": "IMEC2520",
+    "section": 2,
+    "credits": 3.0,
+    "title": "MECÁNICA SÓLIDOS DEFORMABLES",
+    "capacity": 50,
+    "enrolled": 49,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO"
+    ],
+    "crn": 16810
+  },
+  {
+    "subject": "IMEC2520L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC. SÓL. DEFORMAB",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO",
+      "OTALORA ORTEGA HARRY YASIR"
+    ],
+    "crn": 12303
+  },
+  {
+    "subject": "IMEC2520L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC. SÓL. DEFORMAB",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO",
+      "OTALORA ORTEGA HARRY YASIR"
+    ],
+    "crn": 12828
+  },
+  {
+    "subject": "IMEC2520L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC. SÓL. DEFORMAB",
+    "capacity": 25,
+    "enrolled": 21,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "402"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO",
+      "OTALORA ORTEGA HARRY YASIR"
+    ],
+    "crn": 12829
+  },
+  {
+    "subject": "IMEC2520L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LABORATORIO MEC. SÓL. DEFORMAB",
+    "capacity": 25,
+    "enrolled": 28,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MATEUS SANDOVAL LUIS MARIO",
+      "OTALORA ORTEGA HARRY YASIR"
+    ],
+    "crn": 18773
+  },
+  {
+    "subject": "IMEC2540",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DINAMICA DE SISTEMAS MECANICOS",
+    "capacity": 48,
+    "enrolled": 37,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO"
+    ],
+    "crn": 10572
+  },
+  {
+    "subject": "IMEC2540",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DINAMICA DE SISTEMAS MECANICOS",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN"
+    ],
+    "crn": 10660
+  },
+  {
+    "subject": "IMEC2540L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. DINAMICA SISTEM.MECANICOS",
+    "capacity": 29,
+    "enrolled": 32,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ GAMBOA JUAN SEBASTIAN",
+      "URIBE AVILA ANDRES FELIPE"
+    ],
+    "crn": 12304
+  },
+  {
+    "subject": "IMEC2540L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. DINAMICA SISTEM.MECANICOS",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO",
+      "URIBE AVILA ANDRES FELIPE"
+    ],
+    "crn": 12833
+  },
+  {
+    "subject": "IMEC2540L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. DINAMICA SISTEM.MECANICOS",
+    "capacity": 29,
+    "enrolled": 29,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO",
+      "URIBE AVILA ANDRES FELIPE"
+    ],
+    "crn": 12835
+  },
+  {
+    "subject": "IMEC2543",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DINAMICA DE MAQUINARIA",
+    "capacity": 50,
+    "enrolled": 29,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO"
+    ],
+    "crn": 10792
+  },
+  {
+    "subject": "IMEC2543",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DINAMICA DE MAQUINARIA",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ HERRERA CARLOS FRANCISC"
+    ],
+    "crn": 16818
+  },
+  {
+    "subject": "IMEC2543L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB DINAMICA DE MAQUINARIA",
+    "capacity": 45,
+    "enrolled": 40,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "110"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO",
+      "PANESSO PEREZ MIGUEL ANTONIO"
+    ],
+    "crn": 14044
+  },
+  {
+    "subject": "IMEC2543L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB DINAMICA DE MAQUINARIA",
+    "capacity": 45,
+    "enrolled": 30,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ HERRERA CARLOS FRANCISC",
+      "PANESSO PEREZ MIGUEL ANTONIO"
+    ],
+    "crn": 14047
+  },
+  {
+    "subject": "IMEC2700",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO INTERMEDIO",
+    "capacity": 65,
+    "enrolled": 59,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO"
+    ],
+    "crn": 11070
+  },
+  {
+    "subject": "IMEC2797",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SISOMA 2",
+    "capacity": 999,
+    "enrolled": 219,
+    "available": 780,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ VALBUENA JULIO ENRIQUE"
+    ],
+    "crn": 19847
+  },
+  {
+    "subject": "IMEC3345",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS CONVERSION DE ENERGIA",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE"
+    ],
+    "crn": 10970
+  },
+  {
+    "subject": "IMEC3345",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SISTEMAS CONVERSION DE ENERGIA",
+    "capacity": 50,
+    "enrolled": 38,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GORDILLO ARIZA GERARDO"
+    ],
+    "crn": 16825
+  },
+  {
+    "subject": "IMEC3345L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB DE SIST DE CONV DE ENERGIA",
+    "capacity": 30,
+    "enrolled": 19,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "504"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE",
+      "APONTE MATEUS JUAN ESTEBAN"
+    ],
+    "crn": 14051
+  },
+  {
+    "subject": "IMEC3345L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB DE SIST DE CONV DE ENERGIA",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE",
+      "APONTE MATEUS JUAN ESTEBAN"
+    ],
+    "crn": 14052
+  },
+  {
+    "subject": "IMEC3345L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB DE SIST DE CONV DE ENERGIA",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GORDILLO ARIZA GERARDO",
+      "APONTE MATEUS JUAN ESTEBAN"
+    ],
+    "crn": 14053
+  },
+  {
+    "subject": "IMEC3460",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SISTEMAS DE MANUFACTURA",
+    "capacity": 70,
+    "enrolled": 50,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ROJAS MORA FABIO ARTURO"
+    ],
+    "crn": 14054
+  },
+  {
+    "subject": "IMEC3460C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.SISTEMAS DE MANUFACTURA",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "103"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ROJAS MORA FABIO ARTURO",
+      "FLORIAN GOMEZ ANDRES MAURICIO"
+    ],
+    "crn": 20990
+  },
+  {
+    "subject": "IMEC3460C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.SISTEMAS DE MANUFACTURA",
+    "capacity": 35,
+    "enrolled": 15,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "003"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ROJAS MORA FABIO ARTURO",
+      "FLORIAN GOMEZ ANDRES MAURICIO"
+    ],
+    "crn": 20991
+  },
+  {
+    "subject": "IMEC3501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "IMPRESIÓN 3D",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "504"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CAMARGO LEYVA JONATHAN",
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 20007
+  },
+  {
+    "subject": "IMEC3530",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO DE SISTEMAS MECANICOS",
+    "capacity": 70,
+    "enrolled": 51,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO"
+    ],
+    "crn": 10971
+  },
+  {
+    "subject": "IMEC3530C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO SIST MECANICOS",
+    "capacity": 35,
+    "enrolled": 16,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO",
+      "TELLO ORTIZ HUGO ALEJANDRO"
+    ],
+    "crn": 20994
+  },
+  {
+    "subject": "IMEC3530C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.DISEÑO SIST MECANICOS",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CASAS JUAN PABLO",
+      "PENAGOS DORDEVIC DANIEL JOSE"
+    ],
+    "crn": 20845
+  },
+  {
+    "subject": "IMEC3700",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO PROYECTOS",
+    "capacity": 65,
+    "enrolled": 56,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PINILLA SEPULVEDA ALVARO ENRIQUE"
+    ],
+    "crn": 10013
+  },
+  {
+    "subject": "IMEC3701",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO GRADO",
+    "capacity": 99,
+    "enrolled": 72,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO",
+      "GONZALEZ RODRIGUEZ DAVID FELIPE",
+      "MURILLO HERRERA SEBASTIAN"
+    ],
+    "crn": 10014
+  },
+  {
+    "subject": "IMEC3702",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROBLEMA ESPECIAL",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO",
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 11284
+  },
+  {
+    "subject": "IMEC3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA PROFESIONAL COMPLETA",
+    "capacity": 99,
+    "enrolled": 8,
+    "available": 91,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO",
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 19020
+  },
+  {
+    "subject": "IMEC3992",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PRERREQUISITO PRACTICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 19075
+  },
+  {
+    "subject": "IMEC3997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SISOMA 3",
+    "capacity": 999,
+    "enrolled": 119,
+    "available": 880,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ VALBUENA JULIO ENRIQUE"
+    ],
+    "crn": 19845
+  },
+  {
+    "subject": "IMEC4000",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TECNICAS DE EXPERIMT. E INSTRU",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BELTRAN PULIDO RAFAEL"
+    ],
+    "crn": 19459
+  },
+  {
+    "subject": "IMEC4121",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MECANICA DE SOLIDOS AVANZADA",
+    "capacity": 30,
+    "enrolled": 9,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO",
+      "MATEUS SANDOVAL LUIS MARIO"
+    ],
+    "crn": 21139
+  },
+  {
+    "subject": "IMEC4200",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MECANICA DE FLUIDOS AVANZADA",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TORO GOMEZ JOSE RAFAEL"
+    ],
+    "crn": 19458
+  },
+  {
+    "subject": "IMEC4401",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROCESAMIENTO DE POLIMEROS",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MEDINA PERIILLA JORGE ALBERTO"
+    ],
+    "crn": 20846
+  },
+  {
+    "subject": "IMEC4507",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DINAMICA VEHICULAR",
+    "capacity": 35,
+    "enrolled": 34,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO"
+    ],
+    "crn": 19464
+  },
+  {
+    "subject": "IMEC4600",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SOL NUM ECUACI DIFER PARCIALES",
+    "capacity": 30,
+    "enrolled": 10,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEJIA OMAR DARIO"
+    ],
+    "crn": 19879
+  },
+  {
+    "subject": "IMEC4700",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEM. DE MAGISTER",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ MANCERA ANDRES LEONARDO"
+    ],
+    "crn": 12978
+  },
+  {
+    "subject": "IMEC4701",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 1",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO",
+      "CANO GONZALEZ SANTIAGO"
+    ],
+    "crn": 10540
+  },
+  {
+    "subject": "IMEC4702",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 2",
+    "capacity": 30,
+    "enrolled": 12,
+    "available": 18,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO",
+      "CANO GONZALEZ SANTIAGO"
+    ],
+    "crn": 10541
+  },
+  {
+    "subject": "IMEC4703",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS DOBLE DIPLOMA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 17882
+  },
+  {
+    "subject": "IMEC4800",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROB. ESPECIAL MAGISTER",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 10580
+  },
+  {
+    "subject": "IMEC4992",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO INTERNACIONAL",
+    "capacity": 90,
+    "enrolled": 0,
+    "available": 90,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13872
+  },
+  {
+    "subject": "IMEC4994",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA M-IMEC",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19882
+  },
+  {
+    "subject": "IMEC4997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SISOMA 4",
+    "capacity": 999,
+    "enrolled": 112,
+    "available": 887,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERNANDEZ VALBUENA JULIO ENRIQUE"
+    ],
+    "crn": 19848
+  },
+  {
+    "subject": "IMEC6002",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 14118
+  },
+  {
+    "subject": "IMEC6002",
+    "section": 2,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MARAÑON LEON ALEJANDRO"
+    ],
+    "crn": 15287
+  },
+  {
+    "subject": "IMEC6002",
+    "section": 3,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ CAMARGO LUIS ERNESTO"
+    ],
+    "crn": 15288
+  },
+  {
+    "subject": "IMEC6003",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 2",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 14582
+  },
+  {
+    "subject": "IMEC6007",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL ESPECIAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19928
+  },
+  {
+    "subject": "IMEC6402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA SEMESTRAL",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13873
+  },
+  {
+    "subject": "IMEC6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE PROPUESTA DOCTORAL",
+    "capacity": 3,
+    "enrolled": 1,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13874
+  },
+  {
+    "subject": "IMEC6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 4CR",
+    "capacity": 99,
+    "enrolled": 0,
+    "available": 99,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13875
+  },
+  {
+    "subject": "IMEC6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 8CR",
+    "capacity": 99,
+    "enrolled": 4,
+    "available": 95,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13876
+  },
+  {
+    "subject": "IMEC6982",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TESIS 12CR",
+    "capacity": 99,
+    "enrolled": 2,
+    "available": 97,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13877
+  },
+  {
+    "subject": "IMEC6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13878
+  },
+  {
+    "subject": "IMEC6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARVAJAL DIAZ JAVIER ALEJANDRO"
+    ],
+    "crn": 13879
+  }
+]
