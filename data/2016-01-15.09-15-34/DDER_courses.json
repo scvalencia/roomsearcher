@@ -1,4 +1,5 @@
-[{
+[
+  {
     "subject": "DDER6100",
     "section": 1,
     "credits": 0.0,
@@ -6,10 +7,15 @@
     "capacity": 50,
     "enrolled": 17,
     "available": 33,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 14530
-}, {
+  },
+  {
     "subject": "DDER6102",
     "section": 1,
     "credits": 4.0,
@@ -17,10 +23,15 @@
     "capacity": 10,
     "enrolled": 5,
     "available": 5,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 19761
-}, {
+  },
+  {
     "subject": "DDER6202",
     "section": 1,
     "credits": 4.0,
@@ -28,18 +39,25 @@
     "capacity": 10,
     "enrolled": 6,
     "available": 4,
-    "schedules": [{
-        "days": ["I"],
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
         "room": {
-            "building": "ML",
-            "number": "114"
+          "building": "ML",
+          "number": "114"
         },
         "initHour": "1000",
         "finalHour": "1250"
-    }],
-    "instructors": ["BENAVIDES VANEGAS FARID SAMIR"],
+      }
+    ],
+    "instructors": [
+      "BENAVIDES VANEGAS FARID SAMIR"
+    ],
     "crn": 19215
-}, {
+  },
+  {
     "subject": "DDER6203",
     "section": 1,
     "credits": 8.0,
@@ -47,10 +65,15 @@
     "capacity": 10,
     "enrolled": 3,
     "available": 7,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 11257
-}, {
+  },
+  {
     "subject": "DDER6204",
     "section": 1,
     "credits": 0.0,
@@ -58,10 +81,15 @@
     "capacity": 8,
     "enrolled": 6,
     "available": 2,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 11473
-}, {
+  },
+  {
     "subject": "DDER6401",
     "section": 1,
     "credits": 4.0,
@@ -69,10 +97,15 @@
     "capacity": 15,
     "enrolled": 1,
     "available": 14,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 12246
-}, {
+  },
+  {
     "subject": "DDER6402",
     "section": 1,
     "credits": 4.0,
@@ -80,10 +113,15 @@
     "capacity": 15,
     "enrolled": 6,
     "available": 9,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 13052
-}, {
+  },
+  {
     "subject": "DDER6403",
     "section": 1,
     "credits": 4.0,
@@ -91,10 +129,15 @@
     "capacity": 15,
     "enrolled": 1,
     "available": 14,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 12247
-}, {
+  },
+  {
     "subject": "DDER6404",
     "section": 1,
     "credits": 4.0,
@@ -102,10 +145,15 @@
     "capacity": 15,
     "enrolled": 7,
     "available": 8,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 13053
-}, {
+  },
+  {
     "subject": "DDER6501",
     "section": 1,
     "credits": 6.0,
@@ -113,10 +161,15 @@
     "capacity": 7,
     "enrolled": 7,
     "available": 0,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 13406
-}, {
+  },
+  {
     "subject": "DDER6961",
     "section": 1,
     "credits": 4.0,
@@ -124,10 +177,15 @@
     "capacity": 3,
     "enrolled": 0,
     "available": 3,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 15203
-}, {
+  },
+  {
     "subject": "DDER6980",
     "section": 1,
     "credits": 6.0,
@@ -135,10 +193,15 @@
     "capacity": 8,
     "enrolled": 4,
     "available": 4,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 12011
-}, {
+  },
+  {
     "subject": "DDER6981",
     "section": 1,
     "credits": 6.0,
@@ -146,10 +209,15 @@
     "capacity": 8,
     "enrolled": 2,
     "available": 6,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 12012
-}, {
+  },
+  {
     "subject": "DDER6990",
     "section": 1,
     "credits": 6.0,
@@ -157,10 +225,15 @@
     "capacity": 8,
     "enrolled": 0,
     "available": 8,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 12013
-}, {
+  },
+  {
     "subject": "DDER6997",
     "section": 1,
     "credits": 0.0,
@@ -168,7 +241,12 @@
     "capacity": 5,
     "enrolled": 0,
     "available": 5,
-    "schedules": [],
-    "instructors": ["JARAMILLO SIERRA ISABEL CRISTINA"],
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JARAMILLO SIERRA ISABEL CRISTINA"
+    ],
     "crn": 13407
-}]
+  }
+]
