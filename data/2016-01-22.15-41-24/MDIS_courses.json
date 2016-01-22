@@ -1,0 +1,265 @@
+[
+  {
+    "subject": "MDIS4105",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA",
+    "capacity": 8,
+    "enrolled": 8,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1600",
+        "finalHour": "1850"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ VIVEROS JUAN MANUEL",
+      "NIEMAN JANSSEN CHRISTIAAN JOB"
+    ],
+    "crn": 19839
+  },
+  {
+    "subject": "MDIS4105",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA",
+    "capacity": 8,
+    "enrolled": 7,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "NAVARRO SANINT MIGUEL",
+      "TORGUET DOLZ ROSA MARIA",
+      "DE FRANCISCO VELA SANTIAGO"
+    ],
+    "crn": 20738
+  },
+  {
+    "subject": "MDIS4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENTOS 3",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "103"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRAGAN HERNANDO"
+    ],
+    "crn": 19776
+  },
+  {
+    "subject": "MDIS4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PUBLICACIONES DEL FUTURO",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "103"
+        },
+        "initHour": "0900",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "ROJAS CESPEDES CAROLINA",
+      "BURBANO VALDES ANDRES"
+    ],
+    "crn": 19539
+  },
+  {
+    "subject": "MDIS4305",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LABORATORIO DE CREACION",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO GAFFURRI RICARDO"
+    ],
+    "crn": 20919
+  },
+  {
+    "subject": "MDIS4402",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO MAESTRIA 2",
+    "capacity": 20,
+    "enrolled": 5,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA"
+    ],
+    "crn": 20250
+  },
+  {
+    "subject": "MDIS4501",
+    "section": 1,
+    "credits": 1.0,
+    "title": "LABORATORIO DE INNOVACIÓN APLI",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA"
+    ],
+    "crn": 20253
+  },
+  {
+    "subject": "MDIS4601",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA 4 PROYECTO D",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "AUNE KAREN"
+    ],
+    "crn": 19838
+  },
+  {
+    "subject": "MDIS4601",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA 4 PROYECTO D",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BURBANO VALDES ANDRES"
+    ],
+    "crn": 20743
+  },
+  {
+    "subject": "MDIS4601",
+    "section": 3,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA 4 PROYECTO D",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO"
+    ],
+    "crn": 20744
+  },
+  {
+    "subject": "MDIS4601",
+    "section": 4,
+    "credits": 4.0,
+    "title": "ESTUDIO MAESTRÍA 4 PROYECTO D",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ VIVEROS JUAN MANUEL"
+    ],
+    "crn": 20746
+  },
+  {
+    "subject": "MDIS4701",
+    "section": 1,
+    "credits": 1.0,
+    "title": "VIAJES DE ESTUDIO",
+    "capacity": 20,
+    "enrolled": 3,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA"
+    ],
+    "crn": 20252
+  },
+  {
+    "subject": "MDIS4990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCIÓN A GRADO",
+    "capacity": 4,
+    "enrolled": 4,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA"
+    ],
+    "crn": 20768
+  }
+]
