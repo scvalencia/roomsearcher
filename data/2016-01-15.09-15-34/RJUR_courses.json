@@ -1,4 +1,5 @@
-[{
+[
+  {
     "subject": "RJUR5574",
     "section": 1,
     "credits": 2.0,
@@ -6,26 +7,40 @@
     "capacity": 50,
     "enrolled": 33,
     "available": 17,
-    "schedules": [{
-        "days": ["S"],
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
         "room": {
-            "building": "ML",
-            "number": "606"
+          "building": "ML",
+          "number": "606"
         },
         "initHour": "0800",
         "finalHour": "1150"
-    }, {
-        "days": ["L", "M", "I", "J", "V"],
+      },
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
         "room": {
-            "building": "ML",
-            "number": "606"
+          "building": "ML",
+          "number": "606"
         },
         "initHour": "0700",
         "finalHour": "0850"
-    }],
-    "instructors": ["LOZANO RODRIGUEZ ELEONORA"],
+      }
+    ],
+    "instructors": [
+      "LOZANO RODRIGUEZ ELEONORA"
+    ],
     "crn": 19775
-}, {
+  },
+  {
     "subject": "RJUR5584",
     "section": 1,
     "credits": 6.0,
@@ -33,23 +48,37 @@
     "capacity": 50,
     "enrolled": 33,
     "available": 17,
-    "schedules": [{
-        "days": ["S"],
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
         "room": {
-            "building": "ML",
-            "number": "606"
+          "building": "ML",
+          "number": "606"
         },
         "initHour": "0800",
         "finalHour": "1150"
-    }, {
-        "days": ["L", "M", "I", "J", "V"],
+      },
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
         "room": {
-            "building": "ML",
-            "number": "606"
+          "building": "ML",
+          "number": "606"
         },
         "initHour": "0700",
         "finalHour": "0850"
-    }],
-    "instructors": ["LOZANO RODRIGUEZ ELEONORA"],
+      }
+    ],
+    "instructors": [
+      "LOZANO RODRIGUEZ ELEONORA"
+    ],
     "crn": 19743
-}]
+  }
+]
