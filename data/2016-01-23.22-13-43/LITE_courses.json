@@ -1,0 +1,2394 @@
+[
+  {
+    "subject": "LITE1100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTR.A LOS ESTUDIOS LITERARIOS",
+    "capacity": 50,
+    "enrolled": 54,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MONTILLA VARGAS CLAUDIA LUCIA"
+    ],
+    "crn": 13313
+  },
+  {
+    "subject": "LITE1304",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITERAT. ESPAÑOLA S. DE ORO",
+    "capacity": 60,
+    "enrolled": 34,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ SIERRA HUGO HERNAN"
+    ],
+    "crn": 19489
+  },
+  {
+    "subject": "LITE1324",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITERATURA COLOMBIANA 3",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ CASTELLANOS CAMILO ERNESTO"
+    ],
+    "crn": 19854
+  },
+  {
+    "subject": "LITE1326B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GABRIEL GARCIA MARQUEZ",
+    "capacity": 67,
+    "enrolled": 52,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JUNGUITO POMBO ANDREA"
+    ],
+    "crn": 13434
+  },
+  {
+    "subject": "LITE1400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LATIN I",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "307"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "DIAZ MORENO MYRIAM"
+    ],
+    "crn": 11089
+  },
+  {
+    "subject": "LITE1400",
+    "section": 2,
+    "credits": 3.0,
+    "title": "LATIN I",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "DIAZ MORENO MYRIAM"
+    ],
+    "crn": 11090
+  },
+  {
+    "subject": "LITE1401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRIEGO I",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CHINCHILLA GUTIERREZ EMPERATRIZ"
+    ],
+    "crn": 12052
+  },
+  {
+    "subject": "LITE1501B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NOVELA FRANCESA SIGLO 19",
+    "capacity": 37,
+    "enrolled": 34,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "MONTILLA VARGAS CLAUDIA LUCIA"
+    ],
+    "crn": 19929
+  },
+  {
+    "subject": "LITE1548B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIENCIA FICCION",
+    "capacity": 42,
+    "enrolled": 44,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ESPINOSA RESTREPO JUAN MANUEL"
+    ],
+    "crn": 19500
+  },
+  {
+    "subject": "LITE1564B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CINE Y LITERATURA",
+    "capacity": 85,
+    "enrolled": 44,
+    "available": 41,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LOZANO VASQUEZ ANDREA"
+    ],
+    "crn": 20038
+  },
+  {
+    "subject": "LITE1569A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRANDES OBRAS DE LA LITERATURA",
+    "capacity": 82,
+    "enrolled": 62,
+    "available": 20,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PIZARRO JARAMILLO JERONIMO"
+    ],
+    "crn": 19504
+  },
+  {
+    "subject": "LITE1570A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEXO Y MUERTE",
+    "capacity": 67,
+    "enrolled": 69,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ANDRADE RESTREPO MARIA MERCEDES"
+    ],
+    "crn": 19503
+  },
+  {
+    "subject": "LITE1577A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AMANTES Y CANIBALES",
+    "capacity": 47,
+    "enrolled": 29,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FERREIRA MARIA CANDIDA"
+    ],
+    "crn": 19855
+  },
+  {
+    "subject": "LITE1605A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VISIONES LITER DE LA ENFERMEDA",
+    "capacity": 77,
+    "enrolled": 27,
+    "available": 50,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "801"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALZATE CADAVID CAROLINA"
+    ],
+    "crn": 17921
+  },
+  {
+    "subject": "LITE1611",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VASQUEZ INFANTE CHRISTIAN DAVID"
+    ],
+    "crn": 11212
+  },
+  {
+    "subject": "LITE1611",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MUÑIZ RAMIREZ INDIRA"
+    ],
+    "crn": 20504
+  },
+  {
+    "subject": "LITE1611",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "PORTILLA MELO OMAR ANDRES"
+    ],
+    "crn": 20505
+  },
+  {
+    "subject": "LITE1611",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ALONSO MONDRAGON IVONNE ANDREA"
+    ],
+    "crn": 20506
+  },
+  {
+    "subject": "LITE1611",
+    "section": 6,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BAK CELY LAURA"
+    ],
+    "crn": 11197
+  },
+  {
+    "subject": "LITE1611",
+    "section": 7,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ALVARADO ARCHILA DAVID EDUARDO"
+    ],
+    "crn": 11206
+  },
+  {
+    "subject": "LITE1611",
+    "section": 8,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESPEJO VELASQUEZ GESSICA GIOHANNA"
+    ],
+    "crn": 11202
+  },
+  {
+    "subject": "LITE1611",
+    "section": 9,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BASTIDAS PEREZ RODRIGO"
+    ],
+    "crn": 11198
+  },
+  {
+    "subject": "LITE1611",
+    "section": 10,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ORJUELA ACOSTA ANA MARIA"
+    ],
+    "crn": 11199
+  },
+  {
+    "subject": "LITE1611",
+    "section": 11,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "106"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ VAZQUEZ ESTHER"
+    ],
+    "crn": 11203
+  },
+  {
+    "subject": "LITE1611",
+    "section": 12,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ SILVA ANDRES ADOLFO"
+    ],
+    "crn": 11200
+  },
+  {
+    "subject": "LITE1611",
+    "section": 13,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CARDONA HENAO DANIEL ALEJANDRO"
+    ],
+    "crn": 11201
+  },
+  {
+    "subject": "LITE1611",
+    "section": 14,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ARIAS GAITAN JUAN MANUEL"
+    ],
+    "crn": 11207
+  },
+  {
+    "subject": "LITE1611",
+    "section": 15,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "QUINTERO DUARTE PABLO ALEJANDRO"
+    ],
+    "crn": 11208
+  },
+  {
+    "subject": "LITE1611",
+    "section": 16,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ VAZQUEZ ESTHER"
+    ],
+    "crn": 11204
+  },
+  {
+    "subject": "LITE1611",
+    "section": 18,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUINTERO DUARTE PABLO ALEJANDRO"
+    ],
+    "crn": 20508
+  },
+  {
+    "subject": "LITE1611",
+    "section": 19,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "301"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALONSO MONDRAGON IVONNE ANDREA"
+    ],
+    "crn": 11205
+  },
+  {
+    "subject": "LITE1611",
+    "section": 20,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ SAAVEDRA MARIA VICTORIA"
+    ],
+    "crn": 16404
+  },
+  {
+    "subject": "LITE1611",
+    "section": 21,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ARIAS GAITAN JUAN MANUEL"
+    ],
+    "crn": 11552
+  },
+  {
+    "subject": "LITE1611",
+    "section": 23,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GOMEZ SILVA ANDRES ADOLFO"
+    ],
+    "crn": 20510
+  },
+  {
+    "subject": "LITE1611",
+    "section": 24,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PORTILLA MELO OMAR ANDRES"
+    ],
+    "crn": 11553
+  },
+  {
+    "subject": "LITE1611",
+    "section": 25,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑIZ RAMIREZ INDIRA"
+    ],
+    "crn": 16406
+  },
+  {
+    "subject": "LITE1611",
+    "section": 26,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "003"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BASTIDAS PEREZ RODRIGO"
+    ],
+    "crn": 20511
+  },
+  {
+    "subject": "LITE1611",
+    "section": 27,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "100"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "ESPEJO VELASQUEZ GESSICA GIOHANNA"
+    ],
+    "crn": 12086
+  },
+  {
+    "subject": "LITE1611",
+    "section": 29,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "501"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CORREDOR MOYANO MARIA ANGELA"
+    ],
+    "crn": 12176
+  },
+  {
+    "subject": "LITE1611",
+    "section": 30,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LOPEZ PLAZAS NELSY CRISTINA"
+    ],
+    "crn": 12177
+  },
+  {
+    "subject": "LITE1611",
+    "section": 32,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALVARADO ARCHILA DAVID EDUARDO"
+    ],
+    "crn": 12190
+  },
+  {
+    "subject": "LITE1611",
+    "section": 33,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "309"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BAK CELY LAURA"
+    ],
+    "crn": 13498
+  },
+  {
+    "subject": "LITE1611",
+    "section": 34,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ RODRIGUEZ DANIEL MAURICIO"
+    ],
+    "crn": 12387
+  },
+  {
+    "subject": "LITE1611",
+    "section": 35,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "LOPEZ PLAZAS NELSY CRISTINA"
+    ],
+    "crn": 16408
+  },
+  {
+    "subject": "LITE1611",
+    "section": 36,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "0900",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "CRUZ CAMACHO JUAN SEBASTIAN"
+    ],
+    "crn": 20518
+  },
+  {
+    "subject": "LITE1611",
+    "section": 38,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 20,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BOTERO BETANCUR CONSTANZA"
+    ],
+    "crn": 16410
+  },
+  {
+    "subject": "LITE1611",
+    "section": 39,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BOHORQUEZ RODRIGUEZ DANIEL MAURICIO"
+    ],
+    "crn": 16411
+  },
+  {
+    "subject": "LITE1611",
+    "section": 40,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 0,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13950
+  },
+  {
+    "subject": "LITE1611",
+    "section": 41,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CARDONA HENAO DANIEL ALEJANDRO"
+    ],
+    "crn": 20523
+  },
+  {
+    "subject": "LITE1611",
+    "section": 42,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "403"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CAMPOS GRANJA JULIAN RICARDO"
+    ],
+    "crn": 20529
+  },
+  {
+    "subject": "LITE1611",
+    "section": 43,
+    "credits": 3.0,
+    "title": "ESPAÑOL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VARGAS SILVA OSCAR ORLANDO"
+    ],
+    "crn": 16988
+  },
+  {
+    "subject": "LITE1613",
+    "section": 1,
+    "credits": 2.0,
+    "title": "NIVEL DE INICIACIÓN ACTORAL",
+    "capacity": 25,
+    "enrolled": 25,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "BAYONA ROMERO HECTOR JULIO"
+    ],
+    "crn": 14086
+  },
+  {
+    "subject": "LITE1614",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GRUPO DE TEATRO",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1200",
+        "finalHour": "1350"
+      },
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "0900",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BAYONA ROMERO HECTOR JULIO"
+    ],
+    "crn": 14087
+  },
+  {
+    "subject": "LITE2100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA LITERARIA 2",
+    "capacity": 60,
+    "enrolled": 58,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GOENAGA FRANCIA ELENA"
+    ],
+    "crn": 19869
+  },
+  {
+    "subject": "LITE2101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEORIA LITERARIA 3",
+    "capacity": 60,
+    "enrolled": 26,
+    "available": 34,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "ALZATE CADAVID CAROLINA"
+    ],
+    "crn": 19491
+  },
+  {
+    "subject": "LITE2102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LINGUISTICA I",
+    "capacity": 60,
+    "enrolled": 62,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GOENAGA FRANCIA ELENA"
+    ],
+    "crn": 19492
+  },
+  {
+    "subject": "LITE2300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITERATURA ESPANOLA SIGLOXX",
+    "capacity": 41,
+    "enrolled": 39,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BARRERO FAJARDO MARIO"
+    ],
+    "crn": 19493
+  },
+  {
+    "subject": "LITE2304B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BORGES",
+    "capacity": 85,
+    "enrolled": 84,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SOLODKOW DAVID"
+    ],
+    "crn": 19501
+  },
+  {
+    "subject": "LITE2316",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LIT.LATINOAMERICA 2: MODERNISM",
+    "capacity": 60,
+    "enrolled": 52,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SOLODKOW DAVID"
+    ],
+    "crn": 19930
+  },
+  {
+    "subject": "LITE2319",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITE. COLOMBIANA 1: COLONIAL",
+    "capacity": 60,
+    "enrolled": 34,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "RAMIREZ SIERRA HUGO HERNAN"
+    ],
+    "crn": 19870
+  },
+  {
+    "subject": "LITE2405",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LATÍN II",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "205"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BERNADO FERRER GEMMA"
+    ],
+    "crn": 11188
+  },
+  {
+    "subject": "LITE2405",
+    "section": 2,
+    "credits": 3.0,
+    "title": "LATÍN II",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "503"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BERNADO FERRER GEMMA"
+    ],
+    "crn": 13628
+  },
+  {
+    "subject": "LITE2406",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRIEGO II",
+    "capacity": 24,
+    "enrolled": 12,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "109"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "VARGAS SILVA OSCAR ORLANDO"
+    ],
+    "crn": 12257
+  },
+  {
+    "subject": "LITE2407",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LATIN III",
+    "capacity": 24,
+    "enrolled": 16,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CHINCHILLA GUTIERREZ EMPERATRIZ"
+    ],
+    "crn": 13470
+  },
+  {
+    "subject": "LITE2407",
+    "section": 2,
+    "credits": 3.0,
+    "title": "LATIN III",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CHINCHILLA GUTIERREZ EMPERATRIZ"
+    ],
+    "crn": 13629
+  },
+  {
+    "subject": "LITE2408",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRIEGO III",
+    "capacity": 9,
+    "enrolled": 8,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "113"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOZANO VASQUEZ ANDREA"
+    ],
+    "crn": 13471
+  },
+  {
+    "subject": "LITE2567B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITERATURA INFANTIL",
+    "capacity": 59,
+    "enrolled": 60,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "715"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ARBOLEDA LOZADA DIEGO AUGUSTO"
+    ],
+    "crn": 16178
+  },
+  {
+    "subject": "LITE2568B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NARRATIVA DE LO PERVERSO",
+    "capacity": 115,
+    "enrolled": 94,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ CASTELLANOS CAMILO ERNESTO"
+    ],
+    "crn": 17305
+  },
+  {
+    "subject": "LITE2570B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LAS LETRAS DEL IMPERIO ROMANO",
+    "capacity": 37,
+    "enrolled": 26,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "504"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BERNADO FERRER GEMMA"
+    ],
+    "crn": 19998
+  },
+  {
+    "subject": "LITE2571B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TEATRO: INDIA, JAPON, NIGERIA",
+    "capacity": 57,
+    "enrolled": 32,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ARBOLEDA LOZADA DIEGO AUGUSTO"
+    ],
+    "crn": 20003
+  },
+  {
+    "subject": "LITE2612",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE POESIA",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ÑC",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GALAN CASANOVA JHON"
+    ],
+    "crn": 19494
+  },
+  {
+    "subject": "LITE2613",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE NARRATIVA",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ÑC",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CAPUTO CEPEDA GIUSEPPE"
+    ],
+    "crn": 19495
+  },
+  {
+    "subject": "LITE2614",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DRAMA Y GUION DE CINE",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ÑC",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ARBOLEDA LOZADA DIEGO AUGUSTO"
+    ],
+    "crn": 20870
+  },
+  {
+    "subject": "LITE2671B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITERATURA Y CREACION VISUAL",
+    "capacity": 27,
+    "enrolled": 21,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FERREIRA MARIA CANDIDA"
+    ],
+    "crn": 19502
+  },
+  {
+    "subject": "LITE3330",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO ESPAÑOLA",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "IRIARTE NUÑEZ AMALIA"
+    ],
+    "crn": 17929
+  },
+  {
+    "subject": "LITE3346",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO DE COLOMBIANA",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BARRERO FAJARDO MARIO"
+    ],
+    "crn": 19498
+  },
+  {
+    "subject": "LITE3346",
+    "section": 2,
+    "credits": 3.0,
+    "title": "SEMINARIO DE COLOMBIANA",
+    "capacity": 24,
+    "enrolled": 13,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GOENAGA FRANCIA ELENA"
+    ],
+    "crn": 20539
+  },
+  {
+    "subject": "LITE3402",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO DE LATIN IV",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CHINCHILLA GUTIERREZ EMPERATRIZ"
+    ],
+    "crn": 11595
+  },
+  {
+    "subject": "LITE3405",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO DE GRIEGO IV",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DIAZ MORENO MYRIAM"
+    ],
+    "crn": 13435
+  },
+  {
+    "subject": "LITE3500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO SHAKESPEARE",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ÑC",
+          "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CAMACHO GUISADO RICARDO"
+    ],
+    "crn": 19497
+  },
+  {
+    "subject": "LITE3518",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NARRAR LO CONTEMPORÁNEO",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "E",
+          "number": "002A"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "FERREIRA MARIA CANDIDA"
+    ],
+    "crn": 19992
+  },
+  {
+    "subject": "LITE3519",
+    "section": 1,
+    "credits": 3.0,
+    "title": "XIX CENTURY AMERICAN FICTION",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ÑC",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SIMONSON PATRICIA"
+    ],
+    "crn": 20868
+  },
+  {
+    "subject": "LITE3615",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO DE EDICIÓN 2",
+    "capacity": 24,
+    "enrolled": 15,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VALENCIA DE LLERAS MARGARITA"
+    ],
+    "crn": 19499
+  },
+  {
+    "subject": "LITE3903",
+    "section": 1,
+    "credits": 6.0,
+    "title": "ASISTENCIA DE INVESTIGACIÓN",
+    "capacity": 6,
+    "enrolled": 0,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 10694
+  },
+  {
+    "subject": "LITE3904",
+    "section": 1,
+    "credits": 6.0,
+    "title": "SEMINARIO-TRABAJO DE GRADO",
+    "capacity": 8,
+    "enrolled": 7,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "111"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PIZARRO JARAMILLO JERONIMO"
+    ],
+    "crn": 10821
+  },
+  {
+    "subject": "LITE3905",
+    "section": 1,
+    "credits": 6.0,
+    "title": "SEM.TRABAJO-GRADO EN CREACIÓN",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "110"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PIZARRO JARAMILLO JERONIMO"
+    ],
+    "crn": 12307
+  },
+  {
+    "subject": "LITE3993",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA DE GRADO",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LOZANO VASQUEZ ANDREA"
+    ],
+    "crn": 10936
+  }
+]
