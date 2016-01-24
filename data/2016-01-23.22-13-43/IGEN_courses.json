@@ -1,0 +1,213 @@
+[
+  {
+    "subject": "IGEN1101A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGIA Y SOCIEDAD",
+    "capacity": 56,
+    "enrolled": 58,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ BECERRA JAVIER ANDRES"
+    ],
+    "crn": 13431
+  },
+  {
+    "subject": "IGEN1102B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOLOGIA Y GLOBALIZACION",
+    "capacity": 56,
+    "enrolled": 60,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GUTIERREZ ANGEL ALONSO"
+    ],
+    "crn": 11080
+  },
+  {
+    "subject": "IGEN1104A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA TECNOLOGIA",
+    "capacity": 47,
+    "enrolled": 52,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "302"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CAMARGO JUAN ARTURO"
+    ],
+    "crn": 11079
+  },
+  {
+    "subject": "IGEN1115B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TECNOCULTURAS EN AMÉRICA LATIN",
+    "capacity": 42,
+    "enrolled": 42,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "203"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ BECERRA JAVIER ANDRES"
+    ],
+    "crn": 17281
+  },
+  {
+    "subject": "IGEN2007B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CIENCIA,TECNOLOGÍA,INNOVACIÓN",
+    "capacity": 38,
+    "enrolled": 41,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "DUQUE ESCOBAR ISMAEL MAURICIO",
+      "AVILA BERNAL ALBA GRACIELA",
+      "RAMIREZ CAJIAO MARIA CATALINA"
+    ],
+    "crn": 14357
+  },
+  {
+    "subject": "IGEN2207",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROYECTO INTERDISCIPLINARIO",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "614"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "HILARION JULIA",
+      "VALDERRAMA MARIO",
+      "SEGURA QUIJANO FREDY ENRIQUE"
+    ],
+    "crn": 20696
+  },
+  {
+    "subject": "IGEN3129",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER INTEGRADO DE INNOVACIÓN",
+    "capacity": 20,
+    "enrolled": 2,
+    "available": 18,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "COLMENARES MISAS CARLOS FELIPE"
+    ],
+    "crn": 18969
+  }
+]
