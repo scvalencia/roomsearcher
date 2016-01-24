@@ -1,0 +1,116 @@
+[
+  {
+    "subject": "MPET4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INGENIERIA DE PRODUCCION",
+    "capacity": 75,
+    "enrolled": 74,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ASUAJE TOVAR MIGUEL ALEJANDRO"
+    ],
+    "crn": 19575
+  },
+  {
+    "subject": "MPET4110",
+    "section": 1,
+    "credits": 4.0,
+    "title": "RECOBRO MEJORADO",
+    "capacity": 53,
+    "enrolled": 64,
+    "available": -11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JAMILI AHMAD ABDOLAMIR",
+      "MARIN CASTILLO RODRIGO ALBERTO",
+      "PEREZ VALENCIA FELIPE ANDRES"
+    ],
+    "crn": 19576
+  },
+  {
+    "subject": "MPET4310",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ANALI RIESGO Y TOMA DE DECIS",
+    "capacity": 40,
+    "enrolled": 42,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "508"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "CASTILLO HERNANDEZ MARIO JOSE",
+      "CABRALES AREVALO SERGIO ANDRES"
+    ],
+    "crn": 19577
+  },
+  {
+    "subject": "MPET4401",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ASPECTOS AMBIEN PROY PETROLEOS",
+    "capacity": 40,
+    "enrolled": 23,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ HERRERA ARTURO"
+    ],
+    "crn": 19578
+  },
+  {
+    "subject": "MPET4501",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO MPET",
+    "capacity": 80,
+    "enrolled": 52,
+    "available": 28,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1900",
+        "finalHour": "2020"
+      }
+    ],
+    "instructors": [
+      "MARIN CASTILLO RODRIGO ALBERTO",
+      "ESCOBAR GUTIERREZ JAIRO ARTURO"
+    ],
+    "crn": 21138
+  }
+]

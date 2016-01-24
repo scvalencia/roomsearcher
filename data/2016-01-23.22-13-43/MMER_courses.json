@@ -1,0 +1,146 @@
+[
+  {
+    "subject": "MMER4301",
+    "section": 1,
+    "credits": 2.0,
+    "title": "COMPORTAMIENTO DEL CONSUMIDOR",
+    "capacity": 60,
+    "enrolled": 45,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEREZ CIFUENTES GABRIEL"
+    ],
+    "crn": 20325
+  },
+  {
+    "subject": "MMER4302",
+    "section": 1,
+    "credits": 2.0,
+    "title": "COMUNICACIONES INTEG MERCADEO",
+    "capacity": 60,
+    "enrolled": 49,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20326
+  },
+  {
+    "subject": "MMER4305",
+    "section": 1,
+    "credits": 2.0,
+    "title": "GERENCIA DE MARCA",
+    "capacity": 60,
+    "enrolled": 47,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BAENA GIRALDO LILIANA MARIA"
+    ],
+    "crn": 20324
+  },
+  {
+    "subject": "MMER4307",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INNOV Y DESARROLLO DE PRO",
+    "capacity": 60,
+    "enrolled": 46,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "STELLA LEAL LINA CONSTANZA"
+    ],
+    "crn": 20327
+  },
+  {
+    "subject": "MMER4309",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INVESTIGACIÓN DE MERCADOS II",
+    "capacity": 60,
+    "enrolled": 42,
+    "available": 18,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA SILVA JOSE MIGUEL"
+    ],
+    "crn": 20310
+  },
+  {
+    "subject": "MMER4326",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ESTADIST. APLICADA A MERCADEO",
+    "capacity": 0,
+    "enrolled": 6,
+    "available": -6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20329
+  },
+  {
+    "subject": "MMER4327",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INVESTIG. MERCADOS CUALITATIV",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20330
+  },
+  {
+    "subject": "MMER4333",
+    "section": 1,
+    "credits": 2.0,
+    "title": "COMPORT.Y MEDICION CONSUMIDOR",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21249
+  },
+  {
+    "subject": "MMER4400",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INTELIGENCIA DE NEGOCIOS",
+    "capacity": 60,
+    "enrolled": 48,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RUIZ VALDIVIESO MAURICIO"
+    ],
+    "crn": 20316
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "subject": "MECA4101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MÉTODOS CUANTITATIVOS MECA",
+    "capacity": 40,
+    "enrolled": 16,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BONILLA JORGE ALEXANDER",
+      "FILIPPINI FEDERICO",
+      "ZULETA GONZALEZ HERNANDO"
+    ],
+    "crn": 20791
+  },
+  {
+    "subject": "MECA4102",
+    "section": 1,
+    "credits": 2.0,
+    "title": "METODOS - PROB Y ESTAD MECA",
+    "capacity": 40,
+    "enrolled": 0,
+    "available": 40,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21189
+  },
+  {
+    "subject": "MECA4103",
+    "section": 1,
+    "credits": 1.0,
+    "title": "METODOS - CALCULO MECA",
+    "capacity": 40,
+    "enrolled": 7,
+    "available": 33,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21190
+  },
+  {
+    "subject": "MECA4104",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MÉTODOS - ECONOMETRÍA MECA",
+    "capacity": 40,
+    "enrolled": 1,
+    "available": 39,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21191
+  },
+  {
+    "subject": "MECA4105",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MICROECONOMÍA MECA",
+    "capacity": 40,
+    "enrolled": 17,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21192
+  },
+  {
+    "subject": "MECA4106",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MACROECONOMÍA MECA",
+    "capacity": 40,
+    "enrolled": 17,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21193
+  }
+]

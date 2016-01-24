@@ -1,0 +1,1227 @@
+[
+  {
+    "subject": "HIST1101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD I: PROBLEM.CONOC.HIST.",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BONNETT VELEZ DIANA"
+    ],
+    "crn": 12078
+  },
+  {
+    "subject": "HIST1102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD II:CONCEPTOS HISTORICOS",
+    "capacity": 40,
+    "enrolled": 31,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GARRIDO MARGARITA"
+    ],
+    "crn": 10079
+  },
+  {
+    "subject": "HIST1417B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRODUCCION A LA GEOGRAFIA",
+    "capacity": 67,
+    "enrolled": 45,
+    "available": 22,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ AYALA LUIS DANIEL"
+    ],
+    "crn": 11546
+  },
+  {
+    "subject": "HIST1605A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA CIENCIA",
+    "capacity": 210,
+    "enrolled": 220,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "003"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "NIETO OLARTE MAURICIO"
+    ],
+    "crn": 10600
+  },
+  {
+    "subject": "HIST1706B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DEL DEPORTE",
+    "capacity": 47,
+    "enrolled": 49,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ARIAS TRUJILLO JOSE RICARDO"
+    ],
+    "crn": 16151
+  },
+  {
+    "subject": "HIST2102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUENTES.2.METOD.HISTORIA",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "602"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LAURENT MURIEL"
+    ],
+    "crn": 19866
+  },
+  {
+    "subject": "HIST2103",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIOGRAFIA DE COLOMBIA",
+    "capacity": 35,
+    "enrolled": 26,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AREVALO DECSI ASTRID"
+    ],
+    "crn": 19366
+  },
+  {
+    "subject": "HIST2204A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GEOGRAFIA DE COLOMBIA",
+    "capacity": 110,
+    "enrolled": 120,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GUHL ANDRES"
+    ],
+    "crn": 13418
+  },
+  {
+    "subject": "HIST2204A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "GEOGRAFIA DE COLOMBIA",
+    "capacity": 67,
+    "enrolled": 81,
+    "available": -14,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "HERRERA ANGEL MARTHA CLEMENCIA"
+    ],
+    "crn": 18530
+  },
+  {
+    "subject": "HIST2205A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE COLOMBIA",
+    "capacity": 77,
+    "enrolled": 74,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AREVALO DECSI ASTRID"
+    ],
+    "crn": 10632
+  },
+  {
+    "subject": "HIST2205A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "HISTORIA DE COLOMBIA",
+    "capacity": 57,
+    "enrolled": 57,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MAYA RESTREPO LUZ ADRIANA"
+    ],
+    "crn": 12468
+  },
+  {
+    "subject": "HIST2219B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BRUJERIA, INQUISICION Y SOCIED",
+    "capacity": 35,
+    "enrolled": 28,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MAYA RESTREPO LUZ ADRIANA"
+    ],
+    "crn": 18951
+  },
+  {
+    "subject": "HIST2221B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIAS DE LO PROHIBIDO",
+    "capacity": 47,
+    "enrolled": 46,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "LAURENT MURIEL"
+    ],
+    "crn": 16435
+  },
+  {
+    "subject": "HIST2300B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA COLONIAL COMPARADA",
+    "capacity": 32,
+    "enrolled": 33,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BONNETT VELEZ DIANA"
+    ],
+    "crn": 11222
+  },
+  {
+    "subject": "HIST2302B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AMERICA LATINA SIGLO XIX",
+    "capacity": 37,
+    "enrolled": 38,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OTERO ANA MARIA"
+    ],
+    "crn": 19369
+  },
+  {
+    "subject": "HIST2332A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LAS COSAS",
+    "capacity": 57,
+    "enrolled": 61,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OTERO ANA MARIA"
+    ],
+    "crn": 20154
+  },
+  {
+    "subject": "HIST2333B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GEO DE CENTROAMER Y EL CARIBE",
+    "capacity": 37,
+    "enrolled": 21,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ AYALA LUIS DANIEL"
+    ],
+    "crn": 19903
+  },
+  {
+    "subject": "HIST2334B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LOS ANIMALES",
+    "capacity": 37,
+    "enrolled": 20,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "LEAL CLAUDIA"
+    ],
+    "crn": 19901
+  },
+  {
+    "subject": "HIST2403B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DE BISMARCK A HITLER 1871-1945",
+    "capacity": 37,
+    "enrolled": 37,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BOSEMBERG RAMIREZ LUIS EDUARDO"
+    ],
+    "crn": 12971
+  },
+  {
+    "subject": "HIST2404B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA EDAD MEDIA",
+    "capacity": 42,
+    "enrolled": 44,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BORJA GOMEZ JAIME HUMBERTO"
+    ],
+    "crn": 19873
+  },
+  {
+    "subject": "HIST2415A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EUROPA MODERNA Y CONTEMPORANEA",
+    "capacity": 57,
+    "enrolled": 61,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BOSEMBERG RAMIREZ LUIS EDUARDO"
+    ],
+    "crn": 11121
+  },
+  {
+    "subject": "HIST2422A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA COMIDA",
+    "capacity": 95,
+    "enrolled": 115,
+    "available": -20,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VAN AUSDAL SHAWN"
+    ],
+    "crn": 13109
+  },
+  {
+    "subject": "HIST2431B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE AFRICANO Y MUSEOS",
+    "capacity": 27,
+    "enrolled": 11,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MAYA RESTREPO LUZ ADRIANA"
+    ],
+    "crn": 19372
+  },
+  {
+    "subject": "HIST3100",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DOCENTE GRADO",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 14300
+  },
+  {
+    "subject": "HIST3101",
+    "section": 1,
+    "credits": 6.0,
+    "title": "MONOGRAFIA DE GRADO",
+    "capacity": 15,
+    "enrolled": 5,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 10102
+  },
+  {
+    "subject": "HIST3103",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SEMINARIO MONOGRAFIA DE GRADO",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "312"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BORJA GOMEZ JAIME HUMBERTO"
+    ],
+    "crn": 10974
+  },
+  {
+    "subject": "HIST3104",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INVESTIGACION DIRIGIDA",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12092
+  },
+  {
+    "subject": "HIST3106",
+    "section": 1,
+    "credits": 6.0,
+    "title": "ASIST. INVESTIGACION GRADO",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 13419
+  },
+  {
+    "subject": "HIST3409",
+    "section": 1,
+    "credits": 3.0,
+    "title": "S. PERSPECTIVAS HISTORIOGRAF.",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "210"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OTERO ANA MARIA"
+    ],
+    "crn": 19888
+  },
+  {
+    "subject": "HIST3504",
+    "section": 1,
+    "credits": 3.0,
+    "title": "1492: CIENCIA,POLIT.REL.CONQU.",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "210"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "NIETO OLARTE MAURICIO"
+    ],
+    "crn": 19899
+  },
+  {
+    "subject": "HIST3506",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMIDA COLOMB.:HIST.Y METODOS",
+    "capacity": 15,
+    "enrolled": 8,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VAN AUSDAL SHAWN"
+    ],
+    "crn": 19900
+  },
+  {
+    "subject": "HIST3600",
+    "section": 1,
+    "credits": 0.0,
+    "title": "OPCION GRADO MATERIAS MAESTRIA",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 13157
+  },
+  {
+    "subject": "HIST3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 10,
+    "enrolled": 1,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 15628
+  },
+  {
+    "subject": "HIST3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 13420
+  },
+  {
+    "subject": "HIST3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 13421
+  },
+  {
+    "subject": "HIST3993",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DE GRADO",
+    "capacity": 10,
+    "enrolled": 0,
+    "available": 10,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 11314
+  },
+  {
+    "subject": "HIST4322",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISCURSOS MODERNIDAD LATINOAM.",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "210"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AREVALO DECSI ASTRID"
+    ],
+    "crn": 19897
+  },
+  {
+    "subject": "HIST4323",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CIUDAD LATINOAM.SIG..XX Y XXI",
+    "capacity": 15,
+    "enrolled": 10,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "311"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ CALDERON FABIO VLADIMIR"
+    ],
+    "crn": 19898
+  },
+  {
+    "subject": "HIST4700",
+    "section": 1,
+    "credits": 4.0,
+    "title": "HISTORIA Y CIENCIAS SOCIALES",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FAZIO VENGOA HUGO"
+    ],
+    "crn": 19890
+  },
+  {
+    "subject": "HIST4705",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LECTURAS DIRIGIDAS",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12516
+  },
+  {
+    "subject": "HIST4707",
+    "section": 1,
+    "credits": 4.0,
+    "title": "LECTURAS DIRIGIDAS 2",
+    "capacity": 20,
+    "enrolled": 1,
+    "available": 19,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12519
+  },
+  {
+    "subject": "HIST4709",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COLOQUIO",
+    "capacity": 70,
+    "enrolled": 7,
+    "available": 63,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 11673
+  },
+  {
+    "subject": "HIST4710",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEM. ELECTIVO EN HISTORIA",
+    "capacity": 15,
+    "enrolled": 0,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 14125
+  },
+  {
+    "subject": "HIST4800",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TALLER DE INVESTIGACION 1",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LEAL CLAUDIA"
+    ],
+    "crn": 13796
+  },
+  {
+    "subject": "HIST4801",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL DE INV. 2- MHIST",
+    "capacity": 25,
+    "enrolled": 4,
+    "available": 21,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12524
+  },
+  {
+    "subject": "HIST4802",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL DE INV. 3- MHIST",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 11623
+  },
+  {
+    "subject": "HIST4990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 13797
+  },
+  {
+    "subject": "HIST6008",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA EN EL EXTERIOR",
+    "capacity": 10,
+    "enrolled": 4,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12048
+  },
+  {
+    "subject": "HIST6102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "HISTORIOGRAFÍA DE COLOMBIA",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SILVA OLARTE RENAN JOSE"
+    ],
+    "crn": 19368
+  },
+  {
+    "subject": "HIST6970",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TUTORIAL DE INV. IV- DHIST",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12533
+  },
+  {
+    "subject": "HIST6980",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TUTORIAL DE PROYECTO I - DHIST",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12534
+  },
+  {
+    "subject": "HIST6981",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TUTORIAL DE PROYECTO II- DHIST",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12544
+  },
+  {
+    "subject": "HIST6982",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TUTORIAL DE PROY. III- DHIST",
+    "capacity": 15,
+    "enrolled": 3,
+    "available": 12,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12545
+  },
+  {
+    "subject": "HIST6983",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TUTORIAL DE INV. V- DHIST",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12549
+  },
+  {
+    "subject": "HIST6984",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TUTORIAL DE INV. VI- DHIST",
+    "capacity": 15,
+    "enrolled": 6,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12550
+  },
+  {
+    "subject": "HIST6985",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TUTORIAL DE INV. VII -DHIST",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12551
+  },
+  {
+    "subject": "HIST6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN DE TESIS",
+    "capacity": 15,
+    "enrolled": 1,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO TORO CAMILO"
+    ],
+    "crn": 12555
+  }
+]

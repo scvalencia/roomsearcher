@@ -1,0 +1,98 @@
+[
+  {
+    "subject": "DPRO4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEGURIDAD DE PROCESOS Y PRODUC",
+    "capacity": 40,
+    "enrolled": 38,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE"
+    ],
+    "crn": 20050
+  },
+  {
+    "subject": "DPRO4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "BIOPROCESOS OBTENCION ENERGIA",
+    "capacity": 40,
+    "enrolled": 12,
+    "available": 28,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO"
+    ],
+    "crn": 20030
+  },
+  {
+    "subject": "DPRO4204",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FUNDAMENTALS OF PROJECT MANAGE",
+    "capacity": 40,
+    "enrolled": 23,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRICK DAVID EDWARD"
+    ],
+    "crn": 20052
+  },
+  {
+    "subject": "DPRO4300",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO SISTÉMICO BIOPRODUCTOS",
+    "capacity": 40,
+    "enrolled": 7,
+    "available": 33,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO"
+    ],
+    "crn": 20034
+  },
+  {
+    "subject": "DPRO4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO DE SISTEMAS COLOIDALES",
+    "capacity": 40,
+    "enrolled": 11,
+    "available": 29,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO"
+    ],
+    "crn": 20043
+  },
+  {
+    "subject": "DPRO4400",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO FINAL MDPP",
+    "capacity": 7,
+    "enrolled": 8,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21128
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "subject": "DMIN5201",
+    "section": 1,
+    "credits": 5.0,
+    "title": "NEGOCIOS Y HERRAMIENTAS JUR.",
+    "capacity": 15,
+    "enrolled": 11,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 19789
+  },
+  {
+    "subject": "DMIN5202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SECTOR MINERO-ENERGÉTICO",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTERO NAVAS GUSTAVO"
+    ],
+    "crn": 19781
+  }
+]

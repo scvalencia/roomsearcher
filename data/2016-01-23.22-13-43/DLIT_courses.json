@@ -1,0 +1,153 @@
+[
+  {
+    "subject": "DLIT6901",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO DE INVESTIGACION",
+    "capacity": 5,
+    "enrolled": 3,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LOZANO VASQUEZ ANDREA",
+      "FERREIRA MARIA CANDIDA",
+      "HERNANDEZ CASTELLANOS CAMILO ERNESTO"
+    ],
+    "crn": 16663
+  },
+  {
+    "subject": "DLIT6902",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL LECT.EXAMEN CONOC.INT",
+    "capacity": 5,
+    "enrolled": 2,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RAMIREZ SIERRA HUGO HERNAN",
+      "LOZANO VASQUEZ ANDREA"
+    ],
+    "crn": 16666
+  },
+  {
+    "subject": "DLIT6903",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TUTORIAL DE INVESTIGACION I",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 16694
+  },
+  {
+    "subject": "DLIT6904",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TUTORIAL DE INVESTIGACIÓN II",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARRERO FAJARDO MARIO",
+      "FERREIRA MARIA CANDIDA",
+      "HERNANDEZ CASTELLANOS CAMILO ERNESTO"
+    ],
+    "crn": 19251
+  },
+  {
+    "subject": "DLIT6905",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA",
+    "capacity": 4,
+    "enrolled": 4,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BARRERO FAJARDO MARIO",
+      "FERREIRA MARIA CANDIDA",
+      "HERNANDEZ CASTELLANOS CAMILO ERNESTO"
+    ],
+    "crn": 16698
+  },
+  {
+    "subject": "DLIT6906",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TUTORIAL DE INVESTIGACIÓN III",
+    "capacity": 5,
+    "enrolled": 0,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17223
+  },
+  {
+    "subject": "DLIT6907",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DESARROLLO DE TESIS DOCTORAL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALZATE CADAVID CAROLINA"
+    ],
+    "crn": 20372
+  },
+  {
+    "subject": "DLIT6908",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS DOCTORAL",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ALZATE CADAVID CAROLINA"
+    ],
+    "crn": 20373
+  },
+  {
+    "subject": "DLIT6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 3,
+    "enrolled": 0,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 17621
+  }
+]

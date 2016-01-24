@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "DEMP5205",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SOCIEDADES",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ SEGURA ANA MARIA"
+    ],
+    "crn": 20022
+  },
+  {
+    "subject": "DEMP5206",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PROPIEDAD INTELECTUAL",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ SEGURA ANA MARIA"
+    ],
+    "crn": 20023
+  },
+  {
+    "subject": "DEMP5301",
+    "section": 1,
+    "credits": 2.0,
+    "title": "RELACIONES LABORALES",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ SEGURA ANA MARIA"
+    ],
+    "crn": 20024
+  },
+  {
+    "subject": "DEMP5302",
+    "section": 1,
+    "credits": 1.0,
+    "title": "EMPRESA Y CONFLICTO COLECTIVO",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ SEGURA ANA MARIA"
+    ],
+    "crn": 20025
+  },
+  {
+    "subject": "DEMP5303",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PROTECCION LABORAL",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ SEGURA ANA MARIA"
+    ],
+    "crn": 20026
+  }
+]

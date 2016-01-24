@@ -1,0 +1,2479 @@
+[
+  {
+    "subject": "ARTE1103",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CERAMICA TORNO",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GARCIA OLGA LUCIA"
+    ],
+    "crn": 13371
+  },
+  {
+    "subject": "ARTE1104",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CERAMICA 1",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ACOSTA PAULA"
+    ],
+    "crn": 13372
+  },
+  {
+    "subject": "ARTE1104",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CERAMICA 1",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GARCIA OLGA LUCIA"
+    ],
+    "crn": 13532
+  },
+  {
+    "subject": "ARTE1104",
+    "section": 3,
+    "credits": 3.0,
+    "title": "CERAMICA 1",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "401"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RONCANCIO OLMOS NUBIA"
+    ],
+    "crn": 13533
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 14,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "POVEDA MOTA CLEMENCIA"
+    ],
+    "crn": 13373
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ALONSO RICO JUAN CARLOS"
+    ],
+    "crn": 18455
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 3,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VILLALBA STEWART MARIA VICTORIA"
+    ],
+    "crn": 18459
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 4,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 13,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GRAU ROMERA BEATRIZ"
+    ],
+    "crn": 18565
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 5,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SANTOS GUILLERMO"
+    ],
+    "crn": 20379
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 6,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "VILLALBA STEWART MARIA VICTORIA"
+    ],
+    "crn": 15078
+  },
+  {
+    "subject": "ARTE1105",
+    "section": 7,
+    "credits": 3.0,
+    "title": "FOTO BASICA 1",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "101"
+        },
+        "initHour": "0800",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "VANEGAS TORRES JAVIER MAURICIO"
+    ],
+    "crn": 13538
+  },
+  {
+    "subject": "ARTE1113",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CERAMICA 2: FIGURA HUMANA",
+    "capacity": 18,
+    "enrolled": 16,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ACOSTA PAULA"
+    ],
+    "crn": 19156
+  },
+  {
+    "subject": "ARTE1115",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE ILUMINACION",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SANTOS GUILLERMO"
+    ],
+    "crn": 13374
+  },
+  {
+    "subject": "ARTE1116",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER BASICO 1",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FRANCO GARCIA CAROLINA"
+    ],
+    "crn": 13375
+  },
+  {
+    "subject": "ARTE1116",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER BASICO 1",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MEJIA PEREZ CATALINA"
+    ],
+    "crn": 13540
+  },
+  {
+    "subject": "ARTE1116",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER BASICO 1",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "501"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ SOTO CONSUELO"
+    ],
+    "crn": 13541
+  },
+  {
+    "subject": "ARTE1116",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER BASICO 1",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CABALLERO BUENO LUZ HELENA"
+    ],
+    "crn": 13542
+  },
+  {
+    "subject": "ARTE1117",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER BASICO 2",
+    "capacity": 18,
+    "enrolled": 20,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "301"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERRAN CARREÑO JUAN FERNANDO",
+      "ESPINOSA SALAZAR LINA MARIA"
+    ],
+    "crn": 13543
+  },
+  {
+    "subject": "ARTE1117",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER BASICO 2",
+    "capacity": 18,
+    "enrolled": 19,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "HERRAN CARREÑO JUAN FERNANDO",
+      "ESPINOSA SALAZAR LINA MARIA"
+    ],
+    "crn": 13544
+  },
+  {
+    "subject": "ARTE1118",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTO BÁSICA 2 :DIGITAL",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GEORGE JIMENO CAMILO"
+    ],
+    "crn": 14826
+  },
+  {
+    "subject": "ARTE1119",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO CIENTIFICO BASICO",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "401"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FRANCO GARCIA CAROLINA"
+    ],
+    "crn": 13377
+  },
+  {
+    "subject": "ARTE1120B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINTURA DESDE 1950",
+    "capacity": 56,
+    "enrolled": 27,
+    "available": 29,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "UHIA FERNANDO"
+    ],
+    "crn": 17190
+  },
+  {
+    "subject": "ARTE1123",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA ANIMACIÓN",
+    "capacity": 18,
+    "enrolled": 23,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "505"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "KRAUS ELSIN LORENA"
+    ],
+    "crn": 19159
+  },
+  {
+    "subject": "ARTE1124",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ILUSTRACIÓN",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "401"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "NARANJO URIBE MONICA"
+    ],
+    "crn": 19157
+  },
+  {
+    "subject": "ARTE1127",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DE MATERIALES Y PROCEDI",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GARCIA CERON MARIA CONSUELO"
+    ],
+    "crn": 18548
+  },
+  {
+    "subject": "ARTE1202B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APRECIACION CINEMATOGRAFICA",
+    "capacity": 66,
+    "enrolled": 74,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "BERNAL MARTINEZ ADRIANA"
+    ],
+    "crn": 19905
+  },
+  {
+    "subject": "ARTE1209B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NUEVOS MEDIOS",
+    "capacity": 89,
+    "enrolled": 97,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GIL VROLIJK CARMEN"
+    ],
+    "crn": 10122
+  },
+  {
+    "subject": "ARTE1213",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DEL TIEMPO",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ARIAS VEGA LUIS RICARDO",
+      "PRADILLA HERNANDEZ EDUARDO"
+    ],
+    "crn": 13378
+  },
+  {
+    "subject": "ARTE1213",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DEL TIEMPO",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ARIAS VEGA LUIS RICARDO",
+      "PRADILLA HERNANDEZ EDUARDO"
+    ],
+    "crn": 13546
+  },
+  {
+    "subject": "ARTE1213",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DEL TIEMPO",
+    "capacity": 15,
+    "enrolled": 17,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JAIMES NIÑO SYLVIA BEATRIZ",
+      "VASQUEZ ZARATE LEONEL RAMIRO"
+    ],
+    "crn": 13547
+  },
+  {
+    "subject": "ARTE1215",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER EXPRESION EXPERIMENTAL",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VILLALTA MARIA MARGARITA"
+    ],
+    "crn": 13379
+  },
+  {
+    "subject": "ARTE1215",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER EXPRESION EXPERIMENTAL",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "DIAZ MOYANO MYRIAM LUISA"
+    ],
+    "crn": 13620
+  },
+  {
+    "subject": "ARTE1215",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER EXPRESION EXPERIMENTAL",
+    "capacity": 15,
+    "enrolled": 13,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DIAZ MOYANO MYRIAM LUISA"
+    ],
+    "crn": 13960
+  },
+  {
+    "subject": "ARTE1218B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MIRADA AL CINE COLOMBIANO",
+    "capacity": 48,
+    "enrolled": 49,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "ZULUAGA DUQUE PEDRO ADRIAN"
+    ],
+    "crn": 17459
+  },
+  {
+    "subject": "ARTE1222",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE DIGITAL",
+    "capacity": 18,
+    "enrolled": 15,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "0900",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "KRAUS ELSIN LORENA"
+    ],
+    "crn": 15369
+  },
+  {
+    "subject": "ARTE1317B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HIST. DE LA IMAGEN FOTOGRAFICA",
+    "capacity": 48,
+    "enrolled": 49,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "302"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GEORGE JIMENO CAMILO"
+    ],
+    "crn": 19168
+  },
+  {
+    "subject": "ARTE1406A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y EXPOSICIONES",
+    "capacity": 59,
+    "enrolled": 59,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CERON CASTILLA CAROLINA"
+    ],
+    "crn": 19169
+  },
+  {
+    "subject": "ARTE1407",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTISTA OBRA ESPACIO",
+    "capacity": 55,
+    "enrolled": 54,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "FERNANDEZ REGUERA MARIO OMAR",
+      "OSPINA LUCAS",
+      "VARGAS GIOVANNI"
+    ],
+    "crn": 15107
+  },
+  {
+    "subject": "ARTE1408A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y CINE",
+    "capacity": 185,
+    "enrolled": 189,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "209"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 12324
+  },
+  {
+    "subject": "ARTE1409B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y PROPAGANDA",
+    "capacity": 70,
+    "enrolled": 67,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "113"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "VANEGAS FLOREZ GUILLERMO ALEXANDER"
+    ],
+    "crn": 15372
+  },
+  {
+    "subject": "ARTE2100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO DEL CUERPO",
+    "capacity": 18,
+    "enrolled": 19,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MEJIA DIAZ JUAN FERNANDO"
+    ],
+    "crn": 13380
+  },
+  {
+    "subject": "ARTE2101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE PINTURA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "UHIA FERNANDO"
+    ],
+    "crn": 13551
+  },
+  {
+    "subject": "ARTE2106",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO DEL CUERPO-ARQUITECTURA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CARDENAS NICOLAS"
+    ],
+    "crn": 13381
+  },
+  {
+    "subject": "ARTE2107",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO CONSTRUC. ESPACIAL-ARQU",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "L",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RICKENMANN IVAN"
+    ],
+    "crn": 14192
+  },
+  {
+    "subject": "ARTE2108",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE DIBUJO",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "501"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RICKENMANN IVAN"
+    ],
+    "crn": 13382
+  },
+  {
+    "subject": "ARTE2108",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE DIBUJO",
+    "capacity": 18,
+    "enrolled": 15,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "404"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VARGAS GIOVANNI"
+    ],
+    "crn": 13919
+  },
+  {
+    "subject": "ARTE2109",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS DE ESCULTURA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CUELLAR MAYORAL ADRIANA"
+    ],
+    "crn": 13383
+  },
+  {
+    "subject": "ARTE2110",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO Y OBJETO",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "501"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "COMBARIZA OSORIO MARTHA"
+    ],
+    "crn": 13384
+  },
+  {
+    "subject": "ARTE2111",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINTURA Y CUERPO",
+    "capacity": 18,
+    "enrolled": 11,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ESPINOSA SALAZAR LINA MARIA"
+    ],
+    "crn": 13385
+  },
+  {
+    "subject": "ARTE2112",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINTURA Y OBJETO",
+    "capacity": 18,
+    "enrolled": 11,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEÑA PARGA ESTEBAN"
+    ],
+    "crn": 13386
+  },
+  {
+    "subject": "ARTE2113",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINTURA Y ESPACIO",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "301"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RICKENMANN IVAN"
+    ],
+    "crn": 13387
+  },
+  {
+    "subject": "ARTE2114",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OBJETO Y CONTEXTO",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ SOTO CONSUELO"
+    ],
+    "crn": 17461
+  },
+  {
+    "subject": "ARTE2116",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRABADO EN METAL",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "501"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RODA MARCOS"
+    ],
+    "crn": 13389
+  },
+  {
+    "subject": "ARTE2119",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO Y ESPACIO",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CARDENAS NICOLAS"
+    ],
+    "crn": 13392
+  },
+  {
+    "subject": "ARTE2120",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESCULTURA Y CUERPO",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GARCIA GALAN ADRIANA DEL PILAR"
+    ],
+    "crn": 19907
+  },
+  {
+    "subject": "ARTE2125",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTO IMAGEN BIOGRAFICA Y AUTOB",
+    "capacity": 18,
+    "enrolled": 16,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GRAU ROMERA BEATRIZ"
+    ],
+    "crn": 19161
+  },
+  {
+    "subject": "ARTE2128",
+    "section": 1,
+    "credits": 3.0,
+    "title": "LITOGRAFIA",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "501"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FRANCO GARCIA CAROLINA"
+    ],
+    "crn": 20092
+  },
+  {
+    "subject": "ARTE2129",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GRABADO EN RELIEVE",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "501"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ ROJAS CARMEN CECILIA"
+    ],
+    "crn": 19967
+  },
+  {
+    "subject": "ARTE2203",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIDEO EXPERIMENTAL",
+    "capacity": 18,
+    "enrolled": 9,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VILLALTA MARIA MARGARITA"
+    ],
+    "crn": 13785
+  },
+  {
+    "subject": "ARTE2205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMPOSICION EN MOVIMIENTO",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA GALAN ADRIANA DEL PILAR"
+    ],
+    "crn": 13393
+  },
+  {
+    "subject": "ARTE2206",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE SCRIPTUM",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "DIAZ MOYANO MYRIAM LUISA"
+    ],
+    "crn": 13394
+  },
+  {
+    "subject": "ARTE2207",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE SONORO",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARIAS VEGA LUIS RICARDO"
+    ],
+    "crn": 19162
+  },
+  {
+    "subject": "ARTE2210",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTALACION AUDIOVISUAL",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "503"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "303"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JIMENEZ VILLALTA MARIA MARGARITA"
+    ],
+    "crn": 19163
+  },
+  {
+    "subject": "ARTE2408",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PENSAR EL MUSEO",
+    "capacity": 30,
+    "enrolled": 26,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "601"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "FERNANDEZ REGUERA MARIO OMAR"
+    ],
+    "crn": 20985
+  },
+  {
+    "subject": "ARTE2419",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIÁLOGOS CRÍTICOS",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "601"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 20936
+  },
+  {
+    "subject": "ARTE2459",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MATERIALES Y TECNICAS EN ARTE",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERNANDEZ REGUERA MARIO OMAR",
+      "COHEN DAZA DAVID"
+    ],
+    "crn": 21142
+  },
+  {
+    "subject": "ARTE3100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO EXPERIMENTAL",
+    "capacity": 18,
+    "enrolled": 8,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "401"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MEJIA DIAZ JUAN FERNANDO"
+    ],
+    "crn": 13397
+  },
+  {
+    "subject": "ARTE3108",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INSTALACION",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "302"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "HERRAN CARREÑO JUAN FERNANDO"
+    ],
+    "crn": 19164
+  },
+  {
+    "subject": "ARTE3114",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PINTURA EXPERIMENTAL",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MEJIA PEREZ CATALINA"
+    ],
+    "crn": 13399
+  },
+  {
+    "subject": "ARTE3115",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER AVANZADO ARTES PLASTIC",
+    "capacity": 18,
+    "enrolled": 20,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "OBREGON MARTINEZ DE IRUJO BELTRAN PEDRO",
+      "MARTINEZ RODRIGUEZ LESTER FERNANDO"
+    ],
+    "crn": 13400
+  },
+  {
+    "subject": "ARTE3200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y PROCESOS CIENTIFICOS",
+    "capacity": 18,
+    "enrolled": 20,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "303"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "DAZA AREVALO JUAN"
+    ],
+    "crn": 19165
+  },
+  {
+    "subject": "ARTE3201",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESPACIOS ELECTRONICOS",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "303"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RESTREPO PABON RODRIGO"
+    ],
+    "crn": 19166
+  },
+  {
+    "subject": "ARTE3205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANIMACION",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "504"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "CAICEDO DEROUX SANTIAGO"
+    ],
+    "crn": 13401
+  },
+  {
+    "subject": "ARTE3217",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIDEOGRAFIAS DE LA MEMORIA",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "505"
+        },
+        "initHour": "1400",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "PRADILLA HERNANDEZ EDUARDO"
+    ],
+    "crn": 19167
+  },
+  {
+    "subject": "ARTE3401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CURADURIA Y EVENTOS",
+    "capacity": 30,
+    "enrolled": 26,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "601"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CERON CASTILLA CAROLINA"
+    ],
+    "crn": 20976
+  },
+  {
+    "subject": "ARTE3423",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y PRACTICA SOCIAL",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "502"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ APRAEZ LAURA"
+    ],
+    "crn": 20004
+  },
+  {
+    "subject": "ARTE3424",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ARTE Y CARCELES II",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "402"
+        },
+        "initHour": "1300",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 20102
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ SOTO CONSUELO",
+      "UHIA FERNANDO"
+    ],
+    "crn": 16653
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS",
+      "DIAZ BEJARANO BEATRIZ EUGENIA"
+    ],
+    "crn": 16646
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 3,
+    "enrolled": 2,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESPINOSA SALAZAR LINA MARIA"
+    ],
+    "crn": 16647
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 3,
+    "enrolled": 4,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARIAS VEGA LUIS RICARDO"
+    ],
+    "crn": 16648
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 4,
+    "enrolled": 3,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DIAZ MOYANO MYRIAM LUISA",
+      "VARGAS GIOVANNI"
+    ],
+    "crn": 16649
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 6,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 2,
+    "enrolled": 3,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PRADILLA HERNANDEZ EDUARDO"
+    ],
+    "crn": 16650
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 7,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 2,
+    "enrolled": 3,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DIAZ JUAN FERNANDO"
+    ],
+    "crn": 16655
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 8,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 3,
+    "enrolled": 4,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JIMENEZ VILLALTA MARIA MARGARITA"
+    ],
+    "crn": 16656
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 9,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GIL VROLIJK CARMEN",
+      "FACUNDO RINCON RODRIGO"
+    ],
+    "crn": 16658
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 10,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FRANCO GARCIA CAROLINA"
+    ],
+    "crn": 16660
+  },
+  {
+    "subject": "ARTE3602",
+    "section": 11,
+    "credits": 3.0,
+    "title": "ANTEPROYECTO NUEVO",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRAN CARREÑO JUAN FERNANDO"
+    ],
+    "crn": 16661
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 4,
+    "enrolled": 3,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ SOTO CONSUELO",
+      "UHIA FERNANDO"
+    ],
+    "crn": 13928
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 2,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 4,
+    "enrolled": 3,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS",
+      "DIAZ BEJARANO BEATRIZ EUGENIA"
+    ],
+    "crn": 12845
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 3,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ESPINOSA SALAZAR LINA MARIA"
+    ],
+    "crn": 12846
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 4,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 1,
+    "enrolled": 3,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARIAS VEGA LUIS RICARDO"
+    ],
+    "crn": 12847
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 5,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 4,
+    "enrolled": 4,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DIAZ MOYANO MYRIAM LUISA",
+      "VARGAS GIOVANNI"
+    ],
+    "crn": 12848
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 6,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 2,
+    "enrolled": 1,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PRADILLA HERNANDEZ EDUARDO"
+    ],
+    "crn": 12849
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 7,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 2,
+    "enrolled": 0,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MEJIA DIAZ JUAN FERNANDO"
+    ],
+    "crn": 12850
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 8,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 4,
+    "enrolled": 5,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JIMENEZ VILLALTA MARIA MARGARITA"
+    ],
+    "crn": 12851
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 9,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 1,
+    "enrolled": 0,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GIL VROLIJK CARMEN",
+      "FACUNDO RINCON RODRIGO"
+    ],
+    "crn": 12852
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 10,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FRANCO GARCIA CAROLINA"
+    ],
+    "crn": 12853
+  },
+  {
+    "subject": "ARTE3603",
+    "section": 11,
+    "credits": 6.0,
+    "title": "PROYECTO NUEVO PENSUM",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRAN CARREÑO JUAN FERNANDO"
+    ],
+    "crn": 13019
+  },
+  {
+    "subject": "ARTE3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION A GRADO",
+    "capacity": 999,
+    "enrolled": 1,
+    "available": 998,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 12001
+  },
+  {
+    "subject": "ARTE3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA PROFESIONAL - 3",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 12858
+  },
+  {
+    "subject": "ARTE3994",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRACTICA ACADEMICA OBLIGATORIA",
+    "capacity": 999,
+    "enrolled": 4,
+    "available": 995,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 13402
+  },
+  {
+    "subject": "ARTE3995",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DE GRADO PROYECTOS",
+    "capacity": 4,
+    "enrolled": 2,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 12002
+  },
+  {
+    "subject": "ARTE3996",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRÁCTICA EN PROYECTOS",
+    "capacity": 999,
+    "enrolled": 7,
+    "available": 992,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSPINA LUCAS"
+    ],
+    "crn": 13448
+  }
+]

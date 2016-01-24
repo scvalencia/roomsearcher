@@ -1,0 +1,94 @@
+[
+  {
+    "subject": "DENI5704",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CAMBIOS INTERN.Y TRIBUT.INTERN",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20303
+  },
+  {
+    "subject": "DENI5704",
+    "section": 2,
+    "credits": 4.0,
+    "title": "CAMBIOS INTERN.Y TRIBUT.INTERN",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20304
+  },
+  {
+    "subject": "DENI5704",
+    "section": 3,
+    "credits": 4.0,
+    "title": "CAMBIOS INTERN.Y TRIBUT.INTERN",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REY VALLEJO ALFREDO PABLO"
+    ],
+    "crn": 20305
+  },
+  {
+    "subject": "DENI5705",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FINANZAS Y MDOS INTERNALES",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "M",
+          "I",
+          "J",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "REY VALLEJO ALFREDO PABLO"
+    ],
+    "crn": 20306
+  }
+]

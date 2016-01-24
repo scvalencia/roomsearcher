@@ -1,0 +1,82 @@
+[
+  {
+    "subject": "DIGS5101",
+    "section": 1,
+    "credits": 2.0,
+    "title": "SISTEMAS TECNOLOGICOS",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRERA HERRERA BERNARDO"
+    ],
+    "crn": 19240
+  },
+  {
+    "subject": "DIGS5104",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DISEÑO E INNOVACION SOCIAL",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO"
+    ],
+    "crn": 19243
+  },
+  {
+    "subject": "DIGS5202",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DINAMICAS TECNOLOGICAS",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JIMENEZ BECERRA JAVIER ANDRES"
+    ],
+    "crn": 19241
+  },
+  {
+    "subject": "DIGS5401",
+    "section": 1,
+    "credits": 1.5,
+    "title": "PROYECTO I",
+    "capacity": 20,
+    "enrolled": 15,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LLERAS MANRIQUE ERNESTO"
+    ],
+    "crn": 19242
+  },
+  {
+    "subject": "DIGS5403",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEM. ESP. DISE. GEST SOC. TEC.",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "JIMENEZ BECERRA JAVIER ANDRES"
+    ],
+    "crn": 20048
+  }
+]

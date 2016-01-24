@@ -1,0 +1,2877 @@
+[
+  {
+    "subject": "IQUI1001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD.INGENIERIA QUIMICA",
+    "capacity": 110,
+    "enrolled": 103,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE"
+    ],
+    "crn": 10015
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "CASTELLANOS VARGAS ALEJANDRO"
+    ],
+    "crn": 11071
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "CASTELLANOS VARGAS ALEJANDRO"
+    ],
+    "crn": 11100
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 19,
+    "enrolled": 19,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "CASTELLANOS VARGAS ALEJANDRO"
+    ],
+    "crn": 11101
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 19,
+    "enrolled": 19,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "GUERRERO ANDRIOLI ESTEBAN"
+    ],
+    "crn": 13951
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 18,
+    "enrolled": 16,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "GUERRERO ANDRIOLI ESTEBAN"
+    ],
+    "crn": 16726
+  },
+  {
+    "subject": "IQUI1002",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. INTRODUCCION ING. QUIMICA",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "GUERRERO ANDRIOLI ESTEBAN"
+    ],
+    "crn": 16727
+  },
+  {
+    "subject": "IQUI2010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUNDAMENTOS PROC. INDUSTRIALES",
+    "capacity": 117,
+    "enrolled": 116,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO"
+    ],
+    "crn": 16728
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TORRES FIGUEROA JUAN JOSE"
+    ],
+    "crn": 13687
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TORRES FIGUEROA JUAN JOSE"
+    ],
+    "crn": 13688
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "TORRES FIGUEROA JUAN JOSE"
+    ],
+    "crn": 13689
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 19,
+    "enrolled": 18,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO",
+      "TORRES FIGUEROA JUAN JOSE"
+    ],
+    "crn": 13690
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SABBAGH MACIEL ALEJANDRO ABEL"
+    ],
+    "crn": 14940
+  },
+  {
+    "subject": "IQUI2010L",
+    "section": 6,
+    "credits": 0.0,
+    "title": "TALLER FUND PROC INDUSTR",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SABBAGH MACIEL ALEJANDRO ABEL"
+    ],
+    "crn": 20561
+  },
+  {
+    "subject": "IQUI2020",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TERMODINAMICA",
+    "capacity": 102,
+    "enrolled": 81,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO"
+    ],
+    "crn": 11229
+  },
+  {
+    "subject": "IQUI2020C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. TERMODINÁMICA",
+    "capacity": 35,
+    "enrolled": 34,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GALLO MOLINA JUAN PABLO"
+    ],
+    "crn": 12351
+  },
+  {
+    "subject": "IQUI2020C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. TERMODINÁMICA",
+    "capacity": 34,
+    "enrolled": 8,
+    "available": 26,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GALLO MOLINA JUAN PABLO"
+    ],
+    "crn": 12353
+  },
+  {
+    "subject": "IQUI2020C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. TERMODINÁMICA",
+    "capacity": 38,
+    "enrolled": 39,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GALLO MOLINA JUAN PABLO"
+    ],
+    "crn": 13741
+  },
+  {
+    "subject": "IQUI2021",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EQUILIBRIO DE FASES Y QUIMICO",
+    "capacity": 108,
+    "enrolled": 97,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "ORTIZ PABLO"
+    ],
+    "crn": 11237
+  },
+  {
+    "subject": "IQUI2021C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. EQUILIBRIO",
+    "capacity": 47,
+    "enrolled": 46,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CASTRO MENDEZ ANDRES FELIPE"
+    ],
+    "crn": 12354
+  },
+  {
+    "subject": "IQUI2021C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. EQUILIBRIO",
+    "capacity": 36,
+    "enrolled": 30,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CASTRO MENDEZ ANDRES FELIPE"
+    ],
+    "crn": 12355
+  },
+  {
+    "subject": "IQUI2021C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. EQUILIBRIO",
+    "capacity": 36,
+    "enrolled": 21,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "CASTRO MENDEZ ANDRES FELIPE"
+    ],
+    "crn": 16924
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 17,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 10488
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 15,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 10489
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 13,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 10896
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 16,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 10962
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 10,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 13749
+  },
+  {
+    "subject": "IQUI2023",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. TERMODINAMICA",
+    "capacity": 17,
+    "enrolled": 10,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "311"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRERA JIMENEZ ANA ALEJANDRA"
+    ],
+    "crn": 18539
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 14,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 10490
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 10491
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 24,
+    "available": -6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 10963
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 25,
+    "available": -7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 10964
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 13,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 15281
+  },
+  {
+    "subject": "IQUI2024",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. EQUILIBRIO",
+    "capacity": 18,
+    "enrolled": 3,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "VALBUENA NIÑO MARIA PAULA ANDREA"
+    ],
+    "crn": 16746
+  },
+  {
+    "subject": "IQUI2070",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MONITORIA INGENIERIA QUIMICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 10965
+  },
+  {
+    "subject": "IQUI2090",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE MITAD DE CARRERA",
+    "capacity": 60,
+    "enrolled": 41,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "1530",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO"
+    ],
+    "crn": 11576
+  },
+  {
+    "subject": "IQUI2091",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER PMC",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO",
+      "LUENGAS CARRILLO YISSEL MARYURY"
+    ],
+    "crn": 16925
+  },
+  {
+    "subject": "IQUI2091",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER PMC",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO",
+      "LUENGAS CARRILLO YISSEL MARYURY"
+    ],
+    "crn": 18540
+  },
+  {
+    "subject": "IQUI2091",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER PMC",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ALVAREZ SOLANO OSCAR ALBERTO",
+      "LUENGAS CARRILLO YISSEL MARYURY"
+    ],
+    "crn": 20567
+  },
+  {
+    "subject": "IQUI2101",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FENOMENOS DE TRANSPORTE 1",
+    "capacity": 80,
+    "enrolled": 62,
+    "available": 18,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE"
+    ],
+    "crn": 13967
+  },
+  {
+    "subject": "IQUI2101L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER FENOMENOS TRANSPORTE 1",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE",
+      "GONZALEZ SANDOVAL MILENA"
+    ],
+    "crn": 13679
+  },
+  {
+    "subject": "IQUI2101L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER FENOMENOS TRANSPORTE 1",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE",
+      "GONZALEZ SANDOVAL MILENA"
+    ],
+    "crn": 13680
+  },
+  {
+    "subject": "IQUI2101L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER FENOMENOS TRANSPORTE 1",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE",
+      "GONZALEZ SANDOVAL MILENA"
+    ],
+    "crn": 13681
+  },
+  {
+    "subject": "IQUI2101L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER FENOMENOS TRANSPORTE 1",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE",
+      "SEQUERA CASAS SONIA CAROLINA"
+    ],
+    "crn": 13682
+  },
+  {
+    "subject": "IQUI2102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FENOMENOS DE TRANSPORTE 2",
+    "capacity": 102,
+    "enrolled": 90,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO"
+    ],
+    "crn": 10457
+  },
+  {
+    "subject": "IQUI2102C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. FENOMENOS TRANSPORTE 2",
+    "capacity": 51,
+    "enrolled": 30,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MORA SALGUERO DANIELA ALEJANDRA"
+    ],
+    "crn": 12794
+  },
+  {
+    "subject": "IQUI2102C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. FENOMENOS TRANSPORTE 2",
+    "capacity": 61,
+    "enrolled": 60,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "804"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MORA SALGUERO DANIELA ALEJANDRA"
+    ],
+    "crn": 12795
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 11579
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 11580
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 11581
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 20,
+    "enrolled": 5,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 13969
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 16733
+  },
+  {
+    "subject": "IQUI2104",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. FENOMENOS TRANSPORTE 2",
+    "capacity": 17,
+    "enrolled": 12,
+    "available": 5,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO",
+      "ROJAS MARIN LINA MARIA"
+    ],
+    "crn": 16734
+  },
+  {
+    "subject": "IQUI2200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO EXPERIM. ING QUIMIC",
+    "capacity": 79,
+    "enrolled": 54,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO"
+    ],
+    "crn": 10571
+  },
+  {
+    "subject": "IQUI2200L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO EXPERIMENTAL",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO",
+      "BECERRA ZERPA NORYMAR JASMIN"
+    ],
+    "crn": 13683
+  },
+  {
+    "subject": "IQUI2200L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO EXPERIMENTAL",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO",
+      "BECERRA ZERPA NORYMAR JASMIN"
+    ],
+    "crn": 13684
+  },
+  {
+    "subject": "IQUI2200L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO EXPERIMENTAL",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO",
+      "ROJAS VARGAS JUAN FELIPE"
+    ],
+    "crn": 13685
+  },
+  {
+    "subject": "IQUI2200L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO EXPERIMENTAL",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO",
+      "ROJAS VARGAS JUAN FELIPE"
+    ],
+    "crn": 13686
+  },
+  {
+    "subject": "IQUI2300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INGENIERIA DE REACCIONES",
+    "capacity": 50,
+    "enrolled": 42,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOZANO SANTAMARIA FEDERICO"
+    ],
+    "crn": 11432
+  },
+  {
+    "subject": "IQUI2300",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INGENIERIA DE REACCIONES",
+    "capacity": 50,
+    "enrolled": 50,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "401"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ CASTRO JAVIER DAVID"
+    ],
+    "crn": 20637
+  },
+  {
+    "subject": "IQUI2300C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. ING. REACCIONES",
+    "capacity": 36,
+    "enrolled": 36,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GOMEZ CASTRO JAVIER DAVID"
+    ],
+    "crn": 12798
+  },
+  {
+    "subject": "IQUI2300C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. ING. REACCIONES",
+    "capacity": 36,
+    "enrolled": 31,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "LOZANO SANTAMARIA FEDERICO"
+    ],
+    "crn": 12799
+  },
+  {
+    "subject": "IQUI2300C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. ING. REACCIONES",
+    "capacity": 36,
+    "enrolled": 8,
+    "available": 28,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LOZANO SANTAMARIA FEDERICO"
+    ],
+    "crn": 16986
+  },
+  {
+    "subject": "IQUI2300C",
+    "section": 4,
+    "credits": 0.0,
+    "title": "COMPL. ING. REACCIONES",
+    "capacity": 30,
+    "enrolled": 17,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ CASTRO JAVIER DAVID"
+    ],
+    "crn": 21171
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERRER PEÑUELA DIEGO ANDRES"
+    ],
+    "crn": 11596
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERRER PEÑUELA DIEGO ANDRES"
+    ],
+    "crn": 11597
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 18,
+    "enrolled": 14,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERRER PEÑUELA DIEGO ANDRES"
+    ],
+    "crn": 11598
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 18,
+    "enrolled": 2,
+    "available": 16,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LEAL ORTIZ JORJHAN OSCARLY"
+    ],
+    "crn": 13248
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 18,
+    "enrolled": 19,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LEAL ORTIZ JORJHAN OSCARLY"
+    ],
+    "crn": 17086
+  },
+  {
+    "subject": "IQUI2301",
+    "section": 6,
+    "credits": 0.0,
+    "title": "LAB. INGENIERIA REACCIONES",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LEAL ORTIZ JORJHAN OSCARLY"
+    ],
+    "crn": 20655
+  },
+  {
+    "subject": "IQUI3001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROCESOS DE SEPARACION",
+    "capacity": 76,
+    "enrolled": 68,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SIERRA RAMIREZ ROCIO"
+    ],
+    "crn": 11599
+  },
+  {
+    "subject": "IQUI3001C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. PROC. SEPARACION",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "FONSECA JARAMILLO WILLIAM DAVID"
+    ],
+    "crn": 12806
+  },
+  {
+    "subject": "IQUI3001C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. PROC. SEPARACION",
+    "capacity": 36,
+    "enrolled": 28,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "FONSECA JARAMILLO WILLIAM DAVID"
+    ],
+    "crn": 12808
+  },
+  {
+    "subject": "IQUI3002",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. PROC. SEPARACION",
+    "capacity": 19,
+    "enrolled": 19,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0800",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MEJIA BOHORQUEZ BARBARA VALERIA"
+    ],
+    "crn": 11421
+  },
+  {
+    "subject": "IQUI3002",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. PROC. SEPARACION",
+    "capacity": 19,
+    "enrolled": 17,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0800",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MEJIA BOHORQUEZ BARBARA VALERIA"
+    ],
+    "crn": 11422
+  },
+  {
+    "subject": "IQUI3002",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. PROC. SEPARACION",
+    "capacity": 19,
+    "enrolled": 17,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0800",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MEJIA BOHORQUEZ BARBARA VALERIA"
+    ],
+    "crn": 11423
+  },
+  {
+    "subject": "IQUI3002",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. PROC. SEPARACION",
+    "capacity": 19,
+    "enrolled": 15,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "0800",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MEJIA BOHORQUEZ BARBARA VALERIA"
+    ],
+    "crn": 18541
+  },
+  {
+    "subject": "IQUI3010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OPERACIONES UNITARIAS",
+    "capacity": 69,
+    "enrolled": 65,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS"
+    ],
+    "crn": 10008
+  },
+  {
+    "subject": "IQUI3012",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. OPERACIONES UNITARIAS",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "BERRIO BETANCOURT JUAN CARLOS"
+    ],
+    "crn": 11669
+  },
+  {
+    "subject": "IQUI3012",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. OPERACIONES UNITARIAS",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "BERRIO BETANCOURT JUAN CARLOS"
+    ],
+    "crn": 11670
+  },
+  {
+    "subject": "IQUI3012",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. OPERACIONES UNITARIAS",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "BERRIO BETANCOURT JUAN CARLOS"
+    ],
+    "crn": 11671
+  },
+  {
+    "subject": "IQUI3012",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB. OPERACIONES UNITARIAS",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "BERRIO BETANCOURT JUAN CARLOS"
+    ],
+    "crn": 11672
+  },
+  {
+    "subject": "IQUI3031",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO PLANTAS DE PROCESO",
+    "capacity": 62,
+    "enrolled": 38,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "305"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE"
+    ],
+    "crn": 11238
+  },
+  {
+    "subject": "IQUI3032",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO PLANTAS",
+    "capacity": 10,
+    "enrolled": 14,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "OCAMPO PANTOJA FABIO ANDRES"
+    ],
+    "crn": 11459
+  },
+  {
+    "subject": "IQUI3032",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO PLANTAS",
+    "capacity": 10,
+    "enrolled": 13,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ GIRALDO FELIPE",
+      "OCAMPO PANTOJA FABIO ANDRES"
+    ],
+    "crn": 11461
+  },
+  {
+    "subject": "IQUI3032",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO PLANTAS",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO HUERTAS PAULA ANDREA"
+    ],
+    "crn": 11462
+  },
+  {
+    "subject": "IQUI3032",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER DISEÑO PLANTAS",
+    "capacity": 10,
+    "enrolled": 5,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO HUERTAS PAULA ANDREA"
+    ],
+    "crn": 11464
+  },
+  {
+    "subject": "IQUI3039",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRO. MODEL. Y SIMUL. ING.",
+    "capacity": 68,
+    "enrolled": 67,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS"
+    ],
+    "crn": 10966
+  },
+  {
+    "subject": "IQUI3040",
+    "section": 1,
+    "credits": 3.0,
+    "title": "OPTIMIZACION PROCESOS QUIMICOS",
+    "capacity": 60,
+    "enrolled": 43,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO"
+    ],
+    "crn": 10493
+  },
+  {
+    "subject": "IQUI3041",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER MODELAMIEN.Y SIMULACION",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "PINEDA PEREZ HUGO ALEJANDRO"
+    ],
+    "crn": 11600
+  },
+  {
+    "subject": "IQUI3041",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER MODELAMIEN.Y SIMULACION",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "PINEDA PEREZ HUGO ALEJANDRO"
+    ],
+    "crn": 11601
+  },
+  {
+    "subject": "IQUI3041",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER MODELAMIEN.Y SIMULACION",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "PINEDA PEREZ HUGO ALEJANDRO"
+    ],
+    "crn": 11602
+  },
+  {
+    "subject": "IQUI3041",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER MODELAMIEN.Y SIMULACION",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "208"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "RIOS RATKOVICH NICOLAS",
+      "PINEDA PEREZ HUGO ALEJANDRO"
+    ],
+    "crn": 11603
+  },
+  {
+    "subject": "IQUI3042",
+    "section": 1,
+    "credits": 0.0,
+    "title": "TALLER DE OPTIMIZACION",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO",
+      "BERNAL NEIRA DAVID ESTEBAN"
+    ],
+    "crn": 11674
+  },
+  {
+    "subject": "IQUI3042",
+    "section": 2,
+    "credits": 0.0,
+    "title": "TALLER DE OPTIMIZACION",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO",
+      "BERNAL NEIRA DAVID ESTEBAN"
+    ],
+    "crn": 11675
+  },
+  {
+    "subject": "IQUI3042",
+    "section": 3,
+    "credits": 0.0,
+    "title": "TALLER DE OPTIMIZACION",
+    "capacity": 15,
+    "enrolled": 8,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO",
+      "BERNAL NEIRA DAVID ESTEBAN"
+    ],
+    "crn": 19032
+  },
+  {
+    "subject": "IQUI3042",
+    "section": 4,
+    "credits": 0.0,
+    "title": "TALLER DE OPTIMIZACION",
+    "capacity": 15,
+    "enrolled": 4,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1830",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ RAMIREZ JORGE MARIO",
+      "BERNAL NEIRA DAVID ESTEBAN"
+    ],
+    "crn": 20680
+  },
+  {
+    "subject": "IQUI3090",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEM.PROYECTO GRADO",
+    "capacity": 75,
+    "enrolled": 61,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "606"
+        },
+        "initHour": "1200",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 10009
+  },
+  {
+    "subject": "IQUI3091",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 42,
+    "enrolled": 45,
+    "available": -3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 10010
+  },
+  {
+    "subject": "IQUI3106",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FUND CIENCIA INGEN POLIMEROS",
+    "capacity": 30,
+    "enrolled": 33,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SALCEDO GALAN FELIPE"
+    ],
+    "crn": 19466
+  },
+  {
+    "subject": "IQUI3314",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FAC PRODUCCIÓN PETRÓLEO",
+    "capacity": 25,
+    "enrolled": 19,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "307"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "ASUAJE TOVAR MIGUEL ALEJANDRO"
+    ],
+    "crn": 21068
+  },
+  {
+    "subject": "IQUI3320",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTROD.TECN.LENGUAJ.PERFUMERIA",
+    "capacity": 25,
+    "enrolled": 20,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "404"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "PAEZ SALDARRIAGA ANA MARIA"
+    ],
+    "crn": 20765
+  },
+  {
+    "subject": "IQUI3412",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROCESS PLANT TROUBLESHOOTING",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "405"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "HERRICK DAVID EDWARD"
+    ],
+    "crn": 20055
+  },
+  {
+    "subject": "IQUI3501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO ESPECIAL",
+    "capacity": 5,
+    "enrolled": 6,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 11668
+  },
+  {
+    "subject": "IQUI3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL 6",
+    "capacity": 19,
+    "enrolled": 21,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14105
+  },
+  {
+    "subject": "IQUI4001",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NIVELAT. FENOMENOS TRANSPORTE",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 13076
+  },
+  {
+    "subject": "IQUI4002",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NIVELAT. TERMODINAMICA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 13077
+  },
+  {
+    "subject": "IQUI4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TERMODINAMICA AVANZADA",
+    "capacity": 30,
+    "enrolled": 19,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "206"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ORTIZ PABLO",
+      "GONZALEZ BARRIOS ANDRES FERNANDO"
+    ],
+    "crn": 19467
+  },
+  {
+    "subject": "IQUI4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "MODELACION DE REDES GENETICAS",
+    "capacity": 30,
+    "enrolled": 9,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ BARRIOS ANDRES FERNANDO"
+    ],
+    "crn": 20044
+  },
+  {
+    "subject": "IQUI4211",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO ESP.MAESTRIA",
+    "capacity": 5,
+    "enrolled": 7,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 13300
+  },
+  {
+    "subject": "IQUI4212",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO ESPECIAL MAESTRIA II",
+    "capacity": 4,
+    "enrolled": 5,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 13301
+  },
+  {
+    "subject": "IQUI4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS I",
+    "capacity": 9,
+    "enrolled": 11,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 11242
+  },
+  {
+    "subject": "IQUI4302",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS II",
+    "capacity": 6,
+    "enrolled": 6,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 11245
+  },
+  {
+    "subject": "IQUI4303",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL",
+    "capacity": 0,
+    "enrolled": 4,
+    "available": -4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 13312
+  },
+  {
+    "subject": "IQUI4304",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL 2",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14117
+  },
+  {
+    "subject": "IQUI4402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO",
+    "capacity": 30,
+    "enrolled": 11,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "201"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 11243
+  },
+  {
+    "subject": "IQUI4403",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INTERCAMBIO INTERNACIONAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14106
+  },
+  {
+    "subject": "IQUI6007",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL ESPECIAL",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 20150
+  },
+  {
+    "subject": "IQUI6402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA SEMESTRAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14944
+  },
+  {
+    "subject": "IQUI6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE PROPUESTA DOCTORAL",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14945
+  },
+  {
+    "subject": "IQUI6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 4CR",
+    "capacity": 0,
+    "enrolled": 3,
+    "available": -3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14946
+  },
+  {
+    "subject": "IQUI6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 8CR",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14947
+  },
+  {
+    "subject": "IQUI6982",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TESIS 12CR",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14948
+  },
+  {
+    "subject": "IQUI6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACIÓN DE TESIS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14949
+  },
+  {
+    "subject": "IQUI6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA ESTUDIANTES EXTERNOS",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NOVA RINCON ARLEY FERNANDO"
+    ],
+    "crn": 14950
+  }
+]

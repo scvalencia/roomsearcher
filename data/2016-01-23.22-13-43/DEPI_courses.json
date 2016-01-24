@@ -1,0 +1,51 @@
+[
+  {
+    "subject": "DEPI4104",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PATENTES",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ORTEGA DIAZ JUAN FRANCISCO"
+    ],
+    "crn": 21119
+  },
+  {
+    "subject": "DEPI4105",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DISEÑO INDUST.SECRETO EMPRESAR",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "HERRAN FRANCISCO",
+      "TIRADO ROY IRENE"
+    ],
+    "crn": 21120
+  },
+  {
+    "subject": "DEPI4106",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DE LAS NUEVAS TECNOLOGIAS",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REMOLINA ANGARITA NELSON"
+    ],
+    "crn": 21121
+  }
+]

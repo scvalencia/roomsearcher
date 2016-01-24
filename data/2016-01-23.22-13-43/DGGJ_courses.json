@@ -1,0 +1,80 @@
+[
+  {
+    "subject": "DGGJ4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO DE INVESTIGACION (I)",
+    "capacity": 20,
+    "enrolled": 7,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "111B"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "OTALORA LOZANO GUILLERMO"
+    ],
+    "crn": 19850
+  },
+  {
+    "subject": "DGGJ4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROBLEMAS ADMON DE JUSTICIA II",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "305"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LA ROTTA UPRIMY MIGUEL"
+    ],
+    "crn": 19852
+  },
+  {
+    "subject": "DGGJ4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "CONFLIC. LIGITIGIOS Y PROCESOS",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "200"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "LOPEZ MEDINA DIEGO EDUARDO"
+    ],
+    "crn": 19853
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "subject": "MBIT4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "HABILIDADES GERENCIALES EN TI",
+    "capacity": 33,
+    "enrolled": 33,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "0900",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MORALES VALENZUELA ANDRES MAURICIO",
+      "NEIRA DE OSPINA DIANA",
+      "ORDUZ BARON MARIA ISABEL"
+    ],
+    "crn": 16852
+  },
+  {
+    "subject": "MBIT4101",
+    "section": 2,
+    "credits": 4.0,
+    "title": "HABILIDADES GERENCIALES EN TI",
+    "capacity": 33,
+    "enrolled": 32,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "0900",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "MORALES VALENZUELA ANDRES MAURICIO",
+      "NEIRA DE OSPINA DIANA",
+      "ORDUZ BARON MARIA ISABEL"
+    ],
+    "crn": 20710
+  },
+  {
+    "subject": "MBIT4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FINANZAS Y MERCADEO ESTRAT.",
+    "capacity": 35,
+    "enrolled": 36,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "LOPEZ FAJARDO MARIANO ALBERTO",
+      "PEÑALOSA ARGUIJO MARIA ALEJANDRA"
+    ],
+    "crn": 19970
+  },
+  {
+    "subject": "MBIT4103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FORMACIÓN DIRECTIVOS TI",
+    "capacity": 35,
+    "enrolled": 36,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "MOSQUERA QUIJANO LUIS JAVIER",
+      "BOTERO VILLA CESAR AUGUSTO"
+    ],
+    "crn": 17324
+  },
+  {
+    "subject": "MBIT4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "EMPRENDIMIENTO Y COMERCIO ELEC",
+    "capacity": 30,
+    "enrolled": 25,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "TORO CORDOBA VICTOR MANUEL",
+      "RUEDA FAJARDO FRANCISCO"
+    ],
+    "crn": 13984
+  },
+  {
+    "subject": "MBIT4201",
+    "section": 2,
+    "credits": 4.0,
+    "title": "EMPRENDIMIENTO Y COMERCIO ELEC",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "RUEDA FAJARDO FRANCISCO",
+      "TORO CORDOBA VICTOR MANUEL"
+    ],
+    "crn": 16853
+  },
+  {
+    "subject": "MBIT4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GOBIERNO DE TI",
+    "capacity": 35,
+    "enrolled": 33,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "110"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ ROJAS OSCAR FERNANDO",
+      "PEREZ JARAMILLO DIEGO HERNAN",
+      "GOMEZ DIAZ RICARDO"
+    ],
+    "crn": 13985
+  },
+  {
+    "subject": "MBIT4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "BUSINESS ANALYTICS",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "516"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "VILLAMIL GIRALDO MARIA DEL PILAR",
+      "DIAZ VELASCO JOSE DARIO"
+    ],
+    "crn": 14598
+  },
+  {
+    "subject": "MBIT4204",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GESTIÓN DE SERVICIOS DE TI",
+    "capacity": 35,
+    "enrolled": 23,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "AVILA CIFUENTES OSCAR JAVIER",
+      "CAMACHO BONILLA SANDRA PATRICIA",
+      "MOLINA FOCAZZIO LUCIO AUGUSTO"
+    ],
+    "crn": 14599
+  },
+  {
+    "subject": "MBIT4206",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INTEGRACIÓN SIST. INFORMAC.",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ PUCCINI MARIO EDUARDO",
+      "NARANJO NARVAEZ MAURICIO",
+      "MENESES RAMIREZ RAFAEL GUSTAVO"
+    ],
+    "crn": 19969
+  },
+  {
+    "subject": "MBIT4207",
+    "section": 1,
+    "credits": 4.0,
+    "title": "NEGOCIO PRODUCCIÓN OPERACIÓN",
+    "capacity": 35,
+    "enrolled": 19,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "514"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "VELASCO NUBIA"
+    ],
+    "crn": 19536
+  },
+  {
+    "subject": "MBIT4209",
+    "section": 1,
+    "credits": 4.0,
+    "title": "OFIC.GERENCIA PROYECTOS (PMO)",
+    "capacity": 35,
+    "enrolled": 24,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "GUERRERO AMAYA MANUEL",
+      "LOPEZ JULIO"
+    ],
+    "crn": 18761
+  },
+  {
+    "subject": "MBIT4210",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TI PARA SECTOR PÚBLICO",
+    "capacity": 32,
+    "enrolled": 30,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "202"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "SIN TRIANA HUGO",
+      "TORRES PAEZ JAVIER ORLANDO",
+      "PIMIENTO QUINTERO FRANCY JOHANNA"
+    ],
+    "crn": 17326
+  },
+  {
+    "subject": "MBIT4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO FINAL",
+    "capacity": 40,
+    "enrolled": 23,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "VILLALOBOS SALCEDO JORGE ALBERTO",
+      "TORO CORDOBA VICTOR MANUEL",
+      "SANCHEZ PUCCINI MARIO EDUARDO"
+    ],
+    "crn": 17118
+  },
+  {
+    "subject": "MBIT4302",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 1",
+    "capacity": 0,
+    "enrolled": 3,
+    "available": -3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERNANDEZ JUAN PABLO"
+    ],
+    "crn": 17119
+  },
+  {
+    "subject": "MBIT4303",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 2",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FERNANDEZ JUAN PABLO"
+    ],
+    "crn": 17120
+  }
+]
