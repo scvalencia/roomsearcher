@@ -1,0 +1,1790 @@
+[
+  {
+    "subject": "IBIO1010",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INTRO. A LA ING. BIOMÉDICA",
+    "capacity": 50,
+    "enrolled": 47,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GAITAN LEON DIANA MARCELA"
+    ],
+    "crn": 12290
+  },
+  {
+    "subject": "IBIO1010",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INTRO. A LA ING. BIOMÉDICA",
+    "capacity": 54,
+    "enrolled": 46,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "213"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21002
+  },
+  {
+    "subject": "IBIO1011",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB INTRO ING BIOMÉDICA",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GAITAN LEON DIANA MARCELA",
+      "SANCHEZ BAUTISTA JORGE ANDRES"
+    ],
+    "crn": 12598
+  },
+  {
+    "subject": "IBIO1011",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB INTRO ING BIOMÉDICA",
+    "capacity": 24,
+    "enrolled": 25,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "202"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GAITAN LEON DIANA MARCELA",
+      "SANCHEZ BAUTISTA JORGE ANDRES"
+    ],
+    "crn": 13965
+  },
+  {
+    "subject": "IBIO1011",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB INTRO ING BIOMÉDICA",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO",
+      "VALENCIA DELGADO ALVARO SANTIAGO"
+    ],
+    "crn": 21005
+  },
+  {
+    "subject": "IBIO1011",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB INTRO ING BIOMÉDICA",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO",
+      "VALENCIA DELGADO ALVARO SANTIAGO"
+    ],
+    "crn": 16861
+  },
+  {
+    "subject": "IBIO1110",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 25,
+    "enrolled": 22,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13252
+  },
+  {
+    "subject": "IBIO1110",
+    "section": 2,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13254
+  },
+  {
+    "subject": "IBIO1110",
+    "section": 3,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "226"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21008
+  },
+  {
+    "subject": "IBIO1110",
+    "section": 4,
+    "credits": 0.0,
+    "title": "PROGRAMA DE ACOMPAÑAMIENTO",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13253
+  },
+  {
+    "subject": "IBIO1999",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MONITORIA IBIO",
+    "capacity": 0,
+    "enrolled": 9,
+    "available": -9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 18992
+  },
+  {
+    "subject": "IBIO2099",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FISIOL. CUANTIT. ING. BIOMEDI1",
+    "capacity": 100,
+    "enrolled": 102,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "702"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "615"
+        },
+        "initHour": "1700",
+        "finalHour": "1750"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "805"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL"
+    ],
+    "crn": 21010
+  },
+  {
+    "subject": "IBIO2099L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB.FISIOLOG.CUANTIT.ING.BIOM1",
+    "capacity": 22,
+    "enrolled": 19,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "AYALA MONTAÑO STEFANY"
+    ],
+    "crn": 21012
+  },
+  {
+    "subject": "IBIO2099L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB.FISIOLOG.CUANTIT.ING.BIOM1",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "PU",
+          "number": "100"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "CALVACHI PRIETO PAOLA"
+    ],
+    "crn": 21014
+  },
+  {
+    "subject": "IBIO2099L",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB.FISIOLOG.CUANTIT.ING.BIOM1",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "405"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "AYALA MONTAÑO STEFANY"
+    ],
+    "crn": 21017
+  },
+  {
+    "subject": "IBIO2099L",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LAB.FISIOLOG.CUANTIT.ING.BIOM1",
+    "capacity": 22,
+    "enrolled": 20,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "AYALA MONTAÑO STEFANY"
+    ],
+    "crn": 21018
+  },
+  {
+    "subject": "IBIO2099L",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LAB.FISIOLOG.CUANTIT.ING.BIOM1",
+    "capacity": 22,
+    "enrolled": 21,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "603"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "CALVACHI PRIETO PAOLA"
+    ],
+    "crn": 21238
+  },
+  {
+    "subject": "IBIO2240",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROGRAMACION CIENTIFICA",
+    "capacity": 55,
+    "enrolled": 48,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO"
+    ],
+    "crn": 13066
+  },
+  {
+    "subject": "IBIO2241",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB PROGRAMACION CIENTIFICA",
+    "capacity": 28,
+    "enrolled": 23,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "108A"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO",
+      "VALENCIA DELGADO ALVARO SANTIAGO"
+    ],
+    "crn": 13627
+  },
+  {
+    "subject": "IBIO2241",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB PROGRAMACION CIENTIFICA",
+    "capacity": 27,
+    "enrolled": 25,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO",
+      "SANCHEZ BAUTISTA JORGE ANDRES"
+    ],
+    "crn": 13067
+  },
+  {
+    "subject": "IBIO2250",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FENÓMENOS DE TRANSPORTE BIOLÓG",
+    "capacity": 88,
+    "enrolled": 72,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "210"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 21034
+  },
+  {
+    "subject": "IBIO2251",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. FENÓMENOS DE TRANSP. BIOL",
+    "capacity": 28,
+    "enrolled": 19,
+    "available": 9,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "309"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS",
+      "OLIVEROS DIAZ JULIETH PAOLA"
+    ],
+    "crn": 21035
+  },
+  {
+    "subject": "IBIO2251",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB. FENÓMENOS DE TRANSP. BIOL",
+    "capacity": 29,
+    "enrolled": 25,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS",
+      "OLIVEROS DIAZ JULIETH PAOLA"
+    ],
+    "crn": 21036
+  },
+  {
+    "subject": "IBIO2251",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB. FENÓMENOS DE TRANSP. BIOL",
+    "capacity": 29,
+    "enrolled": 28,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS",
+      "OLIVEROS DIAZ JULIETH PAOLA"
+    ],
+    "crn": 21037
+  },
+  {
+    "subject": "IBIO2560",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROC.SEÑALES E INST. BIOMED.",
+    "capacity": 70,
+    "enrolled": 60,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21038
+  },
+  {
+    "subject": "IBIO2560C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL.PROC.SEÑALES,INST.BIOMED",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "401"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO",
+      "OSORIO FORERO ALEJANDRO"
+    ],
+    "crn": 21067
+  },
+  {
+    "subject": "IBIO2560C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL.PROC.SEÑALES,INST.BIOMED",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "405"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21069
+  },
+  {
+    "subject": "IBIO2561",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB PROC. SEÑ. E INST. BIO.",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21040
+  },
+  {
+    "subject": "IBIO2561",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LAB PROC. SEÑ. E INST. BIO.",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21041
+  },
+  {
+    "subject": "IBIO2561",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LAB PROC. SEÑ. E INST. BIO.",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21042
+  },
+  {
+    "subject": "IBIO2650",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOMATERIALES",
+    "capacity": 90,
+    "enrolled": 77,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "803"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "801"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA"
+    ],
+    "crn": 21045
+  },
+  {
+    "subject": "IBIO2651",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOMATERIALES",
+    "capacity": 18,
+    "enrolled": 17,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA",
+      "TALERO NIÑO VIVIAN ANDREA"
+    ],
+    "crn": 21046
+  },
+  {
+    "subject": "IBIO2651",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOMATERIALES",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA",
+      "TALERO NIÑO VIVIAN ANDREA"
+    ],
+    "crn": 21047
+  },
+  {
+    "subject": "IBIO2651",
+    "section": 3,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOMATERIALES",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA",
+      "CUELLAR ENTRENA MONICA"
+    ],
+    "crn": 21048
+  },
+  {
+    "subject": "IBIO2651",
+    "section": 4,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOMATERIALES",
+    "capacity": 18,
+    "enrolled": 18,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA",
+      "CUELLAR ENTRENA MONICA"
+    ],
+    "crn": 21049
+  },
+  {
+    "subject": "IBIO2651",
+    "section": 5,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOMATERIALES",
+    "capacity": 18,
+    "enrolled": 12,
+    "available": 6,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRETE RODRIGUEZ SANDRA CAROLINA",
+      "TALERO NIÑO VIVIAN ANDREA"
+    ],
+    "crn": 21050
+  },
+  {
+    "subject": "IBIO2780",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE DISEÑO 1",
+    "capacity": 40,
+    "enrolled": 8,
+    "available": 32,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "402"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OLARTE SIERRA MARIA FERNANDA",
+      "VELEZ RUEDA LUISA FERNANDA"
+    ],
+    "crn": 13068
+  },
+  {
+    "subject": "IBIO2780C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. PROYECTO DE DISEÑO 1",
+    "capacity": 40,
+    "enrolled": 8,
+    "available": 32,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "OLARTE SIERRA MARIA FERNANDA"
+    ],
+    "crn": 21177
+  },
+  {
+    "subject": "IBIO3171",
+    "section": 1,
+    "credits": 3.0,
+    "title": "APPLIED BIOMECHANICS",
+    "capacity": 30,
+    "enrolled": 9,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "308"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SON JAEBUM"
+    ],
+    "crn": 21051
+  },
+  {
+    "subject": "IBIO3370",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NEUROCIENCIAS",
+    "capacity": 30,
+    "enrolled": 18,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "212"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "VALDERRAMA MARIO"
+    ],
+    "crn": 21053
+  },
+  {
+    "subject": "IBIO3570",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOSENSORES",
+    "capacity": 80,
+    "enrolled": 48,
+    "available": 32,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "806"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GOMEZ MARTINEZ RODRIGO"
+    ],
+    "crn": 21052
+  },
+  {
+    "subject": "IBIO3702",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO INVESTIGAC.INGENIERIA",
+    "capacity": 0,
+    "enrolled": 8,
+    "available": -8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 17008
+  },
+  {
+    "subject": "IBIO3870",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE DISEÑO 2",
+    "capacity": 20,
+    "enrolled": 4,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "002"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CASTRO PAEZ CAMILA IRENE"
+    ],
+    "crn": 13069
+  },
+  {
+    "subject": "IBIO3870",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PROYECTO DE DISEÑO 2",
+    "capacity": 0,
+    "enrolled": 23,
+    "available": -23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 21143
+  },
+  {
+    "subject": "IBIO3870C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. PROYECTO DE DISEÑO 2",
+    "capacity": 40,
+    "enrolled": 4,
+    "available": 36,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "CASTRO PAEZ CAMILA IRENE"
+    ],
+    "crn": 21185
+  },
+  {
+    "subject": "IBIO3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA PROFESIONAL",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 15306
+  },
+  {
+    "subject": "IBIO4217",
+    "section": 1,
+    "credits": 4.0,
+    "title": "FISIOLOGÍA AVANZADA",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL"
+    ],
+    "crn": 21055
+  },
+  {
+    "subject": "IBIO4217C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. FISIOLOGÍA AVANZADA",
+    "capacity": 15,
+    "enrolled": 12,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "CALVACHI PRIETO PAOLA"
+    ],
+    "crn": 21056
+  },
+  {
+    "subject": "IBIO4217L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LAB. FISIOLOGÍA AVANZADA",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "209"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "CORDOVEZ JUAN MANUEL",
+      "CALVACHI PRIETO PAOLA"
+    ],
+    "crn": 21057
+  },
+  {
+    "subject": "IBIO4401",
+    "section": 1,
+    "credits": 4.0,
+    "title": "BIOLOGIA AVANZADA",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "207"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RENGIFO IBAÑEZ MARIA CAMILA"
+    ],
+    "crn": 21058
+  },
+  {
+    "subject": "IBIO4401L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO BIOLOGIA AVANZADA",
+    "capacity": 30,
+    "enrolled": 15,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "310"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RENGIFO IBAÑEZ MARIA CAMILA",
+      "CUELLAR ENTRENA MONICA"
+    ],
+    "crn": 21112
+  },
+  {
+    "subject": "IBIO4680",
+    "section": 1,
+    "credits": 4.0,
+    "title": "VISION POR COMPUTADOR",
+    "capacity": 65,
+    "enrolled": 20,
+    "available": 45,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "404"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO"
+    ],
+    "crn": 21059
+  },
+  {
+    "subject": "IBIO4680L",
+    "section": 1,
+    "credits": 0.0,
+    "title": "LABORATORIO VISION COMPUTADOR",
+    "capacity": 32,
+    "enrolled": 19,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "107"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO"
+    ],
+    "crn": 21114
+  },
+  {
+    "subject": "IBIO4680L",
+    "section": 2,
+    "credits": 0.0,
+    "title": "LABORATORIO VISION COMPUTADOR",
+    "capacity": 33,
+    "enrolled": 0,
+    "available": 33,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "207"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ARBELAEZ ESCALANTE PABLO"
+    ],
+    "crn": 21117
+  },
+  {
+    "subject": "IBIO4702",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO ESPECIAL MAESTRIA",
+    "capacity": 0,
+    "enrolled": 9,
+    "available": -9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 17096
+  },
+  {
+    "subject": "IBIO4703",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PROYECTO ESPECIAL MAESTRIA",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 19045
+  },
+  {
+    "subject": "IBIO4704",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO ESPECIAL MAESTRIA 2",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 19080
+  },
+  {
+    "subject": "IBIO4770",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SEMINARIO DE INVESTIGACIÓN",
+    "capacity": 50,
+    "enrolled": 16,
+    "available": 34,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "OLARTE SIERRA MARIA FERNANDA"
+    ],
+    "crn": 13695
+  },
+  {
+    "subject": "IBIO4780",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS I",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14107
+  },
+  {
+    "subject": "IBIO4790",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS II",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 15000
+  },
+  {
+    "subject": "IBIO4970",
+    "section": 1,
+    "credits": 4.0,
+    "title": "BIODISEÑO AVANZADO",
+    "capacity": 30,
+    "enrolled": 13,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "303"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OLARTE SIERRA MARIA FERNANDA"
+    ],
+    "crn": 21060
+  },
+  {
+    "subject": "IBIO6002",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 1",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14080
+  },
+  {
+    "subject": "IBIO6003",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 2",
+    "capacity": 4,
+    "enrolled": 1,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14081
+  },
+  {
+    "subject": "IBIO6004",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 3",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14082
+  },
+  {
+    "subject": "IBIO6005",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 4",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14083
+  },
+  {
+    "subject": "IBIO6006",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIAL 5",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14084
+  },
+  {
+    "subject": "IBIO6007",
+    "section": 1,
+    "credits": 1.0,
+    "title": "TUTORIAL ESPECIAL",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21061
+  },
+  {
+    "subject": "IBIO6402",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTÍA SEMESTRAL",
+    "capacity": 1,
+    "enrolled": 2,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14057
+  },
+  {
+    "subject": "IBIO6961",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO DIRIGIDO 1",
+    "capacity": 4,
+    "enrolled": 1,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14058
+  },
+  {
+    "subject": "IBIO6962",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO DIRIGIDO 2",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14059
+  },
+  {
+    "subject": "IBIO6963",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO DIRIGIDO 3",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14060
+  },
+  {
+    "subject": "IBIO6970",
+    "section": 1,
+    "credits": 0.0,
+    "title": "EXAMEN DE PROPUESTA DOCTORAL",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14061
+  },
+  {
+    "subject": "IBIO6980",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TESIS 4CR",
+    "capacity": 4,
+    "enrolled": 2,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14062
+  },
+  {
+    "subject": "IBIO6981",
+    "section": 1,
+    "credits": 8.0,
+    "title": "TESIS 8CR",
+    "capacity": 4,
+    "enrolled": 0,
+    "available": 4,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14063
+  },
+  {
+    "subject": "IBIO6982",
+    "section": 1,
+    "credits": 12.0,
+    "title": "TESIS 12CR",
+    "capacity": 4,
+    "enrolled": 1,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14064
+  },
+  {
+    "subject": "IBIO6990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "SUSTENTACION DE TESIS",
+    "capacity": 0,
+    "enrolled": 1,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BRICENO TRIANA JUAN CARLOS"
+    ],
+    "crn": 14065
+  },
+  {
+    "subject": "IBIO6997",
+    "section": 1,
+    "credits": 0.0,
+    "title": "PASANTIA ESTUDIANTES EXTERNOS",
+    "capacity": 4,
+    "enrolled": 2,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 21062
+  }
+]

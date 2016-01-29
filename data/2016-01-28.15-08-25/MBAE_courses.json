@@ -1,0 +1,243 @@
+[
+  {
+    "subject": "MBAE4123",
+    "section": 1,
+    "credits": 2.0,
+    "title": "NEGOCIACION",
+    "capacity": 50,
+    "enrolled": 25,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RESTREPO SAENZ PABLO FERNANDO"
+    ],
+    "crn": 21202
+  },
+  {
+    "subject": "MBAE4132",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EMPRENDIMIENTO E INNOVACION",
+    "capacity": 50,
+    "enrolled": 35,
+    "available": 15,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VESGA RAFAEL"
+    ],
+    "crn": 19524
+  },
+  {
+    "subject": "MBAE4222",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PLANEACION FINANCIERA",
+    "capacity": 50,
+    "enrolled": 22,
+    "available": 28,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ TORRES TERESA"
+    ],
+    "crn": 19525
+  },
+  {
+    "subject": "MBAE4235",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EVALUAC FINANC DE INVERSIONES",
+    "capacity": 50,
+    "enrolled": 23,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ARANGO LONDOÑO CARLOS MARIO"
+    ],
+    "crn": 19526
+  },
+  {
+    "subject": "MBAE4501",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MERC.EMERG. ASIA Y AMERIC. LAT",
+    "capacity": 50,
+    "enrolled": 26,
+    "available": 24,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CARRILLO JUAN"
+    ],
+    "crn": 19528
+  },
+  {
+    "subject": "MBAE4522",
+    "section": 1,
+    "credits": 2.0,
+    "title": "IMPLEMENTACION Y CONTROL ESTRA",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SERNA GOMEZ JOSE HUMBERTO",
+      "SERNA HERNANDEZ SERGIO HUMBERTO"
+    ],
+    "crn": 20111
+  },
+  {
+    "subject": "MBAE4615",
+    "section": 1,
+    "credits": 0.0,
+    "title": "DIAGNOSTICO HABILIDADES GERENC",
+    "capacity": 50,
+    "enrolled": 0,
+    "available": 50,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ELSIN BARRAGAN LUISA FERNANDA"
+    ],
+    "crn": 17322
+  },
+  {
+    "subject": "MBAE4631",
+    "section": 1,
+    "credits": 2.0,
+    "title": "EL LIDER Y SU ETICA",
+    "capacity": 50,
+    "enrolled": 22,
+    "available": 28,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ COUTURE GUSTAVO ALFONSO"
+    ],
+    "crn": 19529
+  },
+  {
+    "subject": "MBAE4632",
+    "section": 1,
+    "credits": 2.0,
+    "title": "DIMENSIONES DEL LIDER",
+    "capacity": 50,
+    "enrolled": 22,
+    "available": 28,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUNOZ CIFUENTES JESUS"
+    ],
+    "crn": 19530
+  },
+  {
+    "subject": "MBAE4633",
+    "section": 1,
+    "credits": 2.0,
+    "title": "PAPEL GERENCIAL DEL LIDER",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MUNOZ CIFUENTES JESUS"
+    ],
+    "crn": 20351
+  },
+  {
+    "subject": "MBAE4654",
+    "section": 1,
+    "credits": 2.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTANE ERIC"
+    ],
+    "crn": 20125
+  },
+  {
+    "subject": "MBAE4654",
+    "section": 2,
+    "credits": 2.0,
+    "title": "ORGANIZACIONES",
+    "capacity": 50,
+    "enrolled": 23,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUINTANE ERIC"
+    ],
+    "crn": 20352
+  },
+  {
+    "subject": "MBAE4663",
+    "section": 1,
+    "credits": 1.0,
+    "title": "HABILIDADES DIRECTIVAS",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CEPEDA ULLOA FERNANDO"
+    ],
+    "crn": 19531
+  },
+  {
+    "subject": "MBAE4713",
+    "section": 1,
+    "credits": 2.0,
+    "title": "INTERNACIONALIZ Y GLOB DE EMPR",
+    "capacity": 50,
+    "enrolled": 36,
+    "available": 14,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ANDONOVA VENETA"
+    ],
+    "crn": 20112
+  },
+  {
+    "subject": "MBAE4933",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PROYECTO DE GRADO",
+    "capacity": 50,
+    "enrolled": 0,
+    "available": 50,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ELSIN BARRAGAN LUISA FERNANDA"
+    ],
+    "crn": 14727
+  }
+]

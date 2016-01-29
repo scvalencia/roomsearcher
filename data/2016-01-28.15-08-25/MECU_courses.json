@@ -1,0 +1,138 @@
+[
+  {
+    "subject": "MECU4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PARADIGMAS DE LOS EST. CULT.",
+    "capacity": 15,
+    "enrolled": 7,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "210"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LOBO GREGORY"
+    ],
+    "crn": 11550
+  },
+  {
+    "subject": "MECU4104",
+    "section": 1,
+    "credits": 4.0,
+    "title": "AMERICA LATINA Y LOS EST CULT",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "311"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "RUTTER JENSEN CHLOE"
+    ],
+    "crn": 20863
+  },
+  {
+    "subject": "MECU4105",
+    "section": 1,
+    "credits": 4.0,
+    "title": "POLITICAS DE LA REPRESENTACION",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "108"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "MERLO ALESSANDRA"
+    ],
+    "crn": 20862
+  },
+  {
+    "subject": "MECU4201",
+    "section": 1,
+    "credits": 4.0,
+    "title": "SEMINARIO DE INVESTIGACION",
+    "capacity": 10,
+    "enrolled": 6,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "116"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LOUIS TATJANA JOHNANNA"
+    ],
+    "crn": 15811
+  },
+  {
+    "subject": "MECU4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIA DE INVESTIGACIÓN I",
+    "capacity": 30,
+    "enrolled": 3,
+    "available": 27,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "APARICIO CUERVO JUAN RICARDO"
+    ],
+    "crn": 10825
+  },
+  {
+    "subject": "MECU4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TUTORIA DE INVESTIGACIÓN II",
+    "capacity": 30,
+    "enrolled": 4,
+    "available": 26,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "APARICIO CUERVO JUAN RICARDO"
+    ],
+    "crn": 11000
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "subject": "DPUB4300",
+    "section": 1,
+    "credits": 4.0,
+    "title": "REGULACIÓN DE SERVICIOS PÚBLIC",
+    "capacity": 40,
+    "enrolled": 15,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "DE VIVERO ARCINIEGAS FELIPE"
+    ],
+    "crn": 19975
+  },
+  {
+    "subject": "DPUB4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "DERECHO AMBIENTAL",
+    "capacity": 40,
+    "enrolled": 15,
+    "available": 25,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "511"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "DE VIVERO ARCINIEGAS FELIPE",
+      "ZAPATA LUGO JOSE VICENTE"
+    ],
+    "crn": 19253
+  },
+  {
+    "subject": "DPUB4401",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 40,
+    "enrolled": 23,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DE VIVERO ARCINIEGAS FELIPE",
+      "CAMPOS GRANJA JULIAN RICARDO",
+      "SALAZAR MUÑOZ JORGE IVAN"
+    ],
+    "crn": 19252
+  }
+]

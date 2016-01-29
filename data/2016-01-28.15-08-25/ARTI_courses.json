@@ -1,0 +1,269 @@
+[
+  {
+    "subject": "ARTI4101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "GERENCIA DE PROYECTOS ARQUITEC",
+    "capacity": 40,
+    "enrolled": 33,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "205"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "CUETO ALBERTO",
+      "GONGORA MORENO EDUARDO"
+    ],
+    "crn": 13183
+  },
+  {
+    "subject": "ARTI4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "COMUNICACION EFECTIVA",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "BOTERO URIBE PATRICIA",
+      "BARBOZA NAVAS AMPARO",
+      "DUQUE SALAZAR ANA LUCIA"
+    ],
+    "crn": 13579
+  },
+  {
+    "subject": "ARTI4103",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA DE NEGOCIO & TI",
+    "capacity": 40,
+    "enrolled": 36,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "306"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "VILLALOBOS SALCEDO JORGE ALBERTO"
+    ],
+    "crn": 12663
+  },
+  {
+    "subject": "ARTI4106",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA EMPRESARIAL",
+    "capacity": 42,
+    "enrolled": 42,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "B",
+          "number": "202"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "ARIAS BEDOYA JORGE HUMBERTO"
+    ],
+    "crn": 13982
+  },
+  {
+    "subject": "ARTI4202",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA DE INFORMACIÓN",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "510"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "SARMENTO GUEVARA JUAN MANUEL",
+      "ARIAS BEDOYA JORGE HUMBERTO"
+    ],
+    "crn": 12667
+  },
+  {
+    "subject": "ARTI4203",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA DE INFRAESTRUCTUR",
+    "capacity": 40,
+    "enrolled": 39,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "203"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "CASTRO BARRERA HAROLD ENRIQUE",
+      "RUEDA FAJARDO FRANCISCO",
+      "GOMEZ DIAZ RAFAEL ENRIQUE"
+    ],
+    "crn": 12665
+  },
+  {
+    "subject": "ARTI4204",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA DE SEGURIDAD",
+    "capacity": 40,
+    "enrolled": 26,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "DONOSO YESID",
+      "RUEDA RODRIGUEZ SANDRA JULIETA"
+    ],
+    "crn": 13185
+  },
+  {
+    "subject": "ARTI4205",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURA PROCESOS NEGOCIO",
+    "capacity": 40,
+    "enrolled": 25,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "206"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ PUCCINI MARIO EDUARDO"
+    ],
+    "crn": 13285
+  },
+  {
+    "subject": "ARTI4208",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ARQUITECTURAS NUEVA GENERACIÓN",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "515"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "CORREAL DARIO"
+    ],
+    "crn": 20010
+  },
+  {
+    "subject": "ARTI4301",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PROYECTO FINAL",
+    "capacity": 40,
+    "enrolled": 30,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1800",
+        "finalHour": "2050"
+      }
+    ],
+    "instructors": [
+      "CORREAL DARIO"
+    ],
+    "crn": 13582
+  }
+]

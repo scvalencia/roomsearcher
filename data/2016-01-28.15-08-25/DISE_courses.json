@@ -1,0 +1,3878 @@
+[
+  {
+    "subject": "DISE1000",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11528
+  },
+  {
+    "subject": "DISE1000",
+    "section": 2,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11621
+  },
+  {
+    "subject": "DISE1000",
+    "section": 3,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11639
+  },
+  {
+    "subject": "DISE1000",
+    "section": 4,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11640
+  },
+  {
+    "subject": "DISE1000",
+    "section": 5,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 12199
+  },
+  {
+    "subject": "DISE1000",
+    "section": 6,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 12200
+  },
+  {
+    "subject": "DISE1000",
+    "section": 7,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 12201
+  },
+  {
+    "subject": "DISE1000",
+    "section": 8,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 13012
+  },
+  {
+    "subject": "DISE1000",
+    "section": 9,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 13013
+  },
+  {
+    "subject": "DISE1000",
+    "section": 10,
+    "credits": 0.0,
+    "title": "INDUCCIÓN TALLER-LABORATORIO",
+    "capacity": 0,
+    "enrolled": 9,
+    "available": -9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 17123
+  },
+  {
+    "subject": "DISE1106",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 1",
+    "capacity": 30,
+    "enrolled": 35,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA",
+      "ANTOLINEZ BENAVIDES LINA MARCELA"
+    ],
+    "crn": 12022
+  },
+  {
+    "subject": "DISE1106",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO 1",
+    "capacity": 30,
+    "enrolled": 35,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NAVARRO SANINT MIGUEL",
+      "AUNE KAREN"
+    ],
+    "crn": 12578
+  },
+  {
+    "subject": "DISE1106",
+    "section": 3,
+    "credits": 4.0,
+    "title": "ESTUDIO 1",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "BOTERO SANTOS SUSANA",
+      "TORGUET DOLZ ROSA MARIA"
+    ],
+    "crn": 12579
+  },
+  {
+    "subject": "DISE1106",
+    "section": 4,
+    "credits": 4.0,
+    "title": "ESTUDIO 1",
+    "capacity": 15,
+    "enrolled": 16,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO"
+    ],
+    "crn": 16854
+  },
+  {
+    "subject": "DISE1107",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 2",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA",
+      "ROJAS CESPEDES CAROLINA"
+    ],
+    "crn": 11303
+  },
+  {
+    "subject": "DISE1107",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO 2",
+    "capacity": 30,
+    "enrolled": 36,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FRANKE DE VERGARA ANNELIE",
+      "BARRAGAN HERNANDO"
+    ],
+    "crn": 11388
+  },
+  {
+    "subject": "DISE1107",
+    "section": 3,
+    "credits": 4.0,
+    "title": "ESTUDIO 2",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RIDONDELLI LIVIA",
+      "TREJOS SANCHEZ SOLANGY",
+      "RAMOS OBREGON DANIEL"
+    ],
+    "crn": 11389
+  },
+  {
+    "subject": "DISE1107",
+    "section": 4,
+    "credits": 4.0,
+    "title": "ESTUDIO 2",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "LASCAR ANGELICA",
+      "RAMOS OBREGON DANIEL"
+    ],
+    "crn": 18882
+  },
+  {
+    "subject": "DISE1204",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DEL DISEÑO",
+    "capacity": 40,
+    "enrolled": 40,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "403"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ AMAYA LUZ MARIELA"
+    ],
+    "crn": 10598
+  },
+  {
+    "subject": "DISE1204",
+    "section": 2,
+    "credits": 3.0,
+    "title": "HISTORIA DEL DISEÑO",
+    "capacity": 70,
+    "enrolled": 60,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PEÑA IGUAVITA CESAR AUGUSTO"
+    ],
+    "crn": 10724
+  },
+  {
+    "subject": "DISE1223B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COLOR, COLOR Y MAS COLOR",
+    "capacity": 57,
+    "enrolled": 61,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "509"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "QUIJANO AMPARO"
+    ],
+    "crn": 10668
+  },
+  {
+    "subject": "DISE1223B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COLOR, COLOR Y MAS COLOR",
+    "capacity": 57,
+    "enrolled": 59,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "KADAMANI ABIYOMA SAMIRA"
+    ],
+    "crn": 11085
+  },
+  {
+    "subject": "DISE1231B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "REIMAGINAR EL ESPACIO",
+    "capacity": 57,
+    "enrolled": 61,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "OSORIO HENRY"
+    ],
+    "crn": 10529
+  },
+  {
+    "subject": "DISE1240A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DEL TRAJE",
+    "capacity": 72,
+    "enrolled": 77,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ AMAYA LUZ MARIELA",
+      "REY ALVAREZ JUANA MARIA"
+    ],
+    "crn": 12276
+  },
+  {
+    "subject": "DISE1301",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO A MANO ALZADA",
+    "capacity": 40,
+    "enrolled": 41,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VASCO RUIZ GABRIEL EMILIO",
+      "TRUJILLO RUBIO RODRIGO"
+    ],
+    "crn": 10682
+  },
+  {
+    "subject": "DISE1301",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DIBUJO A MANO ALZADA",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ECHEVERRIA MARTINEZ CAMILA"
+    ],
+    "crn": 10712
+  },
+  {
+    "subject": "DISE1312",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TALLER DIGITAL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MORA CASTAÑEDA GUSTAVO ADOLFO"
+    ],
+    "crn": 10683
+  },
+  {
+    "subject": "DISE1312",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TALLER DIGITAL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MORA CASTAÑEDA GUSTAVO ADOLFO"
+    ],
+    "crn": 10701
+  },
+  {
+    "subject": "DISE1312",
+    "section": 3,
+    "credits": 3.0,
+    "title": "TALLER DIGITAL",
+    "capacity": 23,
+    "enrolled": 23,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PETERS RADA VICTORIA EUGENIA"
+    ],
+    "crn": 10702
+  },
+  {
+    "subject": "DISE1312",
+    "section": 4,
+    "credits": 3.0,
+    "title": "TALLER DIGITAL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MORENO HOFFMAN ANDRES"
+    ],
+    "crn": 10805
+  },
+  {
+    "subject": "DISE1312",
+    "section": 5,
+    "credits": 3.0,
+    "title": "TALLER DIGITAL",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MORENO HOFFMAN ANDRES"
+    ],
+    "crn": 14141
+  },
+  {
+    "subject": "DISE1314",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EXPRESIÓN LIBRE",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AUNE KAREN"
+    ],
+    "crn": 10684
+  },
+  {
+    "subject": "DISE1316",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DIBUJO DE FIGURA HUMANA",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "TRUJILLO RUBIO RODRIGO"
+    ],
+    "crn": 11529
+  },
+  {
+    "subject": "DISE1317",
+    "section": 1,
+    "credits": 3.0,
+    "title": "NARRATIVAS VISUALES",
+    "capacity": 20,
+    "enrolled": 8,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PETERS RADA VICTORIA EUGENIA"
+    ],
+    "crn": 21172
+  },
+  {
+    "subject": "DISE1401",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PERSPECTIVA Y DESCRIPTIVA",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "LOPEZ FRANCISCO"
+    ],
+    "crn": 10913
+  },
+  {
+    "subject": "DISE1403",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INGENIERÍA DE PAPEL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "SIERRA RODRIGUEZ FERNANDO"
+    ],
+    "crn": 10685
+  },
+  {
+    "subject": "DISE1403",
+    "section": 2,
+    "credits": 3.0,
+    "title": "INGENIERÍA DE PAPEL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "SIERRA RODRIGUEZ FERNANDO"
+    ],
+    "crn": 10995
+  },
+  {
+    "subject": "DISE1403",
+    "section": 3,
+    "credits": 3.0,
+    "title": "INGENIERÍA DE PAPEL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SIERRA RODRIGUEZ FERNANDO"
+    ],
+    "crn": 13150
+  },
+  {
+    "subject": "DISE1405",
+    "section": 1,
+    "credits": 3.0,
+    "title": "M-T: EXPRESIÓN TRIDIMENSIONAL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PINILLA MARIO"
+    ],
+    "crn": 13161
+  },
+  {
+    "subject": "DISE1405",
+    "section": 2,
+    "credits": 3.0,
+    "title": "M-T: EXPRESIÓN TRIDIMENSIONAL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ABARCA PEIRO DAMIAN"
+    ],
+    "crn": 13162
+  },
+  {
+    "subject": "DISE1405",
+    "section": 3,
+    "credits": 3.0,
+    "title": "M-T: EXPRESIÓN TRIDIMENSIONAL",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ JOSE MANUEL"
+    ],
+    "crn": 13163
+  },
+  {
+    "subject": "DISE1405",
+    "section": 4,
+    "credits": 3.0,
+    "title": "M-T: EXPRESIÓN TRIDIMENSIONAL",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ JOSE MANUEL"
+    ],
+    "crn": 13164
+  },
+  {
+    "subject": "DISE1415",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIOS MIXTOS",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FRANCO FRANCO ELSA"
+    ],
+    "crn": 13112
+  },
+  {
+    "subject": "DISE1415",
+    "section": 2,
+    "credits": 3.0,
+    "title": "MEDIOS MIXTOS",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FRANCO FRANCO ELSA"
+    ],
+    "crn": 15111
+  },
+  {
+    "subject": "DISE1501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BOCETACIÓN DE IDEAS",
+    "capacity": 60,
+    "enrolled": 46,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "T",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OSORIO HENRY"
+    ],
+    "crn": 12024
+  },
+  {
+    "subject": "DISE2100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 3",
+    "capacity": 30,
+    "enrolled": 31,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ VIVEROS JUAN MANUEL",
+      "MOSQUERA NAVIA CARLOS DAVID JOSE"
+    ],
+    "crn": 11304
+  },
+  {
+    "subject": "DISE2100",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO 3",
+    "capacity": 30,
+    "enrolled": 29,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "TORRES BOLIVAR MATEO",
+      "CROSSLEY URREGO ANDREA CATALINA"
+    ],
+    "crn": 11390
+  },
+  {
+    "subject": "DISE2100",
+    "section": 3,
+    "credits": 4.0,
+    "title": "ESTUDIO 3",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "NIEMAN JANSSEN CHRISTIAAN JOB",
+      "SANCHEZ ALDANA ELIANA MARIA"
+    ],
+    "crn": 11391
+  },
+  {
+    "subject": "DISE2101",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 4",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ ALDANA ELIANA MARIA",
+      "GALLO HERRAN LUZ ALBA"
+    ],
+    "crn": 11305
+  },
+  {
+    "subject": "DISE2101",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO 4",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "NAVARRO SANINT MIGUEL",
+      "TORGUET DOLZ ROSA MARIA"
+    ],
+    "crn": 11392
+  },
+  {
+    "subject": "DISE2101",
+    "section": 3,
+    "credits": 4.0,
+    "title": "ESTUDIO 4",
+    "capacity": 15,
+    "enrolled": 15,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1100",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ATUESTA ARANGO JUAN GERMAN"
+    ],
+    "crn": 11393
+  },
+  {
+    "subject": "DISE2112",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 5: PRODUCCIÓN CREATIVA",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO",
+      "MOLANO GRANADOS GINNA SORAYA"
+    ],
+    "crn": 13267
+  },
+  {
+    "subject": "DISE2122",
+    "section": 1,
+    "credits": 4.0,
+    "title": "ESTUDIO 5: DIRECCIÓN CREATIVA",
+    "capacity": 30,
+    "enrolled": 35,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "0900",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "AUNE KAREN",
+      "BOTERO SANTOS SUSANA"
+    ],
+    "crn": 11530
+  },
+  {
+    "subject": "DISE2122",
+    "section": 2,
+    "credits": 4.0,
+    "title": "ESTUDIO 5: DIRECCIÓN CREATIVA",
+    "capacity": 30,
+    "enrolled": 28,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0850"
+      }
+    ],
+    "instructors": [
+      "AGUDELO BERNAL ADRIANA CAROLINA",
+      "RONDEROS LOPEZ DANIEL ERNESTO"
+    ],
+    "crn": 21252
+  },
+  {
+    "subject": "DISE2200",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CULTURAS VISUALES",
+    "capacity": 50,
+    "enrolled": 60,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RODAS MAURICIO"
+    ],
+    "crn": 10526
+  },
+  {
+    "subject": "DISE2200",
+    "section": 2,
+    "credits": 3.0,
+    "title": "CULTURAS VISUALES",
+    "capacity": 50,
+    "enrolled": 48,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "202"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "RODAS MAURICIO"
+    ],
+    "crn": 10527
+  },
+  {
+    "subject": "DISE2306",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRODUCTO 1",
+    "capacity": 35,
+    "enrolled": 45,
+    "available": -10,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "304"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LASCAR ANGELICA"
+    ],
+    "crn": 10914
+  },
+  {
+    "subject": "DISE2306",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRODUCTO 1",
+    "capacity": 35,
+    "enrolled": 42,
+    "available": -7,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "402"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "DE FRANCISCO VELA SANTIAGO"
+    ],
+    "crn": 12133
+  },
+  {
+    "subject": "DISE2307",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRODUCTO 2",
+    "capacity": 75,
+    "enrolled": 44,
+    "available": 31,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "615"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NIEMAN JANSSEN CHRISTIAAN JOB"
+    ],
+    "crn": 10915
+  },
+  {
+    "subject": "DISE2308",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRODUCTO 3",
+    "capacity": 70,
+    "enrolled": 53,
+    "available": 17,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ PEREZ MARIA DE LOS A"
+    ],
+    "crn": 10916
+  },
+  {
+    "subject": "DISE2308",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRODUCTO 3",
+    "capacity": 0,
+    "enrolled": 2,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "615"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NIEMAN JANSSEN CHRISTIAAN JOB"
+    ],
+    "crn": 18832
+  },
+  {
+    "subject": "DISE2309",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRODUCTO 4",
+    "capacity": 70,
+    "enrolled": 49,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "ZAPATA VANEGAS FREDY"
+    ],
+    "crn": 10917
+  },
+  {
+    "subject": "DISE2356",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMUNICACIÓN 1",
+    "capacity": 80,
+    "enrolled": 86,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "104"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "BERNAL DE ALARCON PATRICIA C"
+    ],
+    "crn": 10918
+  },
+  {
+    "subject": "DISE2357",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMUNICACIÓN 2",
+    "capacity": 80,
+    "enrolled": 50,
+    "available": 30,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "802"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "VANEGAS MENGUAN NEFTALI"
+    ],
+    "crn": 10919
+  },
+  {
+    "subject": "DISE2358",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMUNICACIÓN 3",
+    "capacity": 70,
+    "enrolled": 63,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "TAMAYO NIETO RICHARD"
+    ],
+    "crn": 11056
+  },
+  {
+    "subject": "DISE2359",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COMUNICACIÓN 4",
+    "capacity": 70,
+    "enrolled": 46,
+    "available": 24,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "R",
+          "number": "112"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ VERGARA ROXANA",
+      "LOZANO ARANGO JUAN JOSE"
+    ],
+    "crn": 10920
+  },
+  {
+    "subject": "DISE2501",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: PLÁSTICOS",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ JOSE MANUEL"
+    ],
+    "crn": 12594
+  },
+  {
+    "subject": "DISE2502",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: CERÁMICA",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ECHAVARRIA QUINCHIA MARGARITA MARIA"
+    ],
+    "crn": 13188
+  },
+  {
+    "subject": "DISE2503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: MADERA",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "CC",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ PEREZ MARIA DE LOS A"
+    ],
+    "crn": 13190
+  },
+  {
+    "subject": "DISE2506",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO EN MEDIOS INTERACTIVOS",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "103"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "BARRAGAN HERNANDO"
+    ],
+    "crn": 15483
+  },
+  {
+    "subject": "DISE2509",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: GRÁFICA",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ ZAMBRANO MARIA JIMENA"
+    ],
+    "crn": 10686
+  },
+  {
+    "subject": "DISE2512",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: VIDEO",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "OPAZO CARTES MARIO ELIAS"
+    ],
+    "crn": 17616
+  },
+  {
+    "subject": "DISE2515",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MEDIO: SONIDO",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AGUDELO BERNAL DAVID RICARDO"
+    ],
+    "crn": 14098
+  },
+  {
+    "subject": "DISE2517",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TIPOGRAFÍA",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ VERGARA ROXANA"
+    ],
+    "crn": 10811
+  },
+  {
+    "subject": "DISE2517",
+    "section": 2,
+    "credits": 3.0,
+    "title": "TIPOGRAFÍA",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ URREGO NELSON GIOVANNY"
+    ],
+    "crn": 10996
+  },
+  {
+    "subject": "DISE2521",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTOGRAFÍA 1",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GUMBEL ALEXANDER RUDOLF"
+    ],
+    "crn": 13165
+  },
+  {
+    "subject": "DISE2521",
+    "section": 2,
+    "credits": 3.0,
+    "title": "FOTOGRAFÍA 1",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GUMBEL ALEXANDER RUDOLF"
+    ],
+    "crn": 13166
+  },
+  {
+    "subject": "DISE2524",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MODELADO Y SIMULACIÓN DIGITAL",
+    "capacity": 20,
+    "enrolled": 13,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MALDONADO VARGAS MARTHA DANIELA"
+    ],
+    "crn": 11081
+  },
+  {
+    "subject": "DISE2525",
+    "section": 1,
+    "credits": 3.0,
+    "title": "WEB: DISEÑO E INTERACCIÓN",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "BURBANO VALDES ANDRES"
+    ],
+    "crn": 13055
+  },
+  {
+    "subject": "DISE2531",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ILUSTRACIÓN",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ROJAS CESPEDES CAROLINA"
+    ],
+    "crn": 13167
+  },
+  {
+    "subject": "DISE2601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MOBILIARIO",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RONDEROS LOPEZ DANIEL ERNESTO"
+    ],
+    "crn": 10812
+  },
+  {
+    "subject": "DISE2603",
+    "section": 1,
+    "credits": 3.0,
+    "title": "JOYERÍA",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "SHUK APARICIO MARIANNE ROSA"
+    ],
+    "crn": 11306
+  },
+  {
+    "subject": "DISE2607",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TIPOGRAFIA EXPERIMENTAL",
+    "capacity": 20,
+    "enrolled": 16,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "FRANKE DE VERGARA ANNELIE"
+    ],
+    "crn": 19245
+  },
+  {
+    "subject": "DISE2610",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EMPAQUES",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "HERRAN FRANCISCO"
+    ],
+    "crn": 10687
+  },
+  {
+    "subject": "DISE2616",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTOGRAFÍA 2: PERSONAS",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "TM",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FRANKE DE VERGARA ANNELIE"
+    ],
+    "crn": 13169
+  },
+  {
+    "subject": "DISE2618",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO EDITORIAL",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110B"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ROJAS CESPEDES CAROLINA"
+    ],
+    "crn": 12670
+  },
+  {
+    "subject": "DISE2621",
+    "section": 1,
+    "credits": 3.0,
+    "title": "AMBIENTES INTERACTIVOS",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "TX",
+          "number": "304"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "NAVARRO SANINT MIGUEL"
+    ],
+    "crn": 18753
+  },
+  {
+    "subject": "DISE2625",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ACCESORIOS",
+    "capacity": 20,
+    "enrolled": 5,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "RIDONDELLI LIVIA",
+      "RAMOS OBREGON DANIEL"
+    ],
+    "crn": 11657
+  },
+  {
+    "subject": "DISE2628",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FOTOGRAFÍA MICROSCÓPICA",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110B"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LEAÑO BARRETO MARIA JOSE"
+    ],
+    "crn": 12277
+  },
+  {
+    "subject": "DISE2631",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO DE VIDEOJUEGOS",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "225"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "VASCO RUIZ GABRIEL EMILIO"
+    ],
+    "crn": 13922
+  },
+  {
+    "subject": "DISE2632",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRODUCTO CERÁMICO",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S2",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ECHAVARRIA QUINCHIA MARGARITA MARIA"
+    ],
+    "crn": 16092
+  },
+  {
+    "subject": "DISE2633",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIDEO/DOCUMENTAL",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AGUDELO BERNAL DAVID RICARDO"
+    ],
+    "crn": 18976
+  },
+  {
+    "subject": "DISE3125",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 6: PROD INDUSTRIAL",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VERGARA GILCHRIST SERGIO"
+    ],
+    "crn": 11308
+  },
+  {
+    "subject": "DISE3129",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 7: TALLER INNOVACIÓN",
+    "capacity": 15,
+    "enrolled": 18,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ VIVEROS JUAN MANUEL"
+    ],
+    "crn": 11309
+  },
+  {
+    "subject": "DISE3131",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 7: SOSTENIBILIDAD",
+    "capacity": 30,
+    "enrolled": 36,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ZAPATA VANEGAS FREDY",
+      "LASCAR ANGELICA"
+    ],
+    "crn": 12666
+  },
+  {
+    "subject": "DISE3143",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 7: INDUSTRIA DEL LUJO",
+    "capacity": 30,
+    "enrolled": 20,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO",
+      "RIDONDELLI LIVIA"
+    ],
+    "crn": 15112
+  },
+  {
+    "subject": "DISE3144",
+    "section": 1,
+    "credits": 3.0,
+    "title": "E6: DISEÑO PARA EXPOSICIONES",
+    "capacity": 30,
+    "enrolled": 34,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ VERGARA ROXANA",
+      "VELEZ RODRIGUEZ ANA"
+    ],
+    "crn": 16093
+  },
+  {
+    "subject": "DISE3146",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 6: INTERACCIÓN",
+    "capacity": 30,
+    "enrolled": 24,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "BURBANO VALDES ANDRES",
+      "SARMIENTO GAFFURRI RICARDO"
+    ],
+    "crn": 18719
+  },
+  {
+    "subject": "DISE3147",
+    "section": 1,
+    "credits": 3.0,
+    "title": "E6: MODA INDUSTRIA CREATIVA",
+    "capacity": 15,
+    "enrolled": 19,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "T",
+          "number": "107"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AGUDELO BERNAL ADRIANA CAROLINA"
+    ],
+    "crn": 20815
+  },
+  {
+    "subject": "DISE3199",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "AGUDELO BERNAL ADRIANA CAROLINA"
+    ],
+    "crn": 12590
+  },
+  {
+    "subject": "DISE3199",
+    "section": 2,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "AUNE KAREN"
+    ],
+    "crn": 12595
+  },
+  {
+    "subject": "DISE3199",
+    "section": 3,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BURBANO VALDES ANDRES"
+    ],
+    "crn": 12609
+  },
+  {
+    "subject": "DISE3199",
+    "section": 4,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DE FRANCISCO VELA SANTIAGO"
+    ],
+    "crn": 12610
+  },
+  {
+    "subject": "DISE3199",
+    "section": 5,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "DE LOS REYES DAVID PATRICIO"
+    ],
+    "crn": 12611
+  },
+  {
+    "subject": "DISE3199",
+    "section": 6,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "FRANKE DE VERGARA ANNELIE"
+    ],
+    "crn": 12612
+  },
+  {
+    "subject": "DISE3199",
+    "section": 7,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GOMEZ AMAYA LUZ MARIELA"
+    ],
+    "crn": 12613
+  },
+  {
+    "subject": "DISE3199",
+    "section": 8,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ PEREZ MARIA DE LOS A"
+    ],
+    "crn": 12615
+  },
+  {
+    "subject": "DISE3199",
+    "section": 9,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 1,
+    "enrolled": 1,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GONZALEZ VIVEROS JUAN MANUEL"
+    ],
+    "crn": 12616
+  },
+  {
+    "subject": "DISE3199",
+    "section": 10,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 3,
+    "available": -1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "KADAMANI ABIYOMA SAMIRA"
+    ],
+    "crn": 12617
+  },
+  {
+    "subject": "DISE3199",
+    "section": 11,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "LASCAR ANGELICA"
+    ],
+    "crn": 12618
+  },
+  {
+    "subject": "DISE3199",
+    "section": 12,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "MARTINEZ VERGARA ROXANA"
+    ],
+    "crn": 12619
+  },
+  {
+    "subject": "DISE3199",
+    "section": 13,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NAVARRO SANINT MIGUEL"
+    ],
+    "crn": 12620
+  },
+  {
+    "subject": "DISE3199",
+    "section": 14,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "NIEMAN JANSSEN CHRISTIAAN JOB"
+    ],
+    "crn": 12621
+  },
+  {
+    "subject": "DISE3199",
+    "section": 15,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "OSORIO HENRY"
+    ],
+    "crn": 12622
+  },
+  {
+    "subject": "DISE3199",
+    "section": 16,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PEÑA IGUAVITA CESAR AUGUSTO"
+    ],
+    "crn": 12623
+  },
+  {
+    "subject": "DISE3199",
+    "section": 17,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "PINILLA MARIO"
+    ],
+    "crn": 12624
+  },
+  {
+    "subject": "DISE3199",
+    "section": 18,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "QUIJANO AMPARO"
+    ],
+    "crn": 12625
+  },
+  {
+    "subject": "DISE3199",
+    "section": 19,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RAMOS OBREGON DANIEL"
+    ],
+    "crn": 12627
+  },
+  {
+    "subject": "DISE3199",
+    "section": 20,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SANCHEZ ALDANA ELIANA MARIA"
+    ],
+    "crn": 12629
+  },
+  {
+    "subject": "DISE3199",
+    "section": 21,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SARMIENTO GAFFURRI RICARDO"
+    ],
+    "crn": 12631
+  },
+  {
+    "subject": "DISE3199",
+    "section": 22,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 2,
+    "enrolled": 2,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ZAPATA VANEGAS FREDY"
+    ],
+    "crn": 12632
+  },
+  {
+    "subject": "DISE3199",
+    "section": 23,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ECHAVARRIA QUINCHIA MARGARITA MARIA"
+    ],
+    "crn": 12634
+  },
+  {
+    "subject": "DISE3199",
+    "section": 24,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "TORRES BOLIVAR MATEO"
+    ],
+    "crn": 12637
+  },
+  {
+    "subject": "DISE3199",
+    "section": 25,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VANEGAS MENGUAN NEFTALI"
+    ],
+    "crn": 12638
+  },
+  {
+    "subject": "DISE3199",
+    "section": 26,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "VELEZ RODRIGUEZ ANA"
+    ],
+    "crn": 12639
+  },
+  {
+    "subject": "DISE3199",
+    "section": 27,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "ATUESTA ARANGO JUAN GERMAN"
+    ],
+    "crn": 12640
+  },
+  {
+    "subject": "DISE3199",
+    "section": 28,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "BOTERO SANTOS SUSANA"
+    ],
+    "crn": 12642
+  },
+  {
+    "subject": "DISE3199",
+    "section": 29,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CROSSLEY URREGO ANDREA CATALINA"
+    ],
+    "crn": 12643
+  },
+  {
+    "subject": "DISE3199",
+    "section": 30,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 5,
+    "enrolled": 5,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "SANCHEZ ZAMBRANO MARIA JIMENA"
+    ],
+    "crn": 12987
+  },
+  {
+    "subject": "DISE3199",
+    "section": 31,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13000
+  },
+  {
+    "subject": "DISE3199",
+    "section": 32,
+    "credits": 3.0,
+    "title": "ESTUDIO 8: PROYECTO DE GRADO",
+    "capacity": 0,
+    "enrolled": 0,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      ""
+    ],
+    "crn": 13180
+  },
+  {
+    "subject": "DISE3202",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CREATIVIDAD",
+    "capacity": 30,
+    "enrolled": 36,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ZAPATA VANEGAS FREDY"
+    ],
+    "crn": 10921
+  },
+  {
+    "subject": "DISE3205",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DEL DISEÑO 2",
+    "capacity": 30,
+    "enrolled": 32,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "306"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEÑA IGUAVITA CESAR AUGUSTO"
+    ],
+    "crn": 18799
+  },
+  {
+    "subject": "DISE3206",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESTETICA LATINOAMERICANA",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MUÑOZ PORQUÉ BARBARA VIRGINIA"
+    ],
+    "crn": 20771
+  },
+  {
+    "subject": "DISE3220",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO Y PROPIEDAD INTELECTU",
+    "capacity": 35,
+    "enrolled": 31,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "K2",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "HERRAN FRANCISCO"
+    ],
+    "crn": 11532
+  },
+  {
+    "subject": "DISE3227",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PORTAFOLIO",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ RAMIREZ JUAN RICARDO"
+    ],
+    "crn": 13553
+  },
+  {
+    "subject": "DISE3227",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PORTAFOLIO",
+    "capacity": 20,
+    "enrolled": 25,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "RESTREPO SANCHEZ JORGE ARTURO"
+    ],
+    "crn": 13245
+  },
+  {
+    "subject": "DISE3236",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MAPAS - METODOLOGÍA PARA PROCE",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "T",
+          "number": "103"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "ECHEVERRIA MARTINEZ CAMILA"
+    ],
+    "crn": 12249
+  },
+  {
+    "subject": "DISE3245",
+    "section": 1,
+    "credits": 3.0,
+    "title": "RECORDANDO EL FUTURO",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ ALDANA ELIANA MARIA"
+    ],
+    "crn": 14973
+  },
+  {
+    "subject": "DISE3247",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO, GENERO Y SEXO",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "405"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "OSPINA BERNAL JULIETTE"
+    ],
+    "crn": 20701
+  },
+  {
+    "subject": "DISE3336",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COOL HUNTING",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "102"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RIVEROS TOVAR PAULA"
+    ],
+    "crn": 10813
+  },
+  {
+    "subject": "DISE3336",
+    "section": 2,
+    "credits": 3.0,
+    "title": "COOL HUNTING",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "0830",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RIVEROS TOVAR PAULA"
+    ],
+    "crn": 10998
+  },
+  {
+    "subject": "DISE3344",
+    "section": 1,
+    "credits": 3.0,
+    "title": "HISTORIA DE LA TIPOGRAFÍA",
+    "capacity": 45,
+    "enrolled": 46,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "303"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VANEGAS MENGUAN NEFTALI"
+    ],
+    "crn": 11310
+  },
+  {
+    "subject": "DISE3348",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ESPACIOS DE FICCIÓN",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "105"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "SARMIENTO GAFFURRI RICARDO"
+    ],
+    "crn": 17619
+  },
+  {
+    "subject": "DISE3349",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIDEOJUEGOS: HISTORIA Y DISEÑO",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "001"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "VASCO RUIZ GABRIEL EMILIO"
+    ],
+    "crn": 11312
+  },
+  {
+    "subject": "DISE3350",
+    "section": 1,
+    "credits": 3.0,
+    "title": "COLOR",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "KADAMANI ABIYOMA SAMIRA"
+    ],
+    "crn": 12278
+  },
+  {
+    "subject": "DISE3353",
+    "section": 1,
+    "credits": 3.0,
+    "title": "ATLAS: COMPILAR Y COMUNICAR",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "208"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "ECHEVERRIA MARTINEZ CAMILA"
+    ],
+    "crn": 21184
+  },
+  {
+    "subject": "DISE3423",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CO-CREACIÓN",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "DE FRANCISCO VELA SANTIAGO"
+    ],
+    "crn": 16651
+  },
+  {
+    "subject": "DISE3425",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO DE JUGUETES",
+    "capacity": 20,
+    "enrolled": 20,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "S1",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "QUIJANO AMPARO"
+    ],
+    "crn": 14243
+  },
+  {
+    "subject": "DISE3430",
+    "section": 1,
+    "credits": 3.0,
+    "title": "EXPRESION PARAMETRICA",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PINILLA MARIO"
+    ],
+    "crn": 21173
+  },
+  {
+    "subject": "DISE3437",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO, MATERIALES Y PROCESOS",
+    "capacity": 35,
+    "enrolled": 35,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "203"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "NIEMAN JANSSEN CHRISTIAAN JOB"
+    ],
+    "crn": 12280
+  },
+  {
+    "subject": "DISE3438",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FABRICACION DE PEQUEÑAS SERIES",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PINILLA MARIO"
+    ],
+    "crn": 13191
+  },
+  {
+    "subject": "DISE3503",
+    "section": 1,
+    "credits": 3.0,
+    "title": "CONSTRUCCIÓN SOBRE EL CUERPO",
+    "capacity": 20,
+    "enrolled": 12,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "T",
+          "number": "107"
+        },
+        "initHour": "1300",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "VARGAS ARIAS HERNANDO"
+    ],
+    "crn": 12025
+  },
+  {
+    "subject": "DISE3505",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PATRONAJE Y CONFECCIÓN EB",
+    "capacity": 20,
+    "enrolled": 9,
+    "available": 11,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "T",
+          "number": "107"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "PEÑA FRADE MIGUEL ENRIQUE"
+    ],
+    "crn": 12026
+  },
+  {
+    "subject": "DISE3509",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SUPERFICIES DIGITALES",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "110A"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BARON ARISTIZABAL MARIA PAULA"
+    ],
+    "crn": 12027
+  },
+  {
+    "subject": "DISE3511",
+    "section": 1,
+    "credits": 3.0,
+    "title": "SUPERFICIES TEXTILES",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "201"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ GARCIA MARIA ADELAIDA"
+    ],
+    "crn": 13056
+  },
+  {
+    "subject": "DISE3601",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PATRONAJE Y CONFECCIÓN EC",
+    "capacity": 20,
+    "enrolled": 6,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "T",
+          "number": "107"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "PEÑA FRADE MIGUEL ENRIQUE"
+    ],
+    "crn": 19911
+  },
+  {
+    "subject": "DISE3602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO DE ACCESORIOS Y PRENDAS",
+    "capacity": 20,
+    "enrolled": 22,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "T",
+          "number": "107"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GOMEZ AMAYA LUZ MARIELA"
+    ],
+    "crn": 12028
+  },
+  {
+    "subject": "DISE3603",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DISEÑO DE SUPERFICIES",
+    "capacity": 20,
+    "enrolled": 19,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ÑO",
+          "number": "201"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AGUDELO BERNAL ADRIANA CAROLINA"
+    ],
+    "crn": 12029
+  },
+  {
+    "subject": "DISE3703",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BRANDING",
+    "capacity": 20,
+    "enrolled": 23,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "209"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "CORTES SALAZAR JUAN CAMILO"
+    ],
+    "crn": 21187
+  },
+  {
+    "subject": "DISE3990",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCIÓN A GRADO",
+    "capacity": 100,
+    "enrolled": 61,
+    "available": 39,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11151
+  },
+  {
+    "subject": "DISE3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA EMPRESARIAL",
+    "capacity": 15,
+    "enrolled": 14,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11149
+  },
+  {
+    "subject": "DISE3992",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRÁCTICA EMPRESARIAL",
+    "capacity": 15,
+    "enrolled": 4,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "GARCIA ARDILA MARIA PAULA"
+    ],
+    "crn": 11150
+  }
+]

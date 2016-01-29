@@ -1,0 +1,237 @@
+[
+  {
+    "subject": "PSCL4100",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PSICOLOGÍA CLÍNICA I",
+    "capacity": 40,
+    "enrolled": 30,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "CASTRO LEONIDAS"
+    ],
+    "crn": 19693
+  },
+  {
+    "subject": "PSCL4102",
+    "section": 1,
+    "credits": 4.0,
+    "title": "PSICOLOGÍA CLÍNICA III",
+    "capacity": 25,
+    "enrolled": 13,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "203"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GOMEZ MAQUET YVONNE"
+    ],
+    "crn": 19691
+  },
+  {
+    "subject": "PSCL4104",
+    "section": 1,
+    "credits": 6.0,
+    "title": "TALLER DE HABILIDADES CLÍNICAS",
+    "capacity": 40,
+    "enrolled": 25,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "0700",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "AGUDELO VELEZ DIANA MARIA",
+      "VALENCIA GRANADOS CLAUDIA LILIANA"
+    ],
+    "crn": 19692
+  },
+  {
+    "subject": "PSCL4105",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA CLÍNICA SUPERVISADA I",
+    "capacity": 15,
+    "enrolled": 4,
+    "available": 11,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN",
+      "ESTUPIÑAN ESTUPIÑAN NATALIA CAROLINA"
+    ],
+    "crn": 13274
+  },
+  {
+    "subject": "PSCL4106",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA CLÍNICA SUPERV. II",
+    "capacity": 8,
+    "enrolled": 8,
+    "available": 0,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN",
+      "GUTIERREZ CACERES CLAUDIA"
+    ],
+    "crn": 11516
+  },
+  {
+    "subject": "PSCL4108",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRÁCTICA CLÍNICA SUPERV. IV",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN",
+      "MARTINEZ SEGURA MARIA ALEXIS"
+    ],
+    "crn": 11517
+  },
+  {
+    "subject": "PSCL4109",
+    "section": 1,
+    "credits": 0.0,
+    "title": "REVISTA DE CASOS CLÍNICOS I",
+    "capacity": 15,
+    "enrolled": 2,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 11357
+  },
+  {
+    "subject": "PSCL4110",
+    "section": 1,
+    "credits": 0.0,
+    "title": "REVISTA DE CASOS CLÍNICOS II",
+    "capacity": 8,
+    "enrolled": 10,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 11358
+  },
+  {
+    "subject": "PSCL4112",
+    "section": 1,
+    "credits": 0.0,
+    "title": "REVISTA DE CASOS CLÍNICOS IV",
+    "capacity": 5,
+    "enrolled": 4,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "304"
+        },
+        "initHour": "1000",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 12751
+  },
+  {
+    "subject": "PSCL4400",
+    "section": 1,
+    "credits": 4.0,
+    "title": "INVESTIGACIÓN DIRIGIDA",
+    "capacity": 10,
+    "enrolled": 3,
+    "available": 7,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "RIPOLL KAREN"
+    ],
+    "crn": 21124
+  }
+]

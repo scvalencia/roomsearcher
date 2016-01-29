@@ -1,0 +1,2363 @@
+[
+  {
+    "subject": "MBIO0000",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INDUCCION",
+    "capacity": 30,
+    "enrolled": 22,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "SD",
+          "number": "807"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "REYES MUÑOZ ALEJANDRO",
+      "GAVIRIA GOMEZ LAURA NATALIA"
+    ],
+    "crn": 20489
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 100,
+    "enrolled": 79,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "101"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "DUSSAN GARZON JENNY"
+    ],
+    "crn": 11328
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 2,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 100,
+    "enrolled": 98,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "O",
+          "number": "103"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "TORRES CARVAJAL MARIA DE LA MERCED"
+    ],
+    "crn": 11401
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 3,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 100,
+    "enrolled": 99,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DELGADO PERAFAN MARIA DEL PILAR"
+    ],
+    "crn": 11402
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 4,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 70,
+    "enrolled": 74,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "604"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "REYES MUÑOZ ALEJANDRO"
+    ],
+    "crn": 11403
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 5,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 70,
+    "enrolled": 71,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "R",
+          "number": "111"
+        },
+        "initHour": "1000",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "VIVES FLOREZ MARTHA JOSEFINA",
+      "PARRA AVILA MIGUEL HERNANDO"
+    ],
+    "crn": 11404
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 6,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 64,
+    "enrolled": 69,
+    "available": -5,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "LATTIG CLAUDIA"
+    ],
+    "crn": 11405
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 7,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 70,
+    "enrolled": 56,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "405"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "CUERVO MAYA ANDRES MAURICIO"
+    ],
+    "crn": 11943
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 8,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 90,
+    "enrolled": 92,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "402"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "GARAVITO AGUILAR ZAYRA VIVIANA"
+    ],
+    "crn": 14811
+  },
+  {
+    "subject": "MBIO1100",
+    "section": 9,
+    "credits": 3.0,
+    "title": "BIOLOGIA CELULAR-TEO",
+    "capacity": 100,
+    "enrolled": 66,
+    "available": 34,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "URIBE ARDILA JESUS ALFREDO"
+    ],
+    "crn": 18437
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 1,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 61,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "M",
+          "number": "100"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ROJAS VILLAMIZAR NICOLAS STEVEN",
+      "CONTRERAS GONZALEZ LINA MARIA"
+    ],
+    "crn": 10364
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 2,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "GUAYARA BARRAGAN MANUEL GILBERTO",
+      "VEGA NEIRA SANDRA JIMENA"
+    ],
+    "crn": 10365
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 3,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "PINZON CORTES JAIRO ARTURO",
+      "SANABRIA CAMARGO CAMILO ALFONSO"
+    ],
+    "crn": 10366
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 4,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 60,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ RIOS DIANA LEANDRA",
+      "AYARZA PAEZ ELIANA ALEJANDRA"
+    ],
+    "crn": 10616
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 5,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 48,
+    "enrolled": 47,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "B",
+          "number": "201"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "COLMENARES GARCIA STHEPHANIE ALEJANDRA",
+      "LOPEZ CORTES JORGE ALBERTO"
+    ],
+    "crn": 10617
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 6,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 39,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "MORENO BORDA JESSICA PAOLA",
+      "NEGRETTE BOHORQUEZ KIMBERLY JOAN"
+    ],
+    "crn": 10618
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 7,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 55,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      },
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "NUÑEZ RIOS DIANA LEANDRA",
+      "GALEANO PETRO LILIANA"
+    ],
+    "crn": 10619
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 8,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 48,
+    "enrolled": 35,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      },
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "102"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "VELASQUEZ RODRIGUEZ TRIGAL MAGALA",
+      "GALEANO PETRO LILIANA"
+    ],
+    "crn": 10620
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 9,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 25,
+    "available": 35,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      },
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "POSADA PERLAZA CARLOS EDUARDO",
+      "QUIROGA ANGEL VIVIANA IVONE"
+    ],
+    "crn": 10624
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 10,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 61,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      },
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "O",
+          "number": "205"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "FALLA PINILLA CHRISTIAN CAMILO",
+      "PRIETO BUITRAGO KATHERINE"
+    ],
+    "crn": 10993
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 11,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 54,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "PIÑEROS ROMERO CRISTIAN CAMILO",
+      "SENZ GIUSTI ANNE MARIE"
+    ],
+    "crn": 11095
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 12,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 41,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      },
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "ROJAS VILLAMIZAR NICOLAS STEVEN",
+      "RENDON RAMOS LINA MARIA"
+    ],
+    "crn": 11125
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 13,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 60,
+    "enrolled": 58,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "512"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "BAQUERO URIZA DIANA PAOLA",
+      "NAVAS CALIXTO DIEGO LEONARDO"
+    ],
+    "crn": 13566
+  },
+  {
+    "subject": "MBIO1101",
+    "section": 14,
+    "credits": 0.0,
+    "title": "BIOLOGIA CELULAR-LAB",
+    "capacity": 48,
+    "enrolled": 48,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "104"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "AMAYA CALDERON LAURA ANGELICA",
+      "RENDON RAMOS LINA MARIA"
+    ],
+    "crn": 18442
+  },
+  {
+    "subject": "MBIO1280A",
+    "section": 1,
+    "credits": 3.0,
+    "title": "DESCIFRANDO EL GENOMA HUMANO",
+    "capacity": 95,
+    "enrolled": 113,
+    "available": -18,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "GROOT DE RESTREPO HELENA"
+    ],
+    "crn": 10940
+  },
+  {
+    "subject": "MBIO1280A",
+    "section": 2,
+    "credits": 3.0,
+    "title": "DESCIFRANDO EL GENOMA HUMANO",
+    "capacity": 57,
+    "enrolled": 61,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I"
+        ],
+        "room": {
+          "building": "O",
+          "number": "204"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "LOPEZ SEGURA VALERIANO"
+    ],
+    "crn": 13697
+  },
+  {
+    "subject": "MBIO1282B",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PRINCIP.CIENT.COCINA MOLECULAR",
+    "capacity": 47,
+    "enrolled": 48,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZIMMERMANN BARBARA HANNA"
+    ],
+    "crn": 12054
+  },
+  {
+    "subject": "MBIO1282B",
+    "section": 2,
+    "credits": 3.0,
+    "title": "PRINCIP.CIENT.COCINA MOLECULAR",
+    "capacity": 47,
+    "enrolled": 46,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "603"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "ZIMMERMANN BARBARA HANNA"
+    ],
+    "crn": 12093
+  },
+  {
+    "subject": "MBIO2100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOQUIMICA-TEO",
+    "capacity": 80,
+    "enrolled": 67,
+    "available": 13,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "G",
+          "number": "101"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "URIBE ARDILA JESUS ALFREDO"
+    ],
+    "crn": 10704
+  },
+  {
+    "subject": "MBIO2101",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOQUIMICA-LAB",
+    "capacity": 30,
+    "enrolled": 30,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "SILVA FERNANDEZ JUAN JOSE"
+    ],
+    "crn": 10246
+  },
+  {
+    "subject": "MBIO2101",
+    "section": 3,
+    "credits": 1.0,
+    "title": "BIOQUIMICA-LAB",
+    "capacity": 24,
+    "enrolled": 14,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "104"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "OSORIO KUAN JORGE AUGUSTO"
+    ],
+    "crn": 10574
+  },
+  {
+    "subject": "MBIO2101",
+    "section": 4,
+    "credits": 1.0,
+    "title": "BIOQUIMICA-LAB",
+    "capacity": 24,
+    "enrolled": 23,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "PRIETO BUITRAGO KATHERINE"
+    ],
+    "crn": 13330
+  },
+  {
+    "subject": "MBIO2102",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA MOLECULAR-TEO",
+    "capacity": 90,
+    "enrolled": 93,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "617"
+        },
+        "initHour": "0900",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO HENAO CARLOS"
+    ],
+    "crn": 12593
+  },
+  {
+    "subject": "MBIO2102",
+    "section": 2,
+    "credits": 3.0,
+    "title": "BIOLOGIA MOLECULAR-TEO",
+    "capacity": 102,
+    "enrolled": 111,
+    "available": -9,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "ML",
+          "number": "608"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO HENAO CARLOS"
+    ],
+    "crn": 13952
+  },
+  {
+    "subject": "MBIO2102C",
+    "section": 1,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA MOLECULAR",
+    "capacity": 60,
+    "enrolled": 63,
+    "available": -3,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MEDINA CULMA CESAR AUGUSTO"
+    ],
+    "crn": 12458
+  },
+  {
+    "subject": "MBIO2102C",
+    "section": 2,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA MOLECULAR",
+    "capacity": 67,
+    "enrolled": 79,
+    "available": -12,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "W",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "ROJAS RENGIFO DIANA FABIOLA"
+    ],
+    "crn": 12614
+  },
+  {
+    "subject": "MBIO2102C",
+    "section": 3,
+    "credits": 0.0,
+    "title": "COMPL. BIOLOGIA MOLECULAR",
+    "capacity": 60,
+    "enrolled": 62,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "O",
+          "number": "105"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "MORENO BORDA JESSICA PAOLA"
+    ],
+    "crn": 13625
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1500",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ ROJAS LAURA PATRICIA"
+    ],
+    "crn": 10887
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1500",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ GARCIA SERGIO ALEJANDRO"
+    ],
+    "crn": 10508
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 3,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DUQUE SUAREZ LEYDY KATHERIN"
+    ],
+    "crn": 13569
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 4,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "REY MORALES ANDRES FELIPE"
+    ],
+    "crn": 10804
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 5,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "SANCHEZ FORERO DANIEL ALFREDO"
+    ],
+    "crn": 11057
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 6,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 24,
+    "enrolled": 32,
+    "available": -8,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "1300",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "ROJAS PINZON PAULA ANDREA"
+    ],
+    "crn": 13004
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 7,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 32,
+    "enrolled": 32,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1300",
+        "finalHour": "1550"
+      }
+    ],
+    "instructors": [
+      "DUQUE SUAREZ LEYDY KATHERIN"
+    ],
+    "crn": 13570
+  },
+  {
+    "subject": "MBIO2103",
+    "section": 8,
+    "credits": 1.0,
+    "title": "BIOLOGIA MOLECULAR-LAB",
+    "capacity": 0,
+    "enrolled": 20,
+    "available": -20,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "104"
+        },
+        "initHour": "1500",
+        "finalHour": "1750"
+      }
+    ],
+    "instructors": [
+      "ROJAS PINZON PAULA ANDREA"
+    ],
+    "crn": 21243
+  },
+  {
+    "subject": "MBIO2300",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BACTERIOLOGIA-TEO",
+    "capacity": 40,
+    "enrolled": 36,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "VIVES FLOREZ MARTHA JOSEFINA"
+    ],
+    "crn": 10110
+  },
+  {
+    "subject": "MBIO2301",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BACTERIOLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 21,
+    "available": -1,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ VILLAMIZAR SANTIAGO"
+    ],
+    "crn": 11953
+  },
+  {
+    "subject": "MBIO2301",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BACTERIOLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 18,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "CASAS VARGAS JULIAN CAMILO"
+    ],
+    "crn": 13742
+  },
+  {
+    "subject": "MBIO2302",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOLOGIA DE HONGOS-TEO",
+    "capacity": 40,
+    "enrolled": 34,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "W",
+          "number": "506"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "204"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "RESTREPO RESTREPO SILVIA"
+    ],
+    "crn": 10111
+  },
+  {
+    "subject": "MBIO2303",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE HONGOS-LAB",
+    "capacity": 24,
+    "enrolled": 16,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "RODRIGUEZ CRUZ MARIA CAMILA"
+    ],
+    "crn": 10362
+  },
+  {
+    "subject": "MBIO2303",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOLOGIA DE HONGOS-LAB",
+    "capacity": 20,
+    "enrolled": 17,
+    "available": 3,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CHAVES SIERRA SANDRA CATALINA"
+    ],
+    "crn": 21242
+  },
+  {
+    "subject": "MBIO2304",
+    "section": 1,
+    "credits": 3.0,
+    "title": "PARASITOLOGIA-TEO",
+    "capacity": 48,
+    "enrolled": 47,
+    "available": 1,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "I",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "103"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "GONZALEZ ROSAS CAMILA"
+    ],
+    "crn": 12138
+  },
+  {
+    "subject": "MBIO2305",
+    "section": 1,
+    "credits": 1.0,
+    "title": "PARASITOLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "TAMAYO QUINTERO LAURA DANIELA"
+    ],
+    "crn": 12139
+  },
+  {
+    "subject": "MBIO2305",
+    "section": 3,
+    "credits": 1.0,
+    "title": "PARASITOLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 24,
+    "available": -4,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "RONDON ROBAYO SILVIA YESENIA"
+    ],
+    "crn": 13760
+  },
+  {
+    "subject": "MBIO2306",
+    "section": 1,
+    "credits": 3.0,
+    "title": "VIROLOGIA-TEO",
+    "capacity": 40,
+    "enrolled": 21,
+    "available": 19,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "202"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "PARRA AVILA MIGUEL HERNANDO"
+    ],
+    "crn": 10112
+  },
+  {
+    "subject": "MBIO2307",
+    "section": 1,
+    "credits": 1.0,
+    "title": "VIROLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 14,
+    "available": 6,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "AREVALO JAIMES BETSY VERONICA"
+    ],
+    "crn": 10113
+  },
+  {
+    "subject": "MBIO2307",
+    "section": 2,
+    "credits": 1.0,
+    "title": "VIROLOGIA-LAB",
+    "capacity": 20,
+    "enrolled": 8,
+    "available": 12,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "DUARTE DE LA ESPRIELLA FELIPE"
+    ],
+    "crn": 18998
+  },
+  {
+    "subject": "MBIO2400",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOESTADISTICA-TEO",
+    "capacity": 60,
+    "enrolled": 45,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Y",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "CRAWFORD ANDREW"
+    ],
+    "crn": 10114
+  },
+  {
+    "subject": "MBIO2401",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOESTADISTICA-LAB",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "1100",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "BRACHO ALTAMIRANDA FAIDITH"
+    ],
+    "crn": 10115
+  },
+  {
+    "subject": "MBIO2401",
+    "section": 2,
+    "credits": 1.0,
+    "title": "BIOESTADISTICA-LAB",
+    "capacity": 30,
+    "enrolled": 23,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "508"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "BERNAL CASTRO EDGAR ANDRES"
+    ],
+    "crn": 10177
+  },
+  {
+    "subject": "MBIO2500",
+    "section": 1,
+    "credits": 3.0,
+    "title": "INMUNOLOGIA-TEO",
+    "capacity": 50,
+    "enrolled": 42,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L",
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1100",
+        "finalHour": "1150"
+      }
+    ],
+    "instructors": [
+      "JARAMILLO HENAO CARLOS"
+    ],
+    "crn": 20491
+  },
+  {
+    "subject": "MBIO2501",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INMUNOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 22,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "V"
+        ],
+        "room": {
+          "building": "J",
+          "number": "106"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "MARTINEZ ROJAS LAURA PATRICIA"
+    ],
+    "crn": 20492
+  },
+  {
+    "subject": "MBIO2501",
+    "section": 2,
+    "credits": 1.0,
+    "title": "INMUNOLOGIA-LAB",
+    "capacity": 24,
+    "enrolled": 21,
+    "available": 3,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "AREVALO JAIMES BETSY VERONICA"
+    ],
+    "crn": 20493
+  },
+  {
+    "subject": "MBIO3100",
+    "section": 1,
+    "credits": 3.0,
+    "title": "BIOL.CELU Y MOLEC.PROCARIO-TEO",
+    "capacity": 20,
+    "enrolled": 10,
+    "available": 10,
+    "schedules": [
+      {
+        "days": [
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "202"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      },
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "W",
+          "number": "203"
+        },
+        "initHour": "1000",
+        "finalHour": "1120"
+      }
+    ],
+    "instructors": [
+      "DUSSAN GARZON JENNY"
+    ],
+    "crn": 20494
+  },
+  {
+    "subject": "MBIO3101",
+    "section": 1,
+    "credits": 1.0,
+    "title": "BIOL.CELU Y MOLEC.PROCAR.-LAB",
+    "capacity": 24,
+    "enrolled": 10,
+    "available": 14,
+    "schedules": [
+      {
+        "days": [
+          "S"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "GOMEZ GARZON CAMILO ANDRES"
+    ],
+    "crn": 20495
+  },
+  {
+    "subject": "MBIO3105",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GENETICA FORENSE",
+    "capacity": 40,
+    "enrolled": 19,
+    "available": 21,
+    "schedules": [
+      {
+        "days": [
+          "I",
+          "V"
+        ],
+        "room": {
+          "building": "Z",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1820"
+      }
+    ],
+    "instructors": [
+      "PAREDES LOPEZ MANUEL"
+    ],
+    "crn": 20496
+  },
+  {
+    "subject": "MBIO3502",
+    "section": 1,
+    "credits": 2.0,
+    "title": "MICROBIOLOGIA MEDICA-TEO",
+    "capacity": 90,
+    "enrolled": 73,
+    "available": 17,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "CELIS ADRIANA MARCELA",
+      "PARRA AVILA MIGUEL HERNANDO"
+    ],
+    "crn": 14812
+  },
+  {
+    "subject": "MBIO3503",
+    "section": 1,
+    "credits": 0.0,
+    "title": "MICROBIOLOGIA MEDICA-LAB",
+    "capacity": 45,
+    "enrolled": 30,
+    "available": 15,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "PINZON CORTES JAIRO ARTURO"
+    ],
+    "crn": 18438
+  },
+  {
+    "subject": "MBIO3503",
+    "section": 2,
+    "credits": 0.0,
+    "title": "MICROBIOLOGIA MEDICA-LAB",
+    "capacity": 45,
+    "enrolled": 43,
+    "available": 2,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "0800",
+        "finalHour": "1050"
+      }
+    ],
+    "instructors": [
+      "LONDOÑO RUIZ JUAN PABLO"
+    ],
+    "crn": 18439
+  },
+  {
+    "subject": "MBIO3513",
+    "section": 1,
+    "credits": 3.0,
+    "title": "GENOMICA Y BIOINFORMATICA",
+    "capacity": 40,
+    "enrolled": 36,
+    "available": 4,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "204"
+        },
+        "initHour": "1530",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "REYES MUÑOZ ALEJANDRO"
+    ],
+    "crn": 13107
+  },
+  {
+    "subject": "MBIO3518",
+    "section": 1,
+    "credits": 0.0,
+    "title": "GENOMICA Y BIOINFORMATICA-LAB",
+    "capacity": 30,
+    "enrolled": 36,
+    "available": -6,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "307"
+        },
+        "initHour": "0700",
+        "finalHour": "0820"
+      }
+    ],
+    "instructors": [
+      "MORENO GALLEGO JAIME LEONARDO"
+    ],
+    "crn": 13108
+  },
+  {
+    "subject": "MBIO3600",
+    "section": 1,
+    "credits": 3.0,
+    "title": "FITOPATOLOGIA-TEO",
+    "capacity": 40,
+    "enrolled": 24,
+    "available": 16,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "AU",
+          "number": "201"
+        },
+        "initHour": "0830",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "DANIES TURANO GIOVANNA"
+    ],
+    "crn": 10117
+  },
+  {
+    "subject": "MBIO3601",
+    "section": 1,
+    "credits": 1.0,
+    "title": "FITOPATOLOGIA-LAB",
+    "capacity": 32,
+    "enrolled": 24,
+    "available": 8,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "J",
+          "number": "105"
+        },
+        "initHour": "1400",
+        "finalHour": "1650"
+      }
+    ],
+    "instructors": [
+      "GUAYAZAN PALACIOS NATALIA"
+    ],
+    "crn": 10363
+  },
+  {
+    "subject": "MBIO3602",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MICROBIOLOGIA DE ALIMENTOS-TEO",
+    "capacity": 50,
+    "enrolled": 43,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "LL",
+          "number": "304"
+        },
+        "initHour": "1400",
+        "finalHour": "1520"
+      }
+    ],
+    "instructors": [
+      "REYES VALDERRAMA LILIANA"
+    ],
+    "crn": 20498
+  },
+  {
+    "subject": "MBIO3603",
+    "section": 1,
+    "credits": 1.0,
+    "title": "MICROBIOLOGIA DE ALIMENTOS-LAB",
+    "capacity": 24,
+    "enrolled": 19,
+    "available": 5,
+    "schedules": [
+      {
+        "days": [
+          "L"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1000",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "FARFAN ESQUIVEL JUAN CAMILO"
+    ],
+    "crn": 20500
+  },
+  {
+    "subject": "MBIO3603",
+    "section": 2,
+    "credits": 1.0,
+    "title": "MICROBIOLOGIA DE ALIMENTOS-LAB",
+    "capacity": 24,
+    "enrolled": 24,
+    "available": 0,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "101"
+        },
+        "initHour": "1700",
+        "finalHour": "1950"
+      }
+    ],
+    "instructors": [
+      "CASTILLO OLARTE LEIDY PAOLA"
+    ],
+    "crn": 20499
+  },
+  {
+    "subject": "MBIO3604",
+    "section": 1,
+    "credits": 3.0,
+    "title": "MICROBIOLOGIA AMBIENTAL-TEO",
+    "capacity": 40,
+    "enrolled": 17,
+    "available": 23,
+    "schedules": [
+      {
+        "days": [
+          "M",
+          "J"
+        ],
+        "room": {
+          "building": "W",
+          "number": "402"
+        },
+        "initHour": "1130",
+        "finalHour": "1250"
+      }
+    ],
+    "instructors": [
+      "DUSSAN GARZON JENNY"
+    ],
+    "crn": 20501
+  },
+  {
+    "subject": "MBIO3605",
+    "section": 1,
+    "credits": 1.0,
+    "title": "MICROBIOLOGIA AMBIENTAL-LAB",
+    "capacity": 24,
+    "enrolled": 17,
+    "available": 7,
+    "schedules": [
+      {
+        "days": [
+          "I"
+        ],
+        "room": {
+          "building": "J",
+          "number": "102"
+        },
+        "initHour": "0700",
+        "finalHour": "0950"
+      }
+    ],
+    "instructors": [
+      "HERNANDEZ SANTANA MARIA ALEJANDRA"
+    ],
+    "crn": 20502
+  },
+  {
+    "subject": "MBIO3912",
+    "section": 1,
+    "credits": 1.0,
+    "title": "INSCRIPCION PROYECTO DE GRADO",
+    "capacity": 30,
+    "enrolled": 8,
+    "available": 22,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 11329
+  },
+  {
+    "subject": "MBIO3913",
+    "section": 1,
+    "credits": 3.0,
+    "title": "TRABAJO GRADO, MONOGR, PRAC.GR",
+    "capacity": 20,
+    "enrolled": 11,
+    "available": 9,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 12323
+  },
+  {
+    "subject": "MBIO3914",
+    "section": 1,
+    "credits": 1.0,
+    "title": "SEMINARIO DE MICROBIOLOGIA",
+    "capacity": 25,
+    "enrolled": 27,
+    "available": -2,
+    "schedules": [
+      {
+        "days": [
+          "M"
+        ],
+        "room": {
+          "building": "Q",
+          "number": "308"
+        },
+        "initHour": "1300",
+        "finalHour": "1350"
+      }
+    ],
+    "instructors": [
+      "VIVES FLOREZ MARTHA JOSEFINA",
+      "RESTREPO RESTREPO SILVIA"
+    ],
+    "crn": 13699
+  },
+  {
+    "subject": "MBIO3918",
+    "section": 1,
+    "credits": 0.0,
+    "title": "INSCRIPCION PROYECTO DE GRADO",
+    "capacity": 30,
+    "enrolled": 5,
+    "available": 25,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 11952
+  },
+  {
+    "subject": "MBIO3919",
+    "section": 1,
+    "credits": 4.0,
+    "title": "TRABAJO DE GRADO",
+    "capacity": 30,
+    "enrolled": 0,
+    "available": 30,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 12206
+  },
+  {
+    "subject": "MBIO3991",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA PROFESIONAL",
+    "capacity": 30,
+    "enrolled": 1,
+    "available": 29,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 10214
+  },
+  {
+    "subject": "MBIO3993",
+    "section": 1,
+    "credits": 6.0,
+    "title": "PRACTICA DE GRADO",
+    "capacity": 30,
+    "enrolled": 7,
+    "available": 23,
+    "schedules": [
+
+    ],
+    "instructors": [
+      "REALPE REBOLLEDO EMILIO"
+    ],
+    "crn": 12055
+  }
+]
